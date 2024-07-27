@@ -1,0 +1,334 @@
+10539 vacancy n 
+6858 vacant j 
+12965 vacate v 
+2645 vacation n 
+15532 vacation v 
+18710 vacationer n 
+15971 vaccinate v 
+11424 vaccination n 
+4212 vaccine n 
+4987 vacuum n 
+14673 vacuum v 
+16821 vagaries n 
+13364 vagina n 
+13108 vaginal j 
+5076 vague j 
+7009 vaguely r 
+10391 vain r 
+2047 
+ 
+13029 vain j 
+13865 valet n 
+17095 valiant j 
+4758 valid j 
+7647 validate v 
+11150 validation n 
+4593 validity n 
+3182 valley n 
+18481 valor n 
+2628 valuable j 
+11129 valuation n 
+500 value n 
+3998 value v 
+18244 value-added j 
+15704 valued j 
+6034 valve n 
+7159 vampire n 
+3559 van n 
+18745 vandal n 
+14700 vandalism n 
+15553 vanguard n 
+5443 vanilla n 
+3982 vanish v 
+19120 vanished j 
+14617 vanishing j 
+9726 vanity n 
+19028 vanquished j 
+9197 vantage n 
+8446 vapor n 
+18383 vaporize v 
+8581 variability n 
+1876 variable n 
+7928 variable j 
+5092 variance n 
+9062 variant n 
+2950 variation n 
+6481 varied j 
+19773 variegated j 
+1175 variety n 
+862 various j 
+13479 variously r 
+15780 varnish n 
+10973 varsity n 
+2391 vary v 
+5952 varying j 
+12460 vascular j 
+7151 vase n 
+1979 vast j 
+7649 vastly r 
+19214 vastness n 
+14535 vat n 
+8600 vault n 
+14767 vault v 
+13001 veal n 
+10374 vector n 
+8892 veer v 
+19591 vegan n 
+1948 vegetable n 
+9249 vegetarian j 
+11165 vegetarian n 
+6367 vegetation n 
+17390 vegetative j 
+11325 veggie n 
+13791 vehemently r 
+1300 vehicle n 
+7429 veil n 
+16133 veil v 
+15004 veiled j 
+5082 vein n 
+6660 velocity n 
+6245 velvet n 
+17846 velvety j 
+18563 vend v 
+19882 vendetta n 
+4680 vendor n 
+13836 veneer n 
+10381 venerable j 
+12277 Venetian j 
+14942 Venezuelan j 
+8745 vengeance n 
+19075 vengeful j 
+17576 venison n 
+13182 venom n 
+19933 venous j 
+7742 vent n 
+11270 vent v 
+10030 ventilation n 
+16818 ventilator n 
+3322 venture n 
+5307 venture v 
+5460 venue n 
+18735 veracity n 
+13897 veranda n 
+9148 verb n 
+4081 verbal j 
+12171 verbally r 
+19284 verdant j 
+4285 verdict n 
+6741 verge n 
+20116 verge v 
+11366 verification n 
+5709 verify v 
+13652 veritable j 
+17041 vernacular n 
+18259 vernacular j 
+8910 versatile j 
+12703 versatility n 
+5516 verse n 
+1133 version n 
+3187 versus i 
+14764 vertebra n 
+18919 vertebrate n 
+4491 vertical j 
+11780 vertically r 
+14733 vertigo n 
+105 very r 
+1208 very j 
+2963 vessel n 
+6785 vest n 
+18291 vest v 
+14041 vested j 
+15077 vestibule n 
+13535 vestige n 
+8228 vet n 
+14229 vet v 
+2411 veteran n 
+4849 veteran j 
+11836 veterinarian n 
+14017 veterinary j 
+7421 veto n 
+7535 veto v 
+18450 vex v 
+2599 via i 
+11043 viability n 
+5109 viable j 
+11096 vial n 
+13044 vibe n 
+6802 vibrant j 
+2048 
+ 
+9899 vibrate v 
+7541 vibration n 
+11598 vice n 
+12306 vice-president n 
+9708 vicinity n 
+6344 vicious j 
+17999 viciously r 
+1067 victim n 
+10738 victimization n 
+10966 victimize v 
+13064 victor n 
+6348 Victorian j 
+11865 victorious j 
+1471 victory n 
+1113 video n 
+15520 video v 
+19164 video-game n 
+5032 videotape n 
+10137 videotape v 
+8566 vie v 
+5828 Vietnamese j 
+486 view n 
+1431 view v 
+2500 viewer n 
+6941 viewing n 
+6167 viewpoint n 
+10400 vigil n 
+13940 vigilance n 
+11840 vigilant j 
+16048 vigilante n 
+12505 vignette n 
+10003 vigor n 
+6330 vigorous j 
+7145 vigorously r 
+6276 Viking n 
+14016 vile j 
+17911 vilify v 
+10308 villa n 
+1251 village n 
+6189 villager n 
+8098 villain n 
+12269 vinaigrette n 
+13557 vindicate v 
+16866 vindication n 
+19131 vindictive j 
+5751 vine n 
+5171 vinegar n 
+10143 vineyard n 
+6462 vintage n 
+16784 vintage j 
+9913 vinyl n 
+2934 violate v 
+2892 violation n 
+16050 violator n 
+1041 violence n 
+2178 violent j 
+7959 violently r 
+11926 violet n 
+15481 violet j 
+6762 violin n 
+14166 violinist n 
+13518 VIP n 
+10871 viral j 
+10288 virgin j 
+10379 virgin n 
+15192 virginity n 
+3708 virtual j 
+2063 virtually r 
+3391 virtue n 
+16935 virtuoso n 
+12768 virtuous j 
+15023 virulent j 
+2724 virus n 
+14187 vis-a-vis i 
+5595 visa n 
+20060 visage n 
+13919 visceral j 
+7400 visibility n 
+2323 visible j 
+10022 visibly r 
+1219 vision n 
+9207 visionary j 
+908 visit v 
+1474 visit n 
+10668 visitation n 
+5699 visiting j 
+1710 visitor n 
+14427 visor n 
+10109 vista n 
+2175 visual j 
+14411 visualization n 
+8918 visualize v 
+6414 visually r 
+2939 vital j 
+8614 vitality n 
+19388 vitally r 
+3751 vitamin n 
+5609 vivid j 
+9569 vividly r 
+5640 vocabulary n 
+4539 vocal j 
+15233 vocalist n 
+10139 vocation n 
+8439 vocational j 
+8557 vodka n 
+15172 vogue n 
+466 voice n 
+5105 voice v 
+6918 void n 
+6704 volatile j 
+12018 volatility n 
+8701 volcanic j 
+6417 volcano n 
+19893 vole n 
+16024 volley n 
+8047 volleyball n 
+10000 voltage n 
+1931 volume n 
+16136 voluminous j 
+7470 voluntarily r 
+4756 voluntary j 
+2304 volunteer n 
+3943 volunteer v 
+18501 voluptuous j 
+8935 vomit v 
+17415 vomit n 
+17426 voodoo n 
+17294 voracious j 
+14893 vortex n 
+1082 vote n 
+1174 vote v 
+1459 voter n 
+4222 voting n 
+18936 vouch v 
+7381 voucher n 
+5536 vow v 
+8239 vow n 
+14006 vowel n 
+2049 
+ 
+6719 voyage n 
+2309 vs i 
+11599 vulgar j 
+6038 vulnerability n 
+2980 vulnerable j 
+13401 vulture n
+v/versus (prep) 
+• Manchester United v Liverpool 
+valley (n) 
+valuable (adj) 
+value (n) 
+van (n) 
+vanilla (n) 
+variety (n) 
+various (adj) 
+vase (n) 
+vegetable (n) 
+vegetarian (n & adj) 
+vehicle (n) 
+version (n) 
+• new/original version 
+very (adv) 
+vet (n) 
+via (prep) 
+video (n & v) 
+video clip (n) 
+video game (n) 
+view (n) 
+• a beautiful view 
+village (n) 
+violin (n) 
+virus (n) 
+• a computer virus 
+visa (n) 
+visit (n & v)

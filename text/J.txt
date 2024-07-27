@@ -1,0 +1,180 @@
+12210 jab v 
+15415 jab n 
+9143 jack n 
+1977 
+ 
+12069 jack v 
+2287 jacket n 
+17247 jackpot n 
+19346 jade n 
+16865 jaded j 
+9671 jagged j 
+20000 jaguar n 
+2551 jail n 
+5761 jail v 
+15522 jalapeno n 
+5543 jam n 
+5985 jam v 
+13517 Jamaican j 
+11633 janitor n 
+1731 Japanese j 
+3889 Japanese n 
+4304 jar n 
+14162 jar v 
+12796 jargon n 
+16704 jasmine n 
+19245 jaunt n 
+19506 jaunty j 
+4130 jaw n 
+3887 jazz n 
+6420 jealous j 
+8266 jealousy n 
+3450 jeans n 
+11190 jeep n 
+17808 jeez u 
+9226 jelly n 
+19726 jellyfish n 
+8130 jeopardize v 
+8568 jeopardy n 
+5782 jerk v 
+8593 jerk n 
+15811 jerky j 
+8029 jersey n 
+12323 Jesuit j 
+13016 Jesuit n 
+3170 jet n 
+19859 jetliner n 
+16717 jettison v 
+19732 jetty n 
+2022 Jew n 
+6160 jewel n 
+13937 jeweler n 
+4229 jewelry n 
+1809 Jewish j 
+11538 jig n 
+16190 jiggle v 
+16358 jigsaw n 
+10593 jihad n 
+18350 jihadist n 
+15489 jingle n 
+18329 jitters n 
+17601 jittery j 
+244 job n 
+15190 jobless j 
+17251 jock n 
+9716 jockey n 
+19093 jockey v 
+8491 jog v 
+19312 jog n 
+16685 jogger n 
+15454 jogging n 
+18476 john n 
+506 join v 
+2238 joint j 
+5144 joint n 
+9079 jointly r 
+19892 joist n 
+2266 joke n 
+4591 joke v 
+15116 jokingly r 
+13570 jolly j 
+11116 jolt n 
+12395 jolt v 
+11164 Jordanian j 
+13616 jostle v 
+14206 jot v 
+2804 journal n 
+4574 journalism n 
+2116 journalist n 
+10218 journalistic j 
+2431 journey n 
+13337 journey v 
+2840 joy n 
+11750 joyful j 
+12559 joyous j 
+19886 joystick n 
+19219 jubilant j 
+9174 Judaism n 
+1119 judge n 
+1764 judge v 
+15112 judgement n 
+1913 judgment n 
+16765 judgmental j 
+3968 judicial j 
+10208 judiciary n 
+17625 judicious j 
+9857 jug n 
+19183 juggernaut n 
+9809 juggle v 
+2329 juice n 
+8927 juicy j 
+14948 jukebox n 
+14381 jumble n 
+16135 jumbo j 
+1353 jump v 
+4318 jump n 
+19282 jump-start n 
+9363 jumper n 
+13251 jumping n 
+14111 jumping j 
+16499 jumpsuit n 
+13607 junction n 
+11820 juncture n 
+4557 jungle n 
+2473 junior j 
+10761 junior n 
+13821 juniper n 
+5195 junk n 
+12042 junkie n 
+19491 junkyard n 
+16724 junta n 
+4700 jurisdiction n 
+15389 jurisprudence n 
+17968 jurist n 
+4112 juror n 
+1660 jury n 
+66 just r 
+1823 just j 
+1490 justice n 
+15950 justifiable j 
+18390 justifiably r 
+5898 justification n 
+15613 justified j 
+2857 justify v 
+1978 
+ 
+17739 justly r 
+11433 jut v 
+5330 juvenile j 
+13317 juvenile n 
+13824 juxtapose v 
+12748 juxtaposition n 
+jacket (n) 
+jail (n) (Am Eng) (Br Eng: prison) 
+jam (n) 
+• strawberry jam 
+• traffic jam 
+jar (n) 
+jazz (n) 
+jealous (adj) 
+jeans (n pl) 
+jet (n) 
+• to go by jet (plane) 
+jewellery (n) (Br Eng) (Am Eng: jewelry) 
+job (n) 
+jog (v) 
+jogging (n) 
+join (v) 
+• The rivers join there. 
+• to join the army 
+• to join (in) a game 
+joke (n & v) 
+journalist (n) 
+journey (n) 
+judge (n & v) 
+jug (n) 
+juice (n) 
+jump (n & v) 
+jumper (n) 
+jungle (n) 
+just (adv) 

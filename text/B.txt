@@ -1,0 +1,1319 @@
+16008 babble v 
+10453 babe n 
+16435 baboon n 
+589 baby n 
+13186 baby-sit v 
+11157 baby-sitter n 
+6219 bachelor n 
+108 back r 
+323 back n 
+1877 back v 
+9440 back j 
+14524 back-to-back j 
+9970 backbone n 
+11050 backcountry n 
+6799 backdrop n 
+9431 backer n 
+10850 backfire v 
+1409 background n 
+8460 backing n 
+8229 backlash n 
+15020 backlog n 
+6554 backpack n 
+18920 backpack v 
+19447 backpacker n 
+11417 backseat n 
+13939 backside n 
+11186 backstage r 
+17043 backstage j 
+18132 backtrack v 
+5549 backup n 
+16795 backup v 
+5270 backward r 
+11177 backward j 
+6821 backwards r 
+16228 backwater n 
+4434 backyard n 
+6506 bacon n 
+3642 bacteria n 
+8747 bacterial j 
+283 bad j 
+5137 bad r 
+6913 badge n 
+3137 badly r 
+12101 baffle v 
+17272 baffling j 
+1011 bag n 
+13355 bag v 
+12206 bagel n 
+1917 
+ 
+7418 baggage n 
+11149 baggy j 
+18379 baguette n 
+8112 bail v 
+9509 bail n 
+10528 bailout n 
+6437 bait n 
+12308 bait v 
+2830 bake v 
+8062 baked j 
+10364 baker n 
+8232 bakery n 
+5253 baking n 
+1640 balance n 
+2788 balance v 
+4942 balanced j 
+11783 balancing n 
+5885 balcony n 
+6271 bald j 
+14887 balding j 
+11768 bale n 
+10583 balk v 
+16374 Balkan j 
+915 ball n 
+9608 ballad n 
+15350 ballast n 
+16175 ballerina n 
+6655 ballet n 
+17933 ballgame n 
+10186 ballistic j 
+4827 balloon n 
+16734 balloon v 
+3747 ballot n 
+9271 ballpark n 
+15373 ballplayer n 
+9233 ballroom n 
+14951 balm n 
+17869 balmy j 
+14053 balsamic j 
+11849 Baltic j 
+8413 bamboo n 
+3301 ban v 
+3949 ban n 
+16845 banal j 
+4729 banana n 
+1284 band n 
+10199 band v 
+15622 Band-Aid n 
+9653 bandage n 
+19088 bandage v 
+18374 bandanna n 
+12121 bandit n 
+14912 bandwagon n 
+13396 bandwidth n 
+5135 bang v 
+8412 bang n 
+9645 banish v 
+20191 banister n 
+16834 banjo n 
+662 bank n 
+8930 bank v 
+4471 banker n 
+3991 banking n 
+9076 bankrupt j 
+16678 bankrupt v 
+4211 bankruptcy n 
+13802 banned j 
+5403 banner n 
+9250 banquet n 
+18175 banter n 
+11896 baptism n 
+7326 Baptist j 
+8885 Baptist n 
+13239 baptize v 
+994 bar n 
+5174 bar v 
+17115 barb n 
+15075 barbarian n 
+15695 barbaric j 
+6884 barbecue n 
+14976 barbecue v 
+11799 barbed j 
+9345 barber n 
+16864 barbershop n 
+3462 bare j 
+10635 bare v 
+9611 barefoot j 
+1987 barely r 
+5015 bargain n 
+8703 bargain v 
+7729 bargaining n 
+10195 barge n 
+16054 barge v 
+14647 baritone n 
+5910 bark v 
+6837 bark n 
+11789 barley n 
+4147 barn n 
+16997 barometer n 
+13009 baron n 
+16786 baroque n 
+9023 barracks n 
+10502 barrage n 
+3109 barrel n 
+18071 barrel v 
+8984 barren j 
+11574 barricade n 
+18860 barricade v 
+2632 barrier n 
+14715 barring i 
+8037 bartender n 
+16094 barter v 
+18005 basal j 
+537 base v 
+939 base n 
+1380 baseball n 
+6053 baseline n 
+8959 baseman n 
+3632 basement n 
+9855 bash v 
+16954 bash n 
+1147 basic j 
+1702 basically r 
+6736 basics n 
+7528 basil n 
+6262 basin n 
+1314 basis n 
+11979 bask v 
+3283 basket n 
+1813 basketball n 
+15327 Basque j 
+5191 bass n 
+6906 bass j 
+16687 bassist n 
+6374 bastard n 
+17977 baste v 
+14510 bastion n 
+3727 bat n 
+1918 
+ 
+6684 bat v 
+6746 batch n 
+3923 bath n 
+10582 bath v 
+7691 bathe v 
+13043 bathing j 
+14031 bathrobe n 
+2426 bathroom n 
+9994 bathtub n 
+12683 baton n 
+8919 battalion n 
+7352 batter v 
+7428 batter n 
+6929 battered j 
+3221 battery n 
+10763 batting n 
+1203 battle n 
+4810 battle v 
+6101 battlefield n 
+12414 battleground n 
+13751 battleship n 
+18427 bawl v 
+3561 bay n 
+15503 bayonet n 
+19078 bayou n 
+16232 bazaar n 
+2 be v 
+1951 beach n 
+10691 beacon n 
+5424 bead n 
+16910 bead v 
+14641 beaded j 
+11362 beak n 
+3777 beam n 
+6813 beam v 
+2373 bean n 
+1628 bear v 
+2709 bear n 
+4745 beard n 
+9938 bearded j 
+12299 bearer n 
+6826 bearing n 
+4472 beast n 
+1040 beat v 
+2685 beat n 
+10603 beaten j 
+18718 beater n 
+6071 beating n 
+17770 beau n 
+995 beautiful j 
+6302 beautifully r 
+1737 beauty n 
+12078 beaver n 
+89 because c 
+509 because i 
+8964 beckon v 
+139 become v 
+684 bed n 
+19429 bed v 
+11440 bedding n 
+12842 bedrock n 
+1883 bedroom n 
+9093 bedside n 
+17512 bedspread n 
+9445 bedtime n 
+4292 bee n 
+3537 beef n 
+18036 beef v 
+17171 beefy j 
+18647 beehive n 
+13733 beep v 
+15409 beep n 
+17011 beeper n 
+1916 beer n 
+9643 beet n 
+7312 beetle n 
+15151 befall v 
+15599 befit v 
+220 before i 
+368 before c 
+706 before r 
+10747 beforehand r 
+12117 befriend v 
+3483 beg v 
+11990 beggar n 
+17439 begging n 
+164 begin v 
+9034 beginner n 
+1204 beginning n 
+4483 behalf i 
+7252 behalf n 
+3694 behave v 
+674 behavior n 
+3789 behavioral j 
+12134 behaviour n 
+19143 behead v 
+13657 behemoth n 
+17947 behest n 
+422 behind i 
+2069 behind r 
+19253 behind n 
+14627 behind-the-scenes j 
+10746 behold v 
+19806 beholden j 
+18580 beholder n 
+11283 beige j 
+1686 being n 
+18601 belated j 
+16985 belatedly r 
+18201 belch v 
+13088 beleaguered j 
+10676 Belgian j 
+15222 belie v 
+1385 belief n 
+13891 believable j 
+213 believe v 
+5431 believer n 
+16540 belittle v 
+2669 bell n 
+18224 belle n 
+16619 belligerent j 
+12620 bellow v 
+14307 bellow n 
+3842 belly n 
+1648 belong v 
+9426 belongings n 
+5002 beloved j 
+1457 below r 
+1943 below i 
+2453 belt n 
+15752 belt v 
+15678 bemoan v 
+16141 bemused j 
+2805 bench n 
+8213 benchmark n 
+2213 bend v 
+8667 bend n 
+1991 beneath i 
+1919 
+ 
+13662 beneath r 
+14108 benefactor n 
+5052 beneficial j 
+6651 beneficiary n 
+815 benefit n 
+2254 benefit v 
+19645 benevolence n 
+11764 benevolent j 
+7098 benign j 
+12520 bent j 
+16781 bequeath v 
+18736 bequest n 
+16426 berate v 
+20084 bereaved j 
+16772 bereft j 
+17152 beret n 
+6183 berry n 
+9973 berth n 
+13830 beset v 
+1992 beside i 
+3037 besides r 
+4196 besides i 
+15405 besiege v 
+310 best j 
+970 best r 
+9860 best v 
+9756 best-known j 
+8477 best-seller n 
+7678 best-selling j 
+9648 bestow v 
+2722 bet v 
+4468 bet n 
+10568 beta n 
+5029 betray v 
+7416 betrayal n 
+17026 betrayed j 
+453 better j 
+496 better r 
+12064 better v 
+12917 better n 
+17101 betting n 
+140 between i 
+5203 between r 
+6938 beverage n 
+10125 beware v 
+10842 bewildered j 
+16250 bewildering j 
+17307 bewilderment n 
+747 beyond i 
+4863 beyond r 
+3962 bias n 
+13786 bias v 
+11001 biased j 
+2766 Bible n 
+5238 biblical j 
+14534 bibliography n 
+12465 biceps n 
+15675 bicker v 
+4413 bicycle n 
+15929 bicycle v 
+4107 bid n 
+5904 bid v 
+11691 bidder n 
+10034 bidding n 
+19771 bide v 
+162 big j 
+17234 big-city j 
+18449 big-name j 
+18912 big-screen j 
+11781 big-time j 
+17626 bigot n 
+13424 bigotry n 
+2182 bike n 
+11856 bike v 
+10354 biker n 
+10320 bikini n 
+6976 bilateral j 
+16563 bile n 
+9795 bilingual j 
+809 bill n 
+8178 bill v 
+7264 billboard n 
+19969 billiards n 
+8992 billing n 
+613 billion m 
+9713 billionaire n 
+12806 billow v 
+11460 binary j 
+16406 binary n 
+2519 bind v 
+17002 bind n 
+13069 binder n 
+9323 binding j 
+13877 binding n 
+13046 binge n 
+15789 bingo n 
+7757 binoculars n 
+14773 biochemical j 
+18688 biochemistry n 
+7909 biodiversity n 
+10796 biographer n 
+13717 biographical j 
+4932 biography n 
+2588 biological j 
+13282 biologically r 
+5149 biologist n 
+4266 biology n 
+10737 biomass n 
+12459 biomedical j 
+10675 biopsy n 
+14782 biosolids n 
+14801 biosphere n 
+11438 biotech j 
+9720 biotechnology n 
+6743 bipartisan j 
+19832 bipartisanship n 
+10872 bipolar j 
+11802 birch n 
+1126 bird n 
+11624 birdie n 
+1508 birth n 
+2455 birthday n 
+11858 birthplace n 
+19454 birthright n 
+8222 biscuit n 
+12849 bisexual j 
+3469 bishop n 
+11088 bison n 
+15081 bistro n 
+956 bit n 
+1228 bit r 
+5726 bitch n 
+19753 bitch v 
+3179 bite v 
+3890 bite n 
+14480 biting j 
+3461 bitter j 
+8668 bitterly r 
+1920 
+ 
+8479 bitterness n 
+12246 bittersweet j 
+16525 biz n 
+5007 bizarre j 
+254 black j 
+1993 black n 
+16409 black v 
+7710 black-and-white j 
+18326 black-eyed j 
+19394 black-owned j 
+14032 blackberry n 
+13746 blackboard n 
+15749 blacken v 
+14557 blackened j 
+19995 blackjack n 
+17908 blackmail v 
+18129 blackmail n 
+10107 blackness n 
+11467 blackout n 
+15276 blacksmith n 
+19097 blacktop n 
+9238 bladder n 
+3174 blade n 
+11410 blah u 
+1810 blame v 
+5428 blame n 
+17164 blanch v 
+10249 bland j 
+4631 blank j 
+11757 blank n 
+18826 blank v 
+3332 blanket n 
+14483 blanket v 
+15193 blankly r 
+11113 blare v 
+20013 blasphemy n 
+4794 blast n 
+5327 blast v 
+11055 blatant j 
+15940 blatantly r 
+8217 blaze v 
+9318 blaze n 
+13321 blazer n 
+15742 blazing j 
+15257 bleach n 
+16013 bleach v 
+18646 bleached j 
+12922 bleachers n 
+7427 bleak j 
+5283 bleed v 
+7016 bleeding j 
+19087 bleeding r 
+18336 blemish n 
+3952 blend v 
+6445 blend n 
+18472 blended j 
+9109 blender n 
+4202 bless v 
+8203 blessed j 
+4728 blessing n 
+15661 blight n 
+2739 blind j 
+8485 blind v 
+9523 blind n 
+18084 blindfold v 
+12289 blinding j 
+12818 blindly r 
+9380 blindness n 
+4658 blink v 
+12642 blink n 
+17746 blinking j 
+15444 blip n 
+12290 bliss n 
+18719 blissful j 
+11427 blister n 
+15510 blistering j 
+18426 blithely r 
+12772 blitz n 
+10094 blizzard n 
+11502 bloated j 
+14705 blob n 
+8459 bloc n 
+1321 block n 
+2428 block v 
+11868 blockade n 
+15969 blockage n 
+9191 blockbuster n 
+15459 blocked j 
+14155 blocker n 
+13619 blocking j 
+18899 blocking n 
+16712 blogger n 
+4870 blond j 
+7066 blonde j 
+13639 blonde n 
+693 blood n 
+19718 bloodied j 
+19202 bloodless j 
+11967 bloodshed n 
+13400 bloodstream n 
+4169 bloody j 
+10744 bloody r 
+6680 bloom n 
+7643 bloom v 
+18387 blooming j 
+6526 blossom n 
+11509 blossom v 
+14538 blot v 
+6682 blouse n 
+1421 blow v 
+3822 blow n 
+19960 blow-up n 
+15303 blower n 
+18636 blown j 
+17661 blowout n 
+845 blue j 
+3725 blue n 
+19647 blue-chip j 
+10807 blue-collar j 
+17180 blue-eyed j 
+16902 blue-green j 
+9705 blueberry n 
+15878 bluegrass n 
+7707 blueprint n 
+7989 bluff n 
+16312 bluff v 
+18485 bluish j 
+13599 blunder n 
+20175 blunder v 
+7168 blunt j 
+12482 bluntly r 
+6458 blur v 
+9335 blur n 
+18340 blurred j 
+14298 blurry j 
+10398 blurt v 
+9209 blush v 
+11895 blush n 
+1921 
+ 
+14695 boar n 
+667 board n 
+5198 board v 
+18916 boarder n 
+8427 boarding n 
+14728 boardroom n 
+14404 boardwalk n 
+4584 boast v 
+16572 boast n 
+1237 boat n 
+18777 boat v 
+15825 boater n 
+15669 boating n 
+8996 bob v 
+18791 bob n 
+15563 bode v 
+19964 bodice n 
+8580 bodily j 
+314 body n 
+8255 bodyguard n 
+11584 bog n 
+15083 bog v 
+15755 bogey n 
+11513 bogus j 
+15085 bohemian j 
+4300 boil v 
+6584 boil n 
+13428 boiled j 
+11136 boiler n 
+7819 boiling j 
+16559 boisterous j 
+3933 bold j 
+10829 boldly r 
+18228 boldness n 
+6791 bolster v 
+4957 bolt n 
+8362 bolt v 
+2006 bomb n 
+4869 bomb v 
+13442 bombard v 
+12872 bombardment n 
+5012 bomber n 
+3110 bombing n 
+17100 bombshell n 
+14338 bonanza n 
+1894 bond n 
+6702 bond v 
+16822 bondage n 
+9985 bonding n 
+1450 bone n 
+16044 boneless j 
+13171 bonfire n 
+15690 bonnet n 
+4213 bonus n 
+9724 bony j 
+13076 boo v 
+17365 boob n 
+242 book n 
+7069 book v 
+12928 bookcase n 
+15015 booking n 
+19879 bookkeeping n 
+10894 booklet n 
+17352 bookseller n 
+11480 bookshelf n 
+6278 bookstore n 
+3198 boom n 
+9122 boom v 
+6964 boomer n 
+9246 booming j 
+11736 boon n 
+3726 boost v 
+6447 boost n 
+8298 booster n 
+2369 boot n 
+9106 boot v 
+4346 booth n 
+13255 booty n 
+11320 booze n 
+1351 border n 
+8134 border v 
+13300 borderline n 
+5001 bore v 
+13446 bore n 
+5957 bored j 
+8865 boredom n 
+4969 boring j 
+1092 born v 
+10802 born j 
+19536 born-again j 
+12214 borough n 
+3241 borrow v 
+13700 borrowed j 
+9744 borrower n 
+11609 borrowing n 
+6658 Bosnian j 
+19206 Bosnian n 
+13033 bosom n 
+2344 boss n 
+19657 bot n 
+10259 botanical j 
+15339 botanist n 
+18657 botch v 
+19094 botched j 
+256 both d 
+376 both r 
+2209 bother v 
+1753 bottle n 
+16240 bottle v 
+11168 bottled j 
+16058 bottleneck n 
+1520 bottom n 
+2682 bottom j 
+16710 bottom v 
+17291 bottomless j 
+16439 bough n 
+7107 boulder n 
+11911 boulevard n 
+3827 bounce v 
+11950 bounce n 
+17416 bouncer n 
+17635 bouncing j 
+8153 bound n 
+8842 bound v 
+18656 bound j 
+2800 boundary n 
+16324 boundless j 
+18582 bountiful j 
+9365 bounty n 
+9286 bouquet n 
+12007 bourbon n 
+9291 bourgeois j 
+16697 bourgeoisie n 
+5948 bout n 
+8397 boutique n 
+4138 bow n 
+4940 bow v 
+9596 bowel n 
+1922 
+ 
+1843 bowl n 
+12369 bowl v 
+17835 bowler n 
+8105 bowling n 
+796 box n 
+9141 box v 
+17385 box-office j 
+18163 boxed j 
+8357 boxer n 
+5713 boxing n 
+383 boy n 
+8669 boycott n 
+11557 boycott v 
+3407 boyfriend n 
+12677 boyhood n 
+14549 boyish j 
+7758 bra n 
+6695 brace v 
+9144 brace n 
+7522 bracelet n 
+7753 bracket n 
+19056 bracket v 
+8208 brag v 
+9605 braid n 
+15670 braid v 
+15974 braided j 
+11929 braille n 
+1193 brain n 
+19246 brainchild n 
+18098 brainwash v 
+4746 brake n 
+10874 brake v 
+14218 bran n 
+1821 branch n 
+11992 branch v 
+18867 branching j 
+2593 brand n 
+9455 brand v 
+19868 brand-name j 
+8220 brand-new j 
+14098 brandish v 
+10630 brandy n 
+14011 brash j 
+5020 brass n 
+14136 brat n 
+14438 bravado n 
+4909 brave j 
+14020 brave v 
+14546 bravely r 
+12664 bravery n 
+15011 brawl n 
+15326 brazen j 
+6495 Brazilian j 
+14889 Brazilian n 
+8002 breach n 
+12060 breach v 
+2131 bread n 
+9564 breadth n 
+20033 breadwinner n 
+495 break v 
+1077 break n 
+17393 break-in n 
+19565 breakaway j 
+5210 breakdown n 
+12107 breaker n 
+2402 breakfast n 
+16730 breakfast v 
+9844 breaking n 
+15840 breakout n 
+5379 breakthrough n 
+7823 breakup n 
+1661 breast n 
+12127 breast-feeding n 
+1637 breath n 
+2284 breathe v 
+20142 breather n 
+4559 breathing n 
+11194 breathless j 
+19360 breathlessly r 
+10369 breathtaking j 
+18500 breech n 
+5776 breed v 
+6466 breed n 
+10956 breeder n 
+5979 breeding n 
+4329 breeze n 
+16110 breezy j 
+10674 brew v 
+12301 brew n 
+19866 brewer n 
+15712 brewery n 
+14596 brewing n 
+10932 bribe n 
+12177 bribe v 
+13712 bribery n 
+3343 brick n 
+15284 bridal j 
+4931 bride n 
+18828 bridesmaid n 
+1698 bridge n 
+8187 bridge v 
+20014 bridle n 
+2165 brief j 
+7661 brief v 
+9650 brief n 
+18787 brief r 
+7809 briefcase n 
+6571 briefing n 
+3028 briefly r 
+9497 brigade n 
+1315 bright j 
+7950 brighten v 
+7073 brightly r 
+8121 brightness n 
+10570 brilliance n 
+3186 brilliant j 
+10609 brilliantly r 
+12675 brim v 
+13219 brim n 
+16861 brine n 
+216 bring v 
+7806 brink n 
+9359 brisk j 
+11793 briskly r 
+11363 bristle v 
+14930 bristle n 
+1187 British j 
+15973 Briton n 
+10476 brittle j 
+16029 broach v 
+1411 broad j 
+14323 broad-based j 
+13714 broadband j 
+19398 broadband n 
+3653 broadcast n 
+4853 broadcast v 
+8300 broadcaster n 
+8478 broadcasting n 
+1923 
+ 
+6717 broaden v 
+6254 broadly r 
+18377 broadside n 
+6934 Broadway n 
+8009 broccoli n 
+6691 brochure n 
+14619 broil v 
+16101 broiler n 
+10403 broke j 
+2717 broken j 
+4114 broker n 
+16332 broker v 
+8938 brokerage n 
+4979 bronze n 
+17344 brooch n 
+15040 brood n 
+16494 brood v 
+13730 brooding j 
+16976 brook n 
+9634 broom n 
+5777 broth n 
+13392 brothel n 
+615 brother n 
+10594 brother-in-law n 
+14192 brotherhood n 
+5888 brow n 
+1782 brown j 
+9152 brown v 
+10366 brown n 
+14121 brownie n 
+17868 brownstone n 
+9871 browse v 
+9925 browser n 
+7773 bruise n 
+12091 bruise v 
+12054 bruised j 
+17664 bruising j 
+14123 brunch n 
+16254 brunette n 
+14128 brunt n 
+3251 brush v 
+3449 brush n 
+4752 brutal j 
+8808 brutality n 
+20081 brutalize v 
+10333 brutally r 
+12228 brute n 
+4144 bubble n 
+10292 bubble v 
+17573 bubbling j 
+15717 bubbly j 
+2515 buck n 
+12892 buck v 
+4868 bucket n 
+9164 buckle v 
+11905 buckle n 
+19974 bucolic j 
+7075 bud n 
+12272 Buddhism n 
+8969 Buddhist j 
+14119 Buddhist n 
+11934 budding j 
+4146 buddy n 
+11431 budge v 
+1058 budget n 
+11882 budget v 
+13628 budgetary j 
+12619 buff n 
+19157 buff v 
+7060 buffalo n 
+8948 buffer n 
+18428 buffer v 
+8503 buffet n 
+18256 buffet v 
+4201 bug n 
+9662 bug v 
+13834 buggy n 
+409 build v 
+11575 build n 
+4603 builder n 
+502 building n 
+7529 built-in j 
+4952 bulb n 
+10024 bulge v 
+11815 bulge n 
+18915 bulging j 
+20123 bulimia n 
+4713 bulk n 
+15447 bulk v 
+16152 bulkhead n 
+9733 bulky j 
+4250 bull n 
+17448 bulldoze v 
+11487 bulldozer n 
+2764 bullet n 
+6518 bulletin n 
+17169 bullish j 
+12278 bullpen n 
+10140 bullshit n 
+7520 bully n 
+9295 bully v 
+12125 bullying n 
+19936 bulwark n 
+7927 bum n 
+5573 bump n 
+5689 bump v 
+10861 bumper n 
+11395 bumper j 
+12952 bumpy j 
+9172 bun n 
+2684 bunch n 
+14703 bunch v 
+6092 bundle n 
+10930 bundle v 
+11009 bungalow n 
+9091 bunk n 
+6828 bunker n 
+12267 bunny n 
+14527 buoy n 
+16256 buoy v 
+15888 buoyant j 
+2688 burden n 
+10020 burden v 
+16938 burdensome j 
+4323 bureau n 
+5034 bureaucracy n 
+7046 bureaucrat n 
+6542 bureaucratic j 
+9513 burgeoning j 
+7387 burger n 
+11313 burglar n 
+10833 burglary n 
+6325 burial n 
+13472 buried j 
+19607 burlap n 
+13459 burly j 
+1429 burn v 
+5740 burn n 
+1924 
+ 
+13565 burned j 
+19278 burned-out j 
+8386 burner n 
+4080 burning j 
+12555 burnout n 
+12314 burnt j 
+16564 burrito n 
+12445 burrow v 
+14897 burrow n 
+3594 burst v 
+5409 burst n 
+2420 bury v 
+1463 bus n 
+18447 bus v 
+4244 bush n 
+14937 bushel n 
+16331 bushy j 
+16098 busily r 
+247 business n 
+3880 businessman n 
+6788 bust v 
+7937 bust n 
+17882 busted j 
+13857 bustle v 
+11707 bustling j 
+1939 busy j 
+11278 busy v 
+23 but c 
+1715 but i 
+9467 butcher n 
+17320 butcher v 
+13084 butler n 
+4710 butt n 
+12312 butt v 
+2424 butter n 
+20150 butter v 
+19743 buttered j 
+4978 butterfly n 
+14256 buttermilk n 
+18322 buttery j 
+10840 buttocks n 
+2668 button n 
+11640 button v 
+16925 buttress v 
+398 buy v 
+11199 buy n 
+2976 buyer n 
+6931 buying n 
+10117 buyout n 
+8349 buzz v 
+14571 buzzer n 
+16340 buzzing j 
+18903 buzzword n 
+30 by i 
+1190 by r 
+9215 by-product n 
+19391 bye n 
+12102 bye-bye u 
+18204 bygone j 
+7737 bypass v 
+10341 bypass n 
+12281 bystander n 
+12851 Byzantine j 
+baby (n) 
+babysit (v) 
+babysitter (n) 
+back (adv, adj & n) 
+background (n) 
+background (experience) (n) 
+backpack (n) 
+backpacker (n) 
+backpacking (n) 
+backwards (adv) 
+bad (adj) 
+badly (adv) 
+badminton (n) 
+bag (n) 
+baggage (n) 
+bake (v) 
+baker (n) 
+balcony (n) 
+bald (adj) 
+ball (n) 
+ballet (n) 
+balloon (n) 
+banana (n) 
+band (n) 
+bandage (n) 
+bank (n) 
+bank account (n) 
+banking (n) 
+bar (n) 
+barbecue (n & v) 
+barber (n) 
+baseball (n) 
+base on (phr v) 
+basic (adj) 
+basin (n) 
+basket (n) 
+basketball (n) 
+bat (n) 
+bath (n & v) 
+bathing suit (n) 
+bathroom (n) 
+bathtub (n) 
+battery (n) 
+battle (n) 
+bay (n) 
+be (av & v) 
+beach (n) 
+bean (n) 
+bear (n) 
+beard (n) 
+beat (v) 
+beautiful (adj) 
+beauty (n) 
+because (conj) 
+because of (prep phr) 
+become (v) 
+bed (n) 
+bedroom (n) 
+bee (n) 
+beef (n) 
+before (prep, adv & conj) 
+begin (v) 
+beginner (n) 
+beginning (n) 
+behave (v) 
+behaviour (n) 
+behind (prep & adv) 
+believe (v) 
+bell (n) 
+belong (v) 
+below (adv & prep) 
+belt (n) 
+beneath (prep) 
+benefit (n & v) 
+be over (phr v) 
+• The game is over – you’re too late! 
+beside (adv & prep) 
+besides (prep) 
+best (adj & adv) 
+bestseller (n) 
+better (adj & adv) 
+between (prep & adv) 
+beyond (prep & adv) 
+bicycle (n) 
+big (adj) 
+bike (n) 
+bill (n) 
+• electricity bill 
+bin (n) 
+biography (n) 
+biology (n) 
+bird (n) 
+birth (n) 
+birthday (n) 
+biscuit (n) 
+bit (n) 
+bite (v) 
+bitter (adj) 
+black (adj & n) 
+blackboard (n) 
+blame (v) 
+blank (adj) 
+• a blank piece of paper 
+blanket (n) 
+bleed (v) 
+blind (adj) 
+block (n) 
+• Shall we walk round the block? 
+• block of flats 
+blog (n) 
+blogger (n) 
+blond(e) (adj) 
+blood (n) 
+blouse (n) 
+blow (v) 
+break up (phr v) 
+blue (adj & n) 
+board (n & v) 
+board game (n) 
+boarding pass (n) 
+boat (n) 
+body (n) 
+boil (v) 
+boiled (adj) 
+bold (adj) 
+bomb (n & v) 
+bone (n) 
+book (n & v) 
+bookcase (n) 
+booking (n) 
+• I have a booking for the 19th. 
+booking office (n) 
+bookshelf (n) 
+bookshop (n) (Br Eng) (Am Eng: bookstore) 
+bookstore (n) (Am Eng) (Br Eng: bookshop) 
+boot (n) 
+• a pair of boots 
+• the boot of the car (Am Eng: trunk) 
+border (n) 
+bored (adj) 
+boring (adj) 
+born (adj) 
+borrow (v) 
+boss (n) 
+both (pron & det) 
+bother (v) 
+• Sorry to bother you, can you tell me the 
+time? 
+• My job’s hard but that doesn’t bother 
+me. 
+• ‘Sorry I’m late, I’ll do it now.’ ‘Don’t 
+bother!’ 
+bottle (n) 
+bottom (adj & n) 
+bowl (n) 
+box (n) 
+boy (n) 
+boyfriend (n) 
+bracelet (n) 
+brain (n) 
+brake (n & v) 
+branch (n) 
+brand new (adj) 
+brave (adj) 
+bread (n) 
+break (n & v) 
+break down (phr v) 
+• The car has broken down. 
+breakfast (n) 
+break in (phr v) 
+• Someone broke in and stole the 
+computer. 
+• When does school break up? 
+• The pop group has broken up. 
+breath (n) 
+breathe (v) 
+breeze (n) 
+bride (n) 
+bridge (n) 
+brief (adj) 
+bright (adj) 
+brilliant (adj) 
+bring (v) 
+bring up (phr v) 
+• She was brought up in London. 
+broad (adj) 
+broccoli (n) 
+brochure (n) 
+broken (adj) 
+brother (n) 
+brown (adj & n) 
+brush (n & v) 
+bucket (n) 
+bug (n) 
+• He found a bug in his bed. 
+build (v) 
+building (n) 
+bulb (n) 
+• light bulb bull (n) 
+bunch (n) 
+• a bunch of flowers 
+• a great bunch of friends 
+burger (n) 
+burn (v) 
+burning (adj) 
+bury (v) 
+bus (n) 
+business (n) 
+businessman (n) 
+businesswoman (n) 
+bus station (n) 
+bus stop (n) 
+busy (adj) 
+but (conj & prep) 
+butcher (n) 
+butter (n) 
+butterfly (n) 
+button (n) 
+buy (v) 
+buyer (n) 
+by (prep) 
+by accident (prep phr) 
+by hand (prep phr) 
+by mistake (prep phr) 
+by name (prep phr) 
+bye (exclam)

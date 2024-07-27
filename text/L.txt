@@ -1,0 +1,804 @@
+2108 lab n 
+2642 label n 
+3616 label v 
+14666 labeled j 
+18830 labeling n 
+1158 labor n 
+7379 labor v 
+16337 labor-intensive j 
+3156 laboratory n 
+7051 laborer n 
+19431 laborious j 
+15132 labour n 
+17071 Labour j 
+11832 labyrinth n 
+6747 lace n 
+9504 lace v 
+1235 lack n 
+1990 lack v 
+17551 lackluster j 
+18300 lacquer n 
+14620 lacrosse n 
+1979 
+ 
+17301 lacy j 
+9581 lad n 
+4556 ladder n 
+12956 laden v 
+17862 ladle v 
+1526 lady n 
+8612 lag v 
+11495 lag n 
+10112 lagoon n 
+15200 laid-back j 
+18236 lair n 
+19915 laissez-faire n 
+16794 laity n 
+2204 lake n 
+5663 lamb n 
+10213 lame j 
+7516 lament v 
+14699 lament n 
+19943 laminated j 
+3973 lamp n 
+18234 lance n 
+567 land n 
+2044 land v 
+13713 land-use n 
+17119 landed j 
+15110 lander n 
+19335 landfall n 
+6966 landfill n 
+3723 landing n 
+18448 landlady n 
+6835 landlord n 
+4769 landmark n 
+7966 landowner n 
+1841 landscape n 
+15356 landscape v 
+13850 landscaping n 
+11589 landslide n 
+4177 lane n 
+723 language n 
+19638 languid j 
+11971 languish v 
+14519 lanky j 
+8483 lantern n 
+3387 lap n 
+14360 lap v 
+12397 lapel n 
+10184 lapse n 
+14073 lapse v 
+5949 laptop n 
+19139 lard n 
+221 large j 
+5266 large r 
+6158 large-scale j 
+1689 largely r 
+16851 largemouth n 
+19914 larger-than-life j 
+19421 lark n 
+9333 larva n 
+17447 lasagna n 
+3932 laser n 
+8620 lash v 
+12031 lash n 
+130 last m 
+1687 last v 
+3636 last r 
+9347 last-minute j 
+6315 lasting j 
+13136 lastly r 
+12266 latch v 
+12421 latch n 
+438 late j 
+1814 late r 
+9850 late-night j 
+4068 lately r 
+19573 latency n 
+12371 latent j 
+296 later r 
+2191 later j 
+8506 lateral j 
+14184 latex n 
+2549 Latin j 
+8867 Latin n 
+5847 Latino n 
+8154 latitude n 
+17501 latte n 
+2749 latter d 
+17646 latter-day j 
+15628 lattice n 
+14182 laud v 
+20199 laudable j 
+864 laugh v 
+3626 laugh n 
+17306 laughable j 
+15430 laughing j 
+3427 laughter n 
+1756 launch v 
+4944 launch n 
+13120 launcher n 
+14752 launching n 
+16134 launder v 
+15645 laundering n 
+4992 laundry n 
+15716 laureate n 
+15941 laurel n 
+9269 lava n 
+8317 lavender n 
+9220 lavish j 
+17252 lavish v 
+17657 lavishly r 
+288 law n 
+16402 law-abiding j 
+15054 lawful j 
+17822 lawless j 
+4736 lawmaker n 
+2975 lawn n 
+2681 lawsuit n 
+819 lawyer n 
+13406 lax j 
+805 lay v 
+7900 lay j 
+2187 layer n 
+13209 layer v 
+13290 layered j 
+17406 layering n 
+16676 layman n 
+7954 layoff n 
+7609 layout n 
+16868 lazily r 
+20153 laziness n 
+6331 lazy j 
+11839 LCD n 
+14990 leach v 
+319 lead v 
+1577 lead n 
+464 leader n 
+1311 leadership n 
+2208 leading j 
+1568 leaf n 
+1980 
+ 
+15698 leaf v 
+14074 leaflet n 
+11131 leafy j 
+1965 league n 
+16750 leaguer n 
+5227 leak v 
+6003 leak n 
+14785 leakage n 
+15420 leaky j 
+1530 lean v 
+5563 lean j 
+19103 leaning n 
+3655 leap v 
+5427 leap n 
+305 learn v 
+11138 learned j 
+5132 learner n 
+1462 learning n 
+6126 lease n 
+7807 lease v 
+11156 leash n 
+17262 leasing n 
+303 least r 
+5371 least d 
+2967 leather n 
+20001 leathery j 
+150 leave v 
+4839 leave n 
+16791 leaving n 
+7793 Lebanese j 
+3558 lecture n 
+8020 lecture v 
+10601 lecturer n 
+13469 LED n 
+8472 ledge n 
+12775 ledger n 
+19598 leech n 
+13150 leek n 
+17435 leery j 
+16305 leeway n 
+772 left j 
+5274 left n 
+12461 left r 
+14547 left-hand j 
+15651 left-handed j 
+19498 left-hander n 
+11954 left-wing j 
+9302 leftist n 
+10014 leftover j 
+12239 leftover n 
+17532 lefty n 
+859 leg n 
+3217 legacy n 
+886 legal j 
+14365 legality n 
+15925 legalization n 
+11033 legalize v 
+4615 legally r 
+3412 legend n 
+5054 legendary j 
+18659 legging n 
+10454 legion n 
+12853 legislate v 
+2034 legislation n 
+3577 legislative j 
+4674 legislator n 
+4407 legislature n 
+5837 legitimacy n 
+3223 legitimate j 
+13945 legitimately r 
+11819 legitimize v 
+17436 legume n 
+6360 leisure n 
+13798 leisurely j 
+3207 lemon n 
+11860 lemonade n 
+3583 lend v 
+6365 lender n 
+8824 lending n 
+1870 length n 
+11737 lengthen v 
+15103 lengthwise r 
+6115 lengthy j 
+16669 lenient j 
+3580 lens n 
+15972 lentils n 
+12265 leopard n 
+18730 leper n 
+6435 lesbian n 
+6631 lesbian j 
+8574 lesion n 
+478 less r 
+620 less d 
+7788 lessen v 
+5193 lesser j 
+1332 lesson n 
+9016 lest c 
+159 let v 
+6246 lethal j 
+629 letter n 
+16764 lettering n 
+6689 lettuce n 
+11251 leukemia n 
+10187 levee n 
+339 level n 
+4801 level j 
+5769 level v 
+7625 lever n 
+6593 leverage n 
+17111 leveraged j 
+13716 levy v 
+17575 levy n 
+19041 lewd j 
+16650 lexicon n 
+4164 liability n 
+8470 liable j 
+8369 liaison n 
+6779 liar n 
+15871 libel n 
+2009 liberal j 
+4626 liberal n 
+8309 liberalism n 
+9011 liberalization n 
+17053 liberalize v 
+17276 liberally r 
+7631 liberate v 
+17432 liberated j 
+12219 liberating j 
+6317 liberation n 
+19325 liberator n 
+14541 libertarian j 
+16027 libertarian n 
+3870 liberty n 
+18820 libido n 
+7629 librarian n 
+2148 library n 
+17179 Libyan j 
+2894 license n 
+1981 
+ 
+6022 license v 
+9353 licensed j 
+9873 licensing n 
+16290 lichen n 
+6025 lick v 
+17189 lick n 
+4711 lid n 
+752 lie v 
+2867 lie n 
+14315 lieu i 
+6139 lieutenant n 
+114 life n 
+17981 life-saving j 
+16097 life-size j 
+10986 life-threatening j 
+16552 lifeboat n 
+16623 lifeguard n 
+12533 lifeless j 
+19677 lifelike j 
+14318 lifeline n 
+5803 lifelong j 
+3118 lifestyle n 
+2791 lifetime n 
+1350 lift v 
+5031 lift n 
+9314 lifting n 
+11878 ligament n 
+465 light n 
+1310 light j 
+2417 light v 
+4768 light i 
+18479 light-hearted j 
+10051 light-year n 
+19746 lightbulb n 
+13506 lighted j 
+8756 lighten v 
+8373 lighter n 
+12918 lighthouse n 
+4910 lighting n 
+3424 lightly r 
+16941 lightness n 
+4614 lightning n 
+8551 lightweight j 
+14742 lightweight n 
+15155 likable j 
+74 like i 
+208 like v 
+1123 like c 
+1684 like j 
+2702 like r 
+5915 like n 
+15058 like-minded j 
+4649 likelihood n 
+625 likely j 
+2789 likely r 
+9351 liken v 
+10501 likeness n 
+17957 Likert-type j 
+4578 likewise r 
+14863 liking n 
+17350 lilac n 
+8508 lily n 
+3677 limb n 
+13201 limbo n 
+5496 lime n 
+14213 limelight n 
+9409 limestone n 
+1355 limit v 
+1683 limit n 
+3045 limitation n 
+1995 limited j 
+9753 limiting j 
+13986 limitless j 
+9512 limo n 
+9825 limousine n 
+9719 limp v 
+12455 limp j 
+12715 limp n 
+277 line n 
+2504 line v 
+9244 lineage n 
+5881 linear j 
+6731 linebacker n 
+17618 lined j 
+9457 lineman n 
+6094 linen n 
+7628 liner n 
+5966 lineup n 
+5804 linger v 
+15684 lingerie n 
+7332 lingering j 
+17653 lingo n 
+14635 linguist n 
+6807 linguistic j 
+16221 linguistics n 
+9641 lining n 
+1743 link v 
+2202 link n 
+7822 linkage n 
+13471 linked j 
+13687 linoleum n 
+4350 lion n 
+1590 lip n 
+7509 lipstick n 
+17898 liqueur n 
+4403 liquid n 
+4805 liquid j 
+17162 liquidate v 
+20110 liquidation n 
+16518 liquidity n 
+5794 liquor n 
+762 list n 
+2095 list v 
+13302 listed j 
+610 listen v 
+4613 listener n 
+7552 listening n 
+9461 listening j 
+5747 listing n 
+12512 litany n 
+14014 lite j 
+11722 liter n 
+5225 literacy n 
+7855 literal j 
+2492 literally r 
+2723 literary j 
+12413 literate j 
+1558 literature n 
+18764 lithe j 
+16412 lithium n 
+13829 Lithuanian j 
+18926 litigate v 
+5281 litigation n 
+17009 litmus n 
+8243 litter n 
+8547 litter v 
+257 little j 
+437 little r 
+1982 
+ 
+848 little d 
+13697 little-known j 
+13870 liturgical j 
+11756 liturgy n 
+19435 livable j 
+210 live v 
+2076 live j 
+9932 live r 
+9381 livelihood n 
+5857 lively j 
+4721 liver n 
+6264 livestock n 
+20065 livid j 
+1336 living n 
+2078 living j 
+7943 lizard n 
+18864 llama n 
+2924 load v 
+2961 load n 
+9978 loaded j 
+19121 loader n 
+7756 loading n 
+6999 loaf n 
+15585 loafer n 
+1711 loan n 
+13110 loan v 
+17683 loath j 
+13000 loathe v 
+18021 loathing n 
+18315 lob v 
+3770 lobby n 
+5607 lobby v 
+8034 lobbying n 
+5382 lobbyist n 
+11810 lobe n 
+6305 lobster n 
+424 local j 
+6192 local n 
+10026 locale n 
+11374 locality n 
+19685 localize v 
+13228 localized j 
+5962 locally r 
+1693 locate v 
+1439 location n 
+2242 lock v 
+3801 lock n 
+10436 locked j 
+5067 locker n 
+17836 lockout n 
+12067 locomotive n 
+9703 locus n 
+15838 locust n 
+6948 lodge v 
+7186 lodge n 
+13373 lodging n 
+7931 loft n 
+9821 lofty j 
+3453 log n 
+6116 log v 
+13015 logger n 
+9234 logging n 
+3497 logic n 
+4625 logical j 
+11770 logically r 
+14958 logistic j 
+12335 logistical j 
+10151 logistics n 
+6001 logo n 
+14718 loin n 
+18264 loll v 
+5446 lone j 
+7164 loneliness n 
+4041 lonely j 
+15254 loner n 
+16011 lonesome j 
+255 long j 
+262 long r 
+1845 long c 
+5567 long v 
+19440 long-ago j 
+16782 long-awaited j 
+7857 long-distance j 
+19853 long-held j 
+14757 long-lasting j 
+20069 long-lived j 
+19354 long-lost j 
+9171 long-range j 
+16928 long-running j 
+6543 long-standing j 
+1774 long-term j 
+18990 long-term-care j 
+15197 longer-term j 
+9055 longevity n 
+8297 longing n 
+17460 longitude n 
+10040 longitudinal j 
+3572 longtime j 
+85 look v 
+604 look n 
+16743 look-alike n 
+14245 looking j 
+10756 lookout n 
+5362 loom v 
+15191 loom n 
+12213 looming j 
+18672 loon n 
+4294 loop n 
+11677 loop v 
+9856 loophole n 
+2874 loose j 
+12122 loose v 
+13135 loose r 
+7026 loosely r 
+6106 loosen v 
+11031 loot v 
+18786 loot n 
+15001 looter n 
+12757 looting n 
+18415 lope v 
+16198 lopsided j 
+6750 lord n 
+10941 lore n 
+284 lose v 
+5037 loser n 
+9619 losing j 
+789 loss n 
+2698 lost j 
+239 lot n 
+10830 lotion n 
+1557 lots p 
+6111 lottery n 
+3120 loud j 
+3867 loud r 
+5764 loudly r 
+13285 loudspeaker n 
+6073 lounge n 
+12451 lounge v 
+1983 
+ 
+15774 louse n 
+8219 lousy j 
+15895 lovable j 
+391 love v 
+580 love n 
+6800 loved j 
+3312 lovely j 
+2806 lover n 
+5232 loving j 
+12527 lovingly r 
+361 low j 
+4866 low r 
+8316 low n 
+8615 low-cost j 
+7828 low-fat j 
+6556 low-income j 
+12032 low-key j 
+11948 low-level j 
+18771 low-lying j 
+18709 low-tech j 
+17937 low-wage j 
+2068 lower v 
+13910 lowered j 
+17364 lowering n 
+13195 lowland n 
+14064 lowly j 
+4824 loyal j 
+14507 loyalist n 
+4116 loyalty n 
+17214 LSD n 
+17032 lubricant n 
+15766 lucid j 
+2406 luck n 
+8338 luckily r 
+2145 lucky j 
+6763 lucrative j 
+11294 ludicrous j 
+12110 lug v 
+7460 luggage n 
+15694 lukewarm j 
+13729 lull n 
+16870 lull v 
+18282 lullaby n 
+19791 lumbar n 
+7099 lumber n 
+16695 lumber v 
+18720 lumbering j 
+18112 luminary n 
+18305 luminosity n 
+9838 luminous j 
+6227 lump n 
+14044 lump v 
+14567 lumpy j 
+6979 lunar j 
+14750 lunatic n 
+1595 lunch n 
+19931 lunch v 
+10065 luncheon n 
+11830 lunchtime n 
+3276 lung n 
+9757 lunge v 
+19207 lupus n 
+9340 lurch v 
+18141 lurch n 
+5357 lure v 
+7157 lure n 
+15705 lurid j 
+7304 lurk v 
+15425 luscious j 
+6872 lush j 
+7826 lust n 
+16078 luster n 
+8914 Lutheran j 
+9257 luxurious j 
+5650 luxury j 
+5859 luxury n 
+14696 lying n 
+14089 lymph n 
+17125 lymphoma n 
+18542 lynch v 
+16644 lynching n 
+15817 lyric j 
+13493 lyrical j 
+5124 lyrics n 
+label (n) 
+laboratory (lab) (n) 
+lack (n) 
+ladder (n) 
+lady (n) 
+lake (n) 
+lamb (n) 
+lamp (n) 
+land (n & v) 
+landscape (n) 
+language (n) 
+laptop (computer) (n) 
+large (adj) 
+last (adj, adv, det & v) 
+late (adj & adv) 
+lately (adv) 
+later (adj & adv) 
+latest (adj) 
+laugh (n & v) 
+law (n) 
+lawyer (n) 
+lay (v) 
+• lay the table 
+lazy (adj) 
+lead (v) 
+• to lead someone by the hand 
+• Where does this road lead? 
+leader (n) 
+leaf (n) 
+league (n) 
+learn (v) 
+least (adj & adv) 
+• at least (adv) 
+leather (n) 
+leave (v) 
+lecture (n) 
+left (n, adj & adv) 
+left-hand (adj) 
+leg (n) 
+leisure (n) 
+lemon (n) 
+lemonade (n) 
+lend (v) 
+length (n) 
+less (adv, det & pron) 
+lesson (n) 
+let (v) 
+• Let her do it. 
+• Let me think. 
+• Let’s go out tonight. 
+letter (n) 
+lettuce (n) 
+level (n) 
+library (n) 
+licence (n) 
+• a driving/marriage/TV licence 
+lie (n & v) 
+lie down (phr v) 
+life (n) 
+lift (n & v) 
+• Can you give me a lift, please? (n) 
+• The lift is going up. (n) 
+• Please help me to lift this table. (v) 
+light (adj, n & v) 
+lighter (n) 
+• a cigarette lighter 
+lightning (n) 
+like (prep & v) 
+likely (adj) 
+limit (n & v) 
+limited (adj) 
+• a limited choice 
+line (n) 
+• a line on a page 
+• a clothes line 
+• a railway line 
+link (n) 
+• a link to a website 
+lion (n) 
+lip (n) 
+liquid (n) 
+list (n) 
+listen (v) 
+literature (n) 
+litre (n) (Br Eng) (Am Eng: liter) 
+litter (n) 
+little (adj, det & pron)
+live (v) 
+live (adj) 
+• live music/sport 
+lively (adj) 
+living room (n) 
+load (n) 
+loan (n) 
+local (adj) 
+locate (v) 
+• The station is located in the city 
+centre. 
+location (n) 
+lock (n & v) 
+locker (n) 
+logo (n) 
+lonely (adj) 
+long (adj) 
+look (n & v) 
+look after (phr v) 
+• I’m looking after my sister’s house 
+while she’s on holiday? 
+look at (phr v) 
+look for (phr v) 
+look forward to (phr v) 
+• I’m looking forward to the party! 
+look like (v) 
+• She looks like her sister. 
+look out (phr v) 
+Look out! 
+look up (phr v) 
+• Look up the meaning of the word in 
+your dictionary. 
+loose (adj) 
+lorry (n) 
+lose (v) 
+lost (adj) 
+lots / a lot (n) 
+lottery (n) 
+loud (adj) 
+loudly (adv) 
+love (n & v) 
+lovely (adj) 
+low (adj) 
+luck (n) 
+luckily (adv) 
+lucky (adj) 
+luggage (n) 
+lunch (n) 
+lunchtime (n) 
+luxury (n) 

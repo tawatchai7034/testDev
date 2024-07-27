@@ -1,0 +1,1410 @@
+14186 dab v 
+16208 dab n 
+15299 dabble v 
+1828 dad n 
+5616 daddy n 
+17995 daffodil n 
+11300 dagger n 
+1492 daily j 
+3528 daily r 
+16124 daily n 
+17571 dainty j 
+5833 dairy n 
+20096 dais n 
+12791 daisy n 
+4444 dam n 
+15244 dam v 
+1531 damage n 
+3024 damage v 
+8707 damaged j 
+8515 damaging j 
+19007 dame n 
+16575 dammit u 
+4460 damn j 
+5645 damn v 
+9182 damn u 
+11811 damn r 
+9274 damned j 
+13316 damned r 
+5630 damp j 
+11211 dampen v 
+19545 damper n 
+1682 dance n 
+1978 dance v 
+1939 
+ 
+3697 dancer n 
+4760 dancing n 
+16922 dandelion n 
+17223 dandy n 
+11463 Dane n 
+1554 danger n 
+1465 dangerous j 
+9029 dangerously r 
+5780 dangle v 
+8424 Danish j 
+16699 dank j 
+19369 dapper j 
+3378 dare v 
+9481 daring j 
+860 dark j 
+2170 dark n 
+15600 dark-haired j 
+8628 darken v 
+10005 darkened j 
+13780 darkly r 
+2671 darkness n 
+18614 darkroom n 
+6519 darling n 
+16403 darling j 
+12667 darn j 
+7354 dart v 
+10751 dart n 
+16966 Darwinian j 
+6429 dash n 
+7405 dash v 
+11881 dashboard n 
+18686 dashing j 
+560 data n 
+3673 database n 
+1205 date n 
+2506 date v 
+11461 dated j 
+6923 dating n 
+635 daughter n 
+15461 daughter-in-law n 
+7590 daunting j 
+4044 dawn n 
+8848 dawn v 
+90 day n 
+6969 day-to-day j 
+19788 daybreak n 
+15028 daycare n 
+17019 daydream v 
+18424 daydream n 
+6084 daylight n 
+7269 daytime n 
+17508 daze v 
+18356 daze n 
+14698 dazed j 
+12783 dazzle v 
+8726 dazzling j 
+17410 deacon n 
+727 dead j 
+5575 dead r 
+17058 dead-end n 
+4072 deadline n 
+18708 deadlock n 
+3545 deadly j 
+6860 deaf j 
+13698 deafening j 
+675 deal v 
+801 deal n 
+2598 dealer n 
+9701 dealership n 
+7894 dealings n 
+5727 dean n 
+3365 dear j 
+6081 dear u 
+8250 dear n 
+10424 dearly r 
+14494 dearth n 
+418 death n 
+18241 deathbed n 
+11093 debacle n 
+17727 debatable j 
+1086 debate n 
+3961 debate v 
+11695 debilitating j 
+4622 debris n 
+1885 debt n 
+13785 debtor n 
+18409 debunk v 
+4503 debut n 
+13206 debut v 
+731 decade n 
+18727 decadence n 
+17260 decadent j 
+8081 decay n 
+13258 decay v 
+15168 decaying j 
+8684 deceased j 
+16373 deceit n 
+8554 deceive v 
+10641 decency n 
+3911 decent j 
+16286 decentralization n 
+13924 decentralized j 
+8347 deception n 
+11794 deceptive j 
+16562 deceptively r 
+457 decide v 
+8380 decidedly r 
+19623 deciding j 
+19871 deciduous j 
+14405 decimate v 
+10440 decipher v 
+480 decision n 
+14230 decision-maker n 
+8766 decision-making n 
+8805 decision-making j 
+6410 decisive j 
+12553 decisively r 
+2812 deck n 
+14255 deck v 
+5668 declaration n 
+1749 declare v 
+18810 declared j 
+2014 decline v 
+2769 decline n 
+7065 declining j 
+14246 decode v 
+16329 decompose v 
+16032 decomposition n 
+16461 deconstruct v 
+16921 deconstruction n 
+10130 decor n 
+4373 decorate v 
+11416 decorated j 
+14572 decorating n 
+6228 decoration n 
+6765 decorative j 
+14065 decorator n 
+17800 decorum n 
+1940 
+ 
+11110 decoy n 
+3400 decrease v 
+6406 decrease n 
+12602 decreased j 
+12870 decreasing j 
+8565 decree n 
+13074 decree v 
+17213 decrepit j 
+11946 decry v 
+3837 dedicate v 
+6777 dedicated j 
+7104 dedication n 
+13706 deduce v 
+11591 deduct v 
+14357 deductible j 
+17231 deductible n 
+7141 deduction n 
+5848 deed n 
+4607 deem v 
+978 deep j 
+1719 deep r 
+19523 deep-sea j 
+18505 deep-seated j 
+20077 deep-water j 
+6832 deepen v 
+14514 deepening j 
+7189 deepest j 
+2141 deeply r 
+2932 deer n 
+19543 defamation n 
+7543 default n 
+16366 default v 
+3358 defeat v 
+4170 defeat n 
+10854 defeated j 
+6035 defect n 
+13932 defect v 
+14314 defection n 
+11287 defective j 
+16489 defector n 
+1762 defend v 
+3384 defendant n 
+4876 defender n 
+12373 defending j 
+658 defense n 
+16537 defenseless j 
+19487 defenseman n 
+18233 defensible j 
+2904 defensive j 
+13461 defensively r 
+8873 defer v 
+11627 deference n 
+15894 deferred j 
+9813 defiance n 
+9865 defiant j 
+15882 defiantly r 
+19347 defibrillator n 
+6452 deficiency n 
+13161 deficient j 
+2425 deficit n 
+1214 define v 
+14001 defined j 
+9819 defining j 
+6887 definite j 
+2005 definitely r 
+2129 definition n 
+6721 definitive j 
+15308 definitively r 
+14075 deflate v 
+9812 deflect v 
+14055 deforestation n 
+19167 deformation n 
+15202 deformed j 
+15908 deformity n 
+17955 defraud v 
+15348 deft j 
+13149 deftly r 
+16001 defunct j 
+12812 defuse v 
+5657 defy v 
+16526 degenerate j 
+18287 degenerate v 
+17072 degeneration n 
+19481 degenerative j 
+7910 degradation n 
+8605 degrade v 
+790 degree n 
+18000 dehydrate v 
+15135 dehydration n 
+9802 deity n 
+3130 delay n 
+3471 delay v 
+12751 delayed j 
+19295 delectable j 
+5296 delegate n 
+13296 delegate v 
+5778 delegation n 
+8204 delete v 
+18385 deleterious j 
+10820 deli n 
+6440 deliberate j 
+12391 deliberate v 
+4645 deliberately r 
+8115 deliberation n 
+11514 delicacy n 
+3824 delicate j 
+10831 delicately r 
+5042 delicious j 
+19524 deliciously r 
+4946 delight n 
+8700 delight v 
+6710 delighted j 
+8946 delightful j 
+10812 delineate v 
+12488 delinquency n 
+14030 delinquent j 
+17509 delinquent n 
+19117 delirious j 
+1295 deliver v 
+18953 deliverance n 
+2828 delivery n 
+12247 delta n 
+18196 delude v 
+16908 deluge n 
+11204 delusion n 
+18488 delusional j 
+13331 deluxe j 
+11520 delve v 
+1293 demand n 
+1461 demand v 
+9293 demanding j 
+18395 demean v 
+16568 demeaning j 
+8729 demeanor n 
+18414 demented j 
+11507 dementia n 
+6983 demise n 
+12719 demo n 
+1941 
+ 
+1511 democracy n 
+906 Democrat n 
+856 democratic j 
+14739 democratically r 
+8564 democratization n 
+18694 democratize v 
+18756 demographer n 
+4669 demographic j 
+8881 demographics n 
+9968 demolish v 
+11123 demolition n 
+5477 demon n 
+16411 demonic j 
+16075 demonize v 
+1386 demonstrate v 
+3169 demonstration n 
+8461 demonstrator n 
+17257 demoralize v 
+19080 demote v 
+6395 den n 
+4797 denial n 
+15577 denigrate v 
+10305 denim n 
+18381 denizen n 
+8655 denomination n 
+14838 denominator n 
+9959 denote v 
+6070 denounce v 
+4918 dense j 
+12112 densely r 
+4568 density n 
+9845 dent n 
+16723 dent v 
+7278 dental j 
+6394 dentist n 
+20155 dentistry n 
+17048 denunciation n 
+1413 deny v 
+4886 depart v 
+19110 departed j 
+1202 department n 
+16140 departmental j 
+3903 departure n 
+1483 depend v 
+13277 dependable j 
+5899 dependence n 
+8008 dependency n 
+3231 dependent j 
+13494 dependent n 
+2995 depending i 
+3234 depict v 
+7833 depiction n 
+10456 deplete v 
+17317 depleted j 
+11959 depletion n 
+18376 deplorable j 
+14461 deplore v 
+4544 deploy v 
+6521 deployment n 
+11103 deport v 
+12006 deportation n 
+16634 depose v 
+4744 deposit n 
+6795 deposit v 
+7444 deposition n 
+17637 depositor n 
+11963 depot n 
+15810 depreciation n 
+11735 depress v 
+4551 depressed j 
+9300 depressing j 
+2113 depression n 
+11685 depressive n 
+9398 deprivation n 
+6290 deprive v 
+17651 deprived j 
+2579 depth n 
+2591 deputy n 
+10858 derail v 
+17046 derailleur n 
+16847 derby n 
+17678 deregulate v 
+8856 deregulation n 
+19042 derelict j 
+14870 deride v 
+19236 derision n 
+11038 derivative n 
+20113 derivative j 
+3077 derive v 
+13745 dermatologist n 
+17951 derogatory j 
+4046 descend v 
+6224 descendant n 
+14880 descending j 
+5527 descent n 
+569 describe v 
+2190 description n 
+7022 descriptive j 
+19739 descriptor n 
+14219 desegregation n 
+2216 desert n 
+6418 desert v 
+10256 deserted j 
+2244 deserve v 
+11642 deserving j 
+837 design n 
+873 design v 
+5310 designate v 
+7259 designated j 
+8341 designation n 
+2447 designer n 
+15136 desirability n 
+5383 desirable j 
+1560 desire n 
+3815 desire v 
+6378 desired j 
+1669 desk n 
+6936 desktop n 
+12342 desolate j 
+17870 desolation n 
+5498 despair n 
+13989 despair v 
+19551 despairing j 
+3116 desperate j 
+4497 desperately r 
+7633 desperation n 
+16994 despicable j 
+9211 despise v 
+742 despite i 
+19880 despondent j 
+4311 dessert n 
+11601 destabilize v 
+3918 destination n 
+7021 destine v 
+5222 destiny n 
+17273 destitute j 
+1425 destroy v 
+19403 destroyed j 
+1942 
+ 
+11786 destroyer n 
+2708 destruction n 
+5900 destructive j 
+10671 detach v 
+12471 detached j 
+11081 detachment n 
+1000 detail n 
+6134 detail v 
+3150 detailed j 
+7694 detain v 
+8160 detainee n 
+2787 detect v 
+15927 detectable j 
+6308 detection n 
+3830 detective n 
+5550 detector n 
+6776 detention n 
+6748 deter v 
+12971 detergent n 
+7724 deteriorate v 
+11833 deteriorating j 
+9192 deterioration n 
+11307 determinant n 
+3883 determination n 
+774 determine v 
+6000 determined j 
+11265 determining j 
+19504 determinism n 
+12454 deterrence n 
+9943 deterrent n 
+16929 detest v 
+13011 detonate v 
+19417 detonation n 
+12524 detour n 
+14892 detract v 
+12811 detractor n 
+14761 detriment n 
+11121 detrimental j 
+19483 detritus n 
+15794 devaluation n 
+14343 devalue v 
+6509 devastate v 
+19605 devastated j 
+4885 devastating j 
+9316 devastation n 
+485 develop v 
+5033 developed j 
+3534 developer n 
+2638 developing j 
+449 development n 
+4637 developmental j 
+14708 developmentally r 
+15089 deviant j 
+14279 deviate v 
+6557 deviation n 
+1516 device n 
+4956 devil n 
+19115 devious j 
+5011 devise v 
+9989 devoid j 
+19062 devolve v 
+3253 devote v 
+5196 devoted j 
+12410 devotee n 
+6567 devotion n 
+17795 devotional j 
+8643 devour v 
+11146 devout j 
+14988 dew n 
+19910 dexterity n 
+4126 diabetes n 
+14790 diabetic j 
+14909 diabetic n 
+3868 diagnose v 
+3627 diagnosis n 
+6764 diagnostic j 
+19574 diagnostics n 
+12432 diagonal j 
+16949 diagonally r 
+7458 diagram n 
+6177 dial v 
+8142 dial n 
+11007 dialect n 
+14248 dialectic n 
+17470 dialectical j 
+16947 dialog n 
+2818 dialogue n 
+15500 dialysis n 
+5323 diameter n 
+4085 diamond n 
+7392 diaper n 
+14864 diaphragm n 
+10790 diarrhea n 
+4381 diary n 
+11908 diaspora n 
+20018 diatribe n 
+6982 dice n 
+9604 dice v 
+18577 diced j 
+19597 dichotomous j 
+11554 dichotomy n 
+12628 dick n 
+4989 dictate v 
+16768 dictate n 
+6844 dictator n 
+19257 dictatorial j 
+7780 dictatorship n 
+8658 dictionary n 
+17983 dictum n 
+17675 didactic j 
+404 die v 
+16361 die-hard j 
+6562 diesel n 
+2158 diet n 
+11546 diet v 
+6457 dietary j 
+17001 dietitian n 
+3016 differ v 
+497 difference n 
+238 different j 
+9007 differential j 
+12850 differential n 
+6479 differentiate v 
+10794 differentiation n 
+3158 differently r 
+9074 differing j 
+609 difficult j 
+1697 difficulty n 
+12763 diffuse v 
+13831 diffuse j 
+11375 diffusion n 
+2484 dig v 
+7982 dig n 
+9672 digest v 
+14370 digestion n 
+12303 digestive j 
+17792 digger n 
+13393 digging n 
+1943 
+ 
+8680 digit n 
+2377 digital j 
+16722 digitally r 
+18467 digitize v 
+10767 dignified j 
+14265 dignitary n 
+4141 dignity n 
+18349 dike n 
+14345 dilapidated j 
+19308 dilate v 
+4159 dilemma n 
+15252 diligence n 
+14661 diligent j 
+14414 diligently r 
+16517 dill n 
+9729 dilute v 
+19557 dilution n 
+5815 dim j 
+9036 dim v 
+7650 dime n 
+2440 dimension n 
+19630 dimensional j 
+3995 diminish v 
+14215 diminished j 
+13158 diminishing j 
+14885 diminutive j 
+12024 dimly r 
+17275 dimple n 
+13511 din n 
+7495 dine v 
+6044 diner n 
+15549 dingy j 
+2977 dining n 
+1080 dinner n 
+5397 dinosaur n 
+19293 diocesan j 
+10028 diocese n 
+5790 dioxide n 
+18823 dioxin n 
+4577 dip v 
+8849 dip n 
+8618 diploma n 
+5715 diplomacy n 
+4968 diplomat n 
+3978 diplomatic j 
+18140 diplomatically r 
+7197 dire j 
+1487 direct j 
+1569 direct v 
+19533 directed j 
+931 direction n 
+15797 directional j 
+7736 directive n 
+1142 directly r 
+511 director n 
+8364 directory n 
+2761 dirt n 
+2891 dirty j 
+17596 dirty v 
+2581 disability n 
+11291 disable v 
+4458 disabled j 
+6383 disadvantage n 
+9105 disadvantaged j 
+17744 disaffected j 
+2701 disagree v 
+5180 disagreement n 
+1587 disappear v 
+6634 disappearance n 
+15497 disappearing j 
+8361 disappoint v 
+4027 disappointed j 
+7350 disappointing j 
+4617 disappointment n 
+10617 disapproval n 
+10937 disapprove v 
+19409 disapproving j 
+8973 disarm v 
+11804 disarmament n 
+12382 disarray n 
+19396 disassemble v 
+2341 disaster n 
+7375 disastrous j 
+18142 disavow v 
+14334 disband v 
+7533 disbelief n 
+4832 disc n 
+5484 discard v 
+14087 discarded j 
+7851 discern v 
+13537 discernible j 
+17734 discerning j 
+6299 discharge n 
+6723 discharge v 
+8226 disciple n 
+8283 disciplinary j 
+2298 discipline n 
+10699 discipline v 
+10880 disciplined j 
+17715 disclaimer n 
+4469 disclose v 
+5329 disclosure n 
+10837 disco n 
+6552 discomfort n 
+14694 disconcerting j 
+8332 disconnect v 
+9903 discontent n 
+11998 discontinue v 
+19386 discontinuity n 
+15267 discord n 
+4554 discount n 
+8588 discount v 
+20082 discounted j 
+4254 discourage v 
+15291 discouraging j 
+3282 discourse n 
+959 discover v 
+2247 discovery n 
+9165 discredit v 
+11449 discreet j 
+13835 discreetly r 
+6975 discrepancy n 
+10052 discrete j 
+7686 discretion n 
+12150 discretionary j 
+18171 discriminant j 
+6896 discriminate v 
+19727 discriminating j 
+3194 discrimination n 
+11656 discriminatory j 
+13912 discursive j 
+850 discuss v 
+1045 discussion n 
+9890 disdain n 
+18521 disdain v 
+776 disease n 
+14457 diseased j 
+19448 disembark v 
+1944 
+ 
+19581 disembodied j 
+18978 disenchanted j 
+14271 disengage v 
+17404 disengagement n 
+19452 disfigure v 
+10602 disgrace n 
+19749 disgraceful j 
+12561 disgruntled j 
+7490 disguise v 
+10621 disguise n 
+19116 disguised j 
+7591 disgust n 
+10811 disgusted j 
+9138 disgusting j 
+1950 dish n 
+13273 dish v 
+19234 dishearten v 
+12674 dishonest j 
+18435 dishonesty n 
+12043 dishwasher n 
+15880 disillusion v 
+16642 disillusionment n 
+17967 disinfectant n 
+16787 disingenuous j 
+10662 disintegrate v 
+12436 disintegration n 
+15707 disinterested j 
+3798 disk n 
+6916 dislike v 
+12146 dislike n 
+19705 dislocate v 
+13818 dislocation n 
+13753 dislodge v 
+9680 dismal j 
+7195 dismantle v 
+19560 dismantling n 
+9213 dismay n 
+16438 dismay v 
+17581 dismayed j 
+2826 dismiss v 
+9124 dismissal n 
+15502 dismissive j 
+15614 dismount v 
+14528 disobedience n 
+16093 disobey v 
+2388 disorder n 
+16304 disordered j 
+18020 disorderly j 
+13505 disoriented j 
+18035 disparage v 
+9100 disparate j 
+7182 disparity n 
+7489 dispatch v 
+10516 dispatch n 
+13816 dispatcher n 
+10909 dispel v 
+8502 dispense v 
+16538 dispenser n 
+15914 dispersal n 
+7547 disperse v 
+18130 dispersed j 
+16616 dispersion n 
+6895 displace v 
+10271 displaced j 
+9327 displacement n 
+2110 display v 
+2207 display n 
+15049 displeasure n 
+10073 disposable j 
+5654 disposal n 
+7004 dispose v 
+7351 disposition n 
+10527 disproportionate j 
+12644 disproportionately r 
+16496 disprove v 
+2726 dispute n 
+8006 dispute v 
+12169 disputed j 
+12316 disqualify v 
+9386 disregard v 
+13144 disregard n 
+15179 disrespect n 
+19377 disrespect v 
+16703 disrespectful j 
+5374 disrupt v 
+6891 disruption n 
+8604 disruptive j 
+8704 dissatisfaction n 
+10535 dissatisfied j 
+12165 dissect v 
+16323 dissection n 
+10156 disseminate v 
+13414 dissemination n 
+8322 dissent n 
+12731 dissent v 
+16006 dissenter n 
+19938 dissenting j 
+9514 dissertation n 
+15722 disservice n 
+9916 dissident n 
+15438 dissident j 
+16905 dissimilar j 
+10012 dissipate v 
+12407 dissolution n 
+4337 dissolve v 
+17027 dissonance n 
+14613 dissuade v 
+17928 distal j 
+1241 distance n 
+11013 distance v 
+2653 distant j 
+14198 distaste n 
+17463 distasteful j 
+17774 distil v 
+3280 distinct j 
+2944 distinction n 
+4775 distinctive j 
+18484 distinctively r 
+8183 distinctly r 
+3273 distinguish v 
+5639 distinguished j 
+15266 distinguishing j 
+6724 distort v 
+11064 distorted j 
+7640 distortion n 
+4548 distract v 
+6259 distraction n 
+12201 distraught j 
+5256 distress n 
+15034 distress v 
+14040 distressed j 
+14390 distressing j 
+2968 distribute v 
+17641 distributed j 
+2394 distribution n 
+7581 distributor n 
+1272 district n 
+10926 distrust n 
+1945 
+ 
+13951 distrust v 
+4618 disturb v 
+6349 disturbance n 
+11544 disturbed j 
+4880 disturbing j 
+6996 ditch n 
+12428 ditch v 
+13500 diva n 
+5184 dive v 
+7986 dive n 
+8399 diver n 
+14341 diverge v 
+15140 divergence n 
+11455 divergent j 
+2837 diverse j 
+13880 diversification n 
+15602 diversified j 
+8719 diversify v 
+7651 diversion n 
+2553 diversity n 
+5750 divert v 
+19455 divest v 
+1956 divide v 
+7023 divide n 
+8421 divided j 
+5905 dividend n 
+19370 divider n 
+19621 divination n 
+4091 divine j 
+16688 divine v 
+12882 diving n 
+12950 diving j 
+10230 divinity n 
+1863 division n 
+19919 divisional j 
+10121 divisive j 
+3003 divorce n 
+4262 divorce v 
+8244 divorced j 
+14168 divulge v 
+15324 dizziness n 
+8913 dizzy j 
+12942 dizzying j 
+10304 DJ n 
+2852 DNA n 
+18 do v 
+17304 do-it-yourself j 
+19362 doable j 
+13595 doc n 
+19876 docile j 
+4965 dock n 
+11524 dock v 
+19787 docket n 
+17839 docking n 
+571 doctor n 
+8078 doctoral j 
+8723 doctorate n 
+14063 doctrinal j 
+3783 doctrine n 
+1396 document n 
+3342 document v 
+4264 documentary n 
+6900 documentation n 
+15294 documented j 
+7043 dodge v 
+14921 doe n 
+754 dog n 
+13194 dog v 
+19978 dogged j 
+12106 dogma n 
+17104 dogmatic j 
+16351 dogwood n 
+20196 doings n 
+3858 doll n 
+17482 dollop n 
+8306 dolphin n 
+3662 domain n 
+5065 dome n 
+19609 domed j 
+1556 domestic j 
+13323 domestically r 
+16468 domesticated j 
+6377 dominance n 
+3204 dominant j 
+2332 dominate v 
+7486 domination n 
+8377 Dominican j 
+17078 dominion n 
+14636 domino n 
+6297 don v 
+4134 donate v 
+4380 donation n 
+9702 donkey n 
+3884 donor n 
+14834 donut n 
+7604 doom v 
+8993 doom n 
+16852 doomed j 
+344 door n 
+17567 door-to-door j 
+12131 doorbell n 
+14949 doorknob n 
+15198 doorman n 
+10999 doorstep n 
+3902 doorway n 
+17857 dopamine n 
+10412 dope n 
+8487 dorm n 
+11800 dormant j 
+11214 dormitory n 
+12733 dosage n 
+3554 dose n 
+4529 dot n 
+8431 dot v 
+17255 dot-com j 
+19848 dot-com n 
+18457 dotted j 
+2222 double j 
+2870 double v 
+5269 double n 
+12045 double r 
+14604 double-digit j 
+19556 double-edged j 
+15121 doubling n 
+13743 doubly r 
+1920 doubt n 
+2988 doubt v 
+9222 doubtful j 
+12594 doubtless r 
+4442 dough n 
+9673 doughnut n 
+18406 dour j 
+14273 douse v 
+7856 dove n 
+118 down r 
+1027 down i 
+6560 down n 
+7630 down j 
+1946 
+ 
+10997 down v 
+17035 down-to-earth j 
+18549 downed j 
+12955 downfall n 
+17065 downgrade v 
+9749 downhill r 
+13797 downhill j 
+18945 downhill n 
+6473 download v 
+14090 download n 
+10142 downplay v 
+16624 downpour n 
+10857 downright r 
+8893 downside n 
+10838 downsize v 
+18137 downsizing n 
+5539 downstairs r 
+16961 downstairs n 
+10368 downstream r 
+17256 downstream j 
+18876 downtime n 
+3140 downtown j 
+4747 downtown r 
+8560 downturn n 
+8419 downward j 
+10168 downward r 
+19925 downwind r 
+18478 dowry n 
+11595 doze v 
+1198 dozen m 
+15573 drab j 
+17613 draconian j 
+2647 draft n 
+4279 draft v 
+15768 drafting n 
+2146 drag v 
+5138 dragon n 
+19171 dragonfly n 
+3635 drain v 
+6002 drain n 
+7841 drainage n 
+12933 drained j 
+2654 drama n 
+2137 dramatic j 
+3394 dramatically r 
+13131 dramatize v 
+6340 drape v 
+13078 drape n 
+15527 drapery n 
+8276 drastic j 
+8752 drastically r 
+593 draw v 
+7132 draw n 
+8725 drawback n 
+4251 drawer n 
+2544 drawing n 
+17878 drawl n 
+9384 dread n 
+9566 dread v 
+13923 dreaded j 
+9500 dreadful j 
+993 dream n 
+2616 dream v 
+12097 dreamer n 
+19480 dreaming n 
+12846 dreamy j 
+13238 dreary j 
+13593 dredge v 
+13348 drench v 
+1443 dress v 
+1757 dress n 
+8672 dresser n 
+6062 dressing n 
+12057 dribble v 
+4429 dried j 
+3634 drift v 
+6720 drift n 
+19029 driftwood n 
+4814 drill v 
+5022 drill n 
+12563 drilling n 
+1238 drink v 
+2040 drink n 
+10503 drinker n 
+3470 drinking n 
+6100 drip v 
+11262 drip n 
+13756 dripping j 
+491 drive v 
+1448 drive n 
+17766 drive-by j 
+17363 drive-in n 
+10201 driven j 
+1231 driver n 
+4821 driveway n 
+3750 driving j 
+13309 driving n 
+10017 drizzle n 
+18612 drizzle v 
+11773 drone n 
+16079 drone v 
+16462 drool v 
+15729 droop v 
+18818 drooping j 
+691 drop v 
+2577 drop n 
+13921 drop-off n 
+13353 droplet n 
+8113 dropout n 
+15966 dropping n 
+5423 drought n 
+15262 drove n 
+4980 drown v 
+16017 drowning n 
+20009 drowning j 
+17802 drowsy j 
+462 drug n 
+19090 drug v 
+17704 drug-related j 
+9472 drugstore n 
+4155 drum n 
+11716 drum v 
+20075 drumbeat n 
+8603 drummer n 
+15038 drumming n 
+3737 drunk j 
+15898 drunk n 
+8320 drunken j 
+19373 drunkenness n 
+1570 dry j 
+3210 dry v 
+9842 dryer n 
+13481 drying n 
+16701 dryly r 
+18384 dryness n 
+5676 dual j 
+19463 dualism n 
+16952 duality n 
+1947 
+ 
+6145 dub v 
+7744 dubious j 
+3553 duck n 
+6861 duck v 
+8809 duct n 
+17418 dud n 
+8538 dude n 
+1812 due i 
+2479 due j 
+12861 duel n 
+10739 dues n 
+12485 duet n 
+15064 duffel n 
+11341 dugout n 
+13528 duke n 
+5156 dull j 
+14320 dull v 
+14818 duly r 
+4712 dumb j 
+12651 dumbbell n 
+19877 dumbfound v 
+11581 dummy n 
+17039 dummy j 
+3671 dump v 
+6580 dump n 
+15169 dumping n 
+14762 dumplings n 
+16072 dumpster n 
+7133 dune n 
+15035 dung n 
+17904 dungeon n 
+14934 dunk v 
+15441 dunk n 
+9208 duo n 
+17151 dupe v 
+19256 duplex j 
+9442 duplicate v 
+18570 duplicate n 
+17302 duplication n 
+12021 durability n 
+8100 durable j 
+5492 duration n 
+198 during i 
+7338 dusk n 
+19520 dusky j 
+2283 dust n 
+7754 dust v 
+19368 duster n 
+5366 dusty j 
+4099 Dutch j 
+20093 dutiful j 
+13404 dutifully r 
+1765 duty n 
+7310 dwarf n 
+11561 dwarf v 
+7296 dwell v 
+11104 dweller n 
+8371 dwelling n 
+10989 dwindle v 
+11252 dwindling j 
+19688 dyad n 
+9159 dye n 
+14574 dye v 
+4636 dying j 
+4017 dynamic j 
+4137 dynamics n 
+17906 dynamism n 
+12515 dynamite n 
+10834 dynasty n 
+9667 dysfunction n 
+10115 dysfunctional j 
+dad (n) 
+daily (adj & adv) 
+damage (n & v) 
+damaged (adj) 
+dance (n & v) 
+dancer (n) 
+dancing (n) 
+danger (n) 
+dangerous (adj) 
+dark (adj & n) 
+data (n) 
+date (n & v) 
+• today’s date (n) 
+daughter (n) 
+day (n) 
+dead (adj) 
+deaf (adj) 
+deal (v) 
+deal with (sth/sb) (phr v) 
+• I’ve had some problems to deal with. 
+• I deal with many people in my job. 
+dear (adj & exclam) 
+• too dear to buy (adj) 
+• Dear Sir (adj) 
+• Oh dear! (exclam) 
+death (n) 
+decide (v) 
+decision (n) 
+declare (v) 
+decorate (v) 
+decrease (n & v) 
+deep (adj & adv) 
+defeat (n & v) 
+defence (n) 
+defend (v) 
+definitely (adv) 
+degree (n) 
+• 90 degrees 
+• a degree in maths 
+delay (n & v) 
+delete (v) 
+delicious (adj) 
+delighted (adj) 
+deliver (v) 
+delivery (n) 
+demand (n & v) 
+dentist (n) 
+depart (v) 
+department (n) 
+department store (n) 
+departure (n) 
+depend (on/upon) (v & phr v) 
+• It depends on what you want to do. 
+• pay a deposit 
+depressed (adj) 
+depth (n) 
+• the depth of the water 
+describe (v) 
+description (n) 
+desert (n) 
+deserve (v) 
+design (n & v) 
+designer (n) 
+desk (n) 
+despite (prep) 
+dessert (n) 
+destination (n) 
+destroy (v) 
+detail (n) 
+detective (n) 
+develop (v) 
+development (n) 
+diagram (n) 
+dial (v) 
+diary (n) 
+dictionary (n) 
+die (v) 
+diet (n) 
+difference (n) 
+different (adj) 
+difficult (adj) 
+difficulty (n) 
+dig (v) 
+digital (adj) 
+digital camera (n) 
+dining room (n) 
+dinner (n) 
+dinosaur (n) 
+diploma (n) 
+direct (adj & v) 
+direction (n) 
+directly (adv) 
+director (n) 
+dirt (n) 
+dirty (adj) 
+disabled (adj) 
+disadvantage (n) 
+disagree (v) 
+disappear (v)
+disappoint (v) 
+• to draw the curtains 
+disappointed (adj) 
+disappointing (adj) 
+disappointment (n) 
+disc/disk (n) 
+• hard disk 
+disc jockey (DJ) (n) 
+disco(theque) (n) 
+discount (n) 
+discover (v) 
+discovery (n) 
+discuss (v) 
+discussion (n) 
+disease (n) 
+disgusting (adj) 
+dish (n) 
+dishwasher (n) 
+disk (n) 
+dislike (v) 
+display (n & v) 
+distance (n) 
+district (n) 
+disturb (v) 
+dive (v) 
+diver (n) 
+divide (v) 
+diving (n) 
+DJ (disc jockey) (n) 
+do (av & v) 
+doctor / Dr (n) 
+document (n) 
+documentary (n) 
+dog (n) 
+doll (n) 
+dollar (n) 
+dolphin (n) 
+donkey (n) 
+door (n) 
+dot (n) 
+• Have you visited CambridgeESOL dot 
+org? 
+double (adj & det) 
+doubt (n & v) 
+• I doubt that I’ll get the job (v) 
+down (adv & prep) 
+download (n & v) 
+downstairs (adj & adv) 
+dozen (det & n) 
+Dr (n) 
+drag (v) 
+• Just drag and drop the file into the 
+trash can. 
+drama (n) 
+draw (v) 
+• to draw a picture of someone or 
+something 
+• to draw near 
+drawer (n) 
+drawing (n) 
+dream (n & v) 
+dress (n & v) 
+dressed (adj) 
+• get dressed drink (n & v) 
+drive (n & v) 
+driver (n) 
+driving licence (n) 
+drop (n & v) 
+drugstore (n) (Am Eng) (Br Eng: chemist) 
+drum (n) 
+dry (adj & v) 
+duck (n) 
+due (adj) 
+• The next bus is due in five minutes. 
+due to (prep phr) 
+dull (adj) 
+during (prep) 
+dust (n) 
+dustbin (n) (Br Eng) (Am Eng: trash can) 
+dusty (adj) 
+duty (n) 
+duty-free (adj & n) 
+duvet (n) 
+DVD (n) 
+DVD player (n)

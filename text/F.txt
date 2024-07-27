@@ -1,0 +1,1176 @@
+18553 fab j 
+12547 fable n 
+14382 fabled j 
+3085 fabric n 
+10618 fabricate v 
+11795 fabrication n 
+5840 fabulous j 
+7739 facade n 
+331 face n 
+554 face v 
+1954 
+ 
+18537 face-lift n 
+8271 face-to-face j 
+16460 faceless j 
+8962 facet n 
+5817 facial j 
+3604 facilitate v 
+12392 facilitator n 
+1304 facility n 
+19296 facsimile n 
+236 fact n 
+5714 faction n 
+730 factor n 
+13231 factor v 
+2151 factory n 
+9162 factual j 
+1998 faculty n 
+11481 fad n 
+2903 fade v 
+8590 faded j 
+14758 fading j 
+811 fail v 
+5924 failed j 
+13554 failing j 
+14944 failing n 
+1367 failure n 
+4156 faint j 
+11182 faint v 
+9923 faintly r 
+1493 fair j 
+11349 fair r 
+14716 fair n 
+2176 fairly r 
+6037 fairness n 
+9666 fairway n 
+6461 fairy n 
+1333 faith n 
+13867 faith-based j 
+5071 faithful j 
+12597 faithfully r 
+5161 fake j 
+8636 fake v 
+19148 fake n 
+16530 falcon n 
+411 fall v 
+1013 fall n 
+15484 fallacy n 
+8033 fallen j 
+11383 falling j 
+9331 fallout n 
+19159 fallow j 
+2539 false j 
+17703 falsehood n 
+12737 falsely r 
+16884 falsify v 
+9534 falter v 
+19878 faltering j 
+4646 fame n 
+8172 famed j 
+11067 familial j 
+1501 familiar j 
+8215 familiarity n 
+18536 familiarize v 
+147 family n 
+8360 famine n 
+1495 famous j 
+9549 famously r 
+1212 fan n 
+5331 fan v 
+11065 fanatic n 
+16835 fanatical j 
+19928 fanaticism n 
+14019 fanciful j 
+5181 fancy j 
+11371 fancy n 
+11835 fancy v 
+13674 fanfare n 
+14805 fang n 
+12184 fantasize v 
+4799 fantastic j 
+2989 fantasy n 
+253 far r 
+977 far j 
+2189 far c 
+15646 far-fetched j 
+14509 far-flung j 
+18763 far-off j 
+11248 far-reaching j 
+12665 faraway n 
+14410 farce n 
+4830 fare n 
+7014 fare v 
+8277 farewell n 
+1265 farm n 
+11808 farm v 
+1598 farmer n 
+8552 farmhouse n 
+5169 farming n 
+8863 farmland n 
+19756 fart n 
+5917 fascinate v 
+19188 fascinated j 
+4246 fascinating j 
+6786 fascination n 
+13792 fascism n 
+13356 fascist j 
+1936 fashion n 
+6358 fashion v 
+7797 fashionable j 
+1100 fast r 
+2585 fast j 
+16258 fast v 
+13416 fast-growing j 
+17595 fast-moving j 
+19350 fast-paced j 
+11955 fastball n 
+8090 fasten v 
+17587 fastener n 
+4638 faster j 
+6864 fastest j 
+12056 fastest-growing j 
+1584 fat n 
+2357 fat j 
+15259 fat-free j 
+4974 fatal j 
+10019 fatality n 
+14925 fatally r 
+2941 fate n 
+12762 fateful j 
+268 father n 
+14282 father v 
+13676 father-in-law n 
+14983 fatherhood n 
+13898 fathom v 
+4862 fatigue n 
+19615 fatigue v 
+16542 fatten v 
+9368 fatty j 
+10960 faucet n 
+1955 
+ 
+2873 fault n 
+12795 fault v 
+10242 faulty j 
+12990 fauna n 
+2523 favor v 
+3437 favor n 
+3505 favor i 
+4847 favorable j 
+10428 favorably r 
+10161 favored j 
+1602 favorite j 
+2900 favorite n 
+18423 favoritism n 
+19947 fawn n 
+5807 fax n 
+7055 fax v 
+988 fear n 
+1670 fear v 
+18459 feared j 
+6291 fearful j 
+11796 fearless j 
+15290 fearsome j 
+12129 feasibility n 
+7730 feasible j 
+5993 feast n 
+16698 feast v 
+7301 feat n 
+4581 feather n 
+16655 feathered j 
+18524 feathery j 
+1194 feature n 
+1740 feature v 
+15166 featured j 
+16283 fecal j 
+17281 feces n 
+10265 fed j 
+14013 fed n 
+494 federal j 
+15176 federalism n 
+15014 Federalist j 
+9421 federally r 
+10562 federation n 
+1840 fee n 
+12618 feeble j 
+1324 feed v 
+6171 feed n 
+3929 feedback n 
+11173 feeder n 
+10987 feeding j 
+13536 feeding n 
+134 feel v 
+3972 feel n 
+18704 feel-good j 
+807 feeling n 
+13920 feign v 
+16522 feisty j 
+18162 fell v 
+19222 fell n 
+11533 fella n 
+2443 fellow j 
+3002 fellow n 
+9487 fellowship n 
+11628 felon n 
+7358 felony n 
+14651 felt n 
+1403 female j 
+2013 female n 
+5897 feminine j 
+12991 femininity n 
+7636 feminism n 
+4702 feminist j 
+6163 feminist n 
+19111 femur n 
+2676 fence n 
+16275 fence v 
+12182 fencing n 
+9216 fend v 
+12403 fender n 
+11943 fennel n 
+16506 feral j 
+18483 ferment v 
+9167 fern n 
+11486 ferocious j 
+16618 ferocity n 
+6592 ferry n 
+11422 ferry v 
+7585 fertile j 
+6199 fertility n 
+13566 fertilization n 
+13876 fertilize v 
+6460 fertilizer n 
+14648 fervent j 
+16932 fervently r 
+11323 fervor n 
+3729 festival n 
+10370 festive j 
+10500 festivity n 
+18442 festoon v 
+10182 fetal j 
+6853 fetch v 
+16609 fetish n 
+8065 fetus n 
+10597 feud n 
+17015 feudal j 
+4418 fever n 
+15131 feverish j 
+19829 feverishly r 
+185 few d 
+1982 fewer d 
+12072 fiance n 
+14003 fiancee n 
+13134 fiasco n 
+14395 fiat n 
+2617 fiber n 
+14829 fiber-optic j 
+13833 fiberglass n 
+18422 fibrosis n 
+17465 fibrous j 
+16310 fickle j 
+2786 fiction n 
+6444 fictional j 
+15272 fictitious j 
+11937 fiddle v 
+12701 fiddle n 
+11918 fidelity n 
+14614 fidget v 
+440 field n 
+7971 field v 
+11148 fielder n 
+11590 fieldwork n 
+4531 fierce j 
+7941 fiercely r 
+7976 fiery j 
+17926 fiesta n 
+3020 fifteen m 
+13503 fifteenth m 
+2520 fifth m 
+18573 fifth-grade j 
+1956 
+ 
+3065 fifty m 
+16252 fifty-five m 
+19324 fifty-two m 
+8775 fig n 
+677 fight v 
+1573 fight n 
+3055 fighter n 
+3285 fighting n 
+12377 figurative j 
+17168 figuratively r 
+553 figure n 
+1081 figure v 
+13575 figurine n 
+14292 filament n 
+1758 file n 
+1895 file v 
+18772 filet n 
+14578 filibuster n 
+7058 filing n 
+13691 Filipino j 
+14677 Filipino n 
+687 fill v 
+12771 fill n 
+15240 filler n 
+10984 fillet n 
+7377 filling n 
+594 film n 
+5852 film v 
+18087 filming n 
+6255 filmmaker n 
+4419 filter n 
+5961 filter v 
+18431 filtering n 
+15826 filth n 
+8872 filthy j 
+16798 filtration n 
+8500 fin n 
+890 final j 
+3479 final n 
+10001 finale n 
+10445 finalist n 
+16479 finality n 
+12827 finalize v 
+471 finally r 
+2833 finance n 
+3480 finance v 
+830 financial j 
+5546 financially r 
+13551 financier n 
+5682 financing n 
+95 find v 
+10659 find n 
+13482 finder n 
+1485 finding n 
+705 fine j 
+9251 fine v 
+18497 fine-tuning n 
+6040 finely r 
+8352 fines n 
+13967 finesse n 
+1046 finger n 
+10827 finger v 
+7925 fingernail n 
+7396 fingerprint n 
+7359 fingertip n 
+918 finish v 
+3802 finish n 
+6965 finished j 
+18318 finisher n 
+10179 finishing j 
+9888 finite j 
+9374 Finn n 
+12571 Finnish j 
+10393 fir n 
+654 fire n 
+1477 fire v 
+6700 firearm n 
+15183 fireball n 
+17910 firecracker n 
+19546 fired j 
+19039 firefight n 
+5584 firefighter n 
+17138 firefly n 
+9280 fireman n 
+5603 fireplace n 
+14795 firepower n 
+17217 firestorm n 
+17748 firewall n 
+12813 firewood n 
+7977 fireworks n 
+6694 firing n 
+905 firm n 
+3277 firm j 
+3855 firmly r 
+86 first m 
+2064 first r 
+11232 first-class j 
+16664 first-degree j 
+15548 first-ever j 
+17710 first-generation j 
+17187 first-person j 
+20108 first-place j 
+19221 first-quarter j 
+13460 first-rate j 
+10477 first-round n 
+9041 first-time j 
+11785 first-year j 
+9482 firsthand r 
+3669 fiscal j 
+19043 fiscally r 
+950 fish n 
+4877 fish v 
+16015 fisher n 
+4313 fisherman n 
+5151 fishery n 
+2039 fishing n 
+19138 fishy j 
+15866 fissure n 
+3919 fist n 
+19542 fistful n 
+1356 fit v 
+3428 fit j 
+6516 fit n 
+3386 fitness n 
+10328 fitting n 
+11249 fitting j 
+300 five m 
+15204 five-day j 
+16353 five-minute j 
+19061 five-star j 
+6470 five-year j 
+12500 five-year-old n 
+1865 fix v 
+6256 fix n 
+15570 fixate v 
+13215 fixation n 
+4378 fixed j 
+17175 fixing n 
+1957 
+ 
+7155 fixture n 
+18651 fizzle v 
+2465 flag n 
+13507 flag v 
+19531 flagrant j 
+11673 flagship n 
+13236 flail v 
+11519 flair n 
+16637 flak n 
+7896 flake n 
+17717 flake v 
+18408 flaky j 
+14091 flamboyant j 
+3227 flame n 
+13023 flaming j 
+19152 flammable j 
+8608 flank n 
+9095 flank v 
+12287 flannel n 
+8272 flap v 
+8378 flap n 
+8626 flare v 
+9263 flare n 
+3533 flash v 
+4149 flash n 
+9253 flash j 
+13087 flashback n 
+16661 flashing j 
+6478 flashlight n 
+11090 flashy j 
+14590 flask n 
+2592 flat j 
+13513 flat r 
+11223 flatly r 
+7565 flatten v 
+15523 flattened j 
+10176 flatter v 
+14984 flattering j 
+19801 flattery n 
+13806 flaunt v 
+3164 flavor n 
+9615 flavor v 
+15403 flavorful j 
+5468 flaw n 
+6819 flawed j 
+11986 flawless j 
+9358 flea n 
+15773 fleck n 
+10614 fledgling j 
+2965 flee v 
+16336 fleece n 
+15575 fleeing j 
+4493 fleet n 
+10788 fleeting j 
+20044 Flemish j 
+3236 flesh n 
+15401 fleshy j 
+9035 flex v 
+12716 flex n 
+4368 flexibility n 
+4267 flexible j 
+19916 flexion n 
+6955 flick v 
+11263 flick n 
+8205 flicker v 
+12540 flicker n 
+12907 flickering j 
+9658 flier n 
+1302 flight n 
+13372 flimsy j 
+10152 flinch v 
+6263 fling v 
+16972 fling n 
+18494 flint n 
+3959 flip v 
+9083 flip n 
+14231 flip-flop n 
+19338 flipper n 
+11551 flipping j 
+8190 flirt v 
+17682 flirtation n 
+14939 flit v 
+3166 float v 
+7035 float n 
+7384 floating j 
+6699 flock n 
+9021 flock v 
+3617 flood n 
+4576 flood v 
+17505 flooded j 
+8127 flooding n 
+18858 floodplain n 
+18847 floodwaters n 
+640 floor n 
+20023 floor v 
+14713 floorboard n 
+14981 flooring n 
+10080 flop v 
+12189 flop n 
+12919 floppy j 
+13294 flora n 
+8514 floral j 
+19963 Florentine j 
+14545 florist n 
+16987 flounder n 
+17624 flounder v 
+3460 flour n 
+17804 floured j 
+6298 flourish v 
+10855 flourish n 
+16034 flourishing j 
+1997 flow n 
+2793 flow v 
+1498 flower n 
+12341 flower v 
+17419 flowered j 
+12574 flowering j 
+18151 flowering n 
+19559 flowery j 
+10240 flowing j 
+5741 flu n 
+13035 fluctuate v 
+19326 fluctuating j 
+8632 fluctuation n 
+13552 fluency n 
+12235 fluent j 
+18161 fluff v 
+19303 fluff n 
+10373 fluffy j 
+3817 fluid n 
+15281 fluid j 
+19807 fluidity n 
+13972 fluke n 
+15572 flunk v 
+9279 fluorescent j 
+9679 flurry n 
+6021 flush v 
+12852 flush n 
+1958 
+ 
+16267 flush r 
+19238 flushed j 
+9018 flute n 
+8189 flutter v 
+18246 flutter n 
+19945 fluttering j 
+10090 flux n 
+946 fly v 
+3220 fly n 
+11005 flyer n 
+4954 flying j 
+8199 flying n 
+6265 foam n 
+7417 focal j 
+689 focus v 
+1437 focus n 
+10891 focused j 
+13276 fodder n 
+7688 foe n 
+4967 fog n 
+13048 foggy j 
+6824 foil n 
+14970 foil v 
+3525 fold v 
+5801 fold n 
+10769 folded j 
+7241 folder n 
+10372 folding j 
+7483 foliage n 
+19629 folic j 
+1346 folk n 
+11706 folklore n 
+326 follow v 
+6486 follow-up j 
+7105 follow-up n 
+5093 follower n 
+1479 following j 
+8932 following i 
+10091 following r 
+10844 following n 
+9464 folly n 
+6335 fond j 
+17117 fondle v 
+13191 fondly r 
+13496 fondness n 
+14241 font n 
+367 food n 
+18487 foodstuff n 
+4071 fool n 
+5205 fool v 
+5867 foolish j 
+18522 foolishly r 
+16222 foolishness n 
+19321 foolproof j 
+381 foot n 
+17265 foot v 
+5986 footage n 
+1543 football n 
+11030 foothill n 
+14582 foothold n 
+9632 footing n 
+10365 footnote n 
+12248 footnote v 
+8583 footprint n 
+6097 footstep n 
+14850 footwear n 
+13 for i 
+2339 for c 
+12519 for-profit j 
+11457 forage v 
+17333 forage n 
+10473 foray n 
+4750 forbid v 
+12163 forbidden j 
+14009 forbidding j 
+373 force n 
+852 force v 
+6110 forced j 
+10248 forceful j 
+10841 forcefully r 
+13723 forcibly r 
+13855 fore n 
+8039 forearm n 
+16535 forebear n 
+17081 foreboding n 
+5974 forecast n 
+7298 forecast v 
+13996 forecaster n 
+16725 foreclose v 
+10847 foreclosure n 
+19577 forefather n 
+14107 forefinger n 
+9002 forefront n 
+18081 forego v 
+19248 foregoing j 
+8739 foreground n 
+3825 forehead n 
+690 foreign j 
+18895 foreign-born j 
+4943 foreigner n 
+11238 foreman n 
+6388 foremost j 
+7476 forensic j 
+18504 forerunner n 
+7747 foresee v 
+11928 foreseeable j 
+16315 foreshadow v 
+14847 foresight n 
+1112 forest n 
+16792 forestall v 
+14086 forested j 
+18911 forester n 
+10645 forestry n 
+2099 forever r 
+13038 forfeit v 
+5372 forge v 
+17584 forged j 
+17124 forgery n 
+875 forget v 
+3629 forgive v 
+7093 forgiveness n 
+11202 forgiving j 
+12941 forgo v 
+10116 forgotten j 
+3797 fork n 
+20169 fork v 
+15490 forlorn j 
+524 form n 
+889 form v 
+2231 formal j 
+12329 formality n 
+18211 formalize v 
+5608 formally r 
+3772 format n 
+15158 format v 
+3070 formation n 
+12105 formative j 
+443 former d 
+1959 
+ 
+4732 formerly r 
+6323 formidable j 
+3369 formula n 
+5928 formulate v 
+7457 formulation n 
+15036 forsake v 
+8724 fort n 
+1847 forth r 
+6848 forthcoming j 
+15772 forthright j 
+18263 fortification n 
+16065 fortified j 
+13155 fortify v 
+17924 fortitude n 
+9309 fortress n 
+5370 fortunate j 
+4360 fortunately r 
+2727 fortune n 
+3768 forty m 
+14987 forty-eight m 
+9686 forty-five m 
+17946 forty-four m 
+18780 forty-one m 
+18416 forty-seven m 
+19423 forty-six m 
+17620 forty-three m 
+15418 forty-two m 
+4759 forum n 
+818 forward r 
+6876 forward j 
+13604 forward n 
+13955 forward v 
+15886 forwards r 
+5101 fossil n 
+4412 foster v 
+5122 foster j 
+16746 fostering n 
+7859 foul j 
+11394 foul n 
+11565 foul v 
+2687 found v 
+2275 foundation n 
+17082 foundational j 
+2822 founder n 
+15346 founder v 
+7664 founding j 
+11012 founding n 
+18943 foundry n 
+5346 fountain n 
+251 four m 
+14685 four-day j 
+18099 four-hour j 
+19469 four-star j 
+19276 four-wheel j 
+6870 four-year j 
+16076 four-year-old j 
+19008 foursome n 
+5570 fourteen m 
+12564 fourteenth m 
+1579 fourth m 
+19784 fourth-grade j 
+17360 fourth-quarter j 
+17437 fowl n 
+7603 fox n 
+9843 foyer n 
+4774 fraction n 
+6215 fracture n 
+15042 fracture v 
+13398 fractured j 
+4788 fragile j 
+16486 fragility n 
+4800 fragment n 
+17172 fragment v 
+19635 fragmentary j 
+11240 fragmentation n 
+10452 fragmented j 
+8336 fragrance n 
+9266 fragrant j 
+9131 frail j 
+17851 frailty n 
+1848 frame n 
+3891 frame v 
+9644 framed j 
+17543 framer n 
+2993 framework n 
+20007 framing n 
+4409 franchise n 
+18891 franchise v 
+18992 franchisee n 
+17603 Franciscan j 
+8384 frank j 
+3592 frankly r 
+7578 frantic j 
+8939 frantically r 
+20114 frat n 
+15235 fraternal j 
+9463 fraternity n 
+3585 fraud n 
+11420 fraudulent j 
+12030 fraught j 
+12145 fray n 
+15550 fray v 
+14719 frayed j 
+9180 freak v 
+9391 freak n 
+15834 freak j 
+14140 freckle n 
+474 free j 
+2875 free v 
+12501 free-market n 
+17384 free-standing j 
+19855 free-trade j 
+1151 freedom n 
+8976 freelance n 
+17783 freelance v 
+4846 freely r 
+7227 Freeman n 
+12592 freestyle n 
+6234 freeway n 
+2831 freeze v 
+8268 freeze n 
+7371 freezer n 
+6463 freezing j 
+8727 freight n 
+15076 freighter n 
+1369 French j 
+3099 French n 
+11982 Frenchman n 
+17014 frenetic j 
+15378 frenzied j 
+7409 frenzy n 
+3034 frequency n 
+3300 frequent j 
+11302 frequent v 
+1824 frequently r 
+12425 fresco n 
+1109 fresh j 
+19332 freshen v 
+1960 
+ 
+5419 freshly r 
+3733 freshman n 
+15150 freshness n 
+9734 freshwater j 
+10166 fret v 
+17569 Freudian j 
+7464 friction n 
+9517 fridge n 
+5684 fried j 
+266 friend n 
+18474 friendliness n 
+2784 friendly j 
+19182 friendly n 
+3061 friendship n 
+12983 fright n 
+5611 frighten v 
+5868 frightened j 
+5612 frightening j 
+11535 frigid j 
+19129 frill n 
+6113 fringe n 
+11070 frivolous j 
+19637 frock n 
+5441 frog n 
+26 from i 
+16408 frond n 
+1091 front i 
+1240 front j 
+1519 front n 
+8333 front r 
+13172 front v 
+19610 front-line j 
+12833 front-page j 
+11257 front-runner n 
+11041 frontal j 
+4466 frontier n 
+14367 frontline n 
+9252 frost n 
+15512 frosted j 
+14649 frosting n 
+14957 frosty j 
+18796 frothy j 
+4837 frown v 
+10921 frown n 
+3814 frozen j 
+17191 frugal j 
+1672 fruit n 
+12035 fruitful j 
+17308 fruition n 
+16116 fruitless j 
+18011 fruity j 
+4913 frustrate v 
+6829 frustrated j 
+6287 frustrating j 
+3268 frustration n 
+7211 fry n 
+8263 fry v 
+10191 frying n 
+5108 fuck v 
+7167 fuck n 
+19592 fucker n 
+4655 fucking j 
+9139 fucking r 
+15206 fudge n 
+1567 fuel n 
+5243 fuel v 
+8907 fugitive n 
+5934 fulfil v 
+5501 fulfill v 
+8887 fulfillment n 
+504 full j 
+6618 full r 
+13027 full-blown j 
+13167 full-fledged j 
+13383 full-length j 
+19532 full-page j 
+11553 full-scale j 
+18153 full-service j 
+13905 full-size j 
+3971 full-time j 
+16894 fullback n 
+14077 fullness n 
+1504 fully r 
+8017 fumble v 
+13767 fumble n 
+9831 fume n 
+14430 fume v 
+1902 fun n 
+2100 fun j 
+1449 function n 
+3270 function v 
+4277 functional j 
+17118 functionality n 
+16714 functionally r 
+8135 functioning n 
+16656 functioning j 
+755 fund n 
+3043 fund v 
+6967 fund-raiser n 
+5999 fund-raising n 
+2349 fundamental j 
+11003 fundamental n 
+12073 fundamentalism n 
+9454 fundamentalist j 
+9664 fundamentalist n 
+5666 fundamentally r 
+11097 funded j 
+2160 funding n 
+2908 funeral n 
+12847 fungal j 
+7181 fungus n 
+13762 funk n 
+10896 funky j 
+11059 funnel n 
+14859 funnel v 
+1803 funny j 
+4751 fur n 
+5613 furious j 
+9982 furiously r 
+9299 furnace n 
+7465 furnish v 
+19196 furnished j 
+8769 furnishings n 
+2691 furniture n 
+16142 furor n 
+15557 furrow n 
+19019 furrow v 
+13433 furry j 
+11556 further v 
+3242 furthermore r 
+18693 furtive j 
+6670 fury n 
+10616 fuse v 
+11754 fuse n 
+17033 fuselage n 
+7363 fusion n 
+9533 fuss n 
+12697 fuss v 
+1961 
+ 
+16003 fussy j 
+9583 futile j 
+13938 futility n 
+655 future n 
+1264 future j 
+17866 futurist n 
+14478 futuristic j 
+19994 fuzz n 
+7450 fuzzy j 
+face (n) 
+• a sad look on his face face to face (adv) 
+face-to-face (adj) 
+facilities (n pl) 
+• The hotel has excellent facilities. 
+fact (n) 
+factory (n) 
+fail (v) 
+fair (adj & n) 
+fairly (adv) 
+fall (n & v) 
+• in the fall (n) (Am Eng) (Br Eng: 
+autumn) 
+• a fall in the price (n) 
+• He fell and hurt his leg. (v) 
+false (adj) 
+familiar (with) (adj) 
+family (n) 
+famous (adj) 
+fan (n) 
+fancy (v) 
+• Do you fancy going out tonight? 
+fantastic (adj) 
+far (adv) 
+fare (n) 
+• The return fare is £26. 
+farm (n) 
+farmer (n) 
+farming (n) 
+fashion (n) 
+fashionable (adj) 
+fast (adj & adv) 
+fasten (v) 
+fast food (n) 
+fat (adj) 
+father (n) 
+fault (n) 
+favour (n) 
+favourite (adj & n) 
+fax (v) 
+fear (n) 
+fee (n) 
+feed (v) 
+feel (v) 
+feeling (n) 
+feel like (v) 
+• to feel like doing something 
+female (adj & n) 
+ferry (n) 
+festival (n) 
+fetch (v) 
+fever (n) 
+few (adj, det & pron) 
+fiction (n) 
+field (n) 
+fight (n & v) 
+figure (n) 
+file (n) 
+• Click here to open the file. 
+• study files fill (v) 
+fill in (phr v) 
+• You need to fill in a form. 
+fill up (phr v) 
+• He filled up the car with petrol. 
+film (n & v) 
+film maker (n) 
+film star 
+final (adj & n) 
+finally (adv) 
+financial (adj) 
+find (v) 
+find out (phr v) 
+• I must find out when he’s arriving. 
+fine (adj & n) 
+finger (n) 
+finish (n & v) 
+fire (n) 
+firefighter (n) 
+firework (n) 
+• a firework display firm (n) 
+firm (n) 
+• a good firm to work for first (adj & adv) 
+first (adj & adv) 
+• first prize (adj) 
+• first of all (adv) 
+first name (n) 
+fish (n & v) 
+fishing (n) 
+fit (adj & v) 
+• keep fit (adj) 
+• These shoes don't fit. (v) 
+fitness (n) 
+fix (v) 
+flag (n) 
+flat (adj & n) 
+flavour (n) 
+flight (n) 
+float (v) 
+flood (n & v) 
+floor (n) 
+flour (n) 
+flow (v) 
+flower (n) 
+flu (n) 
+flute (n) 
+fly (n & v) 
+focus (sth) on/upon sth/sb (v) 
+fog (n) 
+foggy (adj) 
+fold (v) 
+folder (computer)(n) 
+folk (adj & n) 
+follow (v) 
+following (adj) 
+fond (adj) 
+• to be fond of something/someone 
+food (n) 
+fool (n) 
+foot (n) 
+football (n) 
+footballer (n) 
+for (prep) 
+forbidden (adj) 
+forecast (n) 
+foreign (adj) 
+foreigner (n) 
+forest (n) 
+forever (adv) 
+forget (v) 
+forgive (v) 
+fork (n) form (n) 
+former (adj) 
+fortnight (n) 
+fortunately (adv) 
+forward(s) (adv) 
+fountain (n) 
+frame (n) 
+free (adj & adv) 
+freeze (v) 
+freezer (n) 
+freezing (adj) 
+French fries (n) (Am Eng) (Br Eng: chips) 
+frequent (adj) 
+frequently (adv) 
+fresh (adj) 
+fridge (n) 
+fried (adj) 
+friend (n) 
+friendly (adj) 
+friendship (n) 
+frighten (v) 
+frightened (adj) 
+frightening (adj) 
+frog (n) 
+from (prep) 
+front (adj & n) 
+frozen (adj) 
+fruit (n) 
+fry (v) 
+frying pan (n) 
+fuel (n) 
+full (adj) 
+full stop (n) 
+full time (adv) 
+full- time (adj) 
+fully (adv) 
+fun (adj & n)  
+funny (adj) 
+• a funny story (amusing) 
+• a funny thing happened (strange) 
+fur (n) 
+furniture (n) 
+further (adv & adj) 
+furthest (adj) 
+future (adj & n)

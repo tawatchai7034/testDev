@@ -1,0 +1,477 @@
+29 n't x 
+16018 nab v 
+14150 nag v 
+13391 nagging j 
+13694 nah u 
+3588 nail n 
+1991 
+ 
+6565 nail v 
+6204 naive j 
+17557 naivete n 
+3214 naked j 
+19198 nakedness n 
+299 name n 
+816 name v 
+13262 named j 
+14701 nameless j 
+5591 namely r 
+14287 namesake n 
+13832 naming n 
+8878 nanny n 
+16607 nanotechnology n 
+7569 nap n 
+14446 nap v 
+17681 nape n 
+7282 napkin n 
+19304 narcissism n 
+18678 narcissistic j 
+8597 narcotic n 
+10697 narrate v 
+11112 narration n 
+3124 narrative n 
+5229 narrative j 
+5683 narrator n 
+2023 narrow j 
+5562 narrow v 
+8224 narrowly r 
+7881 nasal j 
+13666 nascent j 
+4525 nasty j 
+413 nation n 
+19708 nation-building n 
+10781 nation-state n 
+232 national j 
+11651 national n 
+5695 nationalism n 
+7274 nationalist j 
+7983 nationalist n 
+15026 nationalistic j 
+7892 nationality n 
+19642 nationalize v 
+5359 nationally r 
+4983 nationwide r 
+6467 nationwide j 
+1410 native j 
+5473 native n 
+716 natural j 
+20197 naturalism n 
+11120 naturalist n 
+15239 naturalistic j 
+18873 naturalized j 
+2820 naturally r 
+697 nature n 
+13002 naughty j 
+9526 nausea n 
+16658 nautical j 
+8966 Navajo n 
+4995 naval j 
+16629 nave n 
+14402 navel n 
+6511 navigate v 
+8402 navigation n 
+18908 navigational j 
+17113 navigator n 
+6914 navy n 
+20098 naw u 
+19010 nay n 
+19073 nay u 
+20188 naysayer n 
+5461 Nazi j 
+7255 Nazi n 
+19427 Nazism n 
+707 near i 
+4175 near j 
+4317 near r 
+5939 near v 
+2445 nearby j 
+3757 nearby r 
+5822 nearest j 
+599 nearly r 
+4734 neat j 
+5872 neatly r 
+8715 nebula n 
+1971 necessarily r 
+985 necessary j 
+10483 necessitate v 
+3986 necessity n 
+1529 neck n 
+6688 necklace n 
+19410 neckline n 
+17794 necktie n 
+15496 nectar n 
+132 need v 
+541 need n 
+3841 needle n 
+9519 needless j 
+18062 needlessly r 
+8986 needy j 
+19872 nefarious j 
+12732 negate v 
+19539 negation n 
+1478 negative j 
+9853 negative n 
+7523 negatively r 
+19208 negativity n 
+5125 neglect v 
+6912 neglect n 
+11405 neglected j 
+12019 negligence n 
+14506 negligent j 
+12388 negligible j 
+2565 negotiate v 
+12179 negotiated j 
+9121 negotiating n 
+2279 negotiation n 
+7158 negotiator n 
+19022 negro n 
+1446 neighbor n 
+1137 neighborhood n 
+4889 neighboring j 
+1804 neither r 
+2940 neither d 
+16021 nemesis n 
+15982 neoliberal j 
+8126 neon n 
+19595 neophyte n 
+6454 nephew n 
+14806 nerd n 
+3108 nerve n 
+2415 nervous j 
+7226 nervously r 
+14153 nervousness n 
+4174 nest n 
+11034 nest v 
+8890 nestle v 
+2906 net n 
+1992 
+ 
+3492 net j 
+11411 net v 
+15098 netting n 
+18689 nettle n 
+885 network n 
+14645 network v 
+9576 networking n 
+10758 neural j 
+10884 neurological j 
+14195 neurologist n 
+10816 neuron n 
+20128 neuroscience n 
+18683 neurosurgeon n 
+14992 neurotic j 
+18566 neurotransmitter n 
+4265 neutral j 
+12549 neutrality n 
+10889 neutralize v 
+11623 neutrino n 
+10383 neutron n 
+138 never r 
+14260 never-ending j 
+2605 nevertheless r 
+88 new j 
+7908 newborn j 
+15864 newborn n 
+5679 newcomer n 
+9931 newfound j 
+2814 newly r 
+14076 newlywed n 
+19745 newness n 
+575 news n 
+13641 newscast n 
+6236 newsletter n 
+18877 newsman n 
+1068 newspaper n 
+17353 newsprint n 
+11451 newsroom n 
+15170 newsstand n 
+20130 Newtonian j 
+218 next m 
+1518 next i 
+17600 next-door j 
+14621 nexus n 
+11555 nibble v 
+16257 Nicaraguan j 
+900 nice j 
+11108 nice r 
+6102 nicely r 
+19808 nicety n 
+5902 niche n 
+18744 nick v 
+19055 nick n 
+8001 nickel n 
+6188 nickname n 
+11846 nickname v 
+10518 nicotine n 
+7608 niece n 
+16203 nifty j 
+11284 Nigerian j 
+10553 nigger n 
+209 night n 
+8455 nightclub n 
+14489 nightfall n 
+13375 nightgown n 
+19522 nightlife n 
+9038 nightly j 
+16030 nightly r 
+3620 nightmare n 
+19286 nightmarish j 
+16488 nightstand n 
+10088 nighttime n 
+15129 nimble j 
+1164 nine m 
+16371 nine-year-old j 
+7962 nineteen m 
+5219 nineteenth m 
+7765 nineteenth-century j 
+8440 ninety m 
+19465 ninety-five m 
+19270 ninety-nine m 
+5119 ninth m 
+14379 nip v 
+9025 nipple n 
+12068 nitrate n 
+5967 nitrogen n 
+19778 nix v 
+93 no a 
+699 no r 
+916 no u 
+1111 no p 
+4555 no d 
+19021 no-brainer n 
+19684 no-fly j 
+19401 no-hitter n 
+16066 no-nonsense j 
+12440 nobility n 
+5731 noble j 
+15506 noble n 
+1154 nobody p 
+13728 nocturnal j 
+1565 nod v 
+5312 nod n 
+8089 node n 
+2030 noise n 
+16836 noisily r 
+6664 noisy j 
+15117 nomad n 
+15565 nomadic j 
+11069 nominal j 
+17840 nominally r 
+5014 nominate v 
+3260 nomination n 
+4123 nominee n 
+15569 non-native j 
+15498 non-western j 
+18145 non-white n 
+15178 nondescript j 
+1090 none p 
+3325 nonetheless r 
+8886 nonexistent j 
+14277 nonlinear j 
+3873 nonprofit j 
+6057 nonsense n 
+12319 nonstick j 
+12521 nonstop j 
+13644 nonstop r 
+13332 nonverbal j 
+8096 noodle n 
+16576 noodle v 
+13010 nook n 
+3859 noon n 
+15208 noose n 
+9972 nope u 
+1066 nor c 
+15298 Nordic j 
+3416 norm n 
+1221 normal j 
+1993 
+ 
+15413 normalcy n 
+19861 normality n 
+16857 normalization n 
+13946 normalize v 
+2611 normally r 
+14262 Norman j 
+8767 normative j 
+579 north n 
+4162 northeast n 
+7606 northeastern j 
+1564 northern j 
+14631 northward r 
+3429 northwest n 
+6524 northwestern j 
+10057 Norwegian j 
+17107 Norwegian n 
+1748 nose n 
+18626 nose v 
+8240 nostalgia n 
+10766 nostalgic j 
+8816 nostril n 
+28 not x 
+2929 not c 
+18794 not-for-profit j 
+5365 notable j 
+5334 notably r 
+10378 notation n 
+9699 notch n 
+17266 notch v 
+704 note v 
+878 note n 
+4477 notebook n 
+11125 noted j 
+18545 notepad n 
+9678 noteworthy j 
+316 nothing p 
+16739 nothingness n 
+1048 notice v 
+3621 notice n 
+8652 noticeable j 
+11667 noticeably r 
+12066 notification n 
+6200 notify v 
+1726 notion n 
+13359 notoriety n 
+6243 notorious j 
+10537 notoriously r 
+10643 notwithstanding r 
+12687 notwithstanding i 
+14183 noun n 
+10492 nourish v 
+15258 nourishment n 
+1656 novel n 
+5422 novel j 
+6442 novelist n 
+19289 novella n 
+8117 novelty n 
+7704 novice n 
+72 now r 
+1906 now c 
+6894 nowadays r 
+2946 nowhere r 
+15912 noxious j 
+13801 nozzle n 
+9313 nuance n 
+17395 nuanced j 
+1180 nuclear j 
+7063 nucleus n 
+7714 nude j 
+18045 nude n 
+7878 nudge v 
+14263 nudity n 
+16292 nugget n 
+8901 nuisance n 
+18499 nuke n 
+15641 null j 
+17772 nullify v 
+9544 numb j 
+14993 numb v 
+204 number n 
+8804 number v 
+14668 number-one m 
+17579 numbered j 
+17050 numbness n 
+20074 numeral n 
+10336 numerical j 
+2295 numerous j 
+5766 nun n 
+1889 nurse n 
+6590 nurse v 
+5711 nursery n 
+5324 nursing n 
+5673 nursing j 
+5605 nurture v 
+19730 nurture n 
+13062 nurturing n 
+3216 nut n 
+12123 nutmeg n 
+4904 nutrient n 
+5635 nutrition n 
+7503 nutritional j 
+13690 nutritionist n 
+13688 nutritious j 
+15322 nuts j 
+16841 nutshell n 
+15000 nutty j 
+18637 nuzzle v 
+8613 nylon n 
+16155 nymph n
+name (n & v) 
+narrow (adj) 
+nasty (adj) 
+national (adj) 
+nationality (n) 
+natural (adj) 
+nature (n) 
+• nature studies
+navy blue (adj) 
+near (adv, prep & adj) 
+nearby (adj & adv) 
+nearly (adv) 
+neat (adj) 
+necessary (adj) 
+neck (n) 
+necklace (n) 
+need (v) 
+negative (adj) 
+neighbour (n) 
+neighbourhood (n) 
+neither (adv, det, pron) 
+• She’s not tall, and neither am I. 
+• Neither child was hurt. 
+• They gave us two keys and neither 
+worked. 
+nephew (n) 
+nervous (adj) 
+• a nervous person 
+• to feel nervous 
+nest (n) 
+net (n) 
+network (n) 
+never (adv) 
+new (adj) 
+news (n) 
+newspaper (n) 
+next (adj & adv) 
+next to (prep) 
+nice (adj) 
+niece (n) 
+night (n) 
+nightclub (n) 
+nightlife (n) 
+nightmare (n) 
+no (adv, det & pron) 
+nobody (pron) 
+noise (n) 
+noisy (adj) 
+none (pron) 
+noon (n) 
+no one (pron) 
+normal (adj) 
+normally (adv) 
+north (adj, adv & n) 
+northeast (adj & n) 
+northern (adj) 
+northwest (adj & n) 
+nose (n) 
+not (adv) 
+note (n & v) 
+• to write a note (n) 
+• a ten-pound note (n) 
+• Please note. (v) 
+notebook (n) 
+notepaper (n) 
+nothing (pron) 
+notice (n & v) 
+• to read a notice (n) 
+• until further notice (n) 
+• Did you notice anything wrong? (v) 
+noticeboard (n) 
+novel (n) 
+now (adv) 
+nowadays (adv) 
+nowhere (adv) 
+number (n) 
+• numbers 5 to 7 
+• a large number of cars 
+• What’s your (phone) number? 
+nurse (n)

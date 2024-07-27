@@ -1,0 +1,1031 @@
+11 I p 
+1236 ice n 
+19352 ice v 
+17718 ice-cream n 
+10220 iceberg n 
+11512 iced j 
+18086 Icelandic j 
+15269 icing n 
+4404 icon n 
+12673 iconic j 
+14929 iconography n 
+15993 ICU n 
+6559 icy j 
+312 idea n 
+2839 ideal j 
+4510 ideal n 
+11309 idealism n 
+18811 idealist n 
+12185 idealistic j 
+18155 idealize v 
+14819 idealized j 
+8005 ideally r 
+3862 identical j 
+10806 identifiable j 
+3317 identification n 
+17318 identified j 
+771 identify v 
+1329 identity n 
+4256 ideological j 
+13969 ideologically r 
+16447 ideologue n 
+3678 ideology n 
+13104 idiom n 
+19965 idiosyncrasy n 
+13248 idiosyncratic j 
+6032 idiot n 
+18104 idiotic j 
+8304 idle j 
+12782 idle v 
+13895 idly r 
+9599 idol n 
+19262 idolize v 
+14283 idyllic j 
+2705 ie r 
+40 if c 
+7519 ignite v 
+11473 ignition n 
+5871 ignorance n 
+7485 ignorant j 
+1382 ignore v 
+19873 iguana n 
+19803 ilk n 
+2970 ill j 
+11000 ill n 
+15891 ill r 
+16016 ill-fated j 
+2087 illegal j 
+19283 illegal n 
+6947 illegally r 
+12309 illegitimate j 
+8968 illicit j 
+17177 illiteracy n 
+12600 illiterate j 
+2325 illness n 
+19092 illogical j 
+5459 illuminate v 
+16322 illuminated j 
+18343 illuminating j 
+11447 illumination n 
+4362 illusion n 
+16811 illusory j 
+2368 illustrate v 
+16057 illustrated j 
+5162 illustration n 
+17593 illustrative j 
+12518 illustrator n 
+17211 illustrious j 
+556 image n 
+12039 image v 
+5260 imagery n 
+11547 imaginable j 
+6612 imaginary j 
+2915 imagination n 
+1971 
+ 
+8075 imaginative j 
+912 imagine v 
+10286 imagined j 
+7006 imaging n 
+17105 imam n 
+8287 imbalance n 
+13225 imbue v 
+6238 imitate v 
+7508 imitation n 
+13021 immaculate j 
+12016 immature j 
+14326 immediacy n 
+2199 immediate j 
+1145 immediately r 
+5721 immense j 
+10282 immensely r 
+8258 immerse v 
+12786 immersion n 
+2085 immigrant n 
+14297 immigrate v 
+2452 immigration n 
+6818 imminent j 
+17253 immobile j 
+17376 immobilize v 
+9992 immoral j 
+11663 immortal j 
+13284 immortality n 
+18880 immortalize v 
+4240 immune j 
+7054 immunity n 
+14000 immunization n 
+19650 immunize v 
+19899 immutable j 
+922 impact n 
+7719 impact v 
+7577 impair v 
+10108 impaired j 
+5846 impairment n 
+9896 impart v 
+12629 impartial j 
+13075 impasse n 
+14451 impassioned j 
+20010 impassive j 
+11645 impatience n 
+7572 impatient j 
+12048 impatiently r 
+14220 impeach v 
+7732 impeachment n 
+13267 impeccable j 
+19894 impeccably r 
+8975 impede v 
+10832 impediment n 
+17737 impel v 
+8475 impending j 
+14154 impenetrable j 
+8530 imperative n 
+10188 imperative j 
+10294 imperfect j 
+13347 imperfection n 
+5094 imperial j 
+11443 imperialism n 
+18248 imperialist j 
+18257 imperil v 
+20137 imperious j 
+12363 impersonal j 
+19379 impersonate v 
+15869 impervious j 
+9580 impetus n 
+19383 impinge v 
+19715 implacable j 
+6456 implant n 
+10266 implant v 
+19782 implantation n 
+17755 implausible j 
+2305 implement v 
+14294 implement n 
+3568 implementation n 
+7846 implicate v 
+2456 implication n 
+6842 implicit j 
+9879 implicitly r 
+13735 implied j 
+18345 implode v 
+14178 implore v 
+2819 imply v 
+4087 import n 
+5531 import v 
+1582 importance n 
+267 important j 
+4916 importantly r 
+17925 importation n 
+7938 imported j 
+14290 importer n 
+2353 impose v 
+9282 imposing j 
+11436 imposition n 
+13232 impossibility n 
+1615 impossible j 
+12566 impossibly r 
+15544 impotence n 
+16129 impotent j 
+8541 impoverished j 
+13558 impractical j 
+20118 impregnate v 
+3081 impress v 
+16490 impressed j 
+2559 impression n 
+17480 impressionist j 
+3286 impressive j 
+19288 impressively r 
+10542 imprint n 
+16774 imprint v 
+8633 imprison v 
+19053 imprisoned j 
+10101 imprisonment n 
+10951 improbable j 
+13693 impromptu j 
+8408 improper j 
+11600 improperly r 
+16068 impropriety n 
+998 improve v 
+4168 improved j 
+1952 improvement n 
+6400 improving j 
+10219 improvisation n 
+8961 improvise v 
+17660 improvised j 
+4749 impulse n 
+13759 impulsive j 
+15355 impunity n 
+18743 impurity n 
+6 in i 
+128 in r 
+3038 in c 
+13656 in j 
+9073 in-depth j 
+10345 in-house j 
+13130 in-law n 
+1972 
+ 
+15924 in-service j 
+5177 inability n 
+13357 inaccessible j 
+17853 inaccuracy n 
+8868 inaccurate j 
+14928 inaction n 
+14061 inactive j 
+18183 inactivity n 
+12013 inadequacy n 
+5066 inadequate j 
+19733 inadequately r 
+19449 inadvertent j 
+9285 inadvertently r 
+17017 inanimate j 
+5107 inappropriate j 
+16816 inappropriately r 
+17814 inasmuch c 
+19569 inattention n 
+6924 inaudible j 
+8167 inaugural j 
+12234 inaugurate v 
+9840 inauguration n 
+18073 Inca j 
+16736 incandescent j 
+7920 incapable j 
+20185 incapacitate v 
+12820 incarcerate v 
+12473 incarceration n 
+9824 incarnation n 
+18088 incendiary j 
+12304 incense n 
+17672 incense v 
+2750 incentive n 
+10592 inception n 
+15157 incessant j 
+16948 incessantly r 
+12538 incest n 
+8331 inch v 
+5922 incidence n 
+1994 incident n 
+12581 incidental j 
+8853 incidentally r 
+15528 incinerator n 
+18033 incipient j 
+12836 incision n 
+11643 incite v 
+8429 inclination n 
+13068 incline n 
+5686 inclined j 
+293 include v 
+394 including i 
+5479 inclusion n 
+8438 inclusive j 
+16715 incoherent j 
+1141 income n 
+6862 incoming j 
+19614 incomparable j 
+10388 incompatible j 
+12337 incompetence n 
+10010 incompetent j 
+7041 incomplete j 
+11978 incomprehensible j 
+13702 inconceivable j 
+14523 inconclusive j 
+16596 incongruous j 
+16493 inconsequential j 
+9520 inconsistency n 
+7149 inconsistent j 
+18948 incontinence n 
+11019 inconvenience n 
+13872 inconvenient j 
+2623 incorporate v 
+11620 incorporation n 
+7407 incorrect j 
+11434 incorrectly r 
+660 increase v 
+1267 increase n 
+1999 increased j 
+2387 increasing j 
+1594 increasingly r 
+3054 incredible j 
+4314 incredibly r 
+14623 incredulous j 
+13648 increment n 
+10695 incremental j 
+18355 incriminating j 
+19704 incubate v 
+15757 incubator n 
+19580 inculcate v 
+8051 incumbent n 
+9414 incumbent j 
+8206 incur v 
+17938 incurable j 
+14472 incursion n 
+14667 indebted j 
+16920 indecent j 
+18357 indecision n 
+851 indeed r 
+14449 indefinite j 
+8584 indefinitely r 
+16020 indelible j 
+18339 indentation n 
+2311 independence n 
+1271 independent j 
+8241 independent n 
+5729 independently r 
+16777 indeterminate j 
+2644 index n 
+14630 index v 
+1441 Indian j 
+2340 Indian n 
+786 indicate v 
+3401 indication n 
+10097 indicative j 
+3927 indicator n 
+6578 indict v 
+5702 indictment n 
+18109 indie n 
+8175 indifference n 
+8537 indifferent j 
+3713 indigenous j 
+16598 indigent j 
+15316 indignant j 
+12643 indignation n 
+16876 indignity n 
+18728 indigo j 
+6538 indirect j 
+7139 indirectly r 
+16967 indiscriminate j 
+19114 indiscriminately r 
+9151 indispensable j 
+18884 indisputable j 
+18783 indistinct j 
+12711 indistinguishable j 
+763 individual n 
+981 individual j 
+10809 individualism n 
+15379 individualistic j 
+1973 
+ 
+10852 individuality n 
+13039 individualized j 
+6174 individually r 
+18942 indoctrination n 
+9348 Indonesian j 
+6198 indoor j 
+8292 indoors r 
+5326 induce v 
+17568 inducement n 
+15282 induct v 
+10979 induction n 
+6951 indulge v 
+12845 indulgence n 
+18189 indulgent j 
+1927 industrial j 
+15464 industrialist n 
+12749 industrialization n 
+8109 industrialized j 
+19728 industrious j 
+552 industry n 
+8022 ineffective j 
+18120 ineffectual j 
+13741 inefficiency n 
+9878 inefficient j 
+15964 ineligible j 
+14421 inept j 
+7108 inequality n 
+12444 inequity n 
+14371 inert j 
+13369 inertia n 
+13279 inescapable j 
+14573 inevitability n 
+3597 inevitable j 
+4701 inevitably r 
+18469 inexorable j 
+16104 inexorably r 
+5911 inexpensive j 
+18160 inexperience n 
+10895 inexperienced j 
+13405 inexplicable j 
+15246 inexplicably r 
+15126 inextricably r 
+7804 infamous j 
+11195 infancy n 
+3063 infant n 
+9685 infantry n 
+18237 infatuation n 
+5268 infect v 
+8253 infected j 
+2715 infection n 
+7206 infectious j 
+9444 infer v 
+9771 inference n 
+7654 inferior j 
+15714 inferiority n 
+19908 inferno n 
+18620 infertile j 
+12292 infertility n 
+18399 infest v 
+17369 infestation n 
+18633 infidel n 
+12297 infidelity n 
+14980 infield n 
+18748 infighting n 
+10646 infiltrate v 
+16045 infiltration n 
+6970 infinite j 
+11255 infinitely r 
+11552 infinity n 
+14425 inflame v 
+9393 inflammation n 
+10698 inflammatory j 
+15109 inflatable j 
+9058 inflate v 
+13091 inflated j 
+3225 inflation n 
+16368 inflationary j 
+17004 inflection n 
+17838 inflexible j 
+6576 inflict v 
+16218 inflow n 
+1399 influence n 
+1806 influence v 
+4334 influential j 
+12969 influenza n 
+8741 influx n 
+11036 info n 
+2196 inform v 
+4579 informal j 
+14177 informally r 
+7220 informant n 
+315 information n 
+13991 informational j 
+11058 informative j 
+7871 informed j 
+18152 informer n 
+15335 infraction n 
+7216 infrared j 
+3645 infrastructure n 
+15224 infrequent j 
+14891 infrequently r 
+15385 infringe v 
+16268 infringement n 
+13661 infuriate v 
+9060 infuse v 
+10321 infusion n 
+11844 ingenious j 
+11909 ingenuity n 
+14866 ingest v 
+18158 ingrain v 
+2613 ingredient n 
+6137 inhabit v 
+5997 inhabitant n 
+18077 inhalation n 
+6845 inhale v 
+4981 inherent j 
+7815 inherently r 
+4519 inherit v 
+7801 inheritance n 
+13732 inherited j 
+7537 inhibit v 
+12684 inhibition n 
+13260 inhibitor n 
+19558 inhospitable j 
+16130 inhuman j 
+1957 initial j 
+7916 initial n 
+2738 initially r 
+3557 initiate v 
+8247 initiation n 
+2157 initiative n 
+5672 inject v 
+5812 injection n 
+10165 injunction n 
+3755 injure v 
+5592 injured j 
+1562 injury n 
+6136 injustice n 
+1974 
+ 
+5255 ink n 
+16138 inkling n 
+18187 inlaid j 
+11522 inland r 
+12014 inland j 
+14112 inlet n 
+4135 inmate n 
+7667 inn n 
+10443 innate j 
+2472 inner j 
+9019 inner-city j 
+18032 innermost j 
+7852 inning n 
+7293 innings n 
+18824 innkeeper n 
+5469 innocence n 
+2799 innocent j 
+14721 innocent n 
+16061 innocently r 
+14552 innocuous j 
+19920 innovate v 
+3690 innovation n 
+4484 innovative j 
+13984 innovator n 
+15328 innuendo n 
+13349 innumerable j 
+18821 inoculate v 
+18136 inordinate j 
+18388 inorganic j 
+14200 inpatient n 
+4160 input n 
+18599 input v 
+6787 inquire v 
+3396 inquiry n 
+17841 inquisitive j 
+14874 inroads n 
+6577 insane j 
+10059 insanity n 
+16026 insatiable j 
+9397 inscribe v 
+19999 inscribed j 
+9175 inscription n 
+19319 inscrutable j 
+3434 insect n 
+14911 insecticide n 
+10795 insecure j 
+8425 insecurity n 
+11901 insensitive j 
+18193 insensitivity n 
+13005 inseparable j 
+4345 insert v 
+11689 insert n 
+15108 insertion n 
+16636 inset n 
+967 inside i 
+1303 inside r 
+3980 inside n 
+5493 inside j 
+5405 insider n 
+12692 insidious j 
+2863 insight n 
+13036 insightful j 
+16243 insignia n 
+9077 insignificant j 
+16237 insinuate v 
+1366 insist v 
+7431 insistence n 
+11543 insistent j 
+10133 insofar c 
+13111 insomnia n 
+5088 inspect v 
+3622 inspection n 
+3582 inspector n 
+4098 inspiration n 
+11855 inspirational j 
+2319 inspire v 
+9044 inspired j 
+10504 inspiring j 
+7042 instability n 
+2528 install v 
+4488 installation n 
+10482 installment n 
+2981 instance n 
+4502 instant j 
+4725 instant n 
+14672 instantaneous j 
+18930 instantaneously r 
+4210 instantly r 
+997 instead r 
+1069 instead i 
+16245 instigate v 
+13596 instil v 
+12380 instill v 
+4280 instinct n 
+14977 instinctive j 
+9408 instinctively r 
+5860 institute n 
+8139 institute v 
+990 institution n 
+3233 institutional j 
+17642 institutionalization n 
+11428 institutionalize v 
+15989 institutionalized j 
+4286 instruct v 
+1572 instruction n 
+4369 instructional j 
+11931 instructive j 
+3239 instructor n 
+1621 instrument n 
+5730 instrumental j 
+12468 instrumentation n 
+7235 insufficient j 
+18593 insular j 
+10519 insulate v 
+15806 insulated j 
+19011 insulating j 
+8630 insulation n 
+9341 insulin n 
+6671 insult n 
+7869 insult v 
+12921 insulting j 
+1201 insurance n 
+6275 insure v 
+6150 insurer n 
+8734 insurgency n 
+7425 insurgent n 
+14994 insurgent j 
+16470 insurmountable j 
+16686 insurrection n 
+4679 intact j 
+6107 intake n 
+14351 intangible j 
+5970 integral j 
+3459 integrate v 
+4850 integrated j 
+3609 integration n 
+14961 integrative j 
+3494 integrity n 
+1975 
+ 
+9031 intellect n 
+2880 intellectual j 
+4685 intellectual n 
+9065 intellectually r 
+1424 intelligence n 
+3745 intelligent j 
+18198 intelligently r 
+18814 intelligentsia n 
+18172 intelligible j 
+1544 intend v 
+9195 intended j 
+2315 intense j 
+7128 intensely r 
+20019 intensified j 
+6004 intensify v 
+3329 intensity n 
+5028 intensive j 
+17965 intensively r 
+4002 intent n 
+7749 intent j 
+2540 intention n 
+8933 intentional j 
+7890 intentionally r 
+9155 intently r 
+19742 Inter-American j 
+4388 interact v 
+2090 interaction n 
+5036 interactive j 
+16059 interagency j 
+19900 intercede v 
+7184 intercept v 
+8417 interception n 
+14129 interchange n 
+15533 interchangeable j 
+17150 intercollegiate j 
+13736 intercom n 
+19393 interconnection n 
+7867 intercourse n 
+19738 intercut v 
+12463 interdependence n 
+15278 interdependent j 
+9329 interdisciplinary j 
+417 interest n 
+7836 interest v 
+1287 interested j 
+1076 interesting j 
+6846 interestingly r 
+6277 interface n 
+17051 interface v 
+16956 interfaith j 
+4473 interfere v 
+6500 interference n 
+17539 intergenerational j 
+17314 intergovernmental j 
+6942 interim j 
+15955 interim n 
+3506 interior n 
+3990 interior j 
+14979 interject v 
+18507 interlocking j 
+19953 interlocutor n 
+16993 interlude n 
+12000 intermediary n 
+6977 intermediate j 
+17627 interminable j 
+19593 intermission n 
+12604 intermittent j 
+16266 intermittently r 
+8238 intern n 
+17091 intern v 
+1741 internal j 
+11124 internalize v 
+8981 internally r 
+501 international j 
+7223 internationally r 
+1475 Internet n 
+18252 internist n 
+19845 internment n 
+10644 internship n 
+7150 interpersonal j 
+12098 interplay n 
+2783 interpret v 
+2401 interpretation n 
+5701 interpreter n 
+9956 interpretive j 
+12052 interracial j 
+14895 interrelated j 
+18613 interrelationship n 
+10654 interrogate v 
+6805 interrogation n 
+15837 interrogator n 
+3435 interrupt v 
+9199 interruption n 
+11198 intersect v 
+5842 intersection n 
+14849 intersperse v 
+7641 interstate j 
+12058 interstellar j 
+11854 intertwine v 
+4697 interval n 
+5157 intervene v 
+13024 intervening j 
+1940 intervention n 
+947 interview n 
+2274 interview v 
+15133 interviewee n 
+7964 interviewer n 
+17623 interweave v 
+13917 intestinal j 
+12009 intestine n 
+17340 intifada n 
+5749 intimacy n 
+4259 intimate j 
+11314 intimate v 
+9765 intimately r 
+6739 intimidate v 
+9651 intimidating j 
+9915 intimidation n 
+65 into i 
+12877 intolerable j 
+10514 intolerance n 
+15936 intolerant j 
+19106 intonation n 
+15249 intone v 
+17287 intoxicate v 
+18726 intoxicating j 
+18751 intoxication n 
+14225 intractable j 
+13184 intravenous j 
+15938 intrepid j 
+15182 intricacy n 
+7380 intricate j 
+17713 intricately r 
+8046 intrigue v 
+11359 intrigue n 
+5977 intriguing j 
+7566 intrinsic j 
+13612 intrinsically r 
+1976 
+ 
+1230 introduce v 
+2926 introduction n 
+9090 introductory j 
+18716 introspection n 
+18365 introspective j 
+10406 intrude v 
+9218 intruder n 
+8909 intrusion n 
+11253 intrusive j 
+8687 intuition n 
+9307 intuitive j 
+15442 intuitively r 
+13417 inundate v 
+4560 invade v 
+10049 invader n 
+16942 invading j 
+18247 invalid j 
+19968 invalid n 
+14999 invalidate v 
+10315 invaluable j 
+7219 invariably r 
+3323 invasion n 
+9594 invasive j 
+3426 invent v 
+4828 invention n 
+12610 inventive j 
+8346 inventor n 
+4005 inventory n 
+17286 inverse j 
+14971 inversion n 
+16606 invert v 
+18918 invertebrate n 
+14127 inverted j 
+2015 invest v 
+1816 investigate v 
+1179 investigation n 
+6961 investigative j 
+2286 investigator n 
+10934 investing j 
+1044 investment n 
+1714 investor n 
+19279 invigorating j 
+15471 invincible j 
+17899 invisibility n 
+3847 invisible j 
+4110 invitation n 
+1610 invite v 
+10046 inviting j 
+15738 invocation n 
+16367 invoice n 
+5483 invoke v 
+16086 involuntarily r 
+11340 involuntary j 
+657 involve v 
+1178 involved j 
+2331 involvement n 
+11469 inward r 
+13709 inward j 
+17959 inwardly r 
+16100 iodine n 
+10549 ion n 
+14877 IPO n 
+12050 IPod n 
+7929 IQ n 
+5047 Iranian j 
+9427 Iranian n 
+1662 Iraqi j 
+5187 Iraqi n 
+17518 irate j 
+16348 ire n 
+17349 iridescent j 
+11401 iris n 
+2955 Irish j 
+17726 Irishman n 
+18533 irk v 
+2300 iron n 
+10848 iron v 
+5521 ironic j 
+4861 ironically r 
+4383 irony n 
+8394 irrational j 
+8578 irregular j 
+12910 irregularity n 
+5863 irrelevant j 
+18961 irreplaceable j 
+9272 irresistible j 
+14972 irrespective i 
+8123 irresponsible j 
+17402 irreverent j 
+12914 irreversible j 
+18535 irrevocably r 
+16964 irrigate v 
+7096 irrigation n 
+20041 irritability n 
+14747 irritable j 
+18999 irritant n 
+8635 irritate v 
+16557 irritated j 
+12848 irritating j 
+9376 irritation n 
+3538 Islam n 
+2619 Islamic j 
+11185 Islamist j 
+12614 Islamist n 
+1521 island n 
+17920 islander n 
+4003 isolate v 
+4657 isolated j 
+4315 isolation n 
+19652 isolationist n 
+15900 isotope n 
+2102 Israeli j 
+3915 Israeli n 
+16429 Israeli-Palestinian j 
+248 issue n 
+1875 issue v 
+14558 issuer n 
+16375 issuing j 
+10 it p 
+2660 Italian j 
+5306 Italian n 
+19186 italics n 
+12326 itch v 
+14542 itch n 
+19664 itchy j 
+1034 item n 
+19003 iteration n 
+16831 itinerant j 
+11536 itinerary n 
+78 its a 
+557 itself p 
+6758 ivory n 
+10524 ivy n 
+I (pron) 
+ice (n) 
+ice cream (n) 
+ice hockey (n) 
+ice skates (n) 
+ice skating (n) 
+icy (adj) 
+ID (n) 
+ID card (n) 
+idea (n) 
+identification (n) 
+identify (v) 
+• Babies can identify their mothers. 
+identity card (ID) (n) 
+if (conj) 
+ignore (v) 
+ill (adj) 
+illness (n) 
+imagination (n) 
+imagine (v) 
+immediately (adv) 
+immigration (n) 
+importance (n) 
+important (adj) 
+impossible (adj) 
+impressed (by/with) (adj) 
+improve (v) 
+improvement (n) 
+in (adv & prep) 
+in advance (prep phr) 
+in case (adv & conj) 
+inch (n) 
+include (v) 
+including (prep) 
+incorrect (adj) 
+increase (v) 
+incredible (adj) 
+incredibly (adv) 
+• The team played incredibly well. 
+indeed (adv) 
+independent (adj) 
+individual (adj) 
+indoor (adj) 
+indoors (adv) 
+industry (n) 
+in fact (prep phr) 
+influence (n & v) 
+inform (v) 
+information (n) 
+in front of (prep phr) 
+ingredient (n) 
+• I always use fresh ingredients 
+in half (prep phr) 
+in ink (prep phr) 
+initial (n) 
+• His initials are J.B.H. 
+injure (v) 
+ink (n) 
+in love (prep phr) 
+in pencil (prep phr) 
+in order (prep phr)
+in order to (prep phr) 
+inquiry (n) 
+insect (n) 
+inside (adv & prep) 
+insist (v) 
+inspire (v) 
+• She inspired him to become an actor. 
+install (v) 
+instance (n) 
+• for instance 
+instead (of) (adv) 
+• There were no lemons so I got 
+oranges instead. 
+• Can you come on Monday instead of 
+Tuesday? 
+instructions (n pl) 
+instructor (n) 
+instrument (n) 
+• musical instrument 
+intelligent (adj) 
+intend (v) 
+• to intend to do something 
+interest (n & v) 
+interested (adj) 
+interesting (adj) 
+intermediate (adj) 
+international (adj) 
+internet (n) 
+interrupt (v) 
+interval (n) 
+• an interval in a play 
+interview (n & v) 
+in the end (prep phr) 
+in time (prep phr) 
+into (prep) 
+introduce (v) 
+introduction (n) 
+in two (prep phr) 
+invent (v) 
+invention (n) 
+invitation (n) 
+invite (v) 
+involve (v) 
+iron (n & v) 
+ironing (n) 
+island (n) 
+issue (n) 
+IT (Information Technology) (n) 
+it (pron) 
+item (n) 
+its (det) 
+itself (pron) 

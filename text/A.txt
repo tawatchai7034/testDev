@@ -1,0 +1,1562 @@
+5 a a 
+13148 aback r 
+2201 abandon v 
+16999 abandon n 
+6272 abandoned j 
+10172 abandonment n 
+13658 abate v 
+16906 abatement n 
+19367 abbreviated j 
+20057 abdicate v 
+9933 abdomen n 
+10793 abdominal j 
+11732 abduct v 
+11329 abduction n 
+12832 aberration n 
+15944 abet v 
+17409 abhor v 
+8616 abide v 
+16202 abiding j 
+783 ability n 
+17227 abject j 
+17648 ablaze j 
+386 able j 
+17219 able-bodied j 
+8398 abnormal j 
+11731 abnormality n 
+19896 abnormally r 
+5043 aboard i 
+7655 aboard r 
+7618 abolish v 
+14133 abolition n 
+17930 abolitionist n 
+20064 abomination n 
+10267 aboriginal j 
+12760 abort v 
+1983 abortion n 
+7817 abound v 
+46 about i 
+179 about r 
+896 above i 
+1599 above r 
+5947 above j 
+19696 above-average j 
+19250 abrasion n 
+16991 abrasive j 
+17155 abreast j 
+3392 abroad r 
+8880 abrupt j 
+5311 abruptly r 
+19996 abscess n 
+2547 absence n 
+5589 absent j 
+15440 absent v 
+13498 absentee n 
+15074 absently r 
+3192 absolute j 
+1152 absolutely r 
+17761 absolve v 
+3145 absorb v 
+18301 absorbing j 
+8757 absorption n 
+14293 abstain v 
+11047 abstinence n 
+4045 abstract j 
+17268 abstract v 
+19979 abstract n 
+8576 abstraction n 
+5987 absurd j 
+12729 absurdity n 
+17636 absurdly r 
+5495 abundance n 
+6318 abundant j 
+16665 abundantly r 
+1548 abuse n 
+3778 abuse v 
+14331 abused j 
+10563 abuser n 
+7246 abusive j 
+19140 abut v 
+19432 abysmal j 
+12173 abyss n 
+11593 academia n 
+1473 academic j 
+6118 academic n 
+9527 academically r 
+5670 academy n 
+18767 accede v 
+4977 accelerate v 
+11099 accelerated j 
+15397 accelerating j 
+8159 acceleration n 
+11748 accelerator n 
+4181 accent n 
+14550 accent v 
+11144 accentuate v 
+767 accept v 
+15753 acceptability n 
+3445 acceptable j 
+3473 acceptance n 
+6833 accepted j 
+1117 access n 
+4416 access v 
+10651 accessibility n 
+4423 accessible j 
+17037 accession n 
+6532 accessory n 
+1720 accident n 
+7619 accidental j 
+7173 accidentally r 
+12788 acclaim n 
+19327 acclaim v 
+11782 acclaimed j 
+15754 accolade n 
+3753 accommodate v 
+5439 accommodation n 
+11613 accompaniment n 
+2460 accompany v 
+7078 accompanying j 
+13098 accomplice n 
+2366 accomplish v 
+9130 accomplished j 
+4351 accomplishment n 
+6159 accord n 
+7895 accord v 
+8254 accordance i 
+479 according i 
+5656 accordingly r 
+15142 accordion n 
+19961 accost v 
+1075 account n 
+1923 account v 
+4855 accountability n 
+5795 accountable j 
+6036 accountant n 
+1908 
+ 
+3960 accounting n 
+17146 accredit v 
+10474 accreditation n 
+18225 accredited j 
+18321 accretion n 
+12487 accrue v 
+12099 acculturation n 
+5148 accumulate v 
+12712 accumulated j 
+8629 accumulation n 
+4111 accuracy n 
+2754 accurate j 
+4950 accurately r 
+4924 accusation n 
+2041 accuse v 
+9597 accused j 
+12936 accuser n 
+7723 accustom v 
+8692 accustomed j 
+12262 ace n 
+13770 ace j 
+7870 ache v 
+9270 ache n 
+17329 achievable j 
+1155 achieve v 
+2038 achievement n 
+18520 achiever n 
+14021 aching j 
+3265 acid n 
+14796 acidic j 
+18311 acidity n 
+1664 acknowledge v 
+14576 acknowledged j 
+13828 acknowledgement n 
+10157 acknowledgment n 
+14300 acne n 
+15951 acorn n 
+10438 acoustic j 
+16260 acoustic n 
+9859 acquaint v 
+6366 acquaintance n 
+15708 acquiesce v 
+18394 acquiescence n 
+2079 acquire v 
+15638 acquired j 
+3893 acquisition n 
+10246 acquit v 
+15816 acquittal n 
+13119 acreage n 
+19584 acrid j 
+20193 acrobat n 
+13949 acronym n 
+378 across i 
+3154 across r 
+13122 acrylic n 
+13265 acrylic j 
+840 act v 
+1139 act n 
+8556 acting j 
+12556 acting n 
+503 action n 
+6202 activate v 
+13492 activation n 
+1451 active j 
+4356 actively r 
+7215 activism n 
+2618 activist n 
+538 activity n 
+1507 actor n 
+3263 actress n 
+1752 actual j 
+15663 actuality n 
+397 actually r 
+18029 actuator n 
+16480 acuity n 
+18641 acumen n 
+15892 acupuncture n 
+5320 acute j 
+11678 acutely r 
+1761 ad n 
+16389 adage n 
+11527 adamant j 
+16280 adamantly r 
+2954 adapt v 
+18124 adaptability n 
+15336 adaptable j 
+5258 adaptation n 
+14069 adapter n 
+8426 adaptive j 
+341 add v 
+4602 added j 
+6179 addict n 
+8666 addict v 
+5261 addiction n 
+10546 addictive j 
+2065 addition i 
+3976 addition n 
+1326 additional j 
+6039 additionally r 
+15315 additive n 
+15726 additive j 
+1031 address v 
+1820 address n 
+10465 adept j 
+15090 adequacy n 
+3326 adequate j 
+6172 adequately r 
+19016 ADHD n 
+6620 adhere v 
+10236 adherence n 
+13050 adherent n 
+17954 adhesive n 
+19439 adhesive j 
+6752 adjacent j 
+9356 adjacent i 
+10591 adjective n 
+18331 adjoin v 
+12294 adjoining j 
+17074 adjourn v 
+19867 adjudicate v 
+12111 adjunct n 
+2320 adjust v 
+10270 adjustable j 
+14996 adjusted j 
+19658 adjuster n 
+3146 adjustment n 
+3695 administer v 
+636 administration n 
+3543 administrative j 
+2505 administrator n 
+10735 admirable j 
+18947 admirably r 
+12686 admiral n 
+7080 admiration n 
+3305 admire v 
+9794 admirer n 
+16521 admiring j 
+3057 admission n 
+1909 
+ 
+1093 admit v 
+9119 admittedly r 
+18238 admitting j 
+12778 admonish v 
+14802 admonition n 
+15474 adobe n 
+7012 adolescence n 
+3414 adolescent n 
+5302 adolescent j 
+1641 adopt v 
+10808 adopted j 
+3711 adoption n 
+11032 adoptive j 
+13222 adorable j 
+16882 adoration n 
+7854 adore v 
+17484 adoring j 
+8158 adorn v 
+19972 adornment n 
+10686 adrenaline n 
+15018 adrift j 
+19975 adulation n 
+972 adult n 
+7679 adult j 
+11231 adultery n 
+7917 adulthood n 
+2316 advance n 
+2706 advance v 
+2824 advanced j 
+6733 advancement n 
+9483 advancing j 
+1308 advantage n 
+14583 advantageous j 
+8282 advent n 
+2885 adventure n 
+13796 adventurer n 
+11153 adventurous j 
+15682 adversarial j 
+7378 adversary n 
+6396 adverse j 
+12961 adversely r 
+11635 adversity n 
+5188 advertise v 
+6045 advertisement n 
+7774 advertiser n 
+2664 advertising n 
+1650 advice n 
+19492 advisable j 
+2575 advise v 
+2745 adviser n 
+5981 advisor n 
+5172 advisory j 
+5139 advocacy n 
+2646 advocate n 
+3947 advocate v 
+19180 aegis n 
+7468 aerial n 
+8954 aerobic j 
+12552 aerobics n 
+18037 aerodynamic j 
+15916 aerosol n 
+8977 aerospace n 
+4343 aesthetic j 
+17112 aesthetically r 
+9507 aesthetics n 
+13543 afar r 
+16846 affable j 
+1373 affair n 
+966 affect v 
+7770 affect n 
+9229 affected j 
+5200 affection n 
+12472 affectionate j 
+14896 affectionately r 
+8774 affective j 
+10742 affidavit n 
+7038 affiliate n 
+10048 affiliate v 
+17628 affiliated j 
+7178 affiliation n 
+9470 affinity n 
+5791 affirm v 
+10044 affirmation n 
+5087 affirmative j 
+18938 affirmative n 
+14335 affix v 
+9864 afflict v 
+14134 affliction n 
+15293 affluence n 
+7285 affluent j 
+1860 afford v 
+19302 affordability n 
+5303 affordable j 
+16888 affront n 
+14799 aficionado n 
+17993 afield r 
+11529 afloat j 
+18078 afoot r 
+12502 aforementioned j 
+1407 afraid j 
+1207 African j 
+6214 African n 
+3340 African-American j 
+5724 African-American n 
+19476 Afro-American j 
+16732 aft j 
+17224 aft r 
+120 after i 
+260 after c 
+9383 after r 
+16827 after j 
+11692 after-school j 
+14521 afterlife n 
+5732 aftermath n 
+1195 afternoon n 
+18955 aftershock n 
+14487 afterthought n 
+4235 afterward r 
+5728 afterwards r 
+184 again r 
+180 against i 
+387 age n 
+3942 age v 
+13868 age-old j 
+19047 age-related j 
+8644 aged j 
+695 agency n 
+2149 agenda n 
+1023 agent n 
+10056 aggravate v 
+16989 aggravated j 
+13283 aggregate j 
+15458 aggregate n 
+18775 aggregate v 
+17884 aggregation n 
+4572 aggression n 
+2538 aggressive j 
+6322 aggressively r 
+1910 
+ 
+15655 aggressiveness n 
+13815 aggressor n 
+19192 aggrieved j 
+17883 aghast j 
+14655 agile j 
+15304 agility n 
+5376 aging j 
+6296 aging n 
+12483 agitate v 
+13386 agitated j 
+13318 agitation n 
+317 ago r 
+16004 agonize v 
+12764 agonizing j 
+7722 agony n 
+12621 agrarian j 
+515 agree v 
+14120 agreeable j 
+16853 agreed j 
+1063 agreement n 
+20028 agribusiness n 
+3131 agricultural j 
+4204 agriculture n 
+3284 ah u 
+12313 aha u 
+1028 ahead r 
+2672 ahead i 
+18803 ahh u 
+1649 aid n 
+4566 aid v 
+3062 aide n 
+2021 AIDS n 
+16544 ail v 
+11141 ailing j 
+8902 ailment n 
+1945 aim v 
+3675 aim n 
+18711 aimlessly r 
+371 air n 
+6820 air v 
+15901 air-conditioned j 
+18561 air-conditioning n 
+18805 air-conditioning j 
+7247 airborne j 
+2827 aircraft n 
+16401 airfare n 
+13089 airfield n 
+20179 airflow n 
+16052 airing n 
+2147 airline n 
+12244 airliner n 
+14803 airlock n 
+15764 airman n 
+3551 airplane n 
+1780 airport n 
+16912 airspace n 
+17891 airstrike n 
+18598 airstrip n 
+12499 airtight j 
+11981 airwaves n 
+12669 airway n 
+10914 airy j 
+4535 aisle n 
+17443 ajar j 
+8038 akin j 
+16668 al-Qaeda n 
+18833 Alamo n 
+3728 alarm n 
+8166 alarm v 
+14275 alarmed j 
+7862 alarming j 
+19567 alarmingly r 
+8679 alas u 
+12202 Alaskan j 
+12522 Albanian j 
+13975 Albanian n 
+6170 albeit c 
+2234 album n 
+17780 alchemy n 
+2211 alcohol n 
+7898 alcoholic n 
+10122 alcoholic j 
+9310 alcoholism n 
+14141 alcove n 
+18149 alderman n 
+13205 ale n 
+5388 alert v 
+5717 alert j 
+10227 alert n 
+19054 alertness n 
+15890 alfalfa n 
+9690 algae n 
+13208 algebra n 
+14555 Algerian j 
+8376 algorithm n 
+13744 alibi n 
+4016 alien n 
+5224 alien j 
+8301 alienate v 
+17102 alienated j 
+18454 alienating j 
+9852 alienation n 
+18006 alight v 
+6028 align v 
+8063 alignment n 
+4440 alike r 
+12353 alike j 
+1541 alive j 
+43 all d 
+222 all r 
+10530 All-American j 
+17975 all-day j 
+17087 all-important j 
+16937 all-night j 
+13336 all-out j 
+9030 all-purpose j 
+6169 all-star j 
+18734 all-star n 
+7337 all-time j 
+17305 all-white j 
+17871 allay v 
+3548 allegation n 
+5386 allege v 
+4129 alleged j 
+4706 allegedly r 
+7355 allegiance n 
+16769 allegorical j 
+14125 allegory n 
+18067 allergen n 
+9339 allergic j 
+7343 allergy n 
+7662 alleviate v 
+4386 alley n 
+16543 alleyway n 
+3405 alliance n 
+5983 allied j 
+9760 alligator n 
+6867 allocate v 
+1911 
+ 
+7203 allocation n 
+13613 allot v 
+14765 allotment n 
+340 allow v 
+17358 allowable j 
+7820 allowance n 
+12103 alloy n 
+8763 allude v 
+12198 allure n 
+14646 alluring j 
+11452 allusion n 
+2430 ally n 
+10599 ally v 
+12218 almighty j 
+7645 almond n 
+292 almost r 
+12912 aloft r 
+1101 alone r 
+1620 alone j 
+448 along i 
+1200 along r 
+4243 alongside i 
+13512 alongside r 
+14938 aloof j 
+5774 aloud r 
+6823 alpha n 
+9403 alphabet n 
+8406 alpine j 
+335 already r 
+12598 alright r 
+16441 alright j 
+87 also r 
+5743 altar n 
+2910 alter v 
+9194 alteration n 
+19950 altercation n 
+10177 altered j 
+7518 alternate j 
+8770 alternate v 
+11193 alternately r 
+14207 alternating j 
+2089 alternative n 
+2600 alternative j 
+10782 alternatively r 
+379 although c 
+6464 altitude n 
+3838 altogether r 
+16167 altruism n 
+16248 altruistic j 
+18699 alum n 
+4282 aluminum n 
+7538 alumnus n 
+206 always r 
+1196 AM r 
+17956 amalgam n 
+9866 amass v 
+5879 amateur j 
+7795 amateur n 
+8783 amaze v 
+6153 amazed j 
+9565 amazement n 
+2314 amazing j 
+8897 amazingly r 
+4567 ambassador n 
+14157 amber j 
+17330 amber n 
+14595 ambience n 
+12745 ambient j 
+7135 ambiguity n 
+7194 ambiguous j 
+4326 ambition n 
+4331 ambitious j 
+10087 ambivalence n 
+10980 ambivalent j 
+14474 amble v 
+5571 ambulance n 
+11616 ambush n 
+13235 ambush v 
+18310 ameliorate v 
+11107 amen u 
+16327 amenable j 
+7498 amend v 
+3698 amendment n 
+17259 amends n 
+8787 amenities n 
+176 American j 
+545 American n 
+19243 Americanization n 
+16385 amiable j 
+3861 amid i 
+10083 amidst i 
+12349 amino n 
+13363 Amish j 
+17373 Amish n 
+18373 amiss r 
+16053 ammo n 
+12875 ammonia n 
+6950 ammunition n 
+15505 amnesia n 
+10810 amnesty n 
+19064 amok r 
+280 among i 
+7972 amongst i 
+19857 amorous j 
+16352 amorphous j 
+782 amount n 
+5620 amount v 
+19130 amp n 
+19847 amphetamine n 
+17127 amphibian n 
+18680 amphibious j 
+17327 amphitheater n 
+6379 ample j 
+18585 amplification n 
+16077 amplifier n 
+9826 amplify v 
+14669 amplitude n 
+18610 amply r 
+17705 amputate v 
+13065 amputation n 
+17640 amputee n 
+19441 amulet n 
+9911 amuse v 
+9422 amused j 
+6830 amusement n 
+9247 amusing j 
+18825 anachronism n 
+19443 anachronistic j 
+17400 anaerobic j 
+15189 anal j 
+10210 analog n 
+10475 analogous j 
+5995 analogy n 
+13132 analyse v 
+814 analysis n 
+1681 analyst n 
+12379 analytic j 
+7475 analytical j 
+1912 
+ 
+2336 analyze v 
+18883 analyzer n 
+15832 anarchist n 
+11650 anarchy n 
+17742 anathema n 
+14024 anatomical j 
+8308 anatomy n 
+4178 ancestor n 
+9154 ancestral j 
+11086 ancestry n 
+5024 anchor n 
+5944 anchor v 
+16567 anchovy n 
+1832 ancient j 
+18344 ancient n 
+17903 ancillary j 
+3 and c 
+3652 and/or c 
+14249 Andean j 
+10575 anecdotal j 
+9116 anecdote n 
+14766 anemia n 
+18372 anemic j 
+12409 anesthesia n 
+20094 anesthesiologist n 
+20154 aneurysm n 
+10612 anew r 
+4020 angel n 
+18403 angelic j 
+2382 anger n 
+5287 anger v 
+3014 angle n 
+11235 angle v 
+19619 angled j 
+6917 angler n 
+14702 Anglican j 
+19172 angling n 
+11619 Anglo j 
+17230 Anglo-American j 
+19570 Anglo-Saxon j 
+8227 angrily r 
+1717 angry j 
+13642 angst n 
+8573 anguish n 
+15728 anguished j 
+10307 angular j 
+729 animal n 
+12780 animate v 
+6834 animated j 
+7706 animation n 
+11975 animosity n 
+3850 ankle n 
+19775 annal n 
+15248 annex v 
+15800 annexation n 
+16019 annihilate v 
+16424 annihilation n 
+3403 anniversary n 
+1167 announce v 
+3639 announcement n 
+8743 announcer n 
+10084 annoy v 
+10789 annoyance n 
+8843 annoyed j 
+8443 annoying j 
+1368 annual j 
+15625 annual n 
+4067 annually r 
+13327 annuity n 
+16132 anoint v 
+17424 anomalous j 
+9064 anomaly n 
+7638 anonymity n 
+4363 anonymous j 
+15005 anonymously r 
+17449 anorexia n 
+145 another d 
+2337 another p 
+13083 ANOVA n 
+768 answer n 
+824 answer v 
+6956 answering j 
+5889 ant n 
+14513 antagonism n 
+16608 antagonist n 
+16899 antagonistic j 
+18495 antagonize v 
+12671 Antarctic j 
+18417 antebellum j 
+17181 antecedent n 
+11821 antelope n 
+7238 antenna n 
+12232 anterior j 
+9725 anthem n 
+10536 anthology n 
+9301 anthrax n 
+10978 anthropological j 
+6370 anthropologist n 
+6831 anthropology n 
+15463 anti j 
+12611 anti-abortion j 
+19048 anti-aircraft j 
+12509 anti-American j 
+19173 anti-communist j 
+12562 anti-depressant n 
+19703 anti-drug j 
+20129 anti-government j 
+17088 anti-inflammatory j 
+13174 anti-semitic j 
+10851 anti-semitism n 
+10532 anti-war j 
+5143 antibiotic n 
+8980 antibody n 
+3215 anticipate v 
+8950 anticipated j 
+6273 anticipation n 
+13061 antics n 
+11817 antidote n 
+17619 antigen n 
+11464 antioxidant n 
+16727 antioxidant j 
+18544 antipathy n 
+14918 antiquated j 
+5830 antique j 
+6453 antique n 
+8888 antiquity n 
+18732 antiseptic j 
+11343 antisocial j 
+15607 antithesis n 
+18554 antithetical j 
+12476 antler n 
+18802 anvil n 
+2489 anxiety n 
+3864 anxious j 
+10873 anxiously r 
+109 any d 
+4720 any r 
+1387 anybody p 
+1913 
+ 
+10164 anyhow r 
+1705 anymore r 
+659 anyone p 
+15270 anyplace r 
+332 anything p 
+1400 anyway r 
+1893 anywhere r 
+14083 Apache n 
+14243 Apache j 
+1984 apart r 
+4785 apart i 
+7082 apartheid n 
+1280 apartment n 
+14208 apathy n 
+8735 ape n 
+12972 aperture n 
+13807 apex n 
+19045 aphid n 
+9868 apiece r 
+19767 apnea n 
+19353 apocalypse n 
+13271 apocalyptic j 
+18654 apolitical j 
+15247 apologetic j 
+19699 apologetically r 
+19889 apologist n 
+3782 apologize v 
+4999 apology n 
+14642 apostle n 
+17638 apostolic j 
+13540 appal v 
+12754 Appalachian j 
+13143 appalled j 
+11128 appalling j 
+7085 apparatus n 
+9127 apparel n 
+2526 apparent j 
+1414 apparently r 
+13115 apparition n 
+1866 appeal n 
+2927 appeal v 
+7146 appealing j 
+396 appear v 
+1695 appearance n 
+12789 appease v 
+12063 appellate j 
+16265 appendage n 
+14423 appendix n 
+5273 appetite n 
+9476 appetizer n 
+5802 applaud v 
+5671 applause n 
+2718 apple n 
+6127 appliance n 
+17228 applicability n 
+7731 applicable j 
+5586 applicant n 
+1528 application n 
+6561 applied j 
+941 apply v 
+3200 appoint v 
+13218 appointed j 
+10323 appointee n 
+3048 appointment n 
+7899 appraisal n 
+13542 appraise v 
+18941 appraiser n 
+1751 appreciate v 
+4365 appreciation n 
+12957 appreciative j 
+11938 apprehend v 
+9683 apprehension n 
+13875 apprehensive j 
+8759 apprentice n 
+13049 apprenticeship n 
+751 approach n 
+1374 approach v 
+13367 approaching j 
+1502 appropriate j 
+7134 appropriate v 
+6569 appropriately r 
+14272 appropriateness n 
+6632 appropriation n 
+2572 approval n 
+2070 approve v 
+10334 approved j 
+19285 approvingly r 
+12205 approximate v 
+13739 approximate j 
+2386 approximately r 
+14071 approximation n 
+15952 APR n 
+13288 apricot n 
+8236 apron n 
+7115 apt j 
+12785 aptitude n 
+12082 aptly r 
+17824 aquaculture n 
+10589 aquarium n 
+8358 aquatic j 
+13965 aquifer n 
+2221 Arab j 
+3997 Arab n 
+14223 Arab-Israeli j 
+11475 Arabian j 
+9355 Arabic n 
+9897 Arabic j 
+15469 arbiter n 
+16430 arbitrarily r 
+7695 arbitrary j 
+9089 arbitration n 
+16855 arbitrator n 
+19540 arbor n 
+6009 arc n 
+12439 arcade n 
+13579 arcane j 
+6412 arch n 
+10928 arch v 
+15790 arch j 
+7090 archaeological j 
+6342 archaeologist n 
+8623 archaeology n 
+13541 archaic j 
+13904 archbishop n 
+18203 archdiocese n 
+14531 arched j 
+17375 archer n 
+16153 archetypal j 
+16201 archetype n 
+15127 archipelago n 
+3393 architect n 
+5344 architectural j 
+3541 architecture n 
+13779 archival j 
+6616 archive n 
+20031 archive v 
+19132 archway n 
+6208 Arctic j 
+1914 
+ 
+11105 ardent j 
+12805 arduous j 
+231 area n 
+3625 arena n 
+11348 Argentine j 
+6878 arguably r 
+779 argue v 
+1189 argument n 
+16434 aria n 
+10996 arid j 
+2603 arise v 
+14235 aristocracy n 
+14580 aristocrat n 
+12167 aristocratic j 
+11702 arithmetic n 
+19133 ark n 
+492 arm n 
+4727 arm v 
+17204 armament n 
+9991 armchair n 
+2604 armed j 
+13887 Armenian j 
+18433 Armenian n 
+5963 armor n 
+8390 armored j 
+13553 armpit n 
+1547 army n 
+8488 aroma n 
+14544 aromatic j 
+265 around i 
+327 around r 
+9887 arousal n 
+7277 arouse v 
+2236 arrange v 
+2378 arrangement n 
+3589 array n 
+16113 array v 
+2159 arrest v 
+3052 arrest n 
+3222 arrival n 
+813 arrive v 
+8366 arrogance n 
+7741 arrogant j 
+4887 arrow n 
+7524 arsenal n 
+13126 arsenic n 
+12700 arson n 
+347 art n 
+17442 arterial j 
+6049 artery n 
+16115 artful j 
+17466 artfully r 
+19980 arthritic j 
+7502 arthritis n 
+12365 artichoke n 
+732 article n 
+4915 articulate v 
+12115 articulate j 
+17961 articulated j 
+11295 articulation n 
+4608 artifact n 
+18981 artifice n 
+4043 artificial j 
+11647 artificially r 
+6638 artillery n 
+9501 artisan n 
+737 artist n 
+3281 artistic j 
+17394 artistically r 
+14137 artistry n 
+6312 artwork n 
+18932 arugula n 
+18289 Aryan j 
+33 as c 
+49 as i 
+129 as r 
+9187 asbestos n 
+9743 ascend v 
+18108 ascendancy n 
+15482 ascending j 
+18608 ascension n 
+10561 ascent n 
+9806 ascertain v 
+19065 ascetic j 
+11675 ASCII n 
+11210 ascribe v 
+4627 ash n 
+5725 ashamed j 
+9748 ashore r 
+12427 ashtray n 
+2371 Asian j 
+8165 Asian n 
+19970 Asian-American j 
+1892 aside r 
+6046 aside i 
+131 ask v 
+19014 askew j 
+13689 asking n 
+3106 asleep j 
+9528 asparagus n 
+1364 aspect n 
+15534 aspen n 
+8462 asphalt n 
+5681 aspiration n 
+7970 aspire v 
+7995 aspirin n 
+11206 aspiring j 
+4242 ass n 
+16513 assail v 
+13137 assailant n 
+9024 assassin n 
+9048 assassinate v 
+5503 assassination n 
+2882 assault n 
+7234 assault v 
+20146 assay n 
+12332 assemblage n 
+3591 assemble v 
+13450 assembled j 
+4007 assembly n 
+16708 assent n 
+3173 assert v 
+5408 assertion n 
+11662 assertive j 
+18123 assertiveness n 
+2059 assess v 
+1561 assessment n 
+18015 assessor n 
+2112 asset n 
+9601 asshole n 
+2636 assign v 
+13418 assigned j 
+3152 assignment n 
+9655 assimilate v 
+9592 assimilation n 
+2497 assist v 
+18591 assist n 
+2098 assistance n 
+1915 
+ 
+2729 assistant n 
+2849 assistant j 
+13587 assisted j 
+19530 assistive j 
+1361 associate v 
+4408 associate n 
+4465 associate j 
+4171 associated j 
+2103 association n 
+9998 assorted j 
+8965 assortment n 
+17438 assuage v 
+1095 assume v 
+16638 assumed j 
+2629 assumption n 
+5784 assurance n 
+2594 assure v 
+12542 assured j 
+19333 asterisk n 
+6267 asteroid n 
+6678 asthma n 
+12905 astonish v 
+11344 astonished j 
+6601 astonishing j 
+15996 astonishingly r 
+11559 astonishment n 
+13202 astound v 
+17047 astounded j 
+16042 astounding j 
+17485 astray r 
+19273 astride i 
+18933 Astrodome n 
+5736 astronaut n 
+3779 astronomer n 
+7170 astronomical j 
+6564 astronomy n 
+16832 astrophysicist n 
+13523 astute j 
+7926 asylum n 
+16837 asymmetrical j 
+15515 asymmetry n 
+22 at i 
+15283 at-bat n 
+16873 at-large j 
+11101 at-risk j 
+12989 atheist n 
+1609 athlete n 
+3006 athletic j 
+20126 athleticism n 
+8720 athletics n 
+18697 atlas n 
+11234 ATM n 
+2237 atmosphere n 
+6958 atmospheric j 
+5246 atom n 
+5504 atomic j 
+17499 atonement n 
+4651 atop i 
+15922 atrium n 
+8195 atrocity n 
+2338 attach v 
+15188 attached j 
+5772 attachment n 
+792 attack n 
+1545 attack v 
+8889 attacker n 
+5390 attain v 
+18444 attainable j 
+11076 attainment n 
+1232 attempt n 
+1644 attempt v 
+8185 attempted j 
+1172 attend v 
+4480 attendance n 
+5499 attendant n 
+13660 attendant j 
+12276 attendee n 
+592 attention n 
+9698 attentive j 
+19821 attentively r 
+8795 attest v 
+7318 attic n 
+11035 attire n 
+1157 attitude n 
+16321 attitudinal j 
+1073 attorney n 
+1881 attract v 
+13514 attracting j 
+3836 attraction n 
+2835 attractive j 
+14029 attractiveness n 
+10998 attributable j 
+3377 attribute v 
+5470 attribute n 
+8031 attribution n 
+12154 attrition n 
+13859 attune v 
+15063 atypical j 
+19389 auburn j 
+4687 auction n 
+13037 auction v 
+18516 auctioneer n 
+16979 audacious j 
+17440 audacity n 
+10615 audible j 
+1078 audience n 
+6063 audio j 
+9715 audio n 
+15287 audiotape n 
+5580 audit n 
+12478 audit v 
+17700 auditing n 
+10529 audition n 
+11727 audition v 
+7394 auditor n 
+9808 auditorium n 
+11191 auditory j 
+15980 Audubon n 
+9311 augment v 
+4203 aunt n 
+8269 aura n 
+16649 aural j 
+13399 auspice n 
+19564 Aussie n 
+14185 austere j 
+15221 austerity n 
+5230 Australian j 
+13884 Australian n 
+10759 Austrian j 
+17702 Austrian n 
+5061 authentic j 
+8335 authenticity n 
+686 author n 
+13351 author v 
+18832 authorial j 
+7169 authoritarian j 
+16436 authoritarianism n 
+9371 authoritative j 
+1916 
+ 
+835 authority n 
+9980 authorization n 
+4819 authorize v 
+12884 authorized j 
+16900 authorship n 
+9423 autism n 
+15829 autistic j 
+3159 auto n 
+11823 autobiographical j 
+7122 autobiography n 
+16657 autocratic j 
+9125 autograph n 
+19472 autograph v 
+17388 autoimmune j 
+7785 automaker n 
+17918 automate v 
+8249 automated j 
+4084 automatic j 
+3983 automatically r 
+14015 automation n 
+4042 automobile n 
+8896 automotive j 
+7623 autonomous j 
+4764 autonomy n 
+19457 autopilot n 
+7919 autopsy n 
+5069 autumn n 
+14469 auxiliary j 
+14789 avail n 
+18979 avail v 
+4835 availability n 
+623 available j 
+10350 avalanche n 
+14164 avant-garde j 
+15745 avant-garde n 
+17184 avatar n 
+15827 avenge v 
+6178 avenue n 
+1306 average j 
+1454 average n 
+3679 average v 
+13100 aversion n 
+7692 avert v 
+15092 avian j 
+8077 aviation n 
+16176 aviator n 
+8859 avid j 
+10628 avocado n 
+911 avoid v 
+9369 avoidance n 
+11719 aw u 
+3702 await v 
+4699 awake j 
+7451 awake v 
+5760 awaken v 
+12437 awakening n 
+2596 award n 
+3720 award v 
+9401 award-winning j 
+1445 aware j 
+2808 awareness n 
+14261 awash j 
+270 away r 
+738 away i 
+11606 away j 
+7217 awe n 
+19102 awe v 
+19881 awed j 
+6433 awesome j 
+3304 awful j 
+15264 awful r 
+8496 awfully r 
+7562 awhile r 
+5053 awkward j 
+10886 awkwardly r 
+17966 awkwardness n 
+15948 awning n 
+15205 awry r 
+11614 ax n 
+11659 axe n 
+17694 axial j 
+17753 axiom n 
+5669 axis n 
+13624 axle n 
+10693 aye u 
+16084 azalea n 
+17261 Aztec j 
+18670 Aztec 
+a/an (det) 
+ability (n) 
+able (adj) 
+• be able to 
+about (adv & prep) 
+• about 500 students (adv) 
+• The film is about a small boy. (prep) 
+above (adj, adv & prep) 
+abroad (adv) 
+absent (adj) 
+absolutely (adv) 
+• The movie was absolutely awful. 
+accent (n) 
+• She has a beautiful French accent. 
+accept (v) 
+acceptable (adj) 
+access (n) 
+• disabled access 
+• internet access 
+• easy access to the city centre 
+accident (n) 
+accommodation (n) 
+accompany (v) 
+according to (prep phr) 
+account (n) 
+accident (n) 
+accountant (n) 
+accurate (adj) 
+ache (n) 
+achieve (v) 
+achievement (n) 
+across (adv & prep) 
+act (n & v) 
+• in the second act (of the play) (n) 
+• to act in a play (v) 
+• Stop acting like a child. (v) 
+action (n) 
+active (adj) 
+activity (n) 
+actor (n) 
+actress (n) 
+actually (adv) 
+• She seems a bit strict at first, but she’s 
+actually very nice. 
+• Are you actually going to take the job? 
+ad (advertisement) (n) 
+add (v) 
+addition (n) 
+• in addition 
+address (n) 
+admire (v) 
+admission (n) 
+• charges/cost/price admit (v) 
+adult (adj & n) 
+advance (n) 
+• book in advance 
+advanced (adj) 
+advantage (n) 
+adventure (n) 
+advert (n) 
+advertise (v) 
+advertisement (n) 
+advice (n) 
+advise (v) 
+aeroplane (n) 
+affect (v) 
+afford (v) 
+afraid (adj) 
+after (adv, conj & prep) 
+afternoon (n) 
+afterwards (adv) 
+again (adv) 
+against (prep) 
+age (n) 
+aged (adj) 
+agency (n) 
+• a travel agency 
+ages (n pl) 
+• It took ages for the bus to arrive. 
+ago (adv) 
+agree (v) 
+ahead (adv) 
+aim (n & v) 
+air (n) 
+air conditioning (n) 
+air force (n) 
+airline (n) 
+airport (n) 
+alarm (n) 
+alarm clock (n) 
+album (n) 
+alike (adv) 
+alive (adj) 
+all (adj, adv, det & pron) 
+all right/alright (adj, adv & exclam) 
+allow (v) 
+almost (adv) 
+alone (adv & adj) 
+along (adv & prep) 
+aloud (adv) 
+alphabet (n) 
+already (adv) 
+also (adv) 
+although (conj) 
+altogether (adv) 
+always (adv) 
+a.m. (adv) 
+amazed (adj) 
+amazing (adj)
+ambition (n) 
+ambulance (n) 
+among (amongst) (prep) 
+amount (n) 
+amusing (adj) 
+an (det) 
+ancient (adj) 
+and (conj) 
+angry (adj) 
+animal (n) 
+ankle (n) 
+anniversary (n) 
+announce (v) 
+announcement (n) 
+annoy (v) 
+annual (adj) 
+another (det & pron) 
+answer (n & v) 
+answerphone (n) 
+ant (n) 
+antique (adj & n) 
+anxious (adj) 
+any (det & pron) 
+anybody (pron) 
+anymore (adv) 
+anyone (pron) 
+anything (pron) 
+anyway (adv) 
+anywhere (adv) 
+apart (adv) 
+apart from (adv) 
+apartment (n) 
+apartment building (n) 
+apologise (v) 
+apology (n) 
+app (n) 
+• Download the app to your phone. 
+appear (v) 
+appearance (n) 
+apple (n) 
+application (n) 
+• job application 
+• application form 
+apply (v) 
+appointment (n) 
+approach (v) 
+approve (v) 
+approximately (adv) 
+architect (n) 
+architecture (n) 
+area (n) 
+argue (v) 
+argument (n) 
+arm (n) 
+armchair (n) 
+army (n) 
+around (adv & prep) 
+arrange (v) 
+arrangement (n) 
+arrest (v) 
+arrival (n) 
+arrive (v) 
+art (n) 
+article (n) 
+artist (n) 
+as (conj & prep) 
+ashamed (adj) 
+ask (v) 
+asleep (adj) 
+as long as (phr) 
+aspirin (n) 
+assist (v) 
+assistant (n) 
+astronaut (n) 
+as well (as) (prep & adv) 
+at (prep) 
+at / @ (n) 
+• My email address is 
+david@cambridgeesol.org 
+at all (prep phr) 
+at first (prep phr) 
+athlete (n) 
+athletics (n) 
+at last (prep phr) 
+at least (prep phr) 
+atmosphere (n) 
+at once (prep phr) 
+at present (prep phr) 
+attach (v) 
+attack (n & v) 
+attempt (v) 
+attend (v) 
+attention (n) 
+at the same time (prep phr) 
+attitude (n) 
+attract (v) 
+attraction (n) 
+attractive (adj) 
+audience (n) 
+aunt (n) 
+author (n) 
+autumn (n) (Br Eng) (Am Eng: fall) 
+available (adj) 
+average (adj & n) 
+avoid (v) 
+awake (adj) 
+away (adv) 
+awesome (adj) 
+awful (adj) 

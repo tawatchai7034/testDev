@@ -1,0 +1,2328 @@
+4261 cab n 
+17949 cabaret n 
+7101 cabbage n 
+3178 cabin n 
+2716 cabinet n 
+2017 cable n 
+16454 cable v 
+9086 cache n 
+19628 cachet n 
+20003 cackle v 
+16926 cacophony n 
+9542 cactus n 
+17338 cadaver n 
+17668 caddie n 
+12560 cadence n 
+8267 cadet n 
+13574 cadmium n 
+10792 cadre n 
+5921 cafe n 
+7193 cafeteria n 
+9728 caffeine n 
+4185 cage n 
+20099 cajole v 
+16207 Cajun n 
+2563 cake n 
+19716 cake v 
+12862 calamity n 
+5687 calcium n 
+3064 calculate v 
+12821 calculated j 
+4695 calculation n 
+11809 calculator n 
+13102 calculus n 
+4742 calendar n 
+5707 calf n 
+10965 caliber n 
+14512 calibrate v 
+17229 calibration n 
+11801 Californian n 
+17408 Californian j 
+122 call v 
+645 call n 
+10066 called j 
+5097 caller n 
+20182 calligraphy n 
+9210 calling n 
+15048 calling j 
+17198 callous j 
+4228 calm v 
+4778 calm j 
+5811 calm n 
+15594 calming j 
+7103 calmly r 
+17121 cam n 
+12609 camaraderie n 
+15477 Cambodian j 
+13261 camcorder n 
+7061 camel n 
+15538 cameo n 
+952 camera n 
+13082 cameraman n 
+12489 camouflage n 
+14361 camouflage v 
+1192 camp n 
+9704 camp v 
+641 campaign n 
+5013 campaign v 
+17467 campaigner n 
+17689 campaigning n 
+9385 camper n 
+11322 campfire n 
+12494 campground n 
+7554 camping n 
+1925 
+ 
+11684 campsite n 
+2074 campus n 
+37 can v 
+2973 can n 
+2661 Canadian j 
+6646 Canadian n 
+5463 canal n 
+3951 cancel v 
+12231 cancellation n 
+1032 cancer n 
+17917 cancerous j 
+9649 candid j 
+8957 candidacy n 
+960 candidate n 
+17615 candidly r 
+3965 candle n 
+12084 candlelight n 
+18532 candlestick n 
+13572 candor n 
+3477 candy n 
+5369 cane n 
+16357 canine j 
+19789 canine n 
+11389 canister n 
+7119 canned j 
+18687 cannibal n 
+17890 cannibalism n 
+18176 canning n 
+8596 cannon n 
+6714 canoe n 
+19833 canoeing n 
+17000 canola n 
+8693 canon n 
+14828 canonical j 
+7152 canopy n 
+18412 cantaloupe n 
+16194 canteen n 
+3767 canvas n 
+5515 canyon n 
+2326 cap n 
+8111 cap v 
+2983 capability n 
+2414 capable j 
+1790 capacity n 
+9891 cape n 
+13718 caper n 
+1064 capital n 
+16600 capital j 
+5168 capitalism n 
+7990 capitalist j 
+9378 capitalist n 
+17493 capitalization n 
+8108 capitalize v 
+15402 capitol n 
+19083 capitulate v 
+17170 cappuccino n 
+18043 capricious j 
+7621 capsule n 
+3375 captain n 
+9308 caption n 
+13041 captivate v 
+18988 captivating j 
+9433 captive n 
+11373 captive j 
+10853 captivity n 
+12908 captor n 
+1727 capture v 
+7689 capture n 
+290 car n 
+14846 caramel n 
+10442 caravan n 
+3869 carbohydrate n 
+3029 carbon n 
+9626 carcass n 
+15419 carcinogen n 
+14675 carcinoma n 
+895 card n 
+8025 cardboard j 
+10931 cardboard n 
+8186 cardiac j 
+16751 cardigan n 
+12170 cardinal n 
+16183 cardinal j 
+13699 cardiologist n 
+8137 cardiovascular j 
+435 care n 
+910 care v 
+17310 careen v 
+741 career n 
+14491 carefree j 
+1967 careful j 
+1612 carefully r 
+6201 caregiver n 
+10170 careless j 
+17145 carelessly r 
+20067 carelessness n 
+12010 caress v 
+17012 caress n 
+9817 caretaker n 
+4958 cargo n 
+5604 Caribbean j 
+13388 caribou n 
+11029 caricature n 
+9584 caring j 
+11006 caring n 
+17936 carmaker n 
+11805 carnage n 
+19359 carnation n 
+12867 carnival n 
+15689 carnivore n 
+17979 carol n 
+18004 carousel n 
+17328 carp n 
+8212 carpenter n 
+4142 carpet n 
+17964 carpet v 
+15381 carpeting n 
+6636 carriage n 
+3298 carrier n 
+4650 carrot n 
+488 carry v 
+18768 carry-on n 
+13926 carrying n 
+4093 cart n 
+14876 cart v 
+9436 cartel n 
+12807 cartilage n 
+9491 carton n 
+4195 cartoon n 
+13297 cartoonist n 
+9337 cartridge n 
+3840 carve v 
+8299 carved j 
+16163 carver n 
+8375 carving n 
+11923 cascade n 
+12984 cascade v 
+186 case n 
+1926 
+ 
+4475 case c 
+15071 case v 
+19032 case-by-case j 
+15057 caseload n 
+15374 caseworker n 
+1735 cash n 
+7385 cash v 
+11528 cashier n 
+13803 cashmere n 
+12633 casing n 
+4371 casino n 
+9811 casket n 
+10634 casserole n 
+8370 cassette n 
+2052 cast v 
+4354 cast n 
+9995 cast j 
+15812 cast-iron j 
+10702 caste n 
+8102 casting n 
+5930 castle n 
+3992 casual j 
+6904 casually r 
+4272 casualty n 
+1788 cat n 
+19602 cataclysmic j 
+4494 catalog n 
+6899 catalogue n 
+17708 catalogue v 
+8064 catalyst n 
+18526 catalytic j 
+17427 catapult v 
+19802 catapult n 
+15416 cataract n 
+6755 catastrophe n 
+7709 catastrophic j 
+587 catch v 
+4271 catch n 
+7602 catcher n 
+18100 catchy j 
+17456 catechism n 
+15251 categorical j 
+17148 categorically r 
+16244 categorization n 
+8182 categorize v 
+1469 category n 
+7050 cater v 
+16627 caterer n 
+15903 catering n 
+13594 caterpillar n 
+8771 catfish n 
+20112 catharsis n 
+7511 cathedral n 
+16472 catheter n 
+1769 Catholic j 
+3127 Catholic n 
+8924 Catholicism n 
+3664 cattle n 
+16850 catwalk n 
+11887 Caucasian j 
+15744 Caucasian n 
+8911 caucus n 
+18624 cauldron n 
+18673 cauliflower n 
+9080 causal j 
+15045 causality n 
+19165 causation n 
+602 cause v 
+1010 cause n 
+19358 caustic j 
+5354 caution n 
+6345 caution v 
+13999 cautionary j 
+5299 cautious j 
+7580 cautiously r 
+8772 cavalry n 
+3596 cave n 
+16278 cave v 
+11701 caveat n 
+11336 cavern n 
+13176 cavernous j 
+14727 caviar n 
+7701 cavity n 
+13246 cayenne n 
+9799 CD-ROM n 
+4518 cease v 
+7188 cease-fire n 
+9027 cedar n 
+12586 cede v 
+2662 ceiling n 
+18147 celeb n 
+2037 celebrate v 
+8060 celebrated j 
+3022 celebration n 
+16083 celebratory j 
+2985 celebrity n 
+8342 celery n 
+9014 celestial j 
+15508 celibacy n 
+18525 celibate j 
+898 cell n 
+7808 cellar n 
+13377 cello n 
+19675 cellophane n 
+10731 cellphone n 
+5877 cellular j 
+13862 Celtic j 
+6489 cement n 
+12595 cement v 
+4643 cemetery n 
+11293 censor v 
+16766 censor n 
+11484 censored j 
+8839 censorship n 
+15975 censure n 
+19269 censure v 
+6128 census n 
+11098 centennial j 
+531 center n 
+5102 center v 
+8525 centerpiece n 
+11002 centimeter n 
+743 central j 
+13445 centrality n 
+20200 centralization n 
+17788 centralize v 
+9926 centralized j 
+14966 centrally r 
+19655 centrifugal j 
+13856 centrist j 
+17982 centuries-old j 
+606 century n 
+2510 CEO n 
+7952 ceramic j 
+8157 ceramics n 
+6207 cereal n 
+10411 cerebral j 
+9240 ceremonial j 
+1927 
+ 
+2694 ceremony n 
+578 certain j 
+11458 certain r 
+664 certainly r 
+5633 certainty n 
+5305 certificate n 
+6210 certification n 
+7079 certified j 
+7160 certify v 
+12653 cervical j 
+14743 cessation n 
+18954 CFC n 
+16510 chafe v 
+16731 chagrin n 
+1819 chain n 
+11724 chain v 
+19263 chain-link j 
+19424 chainsaw n 
+949 chair n 
+8036 chair v 
+1379 chairman n 
+18606 chairmanship n 
+17494 chairperson n 
+16253 chairwoman n 
+9292 chalk n 
+18842 chalkboard n 
+987 challenge n 
+1779 challenge v 
+8972 challenger n 
+5038 challenging j 
+2690 chamber n 
+17658 chameleon n 
+7957 champ n 
+5466 champagne n 
+2777 champion n 
+8823 champion v 
+2346 championship n 
+614 chance n 
+11630 chancellor n 
+10346 chandelier n 
+307 change v 
+357 change n 
+11241 changed j 
+3349 changing j 
+2541 channel n 
+8024 channel v 
+6988 chant v 
+10207 chant n 
+3764 chaos n 
+7546 chaotic j 
+13244 chap n 
+7372 chapel n 
+9990 chaplain n 
+3001 chapter n 
+16546 char v 
+787 character n 
+2049 characteristic n 
+7125 characteristic j 
+14974 characteristically r 
+8527 characterization n 
+2907 characterize v 
+19301 charade n 
+7573 charcoal n 
+926 charge n 
+1428 charge v 
+4375 charge i 
+15804 charged j 
+19149 charger n 
+13958 charging j 
+16483 chariot n 
+11924 charisma n 
+8705 charismatic j 
+6875 charitable j 
+3314 charity n 
+4822 charm n 
+10132 charm v 
+5252 charming j 
+14798 charred j 
+2767 chart n 
+8988 chart v 
+4435 charter n 
+15407 charter v 
+18191 chartered j 
+3341 chase v 
+8093 chase n 
+18407 chaser n 
+13901 chasm n 
+13848 chassis n 
+14915 chastise v 
+17258 chastity n 
+5114 chat v 
+7126 chat n 
+10661 chatter n 
+11378 chatter v 
+15009 chauffeur n 
+1944 cheap j 
+13864 cheaply r 
+4415 cheat v 
+15530 cheat n 
+18907 cheater n 
+20002 cheating n 
+16813 Chechen j 
+857 check v 
+1900 check n 
+13534 checkbook n 
+19747 checked j 
+15148 checker n 
+17823 checkered j 
+14751 checking n 
+9227 checklist n 
+9979 checkpoint n 
+13053 checkup n 
+18009 cheddar n 
+2697 cheek n 
+12041 cheekbone n 
+4677 cheer v 
+6775 cheer n 
+7447 cheerful j 
+11133 cheerfully r 
+10525 cheerleader n 
+14770 cheers u 
+15261 cheery j 
+2122 cheese n 
+16901 cheeseburger n 
+14045 cheesecake n 
+16335 cheesy j 
+19710 cheetah n 
+3193 chef n 
+2640 chemical n 
+2752 chemical j 
+13685 chemically r 
+9382 chemist n 
+4790 chemistry n 
+18094 chemo n 
+8015 chemotherapy n 
+8834 cherish v 
+13241 cherished j 
+9579 Cherokee j 
+1928 
+ 
+9736 Cherokee n 
+5649 cherry n 
+7057 chess n 
+1732 chest n 
+9049 chestnut n 
+4683 chew v 
+16485 chewing n 
+19962 chewy j 
+12844 chi n 
+15013 chi-square n 
+9468 chic j 
+7390 chick n 
+1546 chicken n 
+19731 chickpea n 
+13793 chide v 
+1453 chief j 
+1781 chief n 
+11296 chiefly r 
+18220 chieftain n 
+18255 chiffon n 
+115 child n 
+18752 child-rearing n 
+11180 childbirth n 
+2124 childhood n 
+12148 childish j 
+15954 childless j 
+13286 childlike j 
+8876 chile n 
+12065 Chilean j 
+8131 chili n 
+4671 chill n 
+8310 chill v 
+12264 chilled j 
+8278 chilling j 
+8606 chilly j 
+13306 chime n 
+13601 chime v 
+8482 chimney n 
+13968 chimp n 
+13042 chimpanzee n 
+3984 chin n 
+9255 china n 
+1222 Chinese j 
+11709 Chinese n 
+2177 chip n 
+11167 chip v 
+18510 chipped j 
+18192 chiropractor n 
+14722 chirp v 
+17750 chisel v 
+18836 chisel n 
+14643 chives n 
+16073 chloride n 
+9775 chlorine n 
+2659 chocolate n 
+631 choice n 
+5398 choir n 
+5288 choke v 
+16451 choke n 
+14436 cholera n 
+3144 cholesterol n 
+19510 chomp v 
+601 choose v 
+13633 choosing n 
+4000 chop v 
+5785 chop n 
+5005 chopped j 
+10205 chopper n 
+19322 chopping j 
+17631 choppy j 
+18440 chopsticks n 
+10976 choral j 
+7397 chord n 
+6112 chore n 
+14871 choreograph v 
+14035 choreographer n 
+15031 choreography n 
+5345 chorus n 
+8642 chosen j 
+19822 chowder n 
+18028 christen v 
+1278 Christian j 
+3190 Christian n 
+4332 Christianity n 
+1370 Christmas n 
+19501 Christmastime n 
+12330 chrome n 
+17763 chromium n 
+10200 chromosome n 
+3688 chronic j 
+13223 chronically r 
+9185 chronicle v 
+14388 chronicle n 
+18439 chronicler n 
+13838 chronological j 
+13070 chronology n 
+14543 chubby j 
+9003 chuck v 
+6421 chuckle v 
+11209 chuckle n 
+15589 chug v 
+16998 chum n 
+4552 chunk n 
+14010 chunky j 
+649 church n 
+8579 churn v 
+18816 churn n 
+10890 chute n 
+19375 chutney n 
+17892 cicada n 
+10396 cider n 
+5775 cigar n 
+2128 cigarette n 
+9050 cilantro n 
+18784 cinch v 
+15211 cinder n 
+8313 cinema n 
+12809 cinematic j 
+6568 cinnamon n 
+1515 circle n 
+4793 circle v 
+4063 circuit n 
+16269 circuitry n 
+6855 circular j 
+17343 circular n 
+5973 circulate v 
+5453 circulation n 
+19136 circumcision n 
+16404 circumference n 
+17559 circumscribe v 
+1794 circumstance n 
+13766 circumstantial j 
+12251 circumvent v 
+6131 circus n 
+8519 citation n 
+1946 cite v 
+1088 citizen n 
+12531 citizenry n 
+1929 
+ 
+4905 citizenship n 
+9189 citrus n 
+291 city n 
+16962 citywide j 
+4008 civic j 
+19153 civics n 
+1054 civil j 
+15630 civil-military j 
+3246 civilian j 
+3716 civilian n 
+12548 civility n 
+3524 civilization n 
+7327 civilized j 
+10586 clad v 
+877 claim v 
+1357 claim n 
+17976 claimant n 
+10367 clam n 
+19653 clam v 
+13006 clamber v 
+12366 clamor v 
+17441 clamor n 
+8388 clamp v 
+14308 clamp n 
+5708 clan n 
+12188 clandestine j 
+19001 clang v 
+6822 clap v 
+17578 clapboard n 
+11626 clarification n 
+5113 clarify v 
+16242 clarinet n 
+5513 clarity n 
+6235 clash n 
+9798 clash v 
+9178 clasp v 
+432 class n 
+16675 class-action j 
+2639 classic j 
+5096 classic n 
+3519 classical j 
+17583 classically r 
+5978 classification n 
+8852 classified j 
+4563 classify v 
+5317 classmate n 
+1488 classroom n 
+13183 classy j 
+14100 clatter v 
+16216 clatter n 
+6513 clause n 
+18393 claustrophobic j 
+7039 claw n 
+11902 claw v 
+4825 clay n 
+1523 clean j 
+1914 clean v 
+6667 cleaner n 
+6186 cleaning n 
+15597 cleanliness n 
+16917 cleanly r 
+10804 cleanse v 
+18861 cleanser n 
+9908 cleansing n 
+5959 cleanup n 
+564 clear j 
+1907 clear v 
+5814 clear r 
+12452 clear-cut j 
+9156 clearance n 
+8163 clearing n 
+16362 clearing j 
+19254 clearinghouse n 
+849 clearly r 
+15720 cleat n 
+14038 cleavage n 
+19364 clemency n 
+8983 clench v 
+17293 clenched j 
+6605 clergy n 
+15875 clergyman n 
+8773 cleric n 
+11333 clerical j 
+3914 clerk n 
+5035 clever j 
+14835 cleverly r 
+9001 cliche n 
+3832 click v 
+6496 click n 
+1161 client n 
+10678 clientele n 
+4357 cliff n 
+19863 climactic j 
+2121 climate n 
+13817 climatic j 
+10953 climax n 
+18551 climax v 
+1575 climb v 
+8004 climb n 
+8796 climber n 
+7488 climbing n 
+12659 clinch v 
+4656 cling v 
+2410 clinic n 
+2607 clinical j 
+12100 clinically r 
+10278 clinician n 
+18517 clink v 
+4248 clip n 
+6391 clip v 
+13925 clipboard n 
+19689 clipper n 
+10276 clipping n 
+15680 clique n 
+8599 cloak n 
+16524 cloak v 
+2658 clock n 
+15362 clock v 
+11831 clockwise r 
+19526 clockwork n 
+9684 clog v 
+9232 clone n 
+12710 clone v 
+9573 cloning n 
+650 close v 
+882 close j 
+917 close r 
+10296 close n 
+17747 close-knit j 
+9918 close-up n 
+16166 close-up j 
+3714 closed j 
+2055 closely r 
+10947 closeness n 
+3030 closer j 
+4553 closest j 
+3502 closet n 
+5886 closing j 
+1930 
+ 
+7120 closing n 
+5854 closure n 
+13653 clot n 
+17194 clot v 
+3575 cloth n 
+11046 clothe v 
+1440 clothes n 
+17507 clothesline n 
+2673 clothing n 
+1928 cloud n 
+10409 cloud v 
+19932 cloudless j 
+10478 cloudy j 
+8730 clout n 
+6105 clove n 
+17182 clover n 
+6997 clown n 
+1263 club n 
+8509 clubhouse n 
+18964 cluck v 
+3359 clue n 
+17021 clueless j 
+8355 clump n 
+18812 clumsily r 
+9402 clumsy j 
+3228 cluster n 
+8387 cluster v 
+5209 clutch v 
+8945 clutch n 
+12447 clutter n 
+13605 clutter v 
+15683 cluttered j 
+7244 co-author n 
+15207 co-author v 
+16968 co-chair n 
+17815 co-chairman n 
+16363 co-director n 
+18758 co-found v 
+8411 co-founder n 
+17680 co-host n 
+9120 co-op n 
+14445 co-opt v 
+13339 co-owner n 
+17969 co-pilot n 
+19538 co-sponsor n 
+11174 co-star n 
+5523 co-worker n 
+16527 co-write v 
+1036 coach n 
+2347 coach v 
+5866 coaching n 
+3366 coal n 
+18600 coal-fired j 
+13101 coalesce v 
+2259 coalition n 
+8050 coarse j 
+12114 coarsely r 
+2458 coast n 
+17819 coast v 
+4076 coastal j 
+9920 coaster n 
+10471 coastline n 
+2267 coat n 
+6164 coat v 
+8562 coating n 
+8789 coax v 
+13385 cobalt n 
+18900 cobble v 
+18420 cobbler n 
+15540 cobblestone n 
+19091 cobweb n 
+17133 coca n 
+4361 cocaine n 
+8656 cock v 
+12288 cock n 
+7280 cockpit n 
+14305 cockroach n 
+5290 cocktail n 
+14403 cocky j 
+9153 cocoa n 
+6909 coconut n 
+14730 cocoon n 
+13851 cod n 
+19751 coddle v 
+1657 code n 
+7816 code v 
+14869 coded j 
+14560 codify v 
+12224 coding n 
+15737 coed j 
+6054 coefficient n 
+11657 coerce v 
+10025 coercion n 
+12648 coercive j 
+1395 coffee n 
+19037 coffeehouse n 
+14113 coffer n 
+6352 coffin n 
+18031 cog n 
+17945 cognac n 
+11282 cognition n 
+3370 cognitive j 
+19683 cognizant j 
+11792 coherence n 
+7112 coherent j 
+11092 cohesion n 
+13360 cohesive j 
+7500 cohort n 
+9443 coil n 
+13708 coil v 
+4421 coin n 
+10423 coin v 
+6760 coincide v 
+5895 coincidence n 
+19070 coincidental j 
+13935 coincidentally r 
+14455 coke n 
+18470 cola n 
+888 cold j 
+3518 cold n 
+17506 cold-blooded j 
+15122 coldly r 
+6483 collaborate v 
+4214 collaboration n 
+6517 collaborative j 
+8569 collaborator n 
+11380 collage n 
+15392 collagen n 
+3240 collapse v 
+3474 collapse n 
+18984 collapsed j 
+17647 collapsing j 
+4597 collar n 
+18164 collarbone n 
+10638 collateral n 
+1527 colleague n 
+1325 collect v 
+14563 collected j 
+1931 
+ 
+16316 collecting n 
+1049 collection n 
+3371 collective j 
+10778 collective n 
+7670 collectively r 
+4013 collector n 
+416 college n 
+8963 collegiate j 
+7727 collide v 
+18970 collie n 
+5706 collision n 
+17096 collusion n 
+15907 cologne n 
+10433 Colombian j 
+19631 Colombian n 
+8372 colon n 
+7669 colonel n 
+3351 colonial j 
+11040 colonialism n 
+9784 colonist n 
+11160 colonization n 
+13695 colonize v 
+20089 colonizer n 
+3710 colony n 
+698 color n 
+4668 color v 
+19987 coloration n 
+5206 colored j 
+4509 colorful j 
+13312 coloring n 
+16819 colorless j 
+13106 colossal j 
+18070 colt n 
+2091 column n 
+4451 columnist n 
+9372 coma n 
+20017 comatose j 
+7459 comb v 
+9344 comb n 
+3442 combat n 
+5121 combat v 
+11062 combatant n 
+16886 combative j 
+1822 combination n 
+1455 combine v 
+4209 combined j 
+13121 combo n 
+10045 combustion n 
+70 come v 
+6594 comeback n 
+7658 comedian n 
+3243 comedy n 
+9900 comer n 
+5284 comet n 
+2951 comfort n 
+5399 comfort v 
+1713 comfortable j 
+6998 comfortably r 
+17068 comforter n 
+7893 comforting j 
+16706 comfy j 
+5349 comic j 
+7070 comic n 
+15225 comical j 
+4772 coming j 
+6434 coming n 
+19842 comma n 
+2399 command n 
+4035 command v 
+19233 commandeer v 
+2376 commander n 
+17733 commander-in-chief n 
+8577 commanding j 
+15180 commandment n 
+11824 commando n 
+8869 commemorate v 
+15999 commemoration n 
+16339 commemorative j 
+9682 commence v 
+14037 commencement n 
+10813 commend v 
+17387 commensurate j 
+1371 comment n 
+2552 comment v 
+5090 commentary n 
+5426 commentator n 
+5375 commerce n 
+1030 commercial j 
+5134 commercial n 
+16592 commercialization n 
+18848 commercialize v 
+8801 commercially r 
+2400 commission n 
+6387 commission v 
+4366 commissioner n 
+1402 commit v 
+1626 commitment n 
+6515 committed j 
+1434 committee n 
+4632 commodity n 
+713 common j 
+6098 common r 
+14917 commonality n 
+19571 commoner n 
+3792 commonly r 
+8846 commonplace j 
+16151 commons n 
+16671 commonwealth n 
+11945 commotion n 
+6494 communal j 
+14640 commune n 
+2695 communicate v 
+1256 communication n 
+16105 communicative j 
+13914 communicator n 
+9953 communion n 
+17538 communique n 
+7207 communism n 
+6431 communist j 
+12393 communist n 
+297 community n 
+11496 community-based j 
+6971 commute v 
+6952 commuter n 
+6289 compact j 
+10818 compact n 
+16799 compact v 
+3586 companion n 
+13217 companionship n 
+189 company n 
+4692 comparable j 
+6368 comparative j 
+10306 comparatively r 
+834 compare v 
+2185 comparison n 
+6669 compartment n 
+8104 compass n 
+5046 compassion n 
+1932 
+ 
+7955 compassionate j 
+13311 compatibility n 
+7137 compatible j 
+16150 compatriot n 
+4499 compel v 
+4934 compelling j 
+19147 compendium n 
+5099 compensate v 
+3833 compensation n 
+14755 compensatory j 
+2080 compete v 
+5257 competence n 
+7438 competency n 
+5880 competent j 
+5786 competing j 
+1352 competition n 
+2328 competitive j 
+8279 competitiveness n 
+3287 competitor n 
+12940 compilation n 
+5358 compile v 
+15096 complacency n 
+14991 complacent j 
+1874 complain v 
+2345 complaint n 
+6859 complement v 
+11670 complement n 
+8661 complementary j 
+1211 complete v 
+1447 complete j 
+10711 completed j 
+1173 completely r 
+5081 completion n 
+1607 complex j 
+3191 complex n 
+10640 complexion n 
+3796 complexity n 
+4599 compliance n 
+15653 compliant j 
+6068 complicate v 
+2775 complicated j 
+5055 complication n 
+13997 complicity n 
+7711 compliment n 
+13133 compliment v 
+13516 complimentary j 
+4689 comply v 
+1772 component n 
+3408 compose v 
+5058 composer n 
+6838 composite j 
+11582 composite n 
+3025 composition n 
+14670 compositional j 
+6250 compost n 
+13510 compost v 
+11880 composting j 
+14392 composting n 
+13124 composure n 
+3458 compound n 
+6581 compound v 
+7008 comprehend v 
+20186 comprehensible j 
+7967 comprehension n 
+2919 comprehensive j 
+9746 compress v 
+13145 compressed j 
+8540 compression n 
+15238 compressor n 
+4438 comprise v 
+3787 compromise n 
+4707 compromise v 
+19217 compromised j 
+12401 compulsion n 
+12284 compulsive j 
+13139 compulsory j 
+13387 computation n 
+13609 computational j 
+7968 compute v 
+590 computer n 
+17905 computer-based j 
+16313 computer-generated j 
+8194 computerized j 
+7987 computing n 
+7559 comrade n 
+5691 con n 
+8645 con v 
+5211 conceal v 
+12707 concealed j 
+19550 concealment n 
+4232 concede v 
+18541 conceit n 
+10664 conceivable j 
+12315 conceivably r 
+4208 conceive v 
+2379 concentrate v 
+10352 concentrated j 
+2774 concentration n 
+17116 concentric j 
+1160 concept n 
+4686 conception n 
+5593 conceptual j 
+13107 conceptualization n 
+11304 conceptualize v 
+15279 conceptually r 
+718 concern n 
+3439 concern v 
+1131 concerned j 
+3425 concerning i 
+2537 concert n 
+11579 concerted j 
+19954 concerto n 
+5059 concession n 
+16154 concierge n 
+16109 conciliatory j 
+16558 concise j 
+1680 conclude v 
+15648 concluding j 
+1676 conclusion n 
+12865 conclusive j 
+18299 conclusively r 
+12756 concoct v 
+14962 concoction n 
+15310 concomitant j 
+20051 concourse n 
+3338 concrete j 
+5621 concrete n 
+9367 concur v 
+12630 concurrent j 
+16287 concurrently r 
+12523 concussion n 
+4179 condemn v 
+10095 condemnation n 
+15552 condemned j 
+15844 condensation n 
+14145 condense v 
+15787 condensed j 
+15946 condescending j 
+1933 
+ 
+17740 condiment n 
+630 condition n 
+11179 condition v 
+14484 conditional j 
+8949 conditioner n 
+6399 conditioning n 
+7414 condo n 
+14027 condolence n 
+5277 condom n 
+10126 condominium n 
+11485 condone v 
+17781 condor n 
+11286 conducive j 
+1166 conduct v 
+3724 conduct n 
+5996 conductor n 
+12418 conduit n 
+5958 cone n 
+20165 confection n 
+17057 confectioner n 
+19069 confederation n 
+7258 confer v 
+968 conference n 
+3987 confess v 
+4871 confession n 
+14214 confessional n 
+15872 confidant n 
+8088 confide v 
+1882 confidence n 
+2888 confident j 
+7124 confidential j 
+9243 confidentiality n 
+11254 confidently r 
+6232 configuration n 
+13646 configure v 
+5407 confine v 
+10967 confinement n 
+1864 confirm v 
+5433 confirmation n 
+16670 confirmed j 
+10815 confiscate v 
+1183 conflict n 
+9910 conflict v 
+6597 conflicting j 
+13977 confluence n 
+7067 conform v 
+11745 conformity n 
+10779 confound v 
+2437 confront v 
+4508 confrontation n 
+13941 confrontational j 
+3550 confuse v 
+5718 confused j 
+6319 confusing j 
+3362 confusion n 
+16829 congenial j 
+16200 congenital j 
+15128 congested j 
+9147 congestion n 
+10520 conglomerate n 
+8520 congratulate v 
+10258 congratulations n 
+12935 congregate v 
+5041 congregation n 
+18069 congregational j 
+639 Congress n 
+2330 congressional j 
+5457 congressman n 
+19544 congruence n 
+17413 congruent j 
+17016 conifer n 
+15060 conjecture n 
+7699 conjunction i 
+14686 conjunction n 
+7876 conjure v 
+1645 connect v 
+10145 connected j 
+18804 connectedness n 
+12151 connecting j 
+1427 connection n 
+18976 connectivity n 
+12879 connector n 
+15095 connoisseur n 
+11683 connotation n 
+18438 connote v 
+6840 conquer v 
+20163 conquering j 
+16654 conqueror n 
+7790 conquest n 
+4694 conscience n 
+11921 conscientious j 
+3882 conscious j 
+8261 consciously r 
+3252 consciousness n 
+19825 conscript n 
+4896 consecutive j 
+13563 consensual j 
+3346 consensus n 
+4437 consent n 
+11700 consent v 
+1635 consequence n 
+15285 consequent j 
+4406 consequently r 
+4432 conservation n 
+12322 conservationist n 
+9449 conservatism n 
+1851 conservative j 
+2770 conservative n 
+18543 conservatively r 
+19515 conservatory n 
+8084 conserve v 
+395 consider v 
+2878 considerable j 
+4696 considerably r 
+17832 considerate j 
+2509 consideration n 
+5021 considering c 
+6376 considering i 
+16125 consign v 
+2210 consist v 
+5030 consistency n 
+2245 consistent j 
+3631 consistently r 
+10512 consolation n 
+9354 console v 
+9538 console n 
+7273 consolidate v 
+13772 consolidated j 
+8663 consolidation n 
+18173 consonant n 
+8235 consortium n 
+9593 conspicuous j 
+14833 conspicuously r 
+4270 conspiracy n 
+16209 conspirator n 
+20159 conspiratorial j 
+9935 conspire v 
+20138 constable n 
+1934 
+ 
+2408 constant j 
+11850 constant n 
+2521 constantly r 
+7323 constellation n 
+16617 consternation n 
+6430 constituency n 
+5826 constituent n 
+2912 constitute v 
+4511 constitution n 
+2712 constitutional j 
+17547 constitutionality n 
+13734 constitutionally r 
+18267 constitutive j 
+7886 constrain v 
+4703 constraint n 
+16547 constrict v 
+2499 construct v 
+6359 construct n 
+1422 construction n 
+7584 constructive j 
+17865 constructivist n 
+11310 construe v 
+20192 consul n 
+16235 consulate n 
+3624 consult v 
+2502 consultant n 
+5792 consultation n 
+20049 consultative j 
+6595 consulting j 
+10060 consulting n 
+3031 consume v 
+1056 consumer n 
+15782 consumerism n 
+15050 consummate j 
+19850 consummate v 
+3172 consumption n 
+1489 contact n 
+2270 contact v 
+19660 contagion n 
+11848 contagious j 
+935 contain v 
+3390 container n 
+9786 containment n 
+10607 contaminant n 
+7531 contaminate v 
+10335 contaminated j 
+6625 contamination n 
+4858 contemplate v 
+11489 contemplation n 
+15410 contemplative j 
+1960 contemporary j 
+9033 contemporary n 
+6373 contempt n 
+17498 contemptuous j 
+3587 contend v 
+6789 contender n 
+16880 contending j 
+1745 content n 
+4031 content j 
+14579 content v 
+19897 contented j 
+6653 contention n 
+9129 contentious j 
+15665 contentment n 
+3087 contest n 
+8676 contest v 
+8934 contestant n 
+12736 contested j 
+1433 context n 
+11572 contextual j 
+16320 contiguous j 
+4061 continent n 
+9149 continental j 
+8177 contingency n 
+9480 contingent n 
+12051 contingent j 
+10291 continual j 
+5582 continually r 
+9022 continuation n 
+294 continue v 
+3296 continued j 
+3682 continuing j 
+6528 continuity n 
+3452 continuous j 
+7052 continuously r 
+8712 continuum n 
+18223 contort v 
+8067 contour n 
+12742 contraception n 
+13354 contraceptive n 
+17370 contraceptive j 
+1276 contract n 
+5048 contract v 
+12273 contracting j 
+8858 contraction n 
+3781 contractor n 
+14848 contractual j 
+6974 contradict v 
+5519 contradiction n 
+7561 contradictory j 
+15068 contraption n 
+5566 contrary n 
+5697 contrary i 
+14905 contrary j 
+1776 contrast n 
+6059 contrast v 
+11843 contrasting j 
+1319 contribute v 
+10974 contributing j 
+1789 contribution n 
+4912 contributor n 
+15933 contrive v 
+19901 contrived j 
+433 control n 
+938 control v 
+7480 controlled j 
+6187 controller n 
+14122 controlling j 
+3115 controversial j 
+2898 controversy n 
+14916 conundrum n 
+16802 convection n 
+7956 convene v 
+4945 convenience n 
+5438 convenient j 
+11879 conveniently r 
+11560 convent n 
+2494 convention n 
+2576 conventional j 
+16023 conventionally r 
+8337 converge v 
+10253 convergence n 
+1168 conversation n 
+13936 conversational j 
+11755 converse v 
+8223 conversely r 
+4717 conversion n 
+2918 convert v 
+1935 
+ 
+9885 convert n 
+14662 converted j 
+15893 converter n 
+10610 convertible n 
+15375 convertible j 
+3793 convey v 
+14439 conveyor n 
+3715 convict v 
+12081 convict n 
+7769 convicted j 
+3092 conviction n 
+2056 convince v 
+3749 convinced j 
+6223 convincing j 
+14171 convincingly r 
+19179 convoluted j 
+8607 convoy n 
+17679 convulsion n 
+19177 coo v 
+1426 cook v 
+4059 cook n 
+8296 cookbook n 
+7648 cooked j 
+14139 cooker n 
+3297 cookie n 
+3299 cooking n 
+1458 cool j 
+3381 cool v 
+12142 cool r 
+13978 cool n 
+8201 cooler n 
+14080 cooling j 
+14363 cooling n 
+14831 coolly r 
+16574 coolness n 
+4053 cooperate v 
+19430 cooperating j 
+2692 cooperation n 
+4290 cooperative j 
+11776 cooperative n 
+19027 cooperatively r 
+4898 coordinate v 
+9322 coordinate n 
+10332 coordinated j 
+6149 coordination n 
+4255 coordinator n 
+2220 cop n 
+11468 cop v 
+3226 cope v 
+19984 copier n 
+9084 coping n 
+18118 copious j 
+5117 copper n 
+1941 copy n 
+4953 copy v 
+6147 copyright n 
+6124 coral n 
+4359 cord n 
+14954 cordial j 
+16298 cordless j 
+16896 corduroy n 
+1968 core n 
+19890 core v 
+13230 cork n 
+19763 corkscrew n 
+2470 corn n 
+1130 corner n 
+13477 corner v 
+10420 cornerback n 
+10062 cornerstone n 
+14070 cornfield n 
+13275 cornmeal n 
+17210 cornstarch n 
+15860 corny j 
+15473 corollary n 
+17825 corona n 
+10458 coronary j 
+18622 coronation n 
+10826 coroner n 
+19477 corporal j 
+20024 corporal n 
+1588 corporate j 
+2627 corporation n 
+6135 corps n 
+5629 corpse n 
+11564 corpus n 
+15370 corral n 
+1808 correct j 
+3279 correct v 
+6055 correction n 
+12695 correctional j 
+13675 corrective j 
+4410 correctly r 
+11893 correctness n 
+5338 correlate v 
+17097 correlate n 
+3531 correlation n 
+5489 correspond v 
+6047 correspondence n 
+2957 correspondent n 
+7567 corresponding j 
+19031 correspondingly r 
+3507 corridor n 
+11641 corroborate v 
+14358 corrosion n 
+16761 corrosive j 
+15164 corrugated j 
+5929 corrupt j 
+12803 corrupt v 
+3780 corruption n 
+18013 corset n 
+14306 cortex n 
+8499 cosmetic j 
+10290 cosmetics n 
+6065 cosmic j 
+15347 cosmological j 
+12166 cosmology n 
+13034 cosmopolitan j 
+8329 cosmos n 
+551 cost n 
+1121 cost v 
+18839 cost-benefit j 
+10422 cost-effective j 
+4330 costly j 
+4191 costume n 
+10765 cot n 
+4820 cottage n 
+3161 cotton n 
+15953 cottonwood n 
+3404 couch n 
+19622 couch v 
+18715 cougar n 
+6242 cough v 
+8420 cough n 
+71 could v 
+2979 council n 
+17706 councilman n 
+3448 counsel n 
+1936 
+ 
+7911 counsel v 
+3430 counseling n 
+2999 counselor n 
+1338 count v 
+2578 count n 
+15156 countdown n 
+18998 countenance n 
+2851 counter n 
+4463 counter v 
+12480 counteract v 
+17580 counterattack n 
+18511 counterbalance v 
+19604 counterculture n 
+18014 counterfeit j 
+3853 counterpart n 
+14391 counterpoint n 
+11814 counterproductive j 
+13028 countertop n 
+20091 counterweight n 
+9659 counting n 
+5115 countless j 
+166 country n 
+12660 countryman n 
+5391 countryside n 
+1694 county n 
+4565 coup n 
+13166 coupe n 
+532 couple n 
+5394 couple v 
+11968 coupling n 
+10358 coupon n 
+3355 courage n 
+8334 courageous j 
+13521 courier n 
+419 course r 
+618 course n 
+14638 course v 
+16548 coursework n 
+542 court n 
+8510 court v 
+15372 courteous j 
+5450 courtesy n 
+6029 courthouse n 
+20122 courtier n 
+17971 courtly j 
+4193 courtroom n 
+10717 courtship n 
+5916 courtyard n 
+2735 cousin n 
+15160 couture n 
+14276 cove n 
+11548 covenant n 
+561 cover v 
+1639 cover n 
+10867 cover-up n 
+1890 coverage n 
+18692 coveralls n 
+9425 covered j 
+13585 covering n 
+8952 covert j 
+20073 covertly r 
+12975 covet v 
+12650 coveted j 
+3103 cow n 
+11774 coward n 
+17617 cowardice n 
+16036 cowardly j 
+5111 cowboy n 
+15357 cower v 
+17749 coy j 
+8259 coyote n 
+7286 cozy j 
+17850 CPA n 
+14481 CPU n 
+5163 crab n 
+3033 crack n 
+3254 crack v 
+9562 crackdown n 
+9537 cracked j 
+7786 cracker n 
+16173 cracking j 
+11767 crackle v 
+15592 crackle n 
+8821 cradle n 
+10548 cradle v 
+2860 craft n 
+6650 craft v 
+11201 craftsman n 
+15739 craftsmanship n 
+19488 crafty j 
+17530 craggy j 
+7512 cram v 
+12810 cramp n 
+14216 cramp v 
+9366 cramped j 
+9389 cranberry n 
+8561 crane n 
+12635 crane v 
+8838 crank v 
+11398 crank n 
+14609 cranky j 
+19456 cranny n 
+7362 crap n 
+2859 crash n 
+3321 crash v 
+16672 crashing j 
+18389 crass j 
+7944 crate n 
+6992 crater n 
+7712 crave v 
+12752 craving n 
+3874 crawl v 
+15445 crawl n 
+12682 crayon n 
+14434 craze n 
+13678 crazed j 
+18889 craziness n 
+1817 crazy j 
+12856 creak v 
+18845 creak n 
+16377 creaking j 
+2024 cream n 
+7746 creamy j 
+13092 crease n 
+16713 crease v 
+333 create v 
+16025 created j 
+2132 creation n 
+19315 creationism n 
+2067 creative j 
+13335 creatively r 
+4308 creativity n 
+5147 creator n 
+2375 creature n 
+14855 credence n 
+6253 credential n 
+4086 credibility n 
+6077 credible j 
+1937 
+ 
+1128 credit n 
+4117 credit v 
+13187 credit-card n 
+8400 creditor n 
+18664 credo n 
+12367 creed n 
+5710 creek n 
+5164 creep v 
+12495 creep n 
+16334 creeping j 
+11617 creepy j 
+19736 cremate v 
+13990 Creole j 
+13858 crepe n 
+17298 crescendo n 
+12668 crescent n 
+7605 crest n 
+19241 crest v 
+14102 crevice n 
+1718 crew n 
+16984 crewman n 
+9390 crib n 
+8542 cricket n 
+831 crime n 
+1966 criminal j 
+3368 criminal n 
+18797 criminality n 
+19898 criminalize v 
+17879 criminally r 
+12498 crimson j 
+15295 crimson n 
+10952 cringe v 
+20035 crinkle v 
+9627 cripple v 
+19050 cripple n 
+15635 crippled j 
+14577 crippling j 
+1210 crisis n 
+6280 crisp j 
+9494 crisp n 
+19676 crisply r 
+14907 crispy j 
+2597 criteria n 
+1362 critic n 
+1129 critical j 
+6661 critically r 
+2111 criticism n 
+2584 criticize v 
+5040 critique n 
+18378 critique v 
+14161 critter n 
+17299 croak v 
+13485 Croat n 
+11618 Croatian j 
+19105 crock n 
+10414 crocodile n 
+19344 croissant n 
+14043 crony n 
+8831 crook n 
+8473 crooked j 
+16255 croon v 
+2483 crop n 
+11170 crop v 
+18312 cropland n 
+19187 cropped j 
+1398 cross v 
+3515 cross n 
+15412 cross-border j 
+9088 cross-country j 
+11610 cross-cultural j 
+16779 cross-examination n 
+17296 cross-legged j 
+16628 cross-section n 
+16407 cross-sectional j 
+17359 crossfire n 
+6393 crossing n 
+12840 crossover n 
+9330 crossroads n 
+17479 crosstalk n 
+17751 crosswise j 
+16012 crossword n 
+12826 crotch n 
+6839 crouch v 
+8585 crow n 
+18284 crow v 
+1277 crowd n 
+4914 crowd v 
+4792 crowded j 
+5160 crown n 
+10419 crown v 
+20157 crowning j 
+2419 crucial j 
+15175 crucifix n 
+17775 crucify v 
+5074 crude j 
+18969 crudely r 
+4815 cruel j 
+18628 cruelly r 
+8497 cruelty n 
+4738 cruise n 
+5849 cruise v 
+7677 cruiser n 
+7340 crumb n 
+7153 crumble v 
+18841 crumbled j 
+11733 crumbling j 
+12132 crumple v 
+13810 crumpled j 
+7680 crunch n 
+9532 crunch v 
+14284 crunchy j 
+7439 crusade n 
+14820 crusader n 
+4355 crush v 
+8284 crush n 
+8653 crushed j 
+12012 crushing j 
+5737 crust n 
+13982 crusty j 
+11914 crutch n 
+15861 crux n 
+1358 cry v 
+3472 cry n 
+5506 crying n 
+19046 crypt n 
+14997 cryptic j 
+3610 crystal n 
+15422 crystalline j 
+15453 crystallize v 
+12197 cub n 
+4230 Cuban j 
+8895 Cuban n 
+5805 cube n 
+7915 cubic j 
+10748 cubicle n 
+8471 cucumber n 
+15094 cuddle v 
+4929 cue n 
+1938 
+ 
+19654 cue v 
+7071 cuff n 
+17280 cuff v 
+6498 cuisine n 
+18529 cul-de-sac n 
+7907 culinary j 
+13621 cull v 
+7829 culminate v 
+13181 culmination n 
+9072 culprit n 
+5319 cult n 
+15470 cultivar n 
+5647 cultivate v 
+13754 cultivated j 
+9600 cultivation n 
+934 cultural j 
+5850 culturally r 
+612 culture n 
+15976 cultured j 
+12579 cumbersome j 
+11661 cumin n 
+8619 cumulative j 
+13237 cunning j 
+780 cup n 
+9560 cupboard n 
+17249 cupcake n 
+6052 curator n 
+6836 curb v 
+8181 curb n 
+16903 curbside n 
+19572 curd n 
+4633 cure n 
+4641 cure v 
+10715 curfew n 
+4570 curiosity n 
+3139 curious j 
+8670 curiously r 
+5216 curl v 
+6411 curl n 
+19013 curling n 
+9438 curly j 
+18653 currant n 
+3774 currency n 
+653 current j 
+5703 current n 
+1712 currently r 
+10487 curricular j 
+2094 curriculum n 
+8826 curry n 
+5838 curse v 
+6925 curse n 
+16261 cursory j 
+9237 curtail v 
+3659 curtain n 
+19724 curvature n 
+3493 curve n 
+9676 curve v 
+8494 curved j 
+19251 curving j 
+7005 cushion n 
+14144 cushion v 
+18139 cusp n 
+13645 custard n 
+18671 custodial j 
+15153 custodian n 
+4470 custody n 
+3017 custom n 
+18366 custom-made j 
+8674 customary j 
+1102 customer n 
+11699 customize v 
+15662 customized j 
+415 cut v 
+1505 cut n 
+16610 cut j 
+9694 cut-off n 
+10689 cutback n 
+4390 cute j 
+19759 cuticle n 
+9588 cutter n 
+19639 cutthroat n 
+5542 cutting n 
+16640 cutting j 
+12740 cutting-edge j 
+18623 cyanide n 
+12086 cyberspace n 
+2240 cycle n 
+10636 cycle v 
+12890 cyclical j 
+8359 cycling n 
+9882 cyclist n 
+18738 cyclone n 
+7191 cylinder n 
+15424 cylindrical j 
+15995 cynic n 
+7162 cynical j 
+10041 cynicism n 
+13193 cypress n 
+15926 cyst n 
+17962 cystic j 
+10955 czar n 
+7544 Czech j 
+18603 Czech n
+cab (n) 
+cabbage (n) 
+cabin (n) 
+cabinet (n) 
+cable (n) 
+café/cafe (n) 
+cafeteria (n) 
+cage (n) 
+cake (n) 
+calculator (n) 
+calendar (n) 
+calf (n) 
+call (n & v) 
+call for (phr v) 
+• I’ll call for you at 7. 
+call in (phr v) 
+• She called in to see a friend. 
+calm (adj) 
+camel (n) 
+camera (n) 
+camp (n & v) 
+camping (n) 
+campsite (n) 
+can (n & mv) 
+canal (n) 
+cancel (v) 
+candidate (n) 
+candle (n) 
+candy (n) 
+canteen (n) 
+cap (n) 
+capital (adj & n) 
+• capital city 
+• capital letter 
+• the capital of Italy 
+captain (n) 
+car (n) 
+card (n) 
+• birthday card 
+• credit card 
+• card game 
+cardboard (adj & n) 
+care (n & v) 
+• take care of someone (n) 
+• to care (about/for) someone / 
+something (v) 
+career (n) 
+careful (adj) 
+carefully (ad) 
+careless (adj) 
+car park (n) (Br Eng) (Am Eng: parking lot) 
+carpet (n) 
+carrot (n) 
+• He carried on walking despite the rain. 
+carry out (phr v) 
+• She carried out the plan according to 
+the instructions. 
+cartoon (n) 
+case (n) 
+• Would you like me to carry your case? 
+• I’ll make an exception in this case. 
+cash (n) 
+cashpoint (n) 
+castle (n) 
+casual (adj) 
+• casual clothes 
+cat (n) 
+catch (v) 
+cathedral (n) 
+cattle (n) 
+cave (n) 
+CD (n) 
+CD player (n) 
+ceiling (n) 
+celebrate (v) 
+celebration (n) 
+celebrity (n) 
+cell phone (n) 
+cent (n) 
+centimetre (cm) (n) (Br Eng) (Am Eng: 
+centimeter) 
+central (adj) 
+central heating (n) 
+centre/center (n) 
+century (n) 
+cereal (n) 
+ceremony (n) 
+certain (adj) 
+certainly (not) (adv) 
+certificate (n) 
+chain (n) 
+chair (n) 
+challenge (n & v) 
+challenging (adj) 
+champion (n) 
+championship (n) 
+chance (n) 
+change (n & v) 
+changing room (n) 
+channel (n) 
+chapter (n) 
+character (n) 
+charge (n & v) 
+charity (n) 
+• She works for a charity. 
+charming (adj) 
+chat (n & v) 
+chatroom (n) 
+chat show (n) (Br Eng) (Am Eng: talk show) 
+cheap (adj) 
+cheat (v) 
+check (n & v) 
+check in (phr v) 
+• They checked in to a hotel. 
+check-in (n) 
+• Your keys are at the check-in desk. 
+check out (phr v) 
+• He checked out of the hotel at the end 
+of his stay. 
+checkout (n) 
+cheek (n) 
+cheerful (adj) 
+cheers! (exclam) 
+cheese (n) 
+chef (n) 
+chemist (n) 
+chemistry (n) 
+cheque (n) 
+chess (n) 
+chest of drawers (n) 
+chicken (n) 
+child (n) 
+childhood (n) 
+chilli (n) 
+chin (n) 
+chip (n) 
+• I love fish and chips. 
+chocolate (n) 
+choice (n) 
+choose (v) 
+cinema (n) 
+circle (n) 
+circus (n) 
+city (n) 
+clap (v) 
+class (n) 
+• language class 
+• first class, second class 
+classical (adj) 
+• classical music 
+classmate (n) 
+classroom (n) 
+clean (adj & v) 
+cleaner (n) 
+clear (adj & v) 
+clearly (adv) 
+clever (adj) 
+click (n & v) 
+cliff (n) 
+climate (n) 
+climb (v) 
+climbing (n) 
+clinic (n) 
+clock (n) 
+close (adj, adv & v) 
+closed (adj) 
+clothes (n pl) 
+cloud (n) 
+cloudy (adj) 
+clown (n) 
+club (n) 
+• to join a club 
+coach (n) 
+coast (n) 
+coat (n) 
+coconut (n) 
+cod (n) 
+coffee (n) 
+coin (n) 
+cola (n) 
+cold (adj & n) 
+collar (n) 
+colleague (n) 
+collect (v) 
+collection (n) 
+college (n) 
+colour (n & v) 
+colourful (adj) 
+comb (n & v) 
+come (v) 
+comedy (n) 
+come on (phr v) 
+• Come on or we'll miss the bus. 
+comfort (n) 
+comfortable (adj) 
+comic (adj & n) 
+comma (n) 
+comment (n) 
+• Please leave comments below. 
+common (adj) 
+• a common surname 
+• have something in common 
+communicate (v) 
+communication (n) 
+company (n) 
+compare (v) 
+compete (v) 
+competition (n) 
+competitor (n) 
+complain (v) 
+complaint (n) 
+complete (adj & v) 
+completely (adv) 
+complicated (adj) 
+composition (n) 
+computer (n) 
+concentrate (v) 
+concert (n) 
+conclusion (n) 
+condition (n) 
+conference (n) 
+confident (adj) 
+confirm (v) 
+confused (adj) 
+confusing (adj) 
+congratulations! (exclaim) 
+connect (v) 
+connection (n) 
+consider (v) 
+consist (v) 
+consonant (n) 
+contact (n & v) 
+contain (v) 
+contents (n) 
+contest (n) 
+continent (n) 
+continue (v) 
+contract (n) 
+control (n & v) 
+• a remote control 
+• Control your dog! 
+convenient (adj) 
+conversation (n) 
+convince (v) 
+cook (n & v) 
+cooker (n) 
+cookie (n) (Am Eng) (Br Eng: biscuit) 
+cooking (n) 
+cool (adj, exclam & v) 
+copy (n & v) 
+corn (n) 
+corner (n) 
+correct (adj) 
+correction (n) 
+cost (n & v) 
+costume (n) 
+• I forgot my swimming costume. 
+• national costume 
+• a Halloween costume 
+cosy (adj) 
+cottage (n) 
+cotton (n) 
+cough (n & v) 
+could (mv) 
+count (v) 
+country (n) 
+countryside (n) 
+couple (n) 
+courage (n) 
+course (n) 
+• English course 
+• main course 
+• of course (exclaim) 
+court (n) 
+• law court 
+• tennis court 
+cover (n & v) 
+cow (n) 
+crash (n & v) 
+crazy (adj) 
+cream (adj & n) 
+create (v) 
+creative (adj) 
+creature (n) 
+credit (n) 
+credit card (n) 
+crew (n) 
+• cabin crew 
+cricket (n) 
+crime (n) 
+criminal (n) 
+crop (n) 
+cross (n & v) 
+crossing (n) 
+• pedestrian crossing 
+cross out (phr v) 
+• Cross it out and write it again. 
+crossroads (n) 
+crowd (n) 
+crowded (adj) 
+cruel (adj) 
+cruise (n) 
+cry (n & v) 
+cucumber (n) 
+cultural (adj) 
+culture (n) 
+cup (n) 
+cupboard (n) 
+cure (n & v) 
+curious (adj) 
+curiously (adv) 
+• ‘Why?’ she asked him curiously. 
+curly (adj) 
+currency (n) 
+curriculum (n) 
+curry (n) 
+curtain (n) 
+cushion (n) 
+custom (n) 
+customer (n) 
+customs (n pl) 
+• I work as a customs officer. 
+cut (n & v) 
+cute (adj) 
+cut up (phr v) 
+• She cut up the cake into small pieces. 
+CV (Curriculum Vitae) (n) 
+cycle (n & v) 
+cycling (n) 
+cyclist (n) 

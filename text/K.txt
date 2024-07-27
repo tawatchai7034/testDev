@@ -1,0 +1,150 @@
+17514 kale n 
+16274 kangaroo n 
+17332 karaoke n 
+15141 karate n 
+18742 karma n 
+10866 kayak n 
+19957 kayak v 
+19687 keel v 
+6609 keen j 
+13163 keenly r 
+156 keep v 
+17063 keep n 
+7525 keeper n 
+19955 keeping n 
+17283 keg n 
+16579 kennel n 
+15296 Kenyan j 
+11638 kernel n 
+13909 kerosene n 
+12037 ketchup n 
+11020 kettle n 
+1097 key j 
+1472 key n 
+9722 key v 
+5606 keyboard n 
+14310 keynote n 
+20025 keypad n 
+18194 keyword n 
+13538 khaki j 
+17716 khakis n 
+1829 kick v 
+5291 kick n 
+18565 kickback n 
+13314 kicker n 
+12599 kickoff n 
+313 kid n 
+4997 kid v 
+16225 kidding n 
+7113 kidnap v 
+13992 kidnapper n 
+7821 kidnapping n 
+5215 kidney n 
+425 kill v 
+12525 kill n 
+2635 killer n 
+3311 killing n 
+16904 kiln n 
+16824 kimono n 
+7478 kin n 
+250 kind n 
+1423 kind r 
+6730 kind j 
+10078 kinda r 
+6206 kindergarten n 
+17206 kindle v 
+10938 kindly r 
+15851 kindly j 
+7835 kindness n 
+19717 kindred j 
+15709 kinetic j 
+2359 king n 
+4534 kingdom n 
+17796 kink n 
+9063 kinship n 
+13719 kiosk n 
+2324 kiss v 
+4015 kiss n 
+13475 kissing n 
+4058 kit n 
+1055 kitchen n 
+9740 kite n 
+19884 kitsch n 
+10193 kitten n 
+11969 knack n 
+18143 knapsack n 
+13178 knead v 
+1497 knee n 
+4986 kneel v 
+2261 knife n 
+7287 knight n 
+8601 knit v 
+17849 knitting n 
+7994 knob n 
+2105 knock v 
+6617 knock n 
+16709 knocking n 
+14173 knockout n 
+19644 knoll n 
+5136 knot n 
+14004 knot v 
+20119 knotted j 
+47 know v 
+13750 know-how n 
+12994 knowing j 
+11388 knowingly r 
+842 knowledge n 
+7466 knowledgeable j 
+4399 known j 
+9236 knuckle n 
+12344 Koran n 
+3555 Korean j 
+8014 Korean n 
+10470 kosher j 
+8324 Kurd n 
+7949 Kurdish j 
+10726 Kuwaiti j 
+16556 Kuwaiti n
+kangaroo (n) 
+keen (adj) 
+• He's keen on cycling. 
+• to be keen to do something 
+keep (v) 
+keeper (n) 
+keep in (phr v) 
+• She kept the children in as it was so 
+cold. 
+keep on (phr v) 
+• He kept on talking. 
+keep up (phr v) 
+• Keep up the good work! 
+kettle (n) 
+key (n) 
+• key to a lock 
+• key to success 
+keyboard (n) 
+• computer keyboard 
+• keyboard music 
+kick (n & v) 
+kid (n) 
+• We’re taking the kids camping.
+kill (v) 
+kilogramme (kg) (n) (Br Eng) (Am Eng: 
+kilogram) 
+kilometre (km) (n) (Br Eng) (Am Eng: 
+kilometer) 
+kind (adj & n) 
+king (n) 
+kiss (n & v) 
+kit (n) 
+kitchen (n) 
+kite (n) 
+kitten (n) 
+knee (n) 
+knife (n) 
+knit (v) 
+knock (v) 
+knock down (phr v) 
+• He was knocked down by a car. 
+know (v) 
+knowledge (n)

@@ -1,0 +1,1027 @@
+16632 e-commerce n 
+1703 e-mail n 
+7013 e-mail v 
+18506 e-mailed j 
+192 each d 
+724 each p 
+3148 eager j 
+7595 eagerly r 
+13263 eagerness n 
+6347 eagle n 
+1344 ear n 
+366 early j 
+512 early r 
+19345 early-morning j 
+12551 earmark v 
+17339 earmark n 
+1312 earn v 
+12477 earned j 
+14400 earner n 
+7114 earnest j 
+15798 earnestly r 
+2942 earnings n 
+19175 earphone n 
+7083 earring n 
+16958 earshot n 
+1730 earth n 
+18913 earthen j 
+10439 earthly j 
+4306 earthquake n 
+13213 earthy j 
+3257 ease v 
+4289 ease n 
+11964 easel n 
+1215 easily r 
+734 east n 
+17431 East-West j 
+5975 Easter n 
+1512 eastern j 
+14709 eastward r 
+550 easy j 
+2923 easy r 
+544 eat v 
+12541 eater n 
+15491 eatery n 
+3941 eating n 
+15423 eavesdrop v 
+15480 ebb n 
+16378 ebb v 
+17901 ebony n 
+8696 eccentric j 
+16571 eccentricity n 
+14868 ecclesiastical j 
+17483 echelon n 
+3454 echo v 
+5823 echo n 
+19930 echoing j 
+9912 eclectic j 
+7762 eclipse n 
+10823 eclipse v 
+4448 ecological j 
+14611 ecologically r 
+11540 ecologist n 
+6520 ecology n 
+454 economic j 
+11545 economical j 
+1948 
+ 
+4937 economically r 
+3213 economics n 
+3019 economist n 
+646 economy n 
+4594 ecosystem n 
+9630 ecstasy n 
+10656 ecstatic j 
+12932 ecumenical j 
+17589 eddy n 
+980 edge n 
+7743 edge v 
+11602 edgy j 
+10887 edible j 
+15857 edict n 
+15196 edifice n 
+4295 edit v 
+9529 editing n 
+3181 edition n 
+1392 editor n 
+17366 editor-in-chief n 
+5068 editorial j 
+5579 editorial n 
+3059 educate v 
+6023 educated j 
+377 education n 
+1596 educational j 
+2450 educator n 
+13620 eel n 
+8363 eerie j 
+13863 eerily r 
+428 effect n 
+7353 effect v 
+1136 effective j 
+2587 effectively r 
+3578 effectiveness n 
+6385 efficacy n 
+3073 efficiency n 
+3023 efficient j 
+6451 efficiently r 
+19518 effigy n 
+14842 effluent n 
+455 effort n 
+15672 effortless j 
+13489 effortlessly r 
+13109 egalitarian j 
+1383 egg n 
+10911 eggplant n 
+4829 ego n 
+13221 egregious j 
+5588 Egyptian j 
+9624 Egyptian n 
+8791 eh u 
+744 eight m 
+17510 eight-year j 
+15725 eight-year-old j 
+5553 eighteen m 
+8293 eighteenth m 
+12724 eighteenth-century j 
+4476 eighth m 
+18229 eighth-grade j 
+7613 eighty m 
+18887 eighty-five m 
+559 either r 
+2036 either d 
+11221 eject v 
+4684 elaborate j 
+7131 elaborate v 
+16800 elaborately r 
+14167 elaboration n 
+17475 elapse v 
+12116 elastic j 
+14735 elasticity n 
+15640 elated j 
+18319 elation n 
+3544 elbow n 
+19535 elbow v 
+4096 elder n 
+9115 elder j 
+2930 elderly j 
+9751 eldest j 
+2285 elect v 
+5445 elected j 
+802 election n 
+12259 elective j 
+5150 electoral j 
+8797 electorate n 
+2719 electric j 
+3828 electrical j 
+18808 electrically r 
+13667 electrician n 
+2743 electricity n 
+17156 electrify v 
+10877 electrode n 
+10846 electromagnetic j 
+5637 electron n 
+2429 electronic j 
+10450 electronically r 
+4920 electronics n 
+9499 elegance n 
+3979 elegant j 
+13269 elegantly r 
+1218 element n 
+14536 elemental j 
+2536 elementary j 
+4405 elephant n 
+6109 elevate v 
+7813 elevated j 
+6798 elevation n 
+3904 elevator n 
+4319 eleven m 
+13843 eleventh m 
+13869 elf n 
+6784 elicit v 
+8559 eligibility n 
+4662 eligible j 
+1852 eliminate v 
+7461 elimination n 
+2759 elite n 
+12766 elite j 
+13670 elitist j 
+20164 elixir n 
+6490 elk n 
+14389 elliptical j 
+14674 elm n 
+13308 elongated j 
+17420 eloquence n 
+10544 eloquent j 
+14340 eloquently r 
+441 else r 
+2299 elsewhere r 
+17031 elucidate v 
+9475 elude v 
+7034 elusive j 
+7784 em p 
+8861 emanate v 
+16064 emancipation n 
+15273 embankment n 
+6441 embargo n 
+1949 
+ 
+6676 embark v 
+7263 embarrass v 
+4654 embarrassed j 
+5742 embarrassing j 
+5878 embarrassment n 
+5810 embassy n 
+16679 embattled j 
+6088 embed v 
+13560 embedded j 
+12954 embellish v 
+19215 embellishment n 
+15478 ember n 
+15102 emblazon v 
+10252 emblem n 
+15369 emblematic j 
+11250 embodiment n 
+5153 embody v 
+17297 embolden v 
+2495 embrace v 
+7592 embrace n 
+14251 embroider v 
+14350 embroidered j 
+14746 embroidery n 
+16149 embroil v 
+6759 embryo n 
+10606 embryonic j 
+12779 emerald n 
+1307 emerge v 
+5799 emergence n 
+1738 emergency n 
+14316 emergent j 
+4528 emerging j 
+10777 emeritus j 
+17582 emigrant n 
+10925 emigrate v 
+12790 emigration n 
+18923 emigre n 
+11412 eminent j 
+16878 eminently r 
+17158 emissary n 
+2937 emission n 
+6361 emit v 
+11060 Emmy n 
+2135 emotion n 
+1625 emotional j 
+4704 emotionally r 
+17986 empathetic j 
+17487 empathize v 
+7726 empathy n 
+7176 emperor n 
+2367 emphasis n 
+2003 emphasize v 
+14586 emphatic j 
+10946 emphatically r 
+18660 emphysema n 
+4260 empire n 
+5356 empirical j 
+13229 empirically r 
+1976 employ v 
+933 employee n 
+2317 employer n 
+2557 employment n 
+6304 empower v 
+16047 empowering j 
+8587 empowerment n 
+9623 emptiness n 
+1653 empty j 
+5820 empty v 
+19232 empty-handed j 
+9217 emulate v 
+2212 enable v 
+4765 enact v 
+13007 enactment n 
+12624 enamel n 
+18085 enamor v 
+16453 encampment n 
+16478 encapsulate v 
+13622 encase v 
+18216 enchant v 
+15555 enchanted j 
+18134 enchanting j 
+18491 enchantment n 
+10822 encircle v 
+9290 enclave n 
+8625 enclose v 
+12175 enclosed j 
+10072 enclosure n 
+11916 encode v 
+5705 encompass v 
+19051 encore n 
+2736 encounter v 
+3605 encounter n 
+1188 encourage v 
+6281 encouragement n 
+4414 encouraging j 
+15920 encroach v 
+16889 encroachment n 
+16180 encryption n 
+10727 encyclopedia n 
+279 end n 
+534 end v 
+7262 endanger v 
+5348 endangered j 
+19698 endear v 
+16523 endearing j 
+6252 endeavor n 
+13918 endeavor v 
+12408 endemic j 
+5249 ending n 
+3758 endless j 
+8944 endlessly r 
+3920 endorse v 
+5364 endorsement n 
+20148 endoscopic j 
+10148 endow v 
+10688 endowment n 
+7883 endurance n 
+3685 endure v 
+6841 enduring j 
+1605 enemy n 
+7253 energetic j 
+19737 energetically r 
+9415 energize v 
+616 energy n 
+16382 energy-efficient j 
+3579 enforce v 
+19992 enforceable j 
+18046 enforced j 
+2308 enforcement n 
+17650 enforcer n 
+1394 engage v 
+10380 engaged j 
+3849 engagement n 
+10300 engaging j 
+9493 engender v 
+1578 engine n 
+2011 engineer n 
+8374 engineer v 
+1950 
+ 
+12694 engineered j 
+2405 engineering n 
+1796 English j 
+1917 English n 
+15943 English-language j 
+13203 English-speaking j 
+12028 Englishman n 
+12652 engrave v 
+19973 engraved j 
+12567 engraving n 
+16677 engross v 
+9788 engulf v 
+2351 enhance v 
+7752 enhanced j 
+7988 enhancement n 
+14784 enigma n 
+12195 enigmatic j 
+20160 enjoin v 
+884 enjoy v 
+9212 enjoyable j 
+7767 enjoyment n 
+7674 enlarge v 
+14227 enlarged j 
+14115 enlargement n 
+11853 enlighten v 
+10653 enlightened j 
+12982 enlightenment n 
+5328 enlist v 
+20080 enlistment n 
+15889 enliven v 
+17889 enmity n 
+16276 enormity n 
+2007 enormous j 
+7539 enormously r 
+375 enough r 
+874 enough d 
+16309 Enquirer n 
+13350 enrage v 
+17361 enraged j 
+6993 enrich v 
+15576 enriched j 
+10234 enrichment n 
+3994 enroll v 
+5745 enrollment n 
+18530 ensconced j 
+5286 ensemble n 
+16625 enshrine v 
+15255 enslave v 
+9761 ensue v 
+10031 ensuing j 
+1768 ensure v 
+6247 entail v 
+14787 entangle v 
+15949 entanglement n 
+710 enter v 
+2522 enterprise n 
+16843 enterprising j 
+5004 entertain v 
+8708 entertainer n 
+6579 entertaining j 
+2372 entertainment n 
+18209 enthuse v 
+3752 enthusiasm n 
+8699 enthusiast n 
+5577 enthusiastic j 
+10347 enthusiastically r 
+9949 entice v 
+15874 enticing j 
+871 entire j 
+1871 entirely r 
+13303 entirety n 
+3495 entitle v 
+7441 entitlement n 
+3969 entity n 
+15824 entomologist n 
+11608 entourage n 
+2899 entrance n 
+18630 entrance v 
+14610 entrant n 
+9133 entree n 
+13548 entrench v 
+13018 entrenched j 
+4321 entrepreneur n 
+8780 entrepreneurial j 
+14707 entrepreneurship n 
+10685 entrust v 
+2356 entry n 
+15367 entry-level j 
+17192 entryway n 
+17655 entwine v 
+15618 enumerate v 
+17608 enunciate v 
+10923 envelop v 
+3916 envelope n 
+18214 enviable j 
+15968 envious j 
+858 environment n 
+822 environmental j 
+16560 environmentalism n 
+5514 environmentalist n 
+6849 environmentally r 
+17233 environs n 
+17209 envisage v 
+4532 envision v 
+10198 envoy n 
+8649 envy n 
+9101 envy v 
+7183 enzyme n 
+17818 eon n 
+14603 ephemeral j 
+8776 epic j 
+10085 epic n 
+17674 epicenter n 
+4973 epidemic n 
+16599 epidemiological j 
+16196 epidemiologist n 
+15432 epidemiology n 
+19579 epilepsy n 
+13080 epiphany n 
+8076 Episcopal j 
+2869 episode n 
+19310 episodic j 
+13963 epistemological j 
+17044 epistemology n 
+15203 epithet n 
+16379 epitome n 
+12841 epitomize v 
+13197 epoch n 
+1844 equal j 
+7265 equal v 
+14985 equal n 
+4642 equality n 
+18518 equalize v 
+2390 equally r 
+8162 equate v 
+4019 equation n 
+13127 equator n 
+14088 equatorial j 
+1951 
+ 
+17238 equestrian j 
+9260 equilibrium n 
+4186 equip v 
+1359 equipment n 
+10149 equitable j 
+3900 equity n 
+18776 equivalence n 
+4377 equivalent n 
+5594 equivalent j 
+1898 era n 
+9324 eradicate v 
+15560 eradication n 
+5861 erase v 
+17240 eraser n 
+6449 erect v 
+14386 erect j 
+13499 erection n 
+6937 erode v 
+16809 eroding j 
+6019 erosion n 
+8018 erotic j 
+13581 err v 
+10185 errand n 
+15643 errant j 
+10903 erratic j 
+12968 erroneous j 
+19976 erroneously r 
+2218 error n 
+19025 erstwhile j 
+5360 erupt v 
+8829 eruption n 
+7681 escalate v 
+11236 escalating j 
+12916 escalation n 
+15323 escalator n 
+2051 escape v 
+4182 escape n 
+20090 escaped j 
+19941 escaping j 
+12211 eschew v 
+6767 escort v 
+8409 escort n 
+18931 esophagus n 
+14258 esoteric j 
+516 especially r 
+11482 espionage n 
+10211 espouse v 
+13093 espresso n 
+2560 essay n 
+16279 essayist n 
+3498 essence n 
+1963 essential j 
+12196 essential n 
+2306 essentially r 
+899 establish v 
+5381 established j 
+2913 establishment n 
+1792 estate n 
+11569 esteem n 
+18392 esteemed j 
+1811 estimate v 
+2514 estimate n 
+3520 estimated j 
+10585 estimation n 
+12174 estranged j 
+20106 estrangement n 
+8021 estrogen n 
+13771 estuary n 
+3104 etc r 
+9037 etch v 
+15364 etching n 
+5700 eternal j 
+16049 eternally r 
+8533 eternity n 
+8549 ethanol n 
+17453 ether n 
+15930 ethereal j 
+7254 ethic n 
+3485 ethical j 
+14504 ethically r 
+17131 ethicist n 
+3259 ethics n 
+10787 Ethiopian j 
+1742 ethnic j 
+12356 ethnically r 
+5500 ethnicity n 
+17565 ethnographer n 
+10042 ethnographic j 
+15097 ethnography n 
+11497 ethos n 
+17491 etiology n 
+12005 etiquette n 
+13931 Eucharist n 
+19142 eucharistic j 
+18528 eulogy n 
+15612 euphemism n 
+12962 euphoria n 
+19023 euphoric j 
+15384 eureka u 
+10427 euro n 
+19355 Euro-American j 
+1269 European j 
+3736 European n 
+16172 euthanasia n 
+7028 evacuate v 
+8382 evacuation n 
+19702 evacuee n 
+9769 evade v 
+2360 evaluate v 
+2374 evaluation n 
+17728 evaluative j 
+16498 evaluator n 
+6351 evangelical j 
+10460 evangelical n 
+12492 evangelist n 
+8042 evaporate v 
+15902 evaporation n 
+13501 evasion n 
+17241 evasive j 
+8144 eve n 
+107 even r 
+484 even c 
+11812 even j 
+16871 even v 
+965 evening n 
+5674 evenly r 
+526 event n 
+7419 eventual j 
+1110 eventually r 
+281 ever r 
+15647 ever-changing j 
+16652 ever-increasing j 
+16294 ever-present j 
+11010 evergreen j 
+15307 evergreen n 
+17745 everlasting j 
+172 every a 
+15265 every r 
+1952 
+ 
+803 everybody p 
+3319 everyday j 
+530 everyone p 
+390 everything p 
+1953 everywhere r 
+12680 evict v 
+16833 eviction n 
+607 evidence n 
+9446 evidence v 
+20120 evidence-based j 
+3496 evident j 
+6436 evidently r 
+3478 evil n 
+3892 evil j 
+19415 evince v 
+17629 evocation n 
+13948 evocative j 
+5078 evoke v 
+2969 evolution n 
+5471 evolutionary j 
+2845 evolve v 
+19437 evolved j 
+13711 evolving j 
+11649 ex-husband n 
+9488 ex-wife n 
+7292 exacerbate v 
+3372 exact j 
+13852 exact v 
+16022 exacting j 
+749 exactly r 
+6407 exaggerate v 
+10061 exaggerated j 
+11140 exaggeration n 
+17989 exalt v 
+17513 exalted j 
+4263 exam n 
+3096 examination n 
+1169 examine v 
+7481 examiner n 
+855 example n 
+17790 exasperate v 
+16980 exasperated j 
+15566 exasperation n 
+10413 excavate v 
+9094 excavation n 
+3308 exceed v 
+11078 exceedingly r 
+7166 excel v 
+5887 excellence n 
+2140 excellent j 
+1850 except i 
+1915 except c 
+19267 except v 
+2423 exception n 
+6086 exceptional j 
+8874 exceptionally r 
+6140 excerpt n 
+10700 excerpt v 
+5825 excess j 
+6141 excess n 
+4620 excessive j 
+12893 excessively r 
+1522 exchange n 
+4189 exchange v 
+18306 excise n 
+18668 excision n 
+5396 excite v 
+3456 excited j 
+12819 excitedly r 
+3536 excitement n 
+2949 exciting j 
+6390 exclaim v 
+14313 exclamation n 
+3500 exclude v 
+15539 excluding i 
+6328 exclusion n 
+18210 exclusionary j 
+3790 exclusive j 
+4538 exclusively r 
+20085 exclusivity n 
+13556 excruciating j 
+8447 excursion n 
+3514 excuse v 
+3761 excuse n 
+12744 exec n 
+3676 execute v 
+4274 execution n 
+17270 executioner n 
+866 executive n 
+8114 executive j 
+10425 exemplary j 
+7936 exemplify v 
+9745 exempt v 
+12260 exempt j 
+7229 exemption n 
+1496 exercise n 
+2348 exercise v 
+6203 exert v 
+12728 exertion n 
+12144 exhale v 
+4786 exhaust v 
+8718 exhaust n 
+8214 exhausted j 
+15467 exhausting j 
+8307 exhaustion n 
+12873 exhaustive j 
+3330 exhibit v 
+3860 exhibit n 
+2498 exhibition n 
+13953 exhibitor n 
+12998 exhilarating j 
+17429 exhilaration n 
+15885 exhort v 
+18061 exhortation n 
+5341 exile n 
+13916 exile v 
+16771 exiled j 
+1019 exist v 
+2233 existence n 
+12113 existential j 
+2169 existing j 
+3835 exit n 
+5049 exit v 
+12279 exodus n 
+15493 exonerate v 
+17267 exorbitant j 
+4245 exotic j 
+1581 expand v 
+6772 expanded j 
+6504 expanding j 
+8353 expanse n 
+2758 expansion n 
+9406 expansive j 
+13664 expatriate n 
+406 expect v 
+7802 expectancy n 
+17355 expectant j 
+18996 expectantly r 
+1953 
+ 
+1903 expectation n 
+4349 expected j 
+19774 expedite v 
+4705 expedition n 
+7087 expel v 
+10905 expend v 
+19381 expendable j 
+5240 expenditure n 
+2156 expense n 
+1674 expensive j 
+421 experience n 
+1185 experience v 
+4379 experienced j 
+14212 experiential j 
+2004 experiment n 
+5213 experiment v 
+3489 experimental j 
+16977 experimentally r 
+9205 experimentation n 
+13059 experimenter n 
+902 expert n 
+14814 expert j 
+3936 expertise n 
+15897 expertly r 
+16760 expiration n 
+6751 expire v 
+481 explain v 
+2071 explanation n 
+12925 explanatory j 
+16763 expletive n 
+4878 explicit j 
+5285 explicitly r 
+3132 explode v 
+4422 exploit v 
+11861 exploit n 
+6994 exploitation n 
+20036 exploited j 
+3921 exploration n 
+10677 exploratory j 
+1603 explore v 
+7912 explorer n 
+3051 explosion n 
+5456 explosive j 
+7382 explosives n 
+18569 exponential n 
+15775 exponentially r 
+3488 export n 
+5373 export v 
+11166 exporter n 
+2019 expose v 
+7232 exposed j 
+14794 exposition n 
+2249 exposure n 
+17070 expound v 
+1279 express v 
+12378 express j 
+14420 expressed j 
+1542 expression n 
+18904 expressionless j 
+8146 expressive j 
+14068 expressly r 
+11567 expulsion n 
+8245 exquisite j 
+15091 exquisitely r 
+15087 extant j 
+1452 extend v 
+4124 extended j 
+3218 extension n 
+2868 extensive j 
+7100 extensively r 
+1771 extent n 
+8941 exterior n 
+10055 exterior j 
+18418 exterminate v 
+19516 extermination n 
+2886 external j 
+19713 externality n 
+18853 externalize v 
+14898 externally r 
+9567 extinct j 
+7089 extinction n 
+12227 extinguish v 
+19575 extinguisher n 
+15145 extol v 
+14615 extortion n 
+1552 extra j 
+10991 extra n 
+14769 extra r 
+17932 extra-virgin j 
+5027 extract v 
+7356 extract n 
+10741 extraction n 
+13577 extracurricular j 
+16696 extradition n 
+18083 extramarital j 
+18354 extraneous j 
+7449 extraordinarily r 
+2648 extraordinary j 
+14736 extrapolate v 
+16273 extraterrestrial j 
+17874 extravagance n 
+10672 extravagant j 
+15391 extravaganza n 
+2542 extreme j 
+7593 extreme n 
+1770 extremely r 
+13522 extremism n 
+8066 extremist n 
+12596 extremist j 
+13983 extremity n 
+17311 extricate v 
+16716 extrinsic j 
+14221 exuberance n 
+12726 exuberant j 
+12528 exude v 
+243 eye n 
+6774 eye v 
+19827 eye-catching j 
+11200 eyeball n 
+4516 eyebrow n 
+15047 eyeglass n 
+13655 eyelash n 
+8820 eyelid n 
+11658 eyepiece n 
+15144 eyesight n 
+8803 eyewitness n 
+each (det & pron) 
+ear (n) 
+earache (n) 
+early (adj & adv) 
+earn (v) 
+earring (n) 
+earth (n) 
+east (adj, adv & n) 
+eastern (adj) 
+easily (adv) 
+easy (adj) 
+easygoing (adj) 
+eat (v) 
+economics (n) 
+edge (n) 
+education (n) 
+effect (n) 
+efficient (adj) 
+effort (n) 
+egg (n) 
+either (adv, det & pron) 
+elbow (n) 
+elder (adj) 
+election (n) 
+electric (adj) 
+electrical (adj) 
+electricity (n) 
+electronic (adj) 
+elementary (adj) 
+• elementary level 
+elephant (n) 
+elevator (n) (Am Eng) (Br Eng: lift) 
+else (adv) 
+email (n & v) 
+embarrassed (adj) 
+embarrassing (adj) 
+embassy (n) 
+emergency (n) 
+employ (v) 
+employee (n) 
+employer (n) 
+employment (n) 
+empty (adj) 
+encourage (v) 
+end (n & v) 
+ending (n) 
+end up (phr v) 
+• He plans to end up working in Australia. 
+enemy (n) 
+energy (n) 
+• Team sports take a lot of time and 
+energy. 
+• In our house we try to save energy. 
+engaged (adj) 
+• to be engaged to someone 
+• The phone was engaged. 
+engine (n) 
+engineer (n) 
+engineering (n) 
+enjoy (v) 
+enjoyable (adj) 
+enormous (adj) 
+enough(adv,det 
+& pron) 
+enquire (v) 
+enquiry (n) 
+enter (v) 
+entertain (v) 
+entertainment (n) 
+entrance (n) 
+entry (n) 
+envelope (n) 
+environment (n) 
+environmental (adj) 
+equal (adj) 
+equipment (n) 
+eraser (n) (Am Eng) (Br Eng: rubber) 
+escape (v) 
+especially (adv) 
+essay (n) 
+essential (adj) 
+euro (n) 
+even (adv) 
+• He couldn't even do that. 
+evening (n) 
+event (n) 
+even though (conj) 
+ever (adv) 
+every (det) 
+everybody (pron) 
+everyone (pron) 
+everything (pron) 
+everywhere (adv) 
+exact (adj) 
+exactly (adv) 
+examination/exam (n) 
+examiner (n) 
+example (n) 
+excellent (adj) 
+except (prep, conj) 
+exchange (n) 
+• an exchange visit 
+• in exchange for 
+exchange (v) 
+exchange rate (n) 
+excited (adj) 
+excitement (n) 
+exciting (adj) 
+excuse (n & v) 
+exercise (n & v) 
+exhausted (adj) 
+exhibition (n) 
+exist (v) 
+exit (n) 
+expect (v) 
+expedition (n) 
+expensive (adj) 
+experience (n & v) 
+• It was the worst pain I’d ever 
+experienced. 
+experienced (adj) 
+experiment (n) 
+expert (n) 
+explain (v) 
+explanation (n) 
+explode (v) 
+explore (v) 
+explorer (n) 
+• This book’s about famous explorers. 
+extra (adj, adv & n) 
+extraordinary (adj) 
+extremely (adv) 
+extreme sport (n) 
+eye (n) 

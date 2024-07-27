@@ -1,0 +1,1416 @@
+8161 rabbi n 
+4420 rabbit n 
+16918 rabid j 
+19235 rabies n 
+12691 raccoon n 
+717 race n 
+2409 race v 
+9312 racer n 
+15697 racetrack n 
+2263 racial j 
+9551 racially r 
+11037 racing j 
+13430 racing n 
+3988 racism n 
+6480 racist j 
+9518 racist n 
+4190 rack n 
+9456 rack v 
+10159 racket n 
+18190 racketeering n 
+18184 racy j 
+4836 radar n 
+17080 radial j 
+17872 radiance n 
+9964 radiant j 
+8664 radiate v 
+3686 radiation n 
+13764 radiator n 
+2952 radical j 
+6734 radical n 
+17221 radicalism n 
+6615 radically r 
+907 radio n 
+17604 radio v 
+8054 radioactive j 
+18627 radiologist n 
+15495 radish n 
+9631 radius n 
+18782 radon n 
+7497 raft n 
+10817 rafter n 
+17855 rafting n 
+6769 rag n 
+4023 rage n 
+7024 rage v 
+8314 ragged j 
+11441 raging j 
+5158 raid n 
+8936 raid v 
+17126 raider n 
+3402 rail n 
+17787 rail v 
+7800 railing n 
+3684 railroad n 
+8539 railway n 
+1559 rain n 
+4670 rain v 
+7560 rainbow n 
+15777 raincoat n 
+17336 raindrop n 
+9387 rainfall n 
+11696 rainforest n 
+18178 rainstorm n 
+2010 
+ 
+14637 rainwater n 
+7607 rainy j 
+434 raise v 
+8827 raise n 
+7493 raised j 
+19815 raiser n 
+9200 raisin n 
+9334 raising n 
+9045 rake v 
+14408 rake n 
+4675 rally n 
+5518 rally v 
+17992 rallying n 
+12396 ram v 
+14581 ram n 
+16613 Ramadan n 
+17528 ramble v 
+16080 rambling j 
+10377 ramification n 
+6181 ramp n 
+15543 rampage n 
+8875 rampant j 
+17897 ramshackle j 
+4075 ranch n 
+7616 rancher n 
+14884 ranching n 
+19015 rancid j 
+3656 random j 
+12186 random r 
+20042 randomized j 
+6602 randomly r 
+974 range n 
+1878 range v 
+8832 ranger n 
+2670 rank n 
+3411 rank v 
+15231 ranked j 
+5098 ranking n 
+18906 ransack v 
+12233 ransom n 
+16719 rant n 
+20124 rant v 
+5377 rap n 
+8594 rap v 
+3447 rape n 
+5019 rape v 
+3056 rapid j 
+14059 rapid n 
+2550 rapidly r 
+10169 rapist n 
+9336 rapper n 
+12398 rapport n 
+19982 rapprochement n 
+17741 rapt j 
+19721 raptor n 
+16969 rapture n 
+1886 rare j 
+2291 rarely r 
+12458 rarity n 
+9137 rash n 
+19514 rash j 
+9012 raspberry n 
+3593 rat n 
+458 rate n 
+3117 rate v 
+18119 rater n 
+863 rather r 
+976 rather i 
+2474 rather c 
+14585 ratification n 
+9259 ratify v 
+1834 rating n 
+3112 ratio n 
+11822 ration n 
+17094 ration v 
+4533 rational j 
+6132 rationale n 
+11501 rationality n 
+17086 rationalization n 
+12249 rationalize v 
+15399 rationally r 
+17693 rationing n 
+5522 rattle v 
+12327 rattle n 
+15494 rattlesnake n 
+13322 raucous j 
+12331 ravage v 
+18096 ravages n 
+11906 rave v 
+13525 rave n 
+16915 raven n 
+11723 ravine n 
+18712 ravioli n 
+2807 raw j 
+5110 ray n 
+17659 raze v 
+7579 razor n 
+12149 RBI n 
+3654 re i 
+6622 re-create v 
+10402 re-elect v 
+5907 re-election n 
+16122 re-emerge v 
+16738 re-enact v 
+17489 re-enactment n 
+12192 re-enter v 
+16277 re-entry n 
+10215 re-establish v 
+13301 re-evaluate v 
+11612 re-examine v 
+423 reach v 
+3581 reach n 
+2689 react v 
+1416 reaction n 
+14325 reactionary j 
+11791 reactive j 
+6408 reactor n 
+338 read v 
+15114 read n 
+17990 readable j 
+1274 reader n 
+15056 readership n 
+4052 readily r 
+7617 readiness n 
+1591 reading n 
+18615 readjust v 
+759 ready j 
+8512 ready v 
+13985 ready r 
+16144 ready-made j 
+9357 reaffirm v 
+306 real j 
+15524 real r 
+7672 real-life j 
+12514 real-time j 
+11996 real-world j 
+16504 realignment n 
+7303 realism n 
+2011 
+ 
+10202 realist n 
+4032 realistic j 
+11415 realistically r 
+1035 reality n 
+5692 realization n 
+621 realize v 
+142 really r 
+3948 realm n 
+19795 realtor n 
+19797 ream n 
+7738 reap v 
+9245 reappear v 
+4073 rear j 
+5389 rear n 
+7586 rear v 
+9668 rearrange v 
+11244 rearview j 
+360 reason n 
+5561 reason v 
+2533 reasonable j 
+5133 reasonably r 
+16308 reasoned j 
+5884 reasoning n 
+16440 reassemble v 
+14679 reassert v 
+14601 reassess v 
+19846 reassessment n 
+18114 reassign v 
+10856 reassurance n 
+5481 reassure v 
+11390 reassuring j 
+10785 rebate n 
+3813 rebel n 
+9710 rebel v 
+6425 rebellion n 
+11444 rebellious j 
+11872 rebirth n 
+16119 reborn v 
+5968 rebound n 
+7985 rebound v 
+14809 rebuff v 
+3826 rebuild v 
+10486 rebuilding n 
+19905 rebuilt j 
+18023 rebuke n 
+18882 rebuke v 
+18741 rebut v 
+15568 rebuttal n 
+18935 recalcitrant j 
+1132 recall v 
+7424 recall n 
+11071 recapture v 
+15758 recast v 
+7814 recede v 
+6621 receipt n 
+499 receive v 
+16041 received j 
+3432 receiver n 
+11949 receiving j 
+568 recent j 
+700 recently r 
+18879 receptacle n 
+3981 reception n 
+10522 receptionist n 
+9999 receptive j 
+9981 receptor n 
+7897 recess n 
+3611 recession n 
+14319 recharge v 
+2532 recipe n 
+3957 recipient n 
+10864 reciprocal j 
+16171 reciprocate v 
+14172 reciprocity n 
+12291 recital n 
+15611 recitation n 
+6492 recite v 
+8733 reckless j 
+18174 recklessly r 
+8695 reckon v 
+14505 reckoning n 
+7587 reclaim v 
+16456 recline v 
+18790 recliner n 
+18285 reclusive j 
+2463 recognition n 
+8435 recognizable j 
+785 recognize v 
+13366 recognized j 
+13527 recoil v 
+18799 recollect v 
+8032 recollection n 
+1699 recommend v 
+2792 recommendation n 
+8516 recommended j 
+6662 reconcile v 
+5845 reconciliation n 
+16069 reconfigure v 
+12241 reconnaissance n 
+13888 reconnect v 
+7902 reconsider v 
+16515 reconstitute v 
+7454 reconstruct v 
+5276 reconstruction n 
+19247 reconstructive j 
+517 record n 
+1668 record v 
+8908 recorded j 
+6104 recorder n 
+3348 recording n 
+5557 recount v 
+13962 recount n 
+14222 recoup v 
+11631 recourse n 
+2150 recover v 
+2466 recovery n 
+5984 recreation n 
+6020 recreational j 
+19608 recrimination n 
+3344 recruit v 
+7031 recruit n 
+11017 recruiter n 
+8053 recruiting n 
+6474 recruitment n 
+10295 rectangle n 
+9755 rectangular j 
+14904 rectify v 
+16645 recuperate v 
+13421 recur v 
+11024 recurrence n 
+11676 recurrent j 
+9954 recurring j 
+20198 recyclable j 
+5892 recycle v 
+9081 recycled j 
+6075 recycling n 
+598 red j 
+19154 red-haired j 
+2012 
+ 
+17757 red-hot j 
+16965 redden v 
+12743 reddish j 
+9458 redeem v 
+7700 redefine v 
+19823 redefinition n 
+8405 redemption n 
+10913 redesign v 
+16325 redesign n 
+13358 redevelopment n 
+15664 redhead n 
+11715 redirect v 
+10835 rediscover v 
+15853 redistribute v 
+14199 redistribution n 
+18117 redneck n 
+18380 redness n 
+18222 redraw v 
+17243 redress v 
+20037 redress n 
+19547 redshift n 
+702 reduce v 
+6114 reduced j 
+2290 reduction n 
+17407 redundancy n 
+13368 redundant j 
+12183 redwood n 
+9759 reed n 
+6443 reef n 
+15066 reek v 
+7673 reel v 
+8698 reel n 
+16446 ref n 
+1159 refer v 
+8690 referee n 
+1918 reference n 
+11292 reference v 
+6866 referendum n 
+18017 referent n 
+6603 referral n 
+13253 refill v 
+13003 refinance v 
+6701 refine v 
+7848 refined j 
+10883 refinement n 
+9578 refinery n 
+1007 reflect v 
+15526 reflected j 
+2780 reflection n 
+6963 reflective j 
+13242 reflector n 
+10511 reflex n 
+20063 reflexively r 
+1116 reform n 
+5406 reform v 
+13738 reformed j 
+6808 reformer n 
+18950 reforming j 
+17054 reformist j 
+17028 refractor n 
+9225 refrain v 
+13256 refrain n 
+12713 refresh v 
+8900 refreshing j 
+14964 refreshment n 
+8709 refrigerate v 
+18766 refrigerated j 
+16550 refrigeration n 
+4173 refrigerator n 
+15776 refuel v 
+4672 refuge n 
+2622 refugee n 
+11184 refund n 
+15624 refurbish v 
+6018 refusal n 
+1253 refuse v 
+16573 refuse n 
+11396 refute v 
+4838 regain v 
+12534 regal j 
+19918 regalia n 
+2101 regard v 
+4252 regard i 
+4817 regard n 
+2172 regarding i 
+2922 regardless r 
+15408 regenerate v 
+14419 regeneration n 
+16071 regent n 
+16301 reggae n 
+1862 regime n 
+8049 regimen n 
+10540 regiment n 
+794 region n 
+1654 regional j 
+19527 regionally r 
+3199 register v 
+5412 register n 
+6448 registered j 
+19798 registrar n 
+5447 registration n 
+13057 registry n 
+17690 regress v 
+5467 regression n 
+19521 regressive j 
+4647 regret v 
+6006 regret n 
+18217 regrettable j 
+17779 regrettably r 
+14529 regroup v 
+1377 regular j 
+11115 regular n 
+13973 regular-season j 
+12589 regularity n 
+2842 regularly r 
+3413 regulate v 
+14682 regulated j 
+1685 regulation n 
+4782 regulator n 
+3977 regulatory j 
+10206 rehab n 
+11492 rehabilitate v 
+4842 rehabilitation n 
+5480 rehearsal n 
+7933 rehearse v 
+16458 reheat v 
+7768 reign n 
+9974 reign v 
+15017 reigning j 
+12220 reimburse v 
+10027 reimbursement n 
+8794 rein n 
+11369 rein v 
+18458 reincarnation n 
+13324 reindeer n 
+3360 reinforce v 
+7639 reinforcement n 
+11158 reinstate v 
+2013 
+ 
+12959 reintroduce v 
+8350 reinvent v 
+20087 reinvention n 
+18370 reinvigorate v 
+8940 reiterate v 
+2046 reject v 
+20136 rejected j 
+5063 rejection n 
+10993 rejoice v 
+10435 rejoin v 
+19438 rejuvenate v 
+15439 rekindle v 
+16433 relapse n 
+1084 relate v 
+3422 related j 
+1122 relation n 
+11384 relational j 
+487 relationship n 
+2451 relative n 
+3180 relative j 
+1470 relatively r 
+14840 relativism n 
+11827 relativity n 
+2883 relax v 
+8218 relaxation n 
+6191 relaxed j 
+12368 relaxing j 
+8481 relay n 
+9555 relay v 
+1124 release v 
+2219 release n 
+17346 released j 
+9922 relegate v 
+16067 relent v 
+7147 relentless j 
+10768 relentlessly r 
+6654 relevance n 
+2838 relevant j 
+4241 reliability n 
+3535 reliable j 
+11970 reliably r 
+7053 reliance n 
+16107 reliant j 
+8553 relic n 
+1826 relief n 
+3799 relieve v 
+11697 relieved j 
+12626 reliever n 
+1390 religion n 
+15137 religiosity n 
+887 religious j 
+12416 religiously r 
+9677 relinquish v 
+8835 relish v 
+13315 relish n 
+11106 relive v 
+17052 reload v 
+7037 relocate v 
+10798 relocation n 
+7092 reluctance n 
+3934 reluctant j 
+7230 reluctantly r 
+1872 rely v 
+427 remain v 
+6911 remainder n 
+2174 remaining j 
+5385 remains n 
+10862 remake v 
+14342 remake n 
+3418 remark n 
+4781 remark v 
+2731 remarkable j 
+5223 remarkably r 
+11226 remarry v 
+20058 rematch n 
+10696 remedial j 
+14566 remediation n 
+5175 remedy n 
+10197 remedy v 
+380 remember v 
+11073 remembrance n 
+1466 remind v 
+4439 reminder n 
+14193 reminisce v 
+17887 reminiscence n 
+7656 reminiscent j 
+15601 remission n 
+17347 remittance n 
+6488 remnant n 
+11646 remodel v 
+10752 remorse n 
+2802 remote j 
+9849 remotely r 
+15229 removable j 
+4763 removal n 
+879 remove v 
+12946 renaissance n 
+14347 renal j 
+9451 rename v 
+3571 render v 
+11083 rendering n 
+13379 rendezvous n 
+10720 rendition n 
+13586 renegade n 
+19528 renege v 
+16271 renegotiate v 
+5598 renew v 
+7437 renewable j 
+6606 renewal n 
+6320 renewed j 
+10920 renounce v 
+8788 renovate v 
+19280 renovated j 
+7389 renovation n 
+19693 renown n 
+7339 renowned j 
+3464 rent v 
+4227 rent n 
+4798 rental n 
+11686 rented j 
+14811 renter n 
+6771 reopen v 
+10692 reorganization n 
+11130 reorganize v 
+7257 rep n 
+18682 repaint v 
+3910 repair n 
+4025 repair v 
+13420 reparation n 
+16376 repatriation n 
+8122 repay v 
+15250 repayment n 
+9768 repeal v 
+14723 repeal n 
+1611 repeat v 
+9738 repeat n 
+5615 repeated j 
+3275 repeatedly r 
+2014 
+ 
+15396 repeating j 
+11479 repel v 
+17399 repellent n 
+17331 repent v 
+17880 repentance n 
+11077 repercussion n 
+7930 repertoire n 
+13775 repertory n 
+5901 repetition n 
+10357 repetitive j 
+1186 replace v 
+3693 replacement n 
+19589 replant v 
+11851 replay v 
+13014 replay n 
+12491 replenish v 
+13603 replete j 
+9477 replica n 
+6727 replicate v 
+13330 replication n 
+2239 reply v 
+5545 reply n 
+451 report v 
+477 report n 
+6397 reported j 
+4445 reportedly r 
+1294 reporter n 
+3917 reporting n 
+20161 repose n 
+16875 reposition v 
+11365 repository n 
+18642 reprehensible j 
+688 represent v 
+2931 representation n 
+14967 representational j 
+1989 representative n 
+4030 representative j 
+13439 repress v 
+13813 repressed j 
+7818 repression n 
+11730 repressive j 
+17614 reprieve n 
+15361 reprimand v 
+17546 reprimand n 
+9450 reprint v 
+17109 reprint n 
+15450 reprisal n 
+19268 reproach n 
+5044 reproduce v 
+5739 reproduction n 
+5951 reproductive j 
+10776 reptile n 
+4273 republic n 
+595 Republican n 
+4897 republican j 
+14096 repudiate v 
+19785 repudiation n 
+18910 repugnant j 
+19086 repulse v 
+16365 repulsive j 
+14291 reputable j 
+2432 reputation n 
+19741 repute v 
+2134 request n 
+3143 request v 
+447 require v 
+4507 required j 
+1899 requirement n 
+12513 requisite j 
+14204 rerun n 
+17396 resale n 
+17730 reschedule v 
+16752 rescind v 
+3852 rescue v 
+3924 rescue n 
+11888 rescuer n 
+363 research n 
+3739 research v 
+1181 researcher n 
+16263 resell v 
+7696 resemblance n 
+3083 resemble v 
+6525 resent v 
+14783 resentful j 
+5896 resentment n 
+3072 reservation n 
+3776 reserve n 
+4079 reserve v 
+5610 reserve j 
+9944 reserved j 
+14253 reservist n 
+5992 reservoir n 
+13212 reset v 
+17553 resettle v 
+16793 resettlement n 
+9609 reshape v 
+5350 reside v 
+3803 residence n 
+9585 residency n 
+1260 resident n 
+6873 resident j 
+3866 residential j 
+7922 residual j 
+13885 residuals n 
+7716 residue n 
+3419 resign v 
+5841 resignation n 
+18027 resigned j 
+10821 resilience n 
+10906 resilient j 
+12411 resin n 
+2493 resist v 
+2246 resistance n 
+6766 resistant j 
+15504 resolute j 
+16199 resolutely r 
+1980 resolution n 
+2262 resolve v 
+8713 resolve n 
+8095 resonance n 
+14499 resonant j 
+8012 resonate v 
+2707 resort n 
+8016 resort v 
+20022 resound v 
+15979 resounding j 
+770 resource n 
+15093 resourceful j 
+1563 respect n 
+2836 respect v 
+4305 respect i 
+15525 respectability n 
+7484 respectable j 
+6672 respected j 
+8536 respectful j 
+12761 respectfully r 
+15062 respecting i 
+5971 respective j 
+2015 
+ 
+3762 respectively r 
+18293 respiration n 
+16986 respirator n 
+7620 respiratory j 
+13342 respite n 
+923 respond v 
+2561 respondent n 
+16589 responder n 
+726 response n 
+3709 response i 
+1071 responsibility n 
+1372 responsible j 
+13854 responsibly r 
+7025 responsive j 
+14393 responsiveness n 
+673 rest n 
+1935 rest v 
+13411 restart v 
+17492 restate v 
+1118 restaurant n 
+16531 restaurateur n 
+15590 restitution n 
+7432 restless j 
+17927 restlessness n 
+5057 restoration n 
+19193 restorative j 
+2566 restore v 
+11478 restored j 
+14151 restoring j 
+6933 restrain v 
+15271 restrained j 
+15277 restraining j 
+5486 restraint n 
+3574 restrict v 
+8995 restricted j 
+3153 restriction n 
+8685 restrictive j 
+12036 restroom n 
+8295 restructure v 
+7403 restructuring n 
+355 result n 
+1365 result v 
+14486 resultant j 
+5478 resulting j 
+3819 resume v 
+9983 resume n 
+19203 resumption n 
+14476 resurface v 
+10608 resurgence n 
+10843 resurrect v 
+10437 resurrection n 
+18361 resuscitate v 
+3509 retail j 
+12529 retail v 
+4562 retailer n 
+16806 retailing n 
+2748 retain v 
+17907 retainer n 
+17654 retake v 
+12347 retaliate v 
+8638 retaliation n 
+17829 retard v 
+13782 retardation n 
+10399 retarded j 
+6633 retention n 
+7932 rethink v 
+19076 reticence n 
+17877 reticent j 
+15338 retina n 
+2321 retire v 
+3703 retired j 
+7349 retiree n 
+2464 retirement n 
+16074 retiring j 
+18107 retool v 
+14336 retort v 
+14174 retrace v 
+14366 retract v 
+15781 retrain v 
+20149 retraining n 
+4844 retreat n 
+5212 retreat v 
+11933 retribution n 
+14530 retrieval n 
+5010 retrieve v 
+15836 retriever n 
+14706 retro j 
+20145 retroactive j 
+18701 retrofit v 
+8507 retrospect n 
+9242 retrospective j 
+473 return v 
+1245 return n 
+14692 returning j 
+11841 reunification n 
+6157 reunion n 
+8906 reunite v 
+18894 reusable j 
+13378 reuse v 
+18064 rev v 
+13559 revamp v 
+19988 revamped j 
+930 reveal v 
+9399 revealing j 
+10105 revel v 
+4226 revelation n 
+19507 reveler n 
+5351 revenge n 
+1691 revenue n 
+12949 reverberate v 
+10915 revere v 
+17389 revered j 
+10576 reverence n 
+5870 Reverend n 
+18001 reverend j 
+14791 reverie n 
+7347 reversal n 
+3529 reverse v 
+7413 reverse j 
+7532 reverse n 
+17922 reversible j 
+10316 revert v 
+1391 review n 
+2106 review v 
+8454 reviewer n 
+5909 revise v 
+8106 revised j 
+6080 revision n 
+14268 revisionist n 
+8087 revisit v 
+15030 revitalization n 
+10860 revitalize v 
+5488 revival n 
+5347 revive v 
+12938 revoke v 
+9161 revolt n 
+19777 revolt v 
+2781 revolution n 
+2016 
+ 
+4054 revolutionary j 
+15514 revolutionary n 
+11331 revolutionize v 
+7521 revolve v 
+11305 revolver n 
+12868 revolving j 
+16381 revulsion n 
+3420 reward n 
+4486 reward v 
+9525 rewarding j 
+13947 rework v 
+7778 rewrite v 
+3748 rhetoric n 
+7626 rhetorical j 
+17590 rhetorically r 
+18934 rheumatoid j 
+17226 rhino n 
+18757 rhododendron n 
+17313 rhubarb n 
+10457 rhyme n 
+14810 rhyme v 
+3309 rhythm n 
+8942 rhythmic j 
+19416 rhythmically r 
+4619 rib n 
+4891 ribbon n 
+2763 rice n 
+1079 rich j 
+9776 riches n 
+11413 richly r 
+9459 richness n 
+14807 rickety j 
+18733 ricochet v 
+17985 ricotta n 
+3066 rid v 
+12015 riddle n 
+13192 riddle v 
+1290 ride v 
+2062 ride n 
+3857 rider n 
+4908 ridge n 
+10299 ridicule v 
+15173 ridicule n 
+4083 ridiculous j 
+15619 ridiculously r 
+11586 riding n 
+14492 rife j 
+16318 riff n 
+3090 rifle n 
+18819 rifle v 
+10714 rift n 
+8452 rig n 
+9005 rig v 
+19986 rigging n 
+193 right r 
+240 right n 
+318 right j 
+15393 right v 
+12333 right-hand j 
+7398 right-wing j 
+11111 righteous j 
+15928 righteousness n 
+13454 rightful j 
+15360 rightfully r 
+7771 rightly r 
+5540 rigid j 
+15344 rigidity n 
+16720 rigidly r 
+10171 rigor n 
+6706 rigorous j 
+16161 rigorously r 
+17754 rile v 
+4653 rim n 
+18862 rim v 
+12532 rind n 
+1688 ring n 
+2397 ring v 
+19854 ringer n 
+10319 ringing n 
+10814 rink n 
+7144 rinse v 
+19641 rinse n 
+17929 rinsed j 
+4903 riot n 
+17630 rioting n 
+3606 rip v 
+15472 rip n 
+18759 riparian j 
+6152 ripe j 
+15274 ripen v 
+18792 ripped j 
+8286 ripple n 
+12568 ripple v 
+18040 rippling j 
+728 rise v 
+1974 rise n 
+18588 riser n 
+5404 rising j 
+17222 rising n 
+652 risk n 
+3189 risk v 
+4545 risky j 
+17085 risotto n 
+6611 rite n 
+3433 ritual n 
+6530 ritual j 
+4391 rival n 
+6709 rival j 
+8731 rival v 
+6703 rivalry n 
+1334 river n 
+15286 riverbank n 
+17793 riverboat n 
+14927 rivet v 
+16421 riveting j 
+13928 RNA n 
+15807 roach n 
+490 road n 
+11653 roadblock n 
+7568 roadside n 
+10958 roadway n 
+6261 roam v 
+5342 roar v 
+7081 roar n 
+15061 roaring j 
+7827 roast v 
+10707 roast j 
+10718 roast n 
+7963 roasted j 
+13072 roasting j 
+5131 rob v 
+9787 robber n 
+6096 robbery n 
+5308 robe n 
+18886 robin n 
+4575 robot n 
+10359 robotic j 
+17488 robotics n 
+2017 
+ 
+6512 robust j 
+872 rock n 
+4205 rock v 
+9350 rocker n 
+4133 rocket n 
+16108 rocket v 
+20015 rockfish n 
+13198 rocking j 
+5619 rocky j 
+4624 rod n 
+10221 rodent n 
+11747 rodeo n 
+8778 rogue n 
+16586 roil v 
+452 role n 
+19497 role-playing n 
+1255 roll v 
+2548 roll n 
+18503 rolled j 
+6248 roller n 
+19511 roller-coaster n 
+4342 rolling j 
+18698 rollover n 
+3539 Roman j 
+7652 Roman n 
+4055 romance n 
+13922 Romanian j 
+3160 romantic j 
+19405 romantically r 
+19769 romanticism n 
+18706 romanticize v 
+2154 roof n 
+16178 roofing n 
+8755 rooftop n 
+5314 rookie n 
+228 room n 
+6987 roommate n 
+13435 roomy j 
+16933 roost v 
+19320 roost n 
+11875 rooster n 
+1747 root n 
+4207 root v 
+19331 rooted j 
+3337 rope n 
+17669 rope v 
+14732 rosary n 
+3397 rose n 
+10595 rosemary n 
+6574 roster n 
+10356 rosy j 
+9847 rot v 
+14082 rot n 
+12953 rotary j 
+5556 rotate v 
+15159 rotating j 
+5301 rotation n 
+17696 rote n 
+12696 rotor n 
+8546 rotten j 
+13705 rotting j 
+2650 rough j 
+14114 rough v 
+2680 roughly r 
+18212 roulette n 
+2393 round n 
+2962 round j 
+4766 round v 
+5625 round r 
+17368 round-trip j 
+10160 rounded j 
+15435 roundup n 
+11213 rouse v 
+16944 rousing j 
+12176 rout v 
+17149 rout n 
+1961 route n 
+16570 router n 
+2608 routine n 
+11063 routine j 
+4779 routinely r 
+8631 rove v 
+10673 rover n 
+17232 roving j 
+1858 row n 
+10082 row v 
+15184 rowdy j 
+13994 rowing n 
+4352 royal j 
+7017 royalty n 
+2897 rub v 
+14600 rub n 
+4843 rubber j 
+8678 rubber n 
+19442 rubbery j 
+15486 rubbish n 
+7685 rubble n 
+13944 rubric n 
+14482 ruby n 
+17202 rudder n 
+17326 ruddy j 
+6827 rude j 
+19809 rudely r 
+12464 rudimentary j 
+16505 ruefully r 
+13890 ruffle v 
+5155 rug n 
+16040 rugby n 
+7106 rugged j 
+4237 ruin v 
+5245 ruin n 
+12128 ruined j 
+634 rule n 
+2226 rule v 
+5617 ruler n 
+4065 ruling n 
+6024 ruling j 
+9764 rum n 
+8916 rumble v 
+12302 rumble n 
+17274 rumbling n 
+11592 rummage v 
+3567 rumor n 
+13067 rumor v 
+17122 rump n 
+18090 rumpled j 
+202 run v 
+1257 run n 
+13915 run-down j 
+19176 run-in n 
+15959 run-up n 
+10183 runaway j 
+15623 runaway n 
+14362 rung n 
+4257 runner n 
+12717 runner-up n 
+3278 running j 
+4730 running n 
+2018 
+ 
+19161 runny j 
+7720 runoff n 
+5960 runway n 
+14418 rupture v 
+14824 rupture n 
+2020 rural j 
+17464 ruse n 
+1970 rush v 
+3794 rush n 
+17197 rusher n 
+12296 rushing j 
+1571 Russian j 
+4033 Russian n 
+10515 rust n 
+13287 rust v 
+14131 rusted j 
+10047 rustic j 
+13188 rustle v 
+18547 rustle n 
+9822 rusty j 
+11585 rut n 
+9620 ruthless j 
+20016 ruthlessly r 
+15751 rye n 
+rabbit (n) 
+race (n & v) 
+• to win a race (n) 
+• to race against fast runners (compete) 
+(v) 
+• to race home quickly (run) (v) 
+racket (n) 
+• tennis racket radio (n) 
+rail (n) 
+• to go by rail railway (n) 
+rain (n & v) 
+raincoat (n) 
+rainforest (n) 
+raise (v) 
+• to raise your arm 
+• to raise prices 
+range (n) 
+rap (n) 
+• rap artist 
+rare (adj) 
+rarely (adv) 
+rather (adv) 
+• She’s rather tall for her age. 
+• I’d rather go to the cinema than the 
+theatre. 
+• Shall we stay in tonight, rather than go out? 
+raw (adj) 
+• raw meat 
+reach (v) 
+react (v) 
+• He reacted quickly to the news. 
+read (v) 
+reader (n) 
+reading (n) 
+ready (adj) 
+real (adj) 
+realise (v) 
+• He realised it was true. 
+realistic (adj) 
+reality (n) 
+really (adv) 
+reason (n) 
+reasonable (adj) 
+reasonably (adv) 
+rebuild (v) 
+receipt (n) 
+receive (v) 
+recent (adj) 
+reception (n) 
+receptionist (n) 
+recipe (n) 
+recognise (v) 
+recommend (v) 
+• to recommend someone/something 
+record (n & v) 
+• to keep a record (n) 
+• to break a record (n) 
+• to record a song (v) 
+recording (n) 
+recover (v) 
+• to recover from an illness 
+recycle (v) 
+• I don’t recycle as much as I should. 
+recycled (adj) 
+recycling (n) 
+red (adj) 
+reduce (v) 
+refreshments (n pl) 
+refrigerator (n) 
+refund (n) 
+refuse (v) 
+regarding (prep) 
+regards (n) 
+region (n) 
+register (v) 
+• He registered with a new doctor. (v) 
+registration (n) 
+regret (n & v) 
+regular (adj) 
+regularly (adv) 
+relation (n) 
+• to visit a relation 
+relationship (n) 
+relative (n) 
+• a relative came to stay 
+relax (v) 
+relaxation (n) 
+relaxed (adj) 
+reliable (adj) 
+relieved (adj) 
+religion (n) 
+rely (on) (v) 
+remain (v) 
+remember (v) 
+remind (v) 
+remote control (n) 
+remove (v) 
+rent (n & v) 
+repair (n & v) 
+repeat (v) 
+replace (v) 
+reply (n & v) 
+report (n & v) 
+reporter (n) 
+request (n & v) 
+require (v) 
+rescue (n & v) 
+research (n & v) 
+reservation (n) 
+reserve (n & v) 
+• She was a reserve for the team. (n) 
+• to reserve a seat (v) 
+resort (n) 
+respect (n & v) 
+responsible (adj) 
+rest (n & v)
+• a rest from work (n) 
+• the sitting room 
+• the rest of them (n) 
+• The doctor told her to rest. (v) 
+restaurant (n) 
+result (n) 
+retire (v) 
+return (n & v) 
+• to return home (v) 
+• a return (ticket) (n) 
+review (n) 
+revise (v) 
+revision (n) 
+reward (n) 
+rice (n) 
+rich (adj) 
+ride (n & v) 
+rider (n) 
+right (adj, adv & n) 
+• the right time (correct) (adj) 
+• the right person for the job (suitable) 
+(adj) 
+• my right foot (adj) 
+• Everything will be all right. (adj) 
+• Go right there. (directly) (adv) 
+• Fill it right to the top. (completely) (adv) 
+• the right to vote (n) 
+right-hand (adj) 
+ring (n & v) 
+• stand in a ring (n) 
+• a wedding ring (n) 
+• Give me a ring tomorrow. (phone) (n) 
+• Suddenly the bell rang. (v) 
+ring back (phr v) 
+ring up (phr v) 
+• to telephone somebody 
+rise (v) 
+• The sun rises in the east. 
+• Prices are rising. 
+river (n) 
+road (n) 
+roast (adj & v) 
+rob (v) robot (n) 
+rock (n) 
+• rock (music) (n) 
+• a hard piece of rock (n) 
+rocket (n) 
+• They sent a rocket into space. 
+role (n) 
+roll (n) 
+• a roll of film (n) 
+• a bread roll (n) 
+romance (n) 
+romantic (adj) 
+roof (n) 
+room (n) 
+• There’s lots of room in here. 
+rope (n) 
+rose (n) 
+rough (adj) 
+• a rough road 
+• a rough idea 
+• rough work 
+round (adj, adv & prep) 
+• a round object (adj) 
+• the wrong way round (adv) 
+• to sit round a table (prep) 
+roundabout (n) 
+route (n) 
+routine (n) 
+row (n) 
+• a row of seats 
+rubber (n) 
+• a rubber (eraser) 
+rubbish (n) 
+rude (adj) 
+rug (n) 
+rugby (n) 
+ruin (n) 
+rule (n & v) 
+• the rules of grammar (n) 
+• to rule a country (v) 
+ruler (n) 
+• draw a line using a ruler 
+run (v) 
+• to run in a race 
+• to run a business 
+runner (n) 
+running (n) 
+run out (phr v) 
+• He ran out of time and didn’t finish.

@@ -1,0 +1,750 @@
+9305 gadget n 
+10944 gag n 
+13320 gag v 
+1259 gain v 
+2215 gain n 
+10431 gait n 
+10948 gal n 
+9392 gala n 
+12011 galactic j 
+3041 galaxy n 
+15130 gale n 
+15119 gall n 
+17812 gallant j 
+3382 gallery n 
+11530 galley n 
+12443 gallop v 
+19625 gallop n 
+14520 galvanize v 
+16990 galvanized j 
+19444 gambit n 
+9352 gamble v 
+11025 gamble n 
+10466 gambler n 
+5126 gambling n 
+274 game n 
+14710 game v 
+9453 gaming n 
+13266 gamma n 
+19499 gamma-ray j 
+14592 gamut n 
+2637 gang n 
+19744 gang v 
+9568 gangster n 
+2139 gap n 
+14856 gape v 
+11500 gaping j 
+3237 garage n 
+13860 garb n 
+3974 garbage n 
+1047 garden n 
+5829 gardener n 
+7171 gardening n 
+17820 gargantuan j 
+17776 garish j 
+15967 garland n 
+2982 garlic n 
+6195 garment n 
+11407 garner v 
+9691 garnish v 
+11454 garnish n 
+14498 garrison n 
+1026 gas n 
+18993 gaseous j 
+16423 gash n 
+4120 gasoline n 
+5734 gasp v 
+10363 gasp n 
+20162 gastric j 
+14697 gastrointestinal j 
+2026 gate n 
+19578 gated j 
+15633 gatekeeper n 
+10255 gateway n 
+1354 gather v 
+13588 gathered j 
+4038 gathering n 
+15551 gaudy j 
+6133 gauge n 
+12300 gauge v 
+16007 gaunt j 
+16651 gauntlet n 
+15320 gauze n 
+17833 gawk v 
+2073 gay j 
+7534 gay n 
+3354 gaze n 
+4479 gaze v 
+19071 gazebo n 
+8221 GDP n 
+2630 gear n 
+7020 gear v 
+7342 gee u 
+13748 geek n 
+8929 gel n 
+16950 gelatin n 
+7961 gem n 
+1838 gender n 
+17842 gendered j 
+2307 gene n 
+15154 genealogy n 
+806 general j 
+2583 general r 
+2811 general n 
+18188 generality n 
+19772 generalizability n 
+8857 generalization n 
+11027 generalize v 
+11274 generalized j 
+1206 generally r 
+1704 generate v 
+9792 generating j 
+1029 generation n 
+12152 generational j 
+5919 generator n 
+6544 generic j 
+8101 generosity n 
+3922 generous j 
+10824 generously r 
+16350 genesis n 
+2744 genetic j 
+6847 genetically r 
+13673 geneticist n 
+7789 genetics n 
+18074 genial j 
+19261 genie n 
+14569 genital j 
+15595 genitals n 
+4105 genius n 
+7698 genocide n 
+7513 genome n 
+4547 genre n 
+20102 gent n 
+16507 genteel j 
+3421 gentle j 
+2469 gentleman n 
+18665 gentleness n 
+2776 gently r 
+1962 
+ 
+3784 genuine j 
+6531 genuinely r 
+11089 genus n 
+13173 geographer n 
+5505 geographic j 
+6812 geographical j 
+11889 geographically r 
+5221 geography n 
+17030 geologic j 
+8982 geological j 
+9928 geologist n 
+11742 geology n 
+10063 geometric j 
+7991 geometry n 
+11698 geopolitical j 
+11813 Georgian j 
+16988 geothermal j 
+17195 geranium n 
+17445 geriatric j 
+9465 germ n 
+1837 German j 
+3196 German n 
+18250 germinate v 
+2994 gesture n 
+7044 gesture v 
+39 get v 
+10631 getaway n 
+17325 geyser n 
+14608 ghastly j 
+8748 ghetto n 
+3292 ghost n 
+11562 ghostly j 
+7622 GI n 
+2562 giant j 
+3898 giant n 
+11526 giddy j 
+1389 gift n 
+3267 gifted j 
+12088 giftedness n 
+8150 gig n 
+7924 gigantic j 
+7474 giggle v 
+10408 giggle n 
+12405 gilded j 
+14652 gill n 
+18583 gilt n 
+13160 gimmick n 
+9441 gin n 
+7448 ginger n 
+10351 ginger j 
+15963 gingerbread n 
+12158 gingerly r 
+16055 giraffe n 
+364 girl n 
+3141 girlfriend n 
+19870 girlish j 
+18863 girth n 
+18471 gist n 
+98 give v 
+14485 giveaway n 
+3042 given j 
+14160 giver n 
+16442 giving n 
+18434 gizmo n 
+14532 glacial j 
+8013 glacier n 
+2288 glad j 
+20195 glade n 
+11271 gladly r 
+8207 glamorous j 
+9506 glamour n 
+2439 glance v 
+3721 glance n 
+8138 gland n 
+6455 glare v 
+7415 glare n 
+12999 glaring j 
+823 glass n 
+19883 glassware n 
+16179 glassy j 
+9364 glaze n 
+12062 glaze v 
+14597 glazed j 
+10429 gleam v 
+14060 gleam n 
+8345 gleaming j 
+10970 glean v 
+13555 glee n 
+16233 gleefully r 
+20141 glib j 
+7204 glide v 
+17128 glider n 
+12858 glimmer n 
+19907 glimmer v 
+4604 glimpse n 
+8891 glimpse v 
+13677 glint n 
+14401 glint v 
+10703 glisten v 
+14688 glistening j 
+13025 glitch n 
+12168 glitter n 
+12593 glitter v 
+11788 glittering j 
+19390 glitzy j 
+18650 gloat v 
+1114 global j 
+6547 globalization n 
+10567 globally r 
+4787 globe n 
+16314 globular j 
+9646 gloom n 
+10074 gloomy j 
+14051 glorify v 
+6286 glorious j 
+4151 glory n 
+11542 gloss n 
+17913 gloss v 
+17461 glossary n 
+8737 glossy j 
+3121 glove n 
+14242 gloved j 
+5159 glow n 
+5367 glow v 
+19486 glower v 
+7557 glowing j 
+11984 glucose n 
+7399 glue n 
+7705 glue v 
+17351 glut n 
+15919 gnarled j 
+12981 gnaw v 
+12159 GNP n 
+35 go v 
+17486 goad v 
+682 goal n 
+15731 goalie n 
+4726 goat n 
+1963 
+ 
+18929 goatee n 
+11114 gobble v 
+17527 gobbler n 
+17022 goblet n 
+19844 goblin n 
+3202 God n 
+8056 goddamn j 
+17843 goddamn u 
+14599 goddamned j 
+6737 goddess n 
+17536 godfather n 
+19766 godmother n 
+11075 going n 
+14935 going j 
+1262 gold n 
+8711 gold j 
+1835 golden j 
+16975 goldfish n 
+1815 golf n 
+6675 golfer n 
+16118 golfing n 
+16282 gondola n 
+19155 gong n 
+18348 goo n 
+110 good j 
+2280 good n 
+5116 good r 
+10043 good-looking j 
+16037 good-natured j 
+5653 goodbye u 
+12866 goodies n 
+5220 goodness n 
+18980 goodnight u 
+8956 goodwill n 
+19678 gooey j 
+18982 goof v 
+12913 goofy j 
+19264 goon n 
+5602 goose n 
+5050 GOP n 
+12474 gorge n 
+5525 gorgeous j 
+9577 gorilla n 
+19649 gory j 
+7791 gosh u 
+5532 gospel n 
+6972 gossip n 
+11532 gossip v 
+10102 gothic j 
+13740 gouge v 
+16117 gourd n 
+8354 gourmet n 
+3743 govern v 
+6566 governance n 
+7243 governing j 
+201 government n 
+5913 governmental j 
+1825 governor n 
+19757 governorship n 
+5333 gown n 
+1486 grab v 
+9642 grab n 
+3707 grace n 
+11639 grace v 
+7368 graceful j 
+10724 gracefully r 
+8702 gracious j 
+15909 graciously r 
+10613 grad n 
+1432 grade n 
+5626 grade v 
+7272 grader n 
+14910 gradient n 
+15292 grading n 
+6893 gradual j 
+2986 gradually r 
+2133 graduate n 
+2631 graduate v 
+19209 graduated j 
+4813 graduation n 
+8991 graffiti n 
+14570 graft n 
+17300 graft v 
+3250 grain n 
+14490 grainy j 
+8532 grammar n 
+19210 grammatical j 
+2256 grand j 
+18245 grand n 
+4443 grandchild n 
+8691 granddaughter n 
+12074 grandeur n 
+2974 grandfather n 
+15213 grandiose j 
+17288 grandkid n 
+11474 grandma n 
+2518 grandmother n 
+17108 grandpa n 
+4735 grandparent n 
+6740 grandson n 
+6928 granite n 
+19819 granny n 
+1921 grant v 
+3272 grant n 
+20177 granting n 
+16970 granulate v 
+4818 grape n 
+12394 grapefruit n 
+18030 grapevine n 
+8055 graph n 
+5361 graphic n 
+5918 graphic j 
+17577 graphical j 
+16830 graphically r 
+11490 graphite n 
+8513 grapple v 
+4218 grasp v 
+7477 grasp n 
+2031 grass n 
+6529 grass-roots n 
+15845 grasshopper n 
+12203 grassland n 
+10337 grassy j 
+8689 grate v 
+13352 grate n 
+3706 grateful j 
+14771 gratefully r 
+12676 gratification n 
+18546 gratify v 
+14301 gratifying j 
+17798 grating j 
+7175 gratitude n 
+17471 gratuitous j 
+3388 grave n 
+6193 grave j 
+5694 gravel n 
+13491 gravely r 
+19468 gravestone n 
+1964 
+ 
+10216 graveyard n 
+12924 gravitate v 
+9559 gravitational j 
+3993 gravity n 
+9261 gravy n 
+1949 gray j 
+10943 gray n 
+18675 gray-haired j 
+7653 graze v 
+13319 grazing j 
+17379 grazing n 
+8073 grease n 
+16212 grease v 
+15727 greased j 
+9984 greasy j 
+160 great j 
+5482 great r 
+16342 great-grandfather n 
+18465 great-grandmother n 
+1606 greatest j 
+3468 greatly r 
+9071 greatness n 
+6854 greed n 
+9096 greedy j 
+4104 Greek j 
+6334 Greek n 
+893 green j 
+2144 green n 
+15317 greenery n 
+5236 greenhouse n 
+17062 greenish j 
+3504 greet v 
+6419 greeting n 
+17893 gregarious j 
+8048 grenade n 
+5551 grid n 
+12988 gridlock n 
+4131 grief n 
+8806 grievance n 
+9993 grieve v 
+10657 grieving j 
+5464 grill n 
+8575 grill v 
+16307 grille n 
+7142 grilled j 
+5416 grim j 
+11154 grimace v 
+16346 grimace n 
+18617 grime n 
+12569 grimly r 
+15991 grimy j 
+4198 grin v 
+4667 grin n 
+5444 grind v 
+14444 grind n 
+13487 grinder n 
+14270 grinding j 
+19804 grinding n 
+14913 grinning j 
+3730 grip n 
+5387 grip v 
+18218 gripe v 
+19237 gripe n 
+15586 gripping j 
+15960 grisly j 
+9196 grit n 
+13814 grit v 
+10710 gritty j 
+13196 grizzly j 
+14240 grizzly n 
+7294 groan v 
+11957 groan n 
+14945 grocer n 
+3328 grocery n 
+19118 groggy j 
+11917 groin n 
+8870 groom v 
+9706 groom n 
+8480 groove n 
+10371 grope v 
+4459 gross j 
+12504 gross v 
+12223 grossly r 
+12606 grotesque j 
+18452 grotto n 
+523 ground n 
+6237 ground v 
+7728 ground j 
+16927 ground-based j 
+15883 grounding n 
+9190 groundwater n 
+12079 groundwork n 
+163 group n 
+8657 group v 
+18747 groupie n 
+8125 grouping n 
+15167 grouse n 
+8330 grove n 
+354 grow v 
+6056 grower n 
+1420 growing j 
+8926 growl v 
+12672 growl n 
+16226 grown j 
+8814 grown-up n 
+13896 grown-up j 
+788 growth n 
+17216 grub n 
+14511 grudge n 
+19983 grudging j 
+14663 grudgingly r 
+14691 grueling j 
+11713 gruesome j 
+16754 gruff j 
+8738 grumble v 
+18199 grumpy j 
+9830 grunt n 
+9893 grunt v 
+2798 guarantee v 
+4834 guarantee n 
+9264 guaranteed j 
+1291 guard n 
+3699 guard v 
+13827 guarded j 
+5752 guardian n 
+14559 Guatemalan j 
+13874 gubernatorial j 
+5512 guerrilla n 
+865 guess v 
+5442 guess n 
+1317 guest n 
+3906 guidance n 
+1793 guide n 
+2991 guide v 
+12140 guidebook n 
+8717 guided j 
+3089 guideline n 
+6497 guiding j 
+1965 
+ 
+14493 guild n 
+3663 guilt n 
+2077 guilty j 
+13343 guinea n 
+10869 guise n 
+3692 guitar n 
+9839 guitarist n 
+8072 gulf n 
+12516 gull n 
+14052 gully n 
+11493 gulp v 
+14763 gulp n 
+6058 gum n 
+18856 gumbo n 
+843 gun n 
+11162 gun v 
+8899 gunfire n 
+7393 gunman n 
+13278 gunner n 
+17059 gunpoint n 
+17707 gunpowder n 
+9146 gunshot n 
+15879 gurney n 
+9430 guru n 
+11549 gush v 
+10382 gust n 
+17472 gusto n 
+4340 gut n 
+12187 gut v 
+19374 gutsy j 
+11155 gutter n 
+365 guy n 
+3912 gym n 
+13462 gymnasium n 
+16881 gymnast n 
+10709 gymnastics n 
+16648 gynecologist n 
+13927 gypsy n
+gain (v) 
+• gain experience 
+gallery (n) 
+• an art gallery 
+game (n) 
+gap (n) 
+garage (n) 
+garden (n) 
+garlic (n) 
+gas (n) (Am Eng) (Br Eng: petrol) 
+gas station (n) (Am Eng) (Br Eng: petrol 
+station) 
+gate (n) 
+general (adj) 
+generally (adv) 
+• I generally get home about 7.00. 
+generation (n) 
+generous (adj) 
+gentle (adj) 
+geography (n) 
+get (v) 
+get along (with) (phr v) 
+• How do you get along with Harry? 
+get back (phr v) 
+• When did you get back from New 
+York? 
+get down (phr v) 
+• Get down at once! 
+• Did you get all the notes down? 
+get fit (v) 
+get in (phr v) 
+• Can you get in through the window? 
+get off (phr v) 
+• We get off at the next stop. 
+get on (phr v) 
+• Get your coat on and then we can 
+leave. 
+• How are you getting on now? 
+get on (with) (phr v) 
+• She got on with her work. 
+• I’m getting on well with French. 
+• Do you get on well with Sam? 
+get rid of (phr v) 
+• Have you got rid of those old 
+documents? 
+get up (phr v) 
+• What time do you get up in the 
+morning? 
+giant (adj) 
+gift (n) 
+giraffe (n) 
+girl (n) girlfriend (n) 
+give (v) 
+give back (phr v) 
+• Give me back this book on Tuesday, 
+please. 
+give in (phr v) 
+• Have you given in your homework yet? 
+• Do you give in? Shall I tell you the 
+answer now? 
+give out (phr v) 
+• Will you give out these papers for me, 
+please? 
+give up (phr v) 
+• Has David given up playing tennis? 
+give way (phr v) 
+• You must give way to traffic at a 
+roundabout. 
+glad (adj) 
+glance (v) 
+glass (n & adj) 
+glasses (n pl) 
+global warming (n) 
+glove (n) 
+go (v & n) 
+• Can I have a go? 
+• Go away! 
+goal (n) 
+goalkeeper (n) 
+goat (n) 
+go for (phr v) 
+• He went for the job. 
+• The dog went for the man. 
+gold (adj & n) 
+golden (adj) 
+golf (n) 
+good (adj) 
+• The film was very good. 
+• to be good at maths 
+good afternoon (exclam) 
+goodbye (exclam) 
+good evening (exclam) 
+good-looking (adj) 
+good morning (exclam) 
+good night (exclam) 
+goods (n pl) 
+go off (phr v) 
+• Suddenly the lights went off. 
+go on (phr v) 
+• The meeting went on until six o'clock. 
+• What's going on? 
+go out (phr v) 
+• Are you going out this evening? 
+• The fire has gone out. 
+• Is Barbara still going out with Thomas, 
+or have they broken up? 
+gorgeous (adj) 
+government (n) 
+go (with/together) (phr v) 
+• Your tie doesn't go with your shirt. 
+• Your tie and shirt don’t go together. 
+grab (v) 
+• He grabbed my bag and ran away. 
+grade (n) 
+graduation (n) 
+gram(me) (n) 
+grammar (n) 
+grandchild (n) 
+grand(d)ad (n) 
+granddaughter (n) 
+grandfather (n) 
+grandma (n) 
+grandmother (n) 
+grandpa (n) 
+grandparent (n) 
+grandson (n) 
+granny (n) 
+grant (n) 
+• He was given a grant to study in 
+Australia. (n) 
+grape (n) 
+graphics (n pl) 
+grass (n) 
+grateful (adj) 
+great (adj) 
+green (adj & n) 
+greet (v) 
+greeting (n) 
+grey (adj & n) (Br Eng) (Am Eng: gray) 
+grill (n & v) 
+grilled (adj) 
+grocery store (n) (Am Eng) 
+groom (n) 
+ground (n) 
+group (n) 
+grow (v) 
+grow up (phr v) 
+• Children grow up fast. 
+guard (n) 
+guess (n & v) 
+guest (n) 
+guest-house (n)
+guide (n & v) 
+guidebook (n) 
+guilty (adj) 
+guitar (n) 
+guitarist (n) 
+gum (n) 
+• chewing gum 
+gun (n) 
+guy (n) 
+gym (n) 
+gymnastics (n) 

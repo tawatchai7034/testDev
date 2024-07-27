@@ -1,0 +1,569 @@
+19661 U-turn n 
+8318 ubiquitous j 
+12613 UFO n 
+20008 ugh u 
+17398 ugliness n 
+3288 ugly j 
+4524 uh u 
+5965 uh-huh u 
+15529 uh-oh u 
+11004 Ukrainian j 
+10311 ulcer n 
+2625 ultimate j 
+1787 ultimately r 
+14437 ultimatum n 
+13913 ultra r 
+12543 ultrasound n 
+9741 ultraviolet j 
+7453 um u 
+17176 umbilical j 
+5744 umbrella n 
+17537 umm u 
+10098 umpire n 
+19005 un-american j 
+19204 unabashed j 
+19334 unabashedly r 
+2155 unable j 
+6629 unacceptable j 
+18227 unaccustomed j 
+13533 unaffected j 
+16597 unambiguous j 
+20083 unanimity n 
+9017 unanimous j 
+10708 unanimously r 
+16450 unannounced j 
+10138 unanswered j 
+16733 unanticipated j 
+12704 unarmed j 
+16459 unassuming j 
+19948 unattainable j 
+16940 unattended j 
+14302 unattractive j 
+11222 unauthorized j 
+10114 unavailable j 
+11885 unavoidable j 
+6027 unaware j 
+17662 unbalanced j 
+10541 unbearable j 
+19509 unbeaten j 
+6151 unbelievable j 
+13956 unbelievably r 
+16471 unbiased j 
+11787 unborn j 
+17374 unbridled j 
+13976 unbroken j 
+17656 unbutton v 
+11196 uncanny j 
+4336 uncertain j 
+19168 uncertainly r 
+3763 uncertainty n 
+16455 unchallenged j 
+8915 unchanged j 
+18453 unchanging j 
+19993 uncharacteristic j 
+18681 uncharacteristically r 
+16883 uncharted j 
+14412 unchecked j 
+3373 uncle n 
+5352 unclear j 
+3674 uncomfortable j 
+13086 uncomfortably r 
+6825 uncommon j 
+18538 uncomplicated j 
+16096 uncompromising j 
+17828 unconcerned j 
+11864 unconditional j 
+19670 unconditionally r 
+19512 unconscionable j 
+5746 unconscious j 
+12059 unconsciously r 
+8622 unconstitutional j 
+13568 uncontrollable j 
+17008 uncontrollably r 
+13800 uncontrolled j 
+10196 unconventional j 
+18180 uncooked j 
+4482 uncover v 
+18057 undaunted j 
+10723 undecided j 
+2044 
+ 
+15201 undefeated j 
+19924 undemocratic j 
+12328 undeniable j 
+15334 undeniably r 
+226 under i 
+1673 under r 
+15778 underage j 
+18898 underbrush n 
+15748 underclass n 
+7668 undercover j 
+16849 undercurrent n 
+9319 undercut v 
+17335 underdeveloped j 
+12773 underdog n 
+6510 underestimate v 
+14602 underfoot r 
+18515 underfunded j 
+3167 undergo v 
+4804 undergraduate n 
+5410 underground j 
+7946 underground r 
+7740 underlie v 
+9914 underline v 
+16580 underly v 
+4310 underlying j 
+3732 undermine v 
+5809 underneath i 
+7242 underneath r 
+18555 underpants n 
+15906 underpin v 
+14775 underpinning n 
+5927 underscore v 
+19951 undersea j 
+19156 undersecretary n 
+19586 underserved j 
+11381 underside n 
+321 understand v 
+7029 understandable j 
+10489 understandably r 
+1305 understanding n 
+13384 understate v 
+20115 understated j 
+13546 understatement n 
+4077 undertake v 
+9654 undertaking n 
+19460 undertone n 
+18722 undervalue v 
+9325 underwater j 
+10572 underwater r 
+7271 underway r 
+6624 underwear n 
+13374 underworld n 
+12978 underwrite v 
+18105 underwriter n 
+19553 underwriting n 
+11233 undesirable j 
+16249 undetected j 
+19874 undeterred j 
+14914 undeveloped j 
+15073 undisclosed j 
+17888 undiscovered j 
+16354 undisputed j 
+13509 undisturbed j 
+6732 undo v 
+11568 undocumented j 
+5618 undoubtedly r 
+12526 undress v 
+12966 undue j 
+15608 undulating j 
+15368 unduly r 
+10961 unearth v 
+14067 unease n 
+14955 uneasily r 
+16862 uneasiness n 
+6627 uneasy j 
+16344 uneducated j 
+6493 unemployed j 
+3523 unemployment n 
+16431 unending j 
+10994 unequal j 
+16284 unequivocal j 
+15215 unequivocally r 
+13128 unethical j 
+8251 uneven j 
+19923 unevenly r 
+3602 unexpected j 
+7571 unexpectedly r 
+14333 unexplained j 
+18317 unexplored j 
+4542 unfair j 
+10244 unfairly r 
+18446 unfairness n 
+19162 unfaithful j 
+5994 unfamiliar j 
+19549 unfathomable j 
+12545 unfavorable j 
+16539 unfettered j 
+8570 unfinished j 
+13894 unfit j 
+4590 unfold v 
+15852 unforeseen j 
+12808 unforgettable j 
+16169 unforgiving j 
+5023 unfortunate j 
+2032 unfortunately r 
+14618 unfounded j 
+15521 unfriendly j 
+17520 unfulfilled j 
+15828 unfurl v 
+20180 unhappily r 
+13370 unhappiness n 
+4770 unhappy j 
+19099 unharmed j 
+9758 unhealthy j 
+11940 unheard j 
+19502 unholy j 
+19917 unhook v 
+18179 unicorn n 
+5634 unidentified j 
+10268 unification n 
+7401 unified j 
+3069 uniform n 
+6076 uniform j 
+9940 uniformed j 
+14460 uniformity n 
+11450 uniformly r 
+8171 unify v 
+14632 unifying j 
+9603 unilateral j 
+13008 unilaterally r 
+12402 unimaginable j 
+13147 unimportant j 
+19128 unimpressed j 
+18405 uninformed j 
+10009 uninsured j 
+10596 unintended j 
+19066 unintentional j 
+16755 unintentionally r 
+2045 
+ 
+17729 uninterested j 
+14857 uninterrupted j 
+19913 uninvited j 
+1667 union n 
+18360 unionized j 
+1739 unique j 
+8825 uniquely r 
+12261 uniqueness n 
+9638 unison n 
+969 unit n 
+17516 unitary j 
+4184 unite v 
+1468 United j 
+3786 unity n 
+2665 universal j 
+17038 universality n 
+9140 universally r 
+2138 universe n 
+1229 university n 
+11143 unjust j 
+19640 unkempt j 
+18436 unkind j 
+19420 unknowingly r 
+2848 unknown j 
+19122 unknown n 
+14680 unlawful j 
+7473 unleash v 
+1339 unless c 
+20139 unlicensed j 
+2490 unlike i 
+3565 unlike j 
+2710 unlikely j 
+6843 unlimited j 
+7283 unload v 
+7015 unlock v 
+14130 unlucky j 
+14634 unmanned j 
+12077 unmarked j 
+9692 unmarried j 
+19701 unmask v 
+17816 unmatched j 
+10120 unmistakable j 
+16826 unmistakably r 
+11268 unnamed j 
+9892 unnatural j 
+13055 unnecessarily r 
+5465 unnecessary j 
+12964 unnerve v 
+9561 unnoticed j 
+20043 unoccupied j 
+9466 unofficial j 
+18892 unopened j 
+15051 unorthodox j 
+11734 unpack v 
+10360 unpaid j 
+14409 unparalleled j 
+18103 unplanned j 
+6575 unpleasant j 
+19765 unplugged j 
+8640 unpopular j 
+4450 unprecedented j 
+18560 unpredictability n 
+6757 unpredictable j 
+11127 unprepared j 
+19298 unpretentious j 
+18089 unproductive j 
+19663 unprofitable j 
+12161 unprotected j 
+11525 unpublished j 
+14684 unqualified j 
+13696 unquestionably r 
+19163 unquestioned j 
+8840 unravel v 
+18779 unraveled j 
+12915 unreal j 
+8866 unrealistic j 
+9447 unreasonable j 
+19012 unrecognizable j 
+17881 unrecognized j 
+13787 unregulated j 
+7702 unrelated j 
+14349 unrelenting j 
+10985 unreliable j 
+15509 unremarkable j 
+10463 unresolved j 
+19024 unresponsive j 
+9201 unrest n 
+13724 unrestricted j 
+12199 unruly j 
+9346 unsafe j 
+12634 unsalted j 
+15395 unsatisfactory j 
+17698 unsavory j 
+16046 unscathed j 
+18878 unscrew v 
+17428 unscrupulous j 
+18429 unseat v 
+8164 unseen j 
+9789 unsettle v 
+18838 unsettled j 
+16056 unsettling j 
+14941 unskilled j 
+16673 unsolicited j 
+14146 unsolved j 
+14500 unspeakable j 
+14274 unspecified j 
+11015 unspoken j 
+7218 unstable j 
+17208 unsteady j 
+16683 unstoppable j 
+20121 unsubstantiated j 
+7872 unsuccessful j 
+11680 unsuccessfully r 
+17504 unsuitable j 
+8152 unsure j 
+14329 unsuspecting j 
+17844 unsustainable j 
+20068 unsweetened j 
+19781 untangle v 
+18983 untapped j 
+18012 untenable j 
+17246 untested j 
+9640 unthinkable j 
+14676 untie v 
+271 until c 
+1375 until i 
+19000 untimely j 
+18148 untitled j 
+9881 unto i 
+13436 untold j 
+19144 untouchable j 
+9219 untouched j 
+16662 untrained j 
+12572 untreated j 
+12282 untrue j 
+10633 unused j 
+2054 unusual j 
+6364 unusually r 
+2046 
+ 
+6817 unveil v 
+7045 unwanted j 
+15815 unwarranted j 
+18375 unwavering j 
+18323 unwed j 
+12372 unwelcome j 
+16860 unwieldy j 
+6326 unwilling j 
+12801 unwillingness n 
+14415 unwind v 
+15052 unwise j 
+19292 unwitting j 
+13190 unwittingly r 
+15223 unworthy j 
+18144 unwrap v 
+18937 unwrapped j 
+17562 unwritten j 
+17948 unyielding j 
+15730 unzip v 
+50 up r 
+456 up i 
+6541 up j 
+11272 up v 
+15354 up-front r 
+12207 up-to-date j 
+9656 upbeat j 
+10493 upbringing n 
+5118 upcoming j 
+4859 update v 
+5340 update n 
+10971 updated j 
+6016 upgrade v 
+8905 upgrade n 
+9267 upheaval n 
+12254 uphill j 
+13402 uphill r 
+5425 uphold v 
+14488 upholstery n 
+19060 upkeep n 
+13934 upland n 
+17848 uplift n 
+15139 uplifting j 
+17292 upload v 
+694 upon i 
+1969 upper j 
+17610 upper-class j 
+7615 upright r 
+10444 upright j 
+7882 uprising n 
+18785 upriver r 
+13567 uproar n 
+19811 uproot v 
+16553 uprooted j 
+8437 upscale j 
+3417 upset v 
+4387 upset j 
+16945 upsetting j 
+18122 upshot n 
+13270 upside n 
+19030 upside-down r 
+4428 upstairs r 
+11261 upstairs n 
+16039 upstart n 
+11074 upstate j 
+11607 upstream r 
+20097 upswing n 
+18827 uptake n 
+18590 uptight j 
+15803 uptown r 
+17845 uptown j 
+18700 upturned j 
+6240 upward r 
+7965 upward j 
+11275 upwards r 
+7945 uranium n 
+1592 urban j 
+14431 urbanization n 
+15958 urchin n 
+2281 urge v 
+5990 urge n 
+6471 urgency n 
+5401 urgent j 
+11596 urgently r 
+18702 urging n 
+16951 urinary j 
+15637 urinate v 
+7288 urine n 
+13631 urn n 
+113 us p 
+16210 US-led j 
+11435 usable j 
+6446 usage n 
+92 use v 
+429 use n 
+1842 used j 
+2043 useful j 
+10136 usefulness n 
+5738 useless j 
+1827 user n 
+17205 user-friendly j 
+6674 usher v 
+2381 usual j 
+5335 usual r 
+725 usually r 
+16095 usurp v 
+13019 utensil n 
+17667 uterine j 
+13112 uterus n 
+12603 utilitarian j 
+2601 utility n 
+10155 utilization n 
+4328 utilize v 
+12071 utmost j 
+14956 utopia n 
+11886 utopian j 
+6986 utter v 
+8894 utter j 
+12503 utterance n 
+5646 utterly r 
+ugly (adj) 
+umbrella (n) 
+unable (adj) 
+unbelievable (adj) 
+uncle (n) 
+uncomfortable (adj) 
+under (prep) 
+• under the bed 
+• under £10.00 
+underground (adj & n) 
+• underground trains (adj) 
+• to travel by underground (n) 
+underline (v) 
+underneath (prep) 
+underpants (n) 
+understand (v) 
+underwear (n) 
+undress (v) 
+unemployed (adj) 
+unemployment (n) 
+unexpected (adj) 
+unfair (adj) 
+unfit (adj) 
+unforgettable (adj) 
+unfortunately (adv) 
+unfriendly (adj) 
+unhappy (n) 
+unhealthy (adj) 
+uniform (n) 
+union (n) 
+unit (n) 
+unkind (adj) 
+unknown (adj) 
+unimportant (adj) 
+uninterested (adj) 
+uninteresting (adj) 
+universe (n) 
+university (n) 
+unless (conj) 
+unlikely (adj) 
+unlucky (adj) 
+unnecessary (adj) 
+unpack (v) 
+unpleasant (adj) 
+untidy (adj) 
+until (prep & conj) 
+unusual (adv) 
+unwell (adj) 
+up (adv & prep) 
+• to walk up the hill (prep) 
+• Are you up yet? (awake and dressed) 
+(adv) 
+• Lift your head up. (adv) 
+• Speak up, please. (adv) 
+update (n & v) 
+upload (n & v) 
+upon (prep) 
+• once upon a time 
+• That depends upon when you finish. 
+upper (adj) 
+upset (adj) 
+upstairs (adj & adv) 
+up to (prep phr) 
+• up to six people 
+up to date (prep phr) 
+urgent (adj) 
+urgently (adv) 
+us (pron) 
+use (n & v) 
+• Can you use a computer? (v) 
+• It’s for the use of teachers only. (n) 
+• Is this any use to you? (n) 
+used to (v) 
+• I used to cycle a lot when I was 
+younger. 
+• I’m not used to getting up early. 
+useful (adj) 
+user (n) 
+usual (adj) 
+usually (adv)

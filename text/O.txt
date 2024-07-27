@@ -1,0 +1,617 @@
+4103 o''clock r 
+4474 oak n 
+14963 oar n 
+10571 oasis n 
+6450 oath n 
+11228 oatmeal n 
+11668 oats n 
+10146 obedience n 
+15022 obedient j 
+10580 obese j 
+7290 obesity n 
+5753 obey v 
+12448 obituary n 
+1156 object n 
+4338 object v 
+4789 objection n 
+15740 objectionable j 
+2427 objective n 
+5080 objective j 
+12825 objectively r 
+10722 objectivity n 
+11615 obligate v 
+3013 obligation n 
+14377 obligatory j 
+6792 oblige v 
+15488 oblique j 
+10665 obliterate v 
+1994 
+ 
+12679 oblivion n 
+8589 oblivious j 
+14303 obnoxious j 
+10021 obscene j 
+12089 obscenity n 
+5938 obscure v 
+7111 obscure j 
+12804 obscurity n 
+13957 observable j 
+13701 observance n 
+16737 observant j 
+2123 observation n 
+13584 observational j 
+9008 observatory n 
+1301 observe v 
+10174 observed j 
+2478 observer n 
+15696 obsess v 
+6535 obsessed j 
+5628 obsession n 
+10446 obsessive j 
+18638 obsessively r 
+9070 obsolete j 
+3603 obstacle n 
+17188 obstetrician n 
+10949 obstruct v 
+9203 obstruction n 
+1604 obtain v 
+1700 obvious j 
+1285 obviously r 
+2282 occasion n 
+19525 occasion v 
+3542 occasional j 
+2507 occasionally r 
+19851 occult n 
+11927 occupancy n 
+8493 occupant n 
+3364 occupation n 
+6589 occupational j 
+9961 occupied j 
+2732 occupy v 
+18737 occupying j 
+757 occur v 
+6310 occurrence n 
+1856 ocean n 
+13960 oceanic j 
+18240 octave n 
+17060 octopus n 
+2762 odd j 
+19719 oddball n 
+14454 oddity n 
+6476 oddly r 
+3266 odds n 
+5414 odor n 
+15212 odyssey n 
+18131 oeuvre n 
+4 of i 
+205 off r 
+388 off i 
+7084 off j 
+18721 off-duty j 
+14872 off-limits j 
+16735 off-road j 
+15703 offbeat j 
+5272 offend v 
+4771 offender n 
+14374 offending j 
+2850 offense n 
+3195 offensive j 
+11711 offensive n 
+19366 offensively r 
+374 offer v 
+2109 offer n 
+19552 offered j 
+4022 offering n 
+342 office n 
+671 officer n 
+527 official n 
+1846 official j 
+4113 officially r 
+17807 officiate v 
+6270 offset v 
+18168 offshoot n 
+7903 offshore j 
+10461 offshore r 
+6614 offspring n 
+275 often r 
+13063 oftentimes r 
+412 oh u 
+547 oil n 
+17003 oil v 
+11671 oily j 
+17372 ointment n 
+833 ok r 
+3046 OK j 
+1651 okay r 
+3379 okay j 
+16895 okra n 
+152 old j 
+17797 old n 
+4791 old-fashioned j 
+17529 old-growth j 
+19082 old-school j 
+20187 old-style j 
+14028 old-time j 
+15280 old-timer n 
+6249 olive n 
+17572 Olympian j 
+20144 Olympian n 
+2760 Olympic j 
+3807 Olympics n 
+15671 omelet n 
+14575 omen n 
+8544 ominous j 
+16566 ominously r 
+10774 omission n 
+5624 omit v 
+19600 omnipresent j 
+17 on i 
+155 on r 
+9258 on-site j 
+19779 on-the-job j 
+301 once r 
+1191 once c 
+17092 oncologist n 
+19395 oncology n 
+14267 oncoming j 
+51 one m 
+104 one p 
+839 one n 
+19909 one-bedroom j 
+14163 one-day j 
+18703 one-dimensional j 
+14396 one-fifth m 
+14477 one-fourth m 
+9591 one-half m 
+15311 one-hour j 
+13671 one-man j 
+1995 
+ 
+19376 one-of-a-kind n 
+9700 one-on-one m 
+18991 one-party j 
+12776 one-quarter m 
+17477 one-room j 
+13151 one-sided j 
+19493 one-stop j 
+16092 one-tenth m 
+4857 one-third m 
+7010 one-time j 
+9606 one-way j 
+9343 one-year j 
+16010 onerous j 
+7750 oneself p 
+2996 ongoing j 
+2590 onion n 
+2277 online j 
+3522 online r 
+13280 onlooker n 
+101 only r 
+329 only j 
+7221 onset n 
+11406 onslaught n 
+7996 onstage j 
+929 onto i 
+15606 ontological j 
+12466 onward r 
+9173 ooh u 
+14170 oops u 
+11334 ooze v 
+14867 op-ed n 
+9524 opaque j 
+356 open v 
+582 open j 
+5332 open r 
+14450 open-air j 
+9370 open-ended j 
+17943 open-minded j 
+7901 opener n 
+1954 opening n 
+4541 openly r 
+7455 openness n 
+3888 opera n 
+1316 operate v 
+17722 operatic j 
+3235 operating n 
+829 operation n 
+6222 operational j 
+19800 operationalize v 
+10533 operative n 
+10565 operative j 
+3238 operator n 
+20055 opiate n 
+17585 opine v 
+1127 opinion n 
+12230 opium n 
+2200 opponent n 
+15421 opportunistic j 
+626 opportunity n 
+1959 oppose v 
+4216 opposed i 
+6665 opposing j 
+2241 opposite j 
+6404 opposite n 
+9437 opposite i 
+14194 opposite r 
+1891 opposition n 
+17342 oppositional j 
+13412 oppress v 
+12435 oppressed j 
+6945 oppression n 
+9883 oppressive j 
+18754 oppressor n 
+4755 opt v 
+15107 optic n 
+5569 optical j 
+9530 optics n 
+7116 optimal j 
+5472 optimism n 
+12130 optimist n 
+4183 optimistic j 
+17768 optimization n 
+11936 optimize v 
+11297 optimum j 
+1106 option n 
+5770 optional j 
+17357 opulent j 
+20048 opus n 
+32 or c 
+3913 oral j 
+16482 oral n 
+17153 orally r 
+3171 orange j 
+3303 orange n 
+18921 orator n 
+19627 oratory n 
+18283 orb n 
+4217 orbit n 
+9546 orbit v 
+9960 orbital j 
+17502 orbiter n 
+7391 orchard n 
+5421 orchestra n 
+17634 orchestral j 
+9136 orchestrate v 
+9536 orchid n 
+13530 ordain v 
+17666 ordained j 
+7842 ordeal n 
+685 order n 
+1347 order v 
+16971 ordered j 
+13866 ordering n 
+7888 orderly j 
+19582 orderly n 
+8070 ordinance n 
+9613 ordinarily r 
+2289 ordinary j 
+15856 ordination n 
+20176 ordnance n 
+12119 ore n 
+11910 oregano n 
+3423 organ n 
+3094 organic j 
+16415 organic n 
+17944 organically r 
+4424 organism n 
+600 organization n 
+4522 organizational j 
+1659 organize v 
+4966 organized j 
+5173 organizer n 
+13911 organizing j 
+10721 orgasm n 
+16492 orgy n 
+6610 orient v 
+9177 oriental j 
+3224 orientation n 
+1996 
+ 
+16565 oriented j 
+2571 origin n 
+1138 original j 
+11102 original n 
+12655 originality n 
+2877 originally r 
+5355 originate v 
+7887 ornament n 
+12843 ornamental j 
+10881 ornate j 
+7660 orphan n 
+9570 orphanage n 
+16168 orphaned j 
+5411 orthodox j 
+10410 orthodoxy n 
+19508 orthopaedic j 
+14465 orthopedic j 
+5259 Oscar n 
+20194 oscillate v 
+14931 oscillation n 
+9377 ostensibly r 
+10421 osteoporosis n 
+19266 ostracize v 
+19495 ostrich n 
+75 other j 
+715 other p 
+2355 other i 
+19113 otherness n 
+337 others n 
+1536 otherwise r 
+12257 otter n 
+15609 ouch u 
+1767 ought v 
+79 our a 
+4139 ours p 
+1791 ourselves p 
+9942 oust v 
+17941 ouster n 
+64 out r 
+149 out i 
+13590 out n 
+14359 out j 
+15679 out-of-state j 
+19673 out-of-town j 
+15359 outage n 
+5415 outbreak n 
+9805 outburst n 
+14526 outcast n 
+1760 outcome n 
+11866 outcry n 
+10469 outdated j 
+16475 outdo v 
+3650 outdoor j 
+7697 outdoors r 
+9735 outdoors n 
+3735 outer j 
+14792 outfield n 
+11066 outfielder n 
+4449 outfit n 
+12486 outfit v 
+15234 outfitter n 
+17132 outflow n 
+9230 outgoing j 
+14118 outgrow v 
+17391 outgrowth n 
+18003 outhouse n 
+7861 outing n 
+15735 outlandish j 
+17544 outlast v 
+9628 outlaw v 
+10569 outlaw n 
+14593 outlay n 
+4678 outlet n 
+4478 outline v 
+5237 outline n 
+14459 outlive v 
+5945 outlook n 
+15785 outlying j 
+18170 outmoded j 
+9394 outnumber v 
+15531 outpace v 
+10885 outpatient n 
+13097 outperform v 
+9432 outpost n 
+14797 outpouring n 
+4122 output n 
+5767 outrage n 
+7177 outraged j 
+6166 outrageous j 
+8057 outreach n 
+18523 outreach v 
+9046 outright j 
+10704 outright r 
+17354 outrun v 
+18725 outscore v 
+8119 outset n 
+812 outside i 
+1750 outside r 
+2072 outside j 
+15214 outside n 
+4495 outsider n 
+8639 outskirts n 
+14158 outsource v 
+8994 outspoken j 
+4039 outstanding j 
+11243 outstretched j 
+16874 outstrip v 
+8761 outward r 
+11983 outward j 
+17894 outwardly r 
+8877 outweigh v 
+6711 oval j 
+12153 oval n 
+14853 ovarian j 
+15559 ovary n 
+13529 ovation n 
+2943 oven n 
+124 over i 
+182 over r 
+14622 over n 
+19813 over j 
+13448 over-the-counter j 
+1955 overall j 
+3926 overall r 
+6051 overall n 
+15855 overarching j 
+19991 overbearing j 
+17550 overblown j 
+11057 overboard r 
+17935 overcast j 
+13081 overcoat n 
+2730 overcome v 
+20107 overcome j 
+13549 overcrowded j 
+14612 overdo v 
+13582 overdose n 
+19695 overdrive n 
+11259 overdue j 
+1997 
+ 
+18658 overeat v 
+13361 overestimate v 
+9489 overflow v 
+15676 overflow n 
+18531 overgrow v 
+16120 overgrown j 
+16647 overhang n 
+11266 overhaul n 
+12034 overhaul v 
+5599 overhead r 
+8385 overhead j 
+11404 overhead n 
+8697 overhear v 
+17769 overheated j 
+19601 overjoyed j 
+9056 overlap v 
+10204 overlap n 
+11330 overlapping j 
+15263 overlay v 
+18619 overlay n 
+14800 overload n 
+15535 overload v 
+3165 overlook v 
+6168 overly r 
+4796 overnight r 
+7224 overnight j 
+12638 overpower v 
+18316 overpowering j 
+18092 overpriced j 
+19865 overrated j 
+14827 overreact v 
+9695 override v 
+12823 overriding j 
+12550 overrule v 
+11537 overrun v 
+5008 overseas r 
+6534 overseas j 
+4094 oversee v 
+16511 overseer n 
+9752 overshadow v 
+6156 oversight n 
+15997 oversize j 
+11109 oversized j 
+10933 overstate v 
+9424 overt j 
+9082 overtake v 
+8721 overthrow v 
+15100 overthrow n 
+8486 overtime n 
+12709 overtime r 
+13030 overtly r 
+14475 overtone n 
+13826 overture n 
+6288 overturn v 
+19838 overuse n 
+7091 overview n 
+6726 overweight j 
+4856 overwhelm v 
+14740 overwhelmed j 
+3608 overwhelming j 
+6991 overwhelmingly r 
+15376 overworked j 
+19451 overzealous j 
+3004 owe v 
+12591 owing i 
+6041 owl n 
+148 own d 
+1125 own v 
+1024 owner n 
+3619 ownership n 
+19927 oxidation n 
+10023 oxide n 
+3875 oxygen n 
+6409 oyster n 
+6095 ozone n
+object (n) 
+obvious (adj) 
+obviously (adv) 
+occasion (n) 
+occasionally (adv) 
+occupation (n) 
+ocean (n) 
+o’clock (adv) 
+of (prep) 
+of course (adv) 
+off (adv & prep) 
+• It fell off the table. (prep) 
+• The meeting is off. (adv) 
+• I’ve got the afternoon off. (adv) 
+offer (n & v) 
+office (n) 
+officer (n) 
+often (adv) 
+oh (exclam) 
+oh dear! (exclam) 
+oil (n) 
+OK / O.K. / okay (adj & exclam) 
+old (adj) 
+old-fashioned (adj) 
+olive (n) 
+omelette (n) 
+on (adv & prep) 
+on board (prep phr) 
+on business (prep phr) 
+once (adv) 
+• once a year 
+• I once saw him dancing. 
+one (det & pron) 
+on fire (prep phr) 
+on foot (prep phr) 
+on holiday (prep phr) 
+onion (n) 
+online (adv & adj) 
+• to book/buy something online (adv) 
+• an online printer (adj) 
+only (adj & adv) 
+on purpose (prep phr) 
+on request (prep phr) 
+on sale (prep phr) 
+on time (prep phr) 
+onto (prep) 
+open (adj & v) 
+opening hours (n pl) 
+opera (n) 
+operate (v) 
+operation (n) 
+opinion (n) 
+opportunity (n) 
+opposite (adj, n, prep & adv) 
+option (n) 
+or (conj) 
+orange (adj & n) 
+orchestra (n) 
+order (conj, n & v) 
+• in order to (conj) 
+• to put something in order (n) 
+• to order a meal (v) 
+ordinary (adj) 
+organisation (n) 
+organise (v) 
+original (adj) 
+other (adj, pron & det) 
+otherwise (adv) 
+ought (mv) 
+our (det) 
+ours (pron) 
+ourselves (pron) 
+out (adv) 
+outdoor (adj) 
+outdoors (adv) 
+out of (prep) 
+out of date (prep phr) 
+out of order (prep phr) 
+out of work (prep phr) 
+outside (adv, adj & prep) 
+oven (n) 
+over (adv & prep) 
+• I’m going over the road. (prep) 
+• over 40 people (more than) (adv) 
+• to be over (finished) (adv) 
+• Several birds were flying over the roof 
+of the school. (prep) 
+overnight (adj & adv) 
+owe (v) 
+own (adj, pron & v) 
+• my own pen (adj) 
+• to own a car (v) 
+owner (n)

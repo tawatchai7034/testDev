@@ -1,0 +1,858 @@
+4851 ha u 
+2327 habit n 
+19316 habitable j 
+3249 habitat n 
+18662 habitation n 
+13861 habitual j 
+18490 habitually r 
+19824 hacienda n 
+8393 hack v 
+12399 hack n 
+10506 hacker n 
+17524 haggle v 
+17701 hah u 
+6194 hail v 
+14517 hail n 
+603 hair n 
+8648 haircut n 
+17405 hairdo n 
+15349 hairdresser n 
+16306 hairline n 
+15245 hairstyle n 
+9947 hairy j 
+9474 Haitian j 
+13376 Haitian n 
+548 half d 
+1636 half n 
+5855 half r 
+14508 half-century n 
+19297 half-hearted j 
+7583 half-hour n 
+17114 half-mile j 
+19977 half-million j 
+4640 halfway r 
+10799 halfway j 
+17801 halibut n 
+1854 hall n 
+8448 hallmark n 
+17110 hallowed j 
+7059 Halloween n 
+12902 hallucination n 
+3595 hallway n 
+9777 halo n 
+5336 halt v 
+7109 halt n 
+17541 halter n 
+18618 halting j 
+10324 halve v 
+6260 ham n 
+7614 hamburger n 
+11644 hamlet n 
+6321 hammer n 
+6482 hammer v 
+14443 hammock n 
+9241 hamper v 
+19428 hamper n 
+20152 hamster n 
+11347 hamstring n 
+174 hand n 
+2042 hand v 
+8777 hand-held j 
+16663 hand-painted j 
+12136 handbag n 
+13381 handbook n 
+11521 handcuff n 
+13654 handcuff v 
+3136 handful n 
+8951 handgun n 
+8765 handicap n 
+16464 handicap v 
+10468 handicapped j 
+20059 handily r 
+16660 handiwork n 
+8660 handkerchief n 
+1243 handle v 
+3966 handle n 
+12699 handlebar n 
+9068 handler n 
+5508 handling n 
+10449 handmade j 
+12434 handout n 
+7634 hands-on j 
+18949 handset n 
+10922 handshake n 
+3876 handsome j 
+16214 handsomely r 
+9416 handwriting n 
+12985 handwritten j 
+6475 handy j 
+870 hang v 
+18242 hang n 
+12386 hangar n 
+11386 hanger n 
+9590 hanging j 
+10666 hanging n 
+16577 hangout n 
+13437 hangover n 
+16803 haphazard j 
+14731 hapless j 
+1966 
+ 
+217 happen v 
+6801 happening n 
+4761 happily r 
+3907 happiness n 
+748 happy j 
+7251 harass v 
+4644 harassment n 
+16820 harbinger n 
+5865 harbor n 
+7289 harbor v 
+439 hard j 
+769 hard r 
+18286 hard-boiled j 
+10104 hard-core j 
+19191 hard-earned j 
+12093 hard-line j 
+12787 hard-liner n 
+15865 hard-pressed j 
+9000 hard-working j 
+17381 hardball n 
+18368 hardcover n 
+8379 harden v 
+12484 hardened j 
+1754 hardly r 
+18466 hardness n 
+7036 hardship n 
+4056 hardware n 
+9184 hardwood n 
+10624 hardy j 
+14978 hare n 
+18634 harem n 
+3683 harm n 
+4367 harm v 
+5891 harmful j 
+7755 harmless j 
+15039 harmonic j 
+17598 harmonica n 
+12897 harmonious j 
+15457 harmonize v 
+4722 harmony n 
+10011 harness v 
+10069 harness n 
+12345 harp n 
+17875 harrowing j 
+3501 harsh j 
+12020 harshly r 
+4895 harvest n 
+4985 harvest v 
+19109 harvesting n 
+17403 hash n 
+19895 hash v 
+11215 hassle n 
+13765 haste n 
+9669 hasten v 
+9541 hastily r 
+13066 hasty j 
+2033 hat n 
+7494 hatch n 
+9428 hatch v 
+16428 hatchery n 
+18605 hatchet n 
+1535 hate v 
+5869 hate n 
+16913 hated j 
+15016 hateful j 
+5322 hatred n 
+4231 haul v 
+10058 haul n 
+19583 hauler n 
+18987 haunch n 
+5073 haunt v 
+17029 haunt n 
+12605 haunted j 
+14726 haunting j 
+8 have v 
+17931 have n 
+19709 have-not n 
+5779 haven n 
+9762 havoc n 
+7980 Hawaiian j 
+19748 Hawaiian n 
+8074 hawk n 
+14007 hawk v 
+7308 hay n 
+4933 hazard n 
+5432 hazardous j 
+8325 haze n 
+18165 hazelnut n 
+11867 hazy j 
+15 he p 
+16264 he/she p 
+252 head n 
+937 head v 
+6015 head j 
+14854 head-on r 
+18146 head-to-head j 
+4806 headache n 
+18809 headband n 
+17692 headboard n 
+14729 headdress n 
+10002 heading n 
+19805 headless j 
+8234 headlight n 
+3320 headline n 
+13763 headline v 
+20030 headliner n 
+19265 headlong r 
+17526 headmaster n 
+10663 Headnote n 
+11837 headphone n 
+2889 headquarters n 
+11505 headset n 
+16295 headstone n 
+19458 headwaters n 
+16123 headway n 
+11477 heady j 
+4417 heal v 
+9697 healer n 
+5218 healing n 
+6851 healing j 
+345 health n 
+16502 health-related j 
+12793 healthful j 
+1476 healthy j 
+7201 heap n 
+10839 heap v 
+195 hear v 
+1723 hearing n 
+18106 hearsay n 
+461 heart n 
+18611 heart-shaped j 
+16911 heartache n 
+8430 heartbeat n 
+14845 heartbreak n 
+12878 heartbreaking j 
+19160 heartbroken j 
+12612 heartfelt j 
+10945 hearth n 
+1967 
+ 
+17013 heartily r 
+10684 heartland n 
+18705 heartless j 
+10394 hearty j 
+1012 heat n 
+4145 heat v 
+7225 heated j 
+8904 heater n 
+6125 heating n 
+9360 heave v 
+17282 heave n 
+2649 heaven n 
+9557 heavenly j 
+2384 heavily r 
+1008 heavy j 
+13971 heavy-duty j 
+19038 heavy-handed j 
+8753 heavyweight n 
+9547 Hebrew j 
+11152 Hebrew n 
+7064 heck n 
+12508 hectic j 
+6117 hedge n 
+12896 hedge v 
+9338 heed v 
+19095 heed n 
+3082 heel n 
+17458 heft v 
+19887 heft n 
+8651 hefty j 
+13995 hegemonic j 
+10235 hegemony n 
+18788 heh u 
+2057 height n 
+8143 heighten v 
+8518 heightened j 
+15805 heinous j 
+6268 heir n 
+20100 heiress n 
+13524 heirloom n 
+3126 helicopter n 
+12164 helium n 
+1464 hell n 
+19067 hellish j 
+2258 hello u 
+18206 hello n 
+8817 helm n 
+4347 helmet n 
+167 help v 
+881 help n 
+9110 helper n 
+3080 helpful j 
+8019 helping n 
+6652 helpless j 
+12891 helplessly r 
+13175 helplessness n 
+11338 hem n 
+18695 hem v 
+8764 hemisphere n 
+18296 hemlock n 
+17973 hemorrhage n 
+15556 hemp n 
+8085 hen n 
+3672 hence r 
+18166 henceforth r 
+11539 hepatitis n 
+42 her a 
+106 her p 
+12906 herald v 
+16299 herald n 
+3607 herb n 
+9248 herbal j 
+14355 herbicide n 
+5235 herd n 
+10942 herd v 
+19412 herder n 
+96 here r 
+20131 hereafter r 
+19752 hereby r 
+14286 hereditary j 
+13389 herein r 
+14862 heresy n 
+18410 heretic n 
+16814 heretofore r 
+3201 heritage n 
+17736 hermit n 
+1926 hero n 
+6266 heroic j 
+5942 heroin n 
+8490 heroine n 
+12124 heroism n 
+15414 heron n 
+17950 herpes n 
+10538 herring n 
+3885 hers p 
+793 herself p 
+9675 hesitant j 
+17321 hesitantly r 
+3958 hesitate v 
+8233 hesitation n 
+17421 heterogeneity n 
+13634 heterogeneous j 
+7777 heterosexual j 
+19329 hew v 
+1435 hey u 
+12640 heyday n 
+2088 hi u 
+15587 hiatus n 
+18963 hiccup n 
+4034 hidden j 
+1261 hide v 
+10162 hide n 
+18324 hideaway n 
+11205 hideous j 
+19446 hideout n 
+16555 hiding n 
+8990 hierarchical j 
+5267 hierarchy n 
+141 high j 
+3331 high r 
+9490 high n 
+19934 high-definition j 
+9135 high-end j 
+14398 high-energy j 
+19294 high-flying j 
+8627 high-level j 
+14657 high-performance j 
+13250 high-pitched j 
+12874 high-powered j 
+18302 high-pressure j 
+15542 high-priced j 
+7202 high-profile j 
+7574 high-quality j 
+12580 high-ranking j 
+16960 high-resolution j 
+11558 high-rise j 
+9078 high-risk j 
+7200 high-speed j 
+1968 
+ 
+16992 high-stakes j 
+4621 high-tech j 
+15343 high-tech n 
+11960 highland n 
+3399 highlight v 
+5596 highlight n 
+1328 highly r 
+2606 highway n 
+12730 hijack v 
+12570 hijacker n 
+19211 hijacking n 
+4506 hike v 
+5271 hike n 
+9917 hiker n 
+13474 hiking n 
+10910 hilarious j 
+2028 hill n 
+6869 hillside n 
+13974 hilltop n 
+16217 hilly j 
+17942 hilt n 
+68 him p 
+370 himself p 
+12215 hind j 
+8381 hinder v 
+19500 hindrance n 
+11429 hindsight n 
+8169 Hindu j 
+14380 Hindu n 
+8987 hinge n 
+12909 hinge v 
+3944 hint n 
+6499 hint v 
+19674 hinterland n 
+2624 hip n 
+13812 hip j 
+10415 hip-hop j 
+12470 hip-hop n 
+9907 hippie n 
+1500 hire v 
+11176 hire n 
+8917 hired j 
+7715 hiring n 
+25 his a 
+1887 his p 
+12456 his/her a 
+3547 Hispanic j 
+8688 Hispanic n 
+7914 hiss v 
+13210 hiss n 
+2564 historian n 
+2516 historic j 
+1480 historical j 
+3854 historically r 
+17984 historiography n 
+351 history n 
+536 hit v 
+2227 hit n 
+11491 hitch v 
+15079 hitch n 
+19666 hitchhike v 
+16700 hitherto r 
+6648 hitter n 
+16859 hitting n 
+14056 HIV-positive j 
+11749 hive n 
+7530 hmm u 
+8007 HMO n 
+10485 ho u 
+15256 hoard v 
+14659 hoarse j 
+13602 hoax n 
+12047 hobble v 
+6656 hobby n 
+4395 hockey n 
+16090 hoe n 
+7998 hog n 
+19617 hog v 
+9652 hoist v 
+214 hold v 
+2895 hold n 
+5511 holder n 
+5395 holding n 
+10783 holding j 
+18253 holdout n 
+1217 hole n 
+13615 hole v 
+1977 holiday n 
+17183 holiness n 
+10050 holistic j 
+10397 holler v 
+7548 hollow j 
+8403 hollow n 
+19399 hollow v 
+18909 holly n 
+17980 holocaust n 
+19341 hologram n 
+13390 holster n 
+2396 holy j 
+10254 homage n 
+225 home n 
+407 home r 
+11499 homecoming n 
+4188 homeland n 
+3380 homeless j 
+11578 homelessness n 
+18150 homely j 
+6339 homemade j 
+14116 homemaker n 
+5264 homeowner n 
+7863 homer n 
+18639 homesick j 
+13052 homestead n 
+5544 hometown n 
+4831 homework n 
+16630 homey j 
+5233 homicide n 
+18534 homily n 
+16164 homogeneity n 
+11504 homogeneous j 
+15796 homophobia n 
+6902 homosexual j 
+7365 homosexual n 
+6781 homosexuality n 
+9145 hone v 
+2554 honest j 
+4938 honestly r 
+6283 honesty n 
+2956 honey n 
+8275 honeymoon n 
+13020 honk v 
+2096 honor n 
+2742 honor v 
+7199 honorable j 
+10521 honorary j 
+13853 honored j 
+5248 hood n 
+13295 hooded j 
+1969 
+ 
+10314 hoof n 
+3829 hook n 
+4048 hook v 
+13704 hooker n 
+8118 hoop n 
+18866 hoopla n 
+15762 hoot v 
+16121 hoot n 
+5720 hop v 
+8572 hop n 
+483 hope v 
+1149 hope n 
+5179 hopeful j 
+19519 hopeful n 
+4051 hopefully r 
+8086 hopeless j 
+11068 hopelessly r 
+14384 hopelessness n 
+19494 Hopi j 
+15983 hopper n 
+11189 horde n 
+3138 horizon n 
+6082 horizontal j 
+12911 horizontally r 
+13564 hormonal j 
+4461 hormone n 
+3687 horn n 
+18041 horny j 
+12109 horrendous j 
+3788 horrible j 
+12617 horribly r 
+18080 horrid j 
+9332 horrific j 
+16360 horrified j 
+9827 horrify v 
+11762 horrifying j 
+3347 horror n 
+1286 horse n 
+18288 horse-drawn j 
+9531 horseback n 
+12720 horseman n 
+12758 horsepower n 
+19181 horseradish n 
+14464 horseshoe n 
+18445 horticultural j 
+6316 hose n 
+10564 hospice n 
+15010 hospitable j 
+648 hospital n 
+8528 hospitality n 
+11720 hospitalization n 
+10325 hospitalize v 
+1853 host n 
+3229 host v 
+4012 hostage n 
+16692 hostel n 
+10581 hostess n 
+4206 hostile j 
+5278 hostility n 
+722 hot j 
+18058 hotbed n 
+1005 hotel n 
+13842 hotline n 
+13964 hotly r 
+19365 hotshot n 
+9379 hound n 
+17383 hound v 
+273 hour n 
+17902 hour-long j 
+12255 hourly j 
+258 house n 
+2667 house v 
+1981 household n 
+11426 housekeeper n 
+15406 housekeeping n 
+8758 housewife n 
+16414 housework n 
+2166 housing n 
+5104 hover v 
+76 how r 
+16909 how-to j 
+285 however r 
+8535 howl v 
+11974 howl n 
+15329 howling j 
+6668 hub n 
+16229 hubris n 
+7321 huddle v 
+15876 huddle n 
+7180 hue n 
+15309 huff v 
+3895 hug v 
+6209 hug n 
+914 huge j 
+11899 hugely r 
+3963 huh u 
+17919 hulking j 
+6793 hull n 
+6921 hum v 
+10897 hum n 
+400 human j 
+1663 human n 
+8673 humane j 
+15870 humanism n 
+15988 humanist j 
+17724 humanist n 
+17473 humanistic j 
+5339 humanitarian j 
+10773 humanities n 
+3532 humanity n 
+19098 humanize v 
+12027 humankind n 
+18960 humanly r 
+6221 humble j 
+15186 humble v 
+18924 humbling j 
+19490 humbly r 
+10972 humid j 
+8550 humidity n 
+9539 humiliate v 
+10975 humiliating j 
+7834 humiliation n 
+9711 humility n 
+15558 hummingbird n 
+3119 humor n 
+10106 humorous j 
+14354 hump n 
+20103 hump v 
+9452 hunch v 
+12657 hunch n 
+622 hundred m 
+10389 Hungarian j 
+18351 Hungarian n 
+4635 hunger n 
+3208 hungry j 
+12835 hunk n 
+16211 hunker v 
+3451 hunt v 
+1970 
+ 
+5025 hunt n 
+3058 hunter n 
+2796 hunting n 
+6712 hurdle n 
+7462 hurl v 
+4561 hurricane n 
+19137 hurried j 
+14239 hurriedly r 
+3646 hurry v 
+6874 hurry n 
+1143 hurt v 
+5318 hurt j 
+16397 hurtful j 
+12904 hurtle v 
+638 husband n 
+14224 hush v 
+15377 hush n 
+15756 hushed j 
+14894 husk n 
+14841 husky j 
+9607 hustle v 
+16443 hustle n 
+15571 hustler n 
+5392 hut n 
+6946 hybrid n 
+7198 hybrid j 
+10825 hydraulic j 
+14042 hydrocarbon n 
+16812 hydroelectric j 
+5167 hydrogen n 
+17991 hyena n 
+11094 hygiene n 
+9373 hymn n 
+8555 hype n 
+19590 hype v 
+18290 hyperactive j 
+17586 hyperactivity n 
+17830 hyperbole n 
+10669 hypertension n 
+15965 hypnosis n 
+15446 hypnotic j 
+19311 hypnotize v 
+9420 hypocrisy n 
+16231 hypocrite n 
+14470 hypocritical j 
+18575 hypothermia n 
+3406 hypothesis n 
+8998 hypothesize v 
+8197 hypothetical j 
+19770 hysterectomy n 
+10496 hysteria n 
+9460 hysterical j 
+18679 hysterically r
+hair (n) 
+haircut (n) 
+hairdresser (n) 
+hairdryer (n) 
+half (adv, det, n & pron) 
+half-price (adj) 
+hall (n) 
+hand (n & v) 
+handbag (n) 
+hand-held (adj) 
+hand in (phr v) 
+• Please hand in the answer sheet 
+when you’ve finished. 
+handkerchief (n) 
+handle (v) 
+hand out (phr v) 
+• Hand out the books please, Tom. 
+handsome (adj) 
+handwriting (n) 
+hang (v) 
+• to hang a picture 
+hang out (phr v) 
+• to hang out with friends 
+hang up (phr 
+v) 
+• She hung up at the end of the phone 
+call. 
+happen (v) 
+happy (adj) 
+happily (adv) 
+happiness (n) 
+harbour (n) 
+hard (adj & adv) 
+hardly (adv) 
+• hardly any time 
+• He could hardly wait. 
+hardware (n) 
+hat (n) 
+hate (v) 
+have (av & v) 
+have got to (mv) 
+have to (mv) 
+he (pron) 
+head (n) 
+• to hit one's head (n) 
+• the head of the company (n) 
+H 
+• the head of the school (n) 
+headache (n) 
+headline (n) 
+headphones (n) 
+headteacher (n) 
+health (n) 
+healthy (adj) 
+hear (v) 
+heart (n) 
+heat (n) 
+heater (n) 
+heating (n) 
+heavy (adj) 
+heel (n) 
+• I can’t walk in high heels. 
+height (n) 
+helicopter (n) 
+hello (exclam) 
+helmet (n) 
+help (n & v) 
+her (det & pron) 
+herb (n) 
+here (adv) 
+hero (n) 
+heroine (n) 
+• The heroine of this story is a young 
+schoolgirl. 
+hers (pron) 
+herself (pron) 
+hey (exclam) 
+hi (exclam) 
+hidden (adj) 
+hide (v) 
+high (adj & adv) 
+hike (v) 
+hill (n) 
+him (pron) 
+himself (pron) 
+hip hop (n) 
+hire (v & n) 
+• to hire a boat (v) 
+• for hire (n) 
+his (det & pron) 
+historic (adj) 
+historical (adj) 
+history (n) 
+hit (n & v) 
+• The song was a great hit. (n) 
+• to hit the ball (v) 
+hitchhike (v) 
+hobby (n) 
+hockey (n) 
+hold (v) 
+hold up (phr v) 
+• He was held up in the heavy traffic for 
+over two hours. 
+hole (n) 
+holiday (n) 
+home (adv & n) 
+homepage (n) 
+homework (n) 
+honest (adj) 
+honestly (adv) 
+• I honestly don’t know where she is. 
+honey (n) 
+honeymoon (n) 
+hope (n & v) 
+hopeful (adj) 
+hopefully (adv) 
+• Hopefully the journey won’t take long. 
+hopeless (adj) 
+• a hopeless situation 
+horrible (adj) 
+horror (adj) 
+• a horror movie 
+horse (n) 
+hospital (n) 
+hostel (n) 
+hot (adj) 
+hotel (n) 
+hour (n) 
+house (n) 
+housewife (n) 
+housework (n) 
+how (adv) 
+however (adv) 
+how much (adv) 
+hug (n & v) 
+huge (adj) 
+human (adj & n) 
+humid (adj) 
+hunger (n) 
+hungry (adj) 
+hunt (v) 
+hurry (n & v) 
+hurt (adj & v) 
+husband (n) 
+hut (n)

@@ -1,0 +1,1934 @@
+2556 pace n 
+5797 pace v 
+19348 pacemaker n 
+18060 pacifist n 
+19834 pacify v 
+2293 pack v 
+2589 pack n 
+1696 package n 
+8800 package v 
+16398 packaged j 
+7799 packaging n 
+8484 packed j 
+6327 packet n 
+10547 packing n 
+6783 pact n 
+3700 pad n 
+13502 pad v 
+11346 padded j 
+14095 padding n 
+9388 paddle v 
+11016 paddle n 
+17315 paddy n 
+12800 pagan j 
+18294 pagan n 
+709 page n 
+9750 pageant n 
+14468 pager n 
+7873 paid j 
+14687 pail n 
+940 pain n 
+19340 pain v 
+15578 pained j 
+3060 painful j 
+7973 painfully r 
+13434 painkiller n 
+14426 painless j 
+14982 painstaking j 
+14337 painstakingly r 
+1566 paint v 
+2678 paint n 
+19944 paintbrush n 
+6599 painted j 
+3350 painter n 
+1060 painting n 
+1494 pair n 
+7805 pair v 
+12739 pairing n 
+9170 pajamas n 
+7446 Pakistani j 
+13847 Pakistani n 
+5079 pal n 
+4731 palace n 
+15072 palatable j 
+11682 palate n 
+2958 pale j 
+15174 pale v 
+15673 paleontologist n 
+2555 Palestinian j 
+3155 Palestinian n 
+7506 palette n 
+14774 pallet n 
+1998 
+ 
+3015 palm n 
+10287 palpable j 
+15692 palsy n 
+16405 paltry j 
+13721 pamper v 
+9163 pamphlet n 
+2501 pan n 
+9550 pan v 
+16477 panacea n 
+16588 Panamanian j 
+7456 pancake n 
+18254 pancreas n 
+18850 pancreatic j 
+15171 panda n 
+14737 pandemic j 
+15820 pander v 
+11161 pane n 
+1616 panel n 
+17220 paneling n 
+12616 panelist n 
+14875 pang n 
+4353 panic n 
+6962 panic v 
+18333 panicked j 
+19864 panicky j 
+13465 panorama n 
+15841 panoramic j 
+2713 pant n 
+9987 pant v 
+16370 pantheon n 
+17324 panther n 
+12678 panties n 
+10627 pantry n 
+18456 papa n 
+12406 papal j 
+15961 paparazzi n 
+16838 papaya n 
+520 paper n 
+8396 paperback n 
+6944 paperwork n 
+15701 paprika n 
+5890 par n 
+10089 para n 
+13292 parable n 
+9898 parachute n 
+3946 parade n 
+10786 parade v 
+5263 paradigm n 
+6927 paradise n 
+6871 paradox n 
+12706 paradoxical j 
+10819 paradoxically r 
+20076 paragon n 
+5980 paragraph n 
+5932 parallel j 
+6091 parallel n 
+8671 parallel r 
+9574 parallel v 
+10238 paralysis n 
+7261 paralyze v 
+18039 paralyzed j 
+10648 paramedic n 
+5462 parameter n 
+12285 paramilitary j 
+9502 paramount j 
+10791 paranoia n 
+8822 paranoid j 
+15747 paraphernalia n 
+13249 paraphrase v 
+8637 parasite n 
+16783 parasitic j 
+17856 paratrooper n 
+7877 parcel n 
+15044 parched j 
+11666 parchment n 
+7979 pardon n 
+10310 pardon v 
+13623 pare v 
+328 parent n 
+18075 parent-child j 
+4143 parental j 
+16009 parenthesis n 
+15007 parenthood n 
+5524 parenting n 
+18313 pariah n 
+4629 parish n 
+10416 parishioner n 
+13845 Parisian j 
+12423 parity n 
+1233 park n 
+3499 park v 
+14054 parka n 
+14902 parked j 
+2342 parking n 
+17714 parlance n 
+19274 parlay v 
+5234 parliament n 
+7794 parliamentary j 
+6626 parlor n 
+13085 Parmesan j 
+11903 parochial j 
+10780 parody n 
+19218 parody v 
+6794 parole n 
+10229 parrot n 
+19588 parse v 
+6716 parsley n 
+178 part n 
+1830 part r 
+4741 part i 
+7373 part v 
+5292 part-time j 
+16145 partake v 
+4596 partial j 
+4426 partially r 
+1107 participant n 
+1491 participate v 
+9142 participating j 
+2235 participation n 
+13413 participatory j 
+3719 particle n 
+951 particular j 
+2569 particular r 
+18806 particularity n 
+781 particularly r 
+12590 particulars n 
+16114 particulate n 
+14149 parting n 
+6313 partisan j 
+11459 partisan n 
+14034 partisanship n 
+9939 partition n 
+18007 partition v 
+2847 partly r 
+1052 partner n 
+11276 partner v 
+2935 partnership n 
+352 party n 
+1999 
+ 
+12601 party v 
+442 pass v 
+2278 pass n 
+2230 passage n 
+12781 passageway n 
+2097 passenger n 
+15019 passer n 
+4396 passing j 
+6745 passing n 
+2303 passion n 
+5239 passionate j 
+10362 passionately r 
+5762 passive j 
+16561 passively r 
+16726 passivity n 
+16707 Passover n 
+6332 passport n 
+10262 password n 
+681 past j 
+979 past n 
+1393 past i 
+3657 past r 
+4546 pasta n 
+7759 paste n 
+12575 paste v 
+8128 pastel n 
+10870 pastel j 
+11418 pastime n 
+3886 pastor n 
+7376 pastoral j 
+6403 pastry n 
+6423 pasture n 
+4585 pat v 
+11873 pat n 
+3345 patch n 
+10876 patch v 
+13157 patchwork n 
+19665 pate n 
+4454 patent n 
+14629 patent v 
+18219 patented j 
+17067 patently r 
+13056 paternal j 
+14413 paternity n 
+1343 path n 
+8079 pathetic j 
+8828 pathogen n 
+13822 pathological j 
+12046 pathologist n 
+10386 pathology n 
+18669 pathos n 
+6663 pathway n 
+4219 patience n 
+573 patient n 
+3526 patient j 
+8389 patiently r 
+18382 patina n 
+6984 patio n 
+11022 patriarch n 
+10467 patriarchal j 
+15580 patriarchy n 
+12446 patriot n 
+7772 patriotic j 
+8280 patriotism n 
+4223 patrol n 
+7776 patrol v 
+19793 patrolman n 
+4718 patron n 
+10283 patronage n 
+16825 patronize v 
+17451 patronizing j 
+20135 patter n 
+1020 pattern n 
+11704 patterned j 
+14503 patty n 
+17295 paucity n 
+2801 pause v 
+3760 pause n 
+7205 pave v 
+12623 paved j 
+6642 pavement n 
+12118 pavilion n 
+18713 paving n 
+8193 paw n 
+16974 paw v 
+12996 pawn n 
+287 pay v 
+2746 pay n 
+19224 payable j 
+14175 payback n 
+7811 paycheck n 
+16491 payday n 
+15603 payer n 
+14462 paying j 
+14822 payload n 
+2125 payment n 
+7792 payoff n 
+13811 payout n 
+5413 payroll n 
+3079 PC n 
+17392 PDA n 
+5294 pea n 
+936 peace n 
+3689 peaceful j 
+9277 peacefully r 
+11442 peacekeeper n 
+12075 peacekeeping j 
+18065 peacemaker n 
+15620 peacetime n 
+5600 peach n 
+15934 peacock n 
+2385 peak n 
+7764 peak v 
+4682 peanut n 
+6959 pear n 
+7336 pearl n 
+19400 pearly j 
+4733 peasant n 
+14815 peat n 
+11425 pebble n 
+8458 pecan n 
+14919 peck v 
+5578 peculiar j 
+17161 peculiarity n 
+17725 peculiarly r 
+11393 pedagogical j 
+12753 pedagogy n 
+7935 pedal n 
+9778 pedal v 
+11952 peddle v 
+17279 peddler n 
+10762 pedestal n 
+7713 pedestrian n 
+10250 pediatric j 
+10008 pediatrician n 
+14923 pedigree n 
+15681 pedophile n 
+11399 pee v 
+2000 
+ 
+7570 peek v 
+12094 peek n 
+3955 peel v 
+9602 peel n 
+18213 peeled j 
+18498 peeling n 
+17264 peep v 
+18854 peep n 
+2446 peer n 
+3409 peer v 
+12993 peg n 
+13608 peg v 
+12162 pellet n 
+15713 pelt v 
+18332 pelt n 
+15427 pelvic j 
+14047 pelvis n 
+3618 pen n 
+10733 pen v 
+14196 penal j 
+11597 penalize v 
+2703 penalty n 
+17414 penance n 
+11728 penchant n 
+4464 pencil n 
+13757 pendant n 
+6915 pending j 
+12636 pending i 
+12948 pendulum n 
+5458 penetrate v 
+14147 penetrating j 
+11147 penetration n 
+11958 penguin n 
+17988 penicillin n 
+9206 peninsula n 
+7942 penis n 
+18125 penitentiary n 
+13841 pennant n 
+3818 pension n 
+19636 pensive j 
+19475 pent-up j 
+10730 Pentagon n 
+15388 Pentecostal j 
+15080 penthouse n 
+62 people n 
+13531 pep n 
+1937 pepper n 
+14812 pepper v 
+18464 peppercorn n 
+15724 peppermint n 
+17854 peptide n 
+669 per i 
+9396 per j 
+2184 perceive v 
+4586 perceived j 
+1801 percentage n 
+14094 percentile n 
+19843 perceptible j 
+1880 perception n 
+15923 perceptive j 
+12026 perceptual j 
+6165 perch v 
+10243 perch n 
+19411 percolate v 
+14417 percussion n 
+9053 perennial j 
+11321 perennial n 
+16139 perestroika n 
+1163 perfect j 
+7879 perfect v 
+6604 perfection n 
+15850 perfectionism n 
+15911 perfectionist n 
+2457 perfectly r 
+19818 perforation n 
+955 perform v 
+676 performance n 
+4001 performer n 
+8610 performing n 
+6693 perfume n 
+20071 perfunctory j 
+436 perhaps r 
+7761 peril n 
+13169 perilous j 
+6692 perimeter n 
+617 period n 
+7847 periodic j 
+13429 periodical n 
+7163 periodically r 
+8531 peripheral j 
+10289 periphery n 
+9696 perish v 
+11385 perjury n 
+9861 perk n 
+15700 perk v 
+19407 perky j 
+16419 permanence n 
+2486 permanent j 
+5759 permanently r 
+9848 permeate v 
+13140 permissible j 
+3261 permission n 
+18917 permissive j 
+2127 permit v 
+4840 permit n 
+16590 pernicious j 
+19967 peroxide n 
+14364 perpendicular j 
+12237 perpetrate v 
+8069 perpetrator n 
+8958 perpetual j 
+13495 perpetually r 
+7796 perpetuate v 
+15957 perplex v 
+19725 perplexed j 
+17444 perplexing j 
+13298 persecute v 
+9040 persecution n 
+14046 perseverance n 
+14250 persevere v 
+4580 Persian j 
+4397 persist v 
+7612 persistence n 
+5337 persistent j 
+16705 persistently r 
+346 person n 
+7663 persona n 
+20070 personable j 
+581 personal j 
+2092 personality n 
+13899 personalize v 
+13597 personalized j 
+2656 personally r 
+17963 personification n 
+14606 personify v 
+2448 personnel n 
+1419 perspective n 
+14515 perspiration n 
+2001 
+ 
+3293 persuade v 
+9772 persuasion n 
+8850 persuasive j 
+12558 pertain v 
+11511 pertaining i 
+10127 pertinent j 
+14960 peruse v 
+11008 Peruvian j 
+12374 pervade v 
+6882 pervasive j 
+10448 perverse j 
+18093 perversion n 
+17594 pesky j 
+13054 pessimism n 
+19166 pessimist n 
+10037 pessimistic j 
+6939 pest n 
+18019 pester v 
+5295 pesticide n 
+3306 pet n 
+13156 pet v 
+8989 petal n 
+11989 petite j 
+6043 petition n 
+11654 petition v 
+18138 petitioner n 
+15561 petrified j 
+8270 petroleum n 
+6533 petty j 
+10757 pew n 
+20011 pewter n 
+19318 phalanx n 
+15987 phantom j 
+18556 phantom n 
+6362 pharmaceutical j 
+13625 pharmaceutical n 
+10623 pharmacist n 
+8176 pharmacy n 
+2264 phase n 
+11712 phase v 
+8854 PhD n 
+14236 pheasant n 
+9273 phenomenal j 
+2488 phenomenon n 
+15795 philanthropic j 
+14878 philanthropist n 
+13961 philanthropy n 
+13820 Philharmonic j 
+12903 Philippine j 
+5208 philosopher n 
+4716 philosophical j 
+15581 philosophically r 
+2272 philosophy n 
+16000 phobia n 
+558 phone n 
+6522 phone v 
+20156 phonological j 
+8768 phony j 
+17697 phosphate n 
+14826 phosphorus n 
+1484 photo n 
+19299 photocopy n 
+1652 photograph n 
+4926 photograph v 
+3125 photographer n 
+6336 photographic j 
+4024 photography n 
+10153 photon n 
+18645 photosynthesis n 
+18865 photovoltaic j 
+2612 phrase n 
+14429 phrase v 
+15935 phrasing n 
+804 physical j 
+3271 physically r 
+2058 physician n 
+5638 physicist n 
+3446 physics n 
+8230 physiological j 
+17860 physiologist n 
+11208 physiology n 
+14312 physique n 
+8418 pianist n 
+3327 piano n 
+19997 piazza n 
+518 pick v 
+5189 pick n 
+15887 picker n 
+11049 picket n 
+19837 picking n 
+10281 pickle n 
+20170 pickle v 
+18304 pickled j 
+3839 pickup n 
+17136 picky j 
+5693 picnic n 
+11087 pictorial j 
+563 picture n 
+3939 picture v 
+11665 picturesque j 
+3352 pie n 
+566 piece n 
+13380 piece v 
+7999 pier n 
+6949 pierce v 
+13113 piercing j 
+12229 piety n 
+3517 pig n 
+8140 pigeon n 
+9297 pigment n 
+16103 pike n 
+3027 pile n 
+4623 pile v 
+9221 pilgrim n 
+8442 pilgrimage n 
+19706 pilings n 
+3455 pill n 
+6619 pillar n 
+4057 pillow n 
+18843 pillowcase n 
+1785 pilot n 
+11091 pilot v 
+13058 pimp n 
+18885 pimple n 
+4394 pin n 
+5315 pin v 
+7891 pinch v 
+8092 pinch n 
+19735 pinched j 
+3185 pine n 
+16983 pine v 
+9298 pineapple n 
+2512 pink j 
+11311 pink n 
+12937 pinnacle n 
+8311 pinpoint v 
+4521 pioneer n 
+9284 pioneer v 
+2002 
+ 
+9948 pioneering j 
+13200 pious j 
+3005 pipe n 
+12172 pipe v 
+5242 pipeline n 
+14097 piping n 
+17476 pique v 
+14050 piracy n 
+7322 pirate n 
+8779 piss v 
+18676 piss n 
+15835 pissed j 
+18578 pistachio n 
+4994 pistol n 
+15691 piston n 
+3894 pit n 
+8401 pit v 
+17560 pita n 
+3184 pitch n 
+3513 pitch v 
+3510 pitcher n 
+10293 pitching n 
+11326 pitfall n 
+13170 pitiful j 
+7040 pity n 
+13344 pity v 
+15913 pivot n 
+19679 pivot v 
+8312 pivotal j 
+10652 pixel n 
+3956 pizza n 
+16111 placard n 
+16666 placate v 
+181 place n 
+632 place v 
+9617 placebo n 
+4441 placement n 
+12920 placid j 
+19145 plagiarism n 
+6742 plague v 
+7307 plague n 
+10642 plaid n 
+3584 plain j 
+4740 plain n 
+18477 plain r 
+9810 plainly r 
+4996 plaintiff n 
+20005 plaintive j 
+414 plan n 
+692 plan v 
+1153 plane n 
+1601 planet n 
+18562 planetarium n 
+7062 planetary j 
+8216 plank n 
+5704 planned j 
+4550 planner n 
+2188 planning n 
+624 plant n 
+2487 plant v 
+19020 plantain n 
+5813 plantation n 
+11922 planter n 
+7582 planting n 
+7121 plaque n 
+8414 plasma n 
+8404 plaster n 
+12076 plaster v 
+1532 plastic n 
+1534 plate n 
+8498 plateau n 
+19184 platelet n 
+2832 platform n 
+9962 platinum n 
+18022 platonic j 
+9616 platoon n 
+7334 platter n 
+7245 plausible j 
+200 play v 
+942 play n 
+18975 playback n 
+514 player n 
+8609 playful j 
+14779 playfully r 
+5876 playground n 
+8451 playing j 
+17523 playing n 
+15053 playmate n 
+3667 playoff n 
+7735 playwright n 
+8264 plaza n 
+4951 plea n 
+3556 plead v 
+3810 pleasant j 
+10712 pleasantly r 
+1171 please r 
+4125 please v 
+3481 pleased j 
+9712 pleasing j 
+14920 pleasurable j 
+1896 pleasure n 
+18925 pleated j 
+5262 pledge v 
+5925 pledge n 
+9816 plentiful j 
+2061 plenty p 
+14883 plenty n 
+16848 plenty r 
+14022 plethora n 
+18793 pliers n 
+7540 plight n 
+16620 plod v 
+11877 plop v 
+2992 plot n 
+5862 plot v 
+19419 plotter n 
+8188 plow v 
+12798 plow n 
+11775 ploy n 
+6981 pluck v 
+5659 plug v 
+7299 plug n 
+7812 plum n 
+20056 plumb v 
+12321 plumber n 
+9051 plumbing n 
+9674 plume n 
+7830 plummet v 
+9595 plump j 
+16569 plunder v 
+4664 plunge v 
+10962 plunge n 
+15452 plunk v 
+19796 plural j 
+9545 pluralism n 
+14188 pluralistic j 
+13407 plurality n 
+2082 plus i 
+2003 
+ 
+7410 plus n 
+19966 plus c 
+12311 plush j 
+11218 plutonium n 
+13573 ply v 
+9126 plywood n 
+827 PM r 
+19068 pneumatic j 
+8807 pneumonia n 
+13252 poach v 
+15763 poacher n 
+1629 pocket n 
+14257 pocket v 
+12992 pocketbook n 
+8563 pod n 
+8116 podium n 
+2517 poem n 
+2947 poet n 
+6804 poetic j 
+16718 poetics n 
+2984 poetry n 
+9901 poignant j 
+212 point n 
+605 point v 
+9228 pointed j 
+13060 pointedly r 
+10924 pointer n 
+11739 pointless j 
+19620 pointy j 
+6338 poise v 
+16422 poise n 
+5614 poison n 
+7482 poison v 
+19135 poisoned j 
+9814 poisoning n 
+10330 poisonous j 
+4754 poke v 
+20006 poke n 
+8291 poker n 
+6905 polar j 
+19185 polarity n 
+13096 polarization n 
+12517 polarize v 
+19810 polarized j 
+2815 pole n 
+18411 polemic n 
+469 police n 
+10261 police v 
+4807 policeman n 
+13438 policing n 
+389 policy n 
+12108 policy-making n 
+6659 policymaker n 
+12535 polio n 
+5831 Polish j 
+8026 polish v 
+9721 polish n 
+7690 polished j 
+5565 polite j 
+7865 politely r 
+17542 politeness n 
+278 political j 
+2865 politically r 
+1797 politician n 
+18048 politicization n 
+13722 politicize v 
+18881 politicized j 
+954 politics n 
+12334 polity n 
+18851 polka n 
+1633 poll n 
+10543 poll v 
+9829 pollen n 
+8023 polling n 
+9854 pollster n 
+7810 pollutant n 
+9410 pollute v 
+14081 polluted j 
+14924 polluter n 
+2936 pollution n 
+12815 polo n 
+13703 polyester n 
+19505 polygamy n 
+15616 polygraph n 
+10508 polymer n 
+19158 polyp n 
+15937 pomegranate n 
+17762 pompous j 
+18055 Ponce n 
+19856 poncho n 
+3661 pond n 
+6066 ponder v 
+8523 pony n 
+11135 ponytail n 
+15759 poodle n 
+1574 pool n 
+11652 pool v 
+714 poor j 
+5199 poorly r 
+13333 poorly j 
+2568 pop v 
+3527 pop n 
+12770 pop j 
+15456 pop u 
+17303 pop-up n 
+9032 popcorn n 
+6279 pope n 
+15507 poplar n 
+12383 poppy n 
+12104 populace n 
+927 popular j 
+4014 popularity n 
+13819 popularize v 
+17079 popularly r 
+7316 populate v 
+643 population n 
+18235 populism n 
+9988 populist j 
+14039 populous j 
+8344 porcelain n 
+3067 porch n 
+11871 pore n 
+14551 pore v 
+4307 pork n 
+11072 porn n 
+13649 pornographic j 
+7284 pornography n 
+14033 porous j 
+19682 porridge n 
+2741 port n 
+5507 portable j 
+9413 portal n 
+19309 portend v 
+13409 porter n 
+3845 portfolio n 
+2197 portion n 
+2677 portrait n 
+20095 portraiture n 
+2004 
+ 
+3290 portray v 
+8091 portrayal n 
+10531 Portuguese j 
+14169 Portuguese n 
+2250 pose v 
+7611 pose n 
+13614 posh j 
+9612 posit v 
+513 position n 
+4225 position v 
+11011 positioning n 
+1053 positive j 
+16729 positive n 
+5251 positively r 
+17556 posse n 
+2864 possess v 
+3628 possession n 
+1199 possibility n 
+460 possible j 
+1708 possibly r 
+2167 post n 
+4157 post v 
+19940 post-mortem n 
+15288 post-traumatic j 
+13727 postage n 
+7185 postal j 
+7032 postcard n 
+3871 poster n 
+14650 posterior j 
+17165 posterity n 
+20117 posthumous j 
+14093 posting n 
+8200 postmodern j 
+13883 postmodernism n 
+12325 postoperative j 
+17612 postpartum j 
+6649 postpone v 
+9952 postseason n 
+13427 postulate v 
+5475 posture n 
+2255 pot n 
+15331 pot v 
+12537 potassium n 
+2273 potato n 
+13892 potency n 
+6389 potent j 
+1266 potential j 
+2084 potential n 
+2854 potentially r 
+14383 pothole n 
+15761 potion n 
+15541 potted j 
+12930 potter n 
+7233 pottery n 
+9558 pouch n 
+7775 poultry n 
+12857 pounce v 
+1313 pound n 
+4826 pound v 
+7435 pounding n 
+1911 pour v 
+12658 pouring j 
+18167 pout v 
+2354 poverty n 
+12370 POW n 
+3291 powder n 
+19337 powder v 
+10225 powdered j 
+19634 powdery j 
+272 power n 
+6814 power v 
+16487 powered j 
+1162 powerful j 
+11137 powerfully r 
+11256 powerhouse n 
+9510 powerless j 
+19643 powerlessness n 
+19230 pox n 
+2301 practical j 
+14865 practicality n 
+3937 practically r 
+565 practice n 
+2901 practice v 
+15627 practiced j 
+16302 practicing j 
+18202 practicum n 
+4293 practitioner n 
+7644 pragmatic j 
+14103 pragmatism n 
+18400 pragmatist n 
+6957 prairie n 
+3754 praise v 
+4982 praise n 
+14658 prank n 
+2421 pray v 
+2117 prayer n 
+18723 pre-columbian j 
+16131 pre-dawn j 
+13189 pre-emptive j 
+13993 pre-existing j 
+13794 pre-service j 
+13783 pre-war j 
+4867 preach v 
+5808 preacher n 
+18363 preamble n 
+10348 precarious j 
+17500 precariously r 
+7209 precaution n 
+5675 precede v 
+13362 precedence n 
+5698 precedent n 
+7208 preceding j 
+14407 precept n 
+7268 precinct n 
+4028 precious j 
+19700 precious r 
+19836 precipice n 
+10499 precipitate v 
+12083 precipitation n 
+17632 precipitous j 
+19151 precipitously r 
+3863 precise j 
+2602 precisely r 
+5538 precision n 
+8242 preclude v 
+16035 precocious j 
+19712 preconceived j 
+19479 preconception n 
+13576 precondition n 
+9902 precursor n 
+14226 predate v 
+15981 predation n 
+4753 predator n 
+11289 predatory j 
+5325 predecessor n 
+15818 predetermined j 
+9689 predicament n 
+14104 predicate v 
+2005 
+ 
+1622 predict v 
+16088 predictability n 
+5818 predictable j 
+11976 predictably r 
+12690 predicted j 
+3641 prediction n 
+10637 predictive j 
+6108 predictor n 
+19464 predilection n 
+13431 predispose v 
+14844 predisposition n 
+11930 predominant j 
+6026 predominantly r 
+14448 predominate v 
+20079 preen v 
+13755 preface n 
+1728 prefer v 
+10849 preferable j 
+9515 preferably r 
+3049 preference n 
+12384 preferential j 
+5988 preferred j 
+3356 pregnancy n 
+2652 pregnant j 
+8274 preheat v 
+10556 prehistoric j 
+5304 prejudice n 
+19937 prejudice v 
+19985 prejudiced j 
+4453 preliminary j 
+12157 prelude n 
+19754 premarital j 
+6985 premature j 
+11993 prematurely r 
+7760 premier j 
+15659 premier n 
+16425 premier v 
+6935 premiere n 
+4605 premise n 
+4854 premium n 
+8851 premium j 
+18502 premonition n 
+11483 prenatal j 
+8979 preoccupation n 
+9043 preoccupied j 
+18761 preoperative j 
+11317 prep n 
+18558 prepaid j 
+2534 preparation n 
+13468 preparatory j 
+775 prepare v 
+6072 prepared j 
+13240 preparedness n 
+16369 preponderance n 
+13908 preposterous j 
+11337 prerequisite n 
+12578 prerogative n 
+9004 Presbyterian j 
+7123 preschool j 
+12092 preschooler n 
+18985 prescient j 
+5449 prescribe v 
+9936 prescribed j 
+3339 prescription n 
+10728 preseason n 
+1270 presence n 
+820 present v 
+1337 present j 
+2265 present n 
+8567 present r 
+10690 present-day j 
+2921 presentation n 
+15658 presenter n 
+7575 presently r 
+5298 preservation n 
+18986 preservationist n 
+17970 preservative n 
+2229 preserve v 
+10750 preserve n 
+14625 preserving j 
+6892 preside v 
+3465 presidency n 
+304 president n 
+8920 president-elect n 
+1624 presidential j 
+1182 press n 
+1538 press v 
+7276 pressing j 
+766 pressure n 
+7228 pressure v 
+6797 prestige n 
+6551 prestigious j 
+4333 presumably r 
+5819 presume v 
+14940 presumed j 
+10134 presumption n 
+14453 presuppose v 
+2928 pretend v 
+11779 pretense n 
+15084 pretension n 
+16646 pretentious j 
+13907 pretext n 
+799 pretty r 
+2482 pretty j 
+16418 pretzel n 
+4795 prevail v 
+6883 prevailing j 
+7589 prevalence n 
+7094 prevalent j 
+1087 prevent v 
+16996 preventable j 
+19828 preventative j 
+3996 prevention n 
+7745 preventive j 
+7665 preview n 
+15380 preview v 
+1283 previous j 
+2333 previously r 
+5574 prey n 
+15784 prey v 
+476 price n 
+5309 price v 
+12829 priceless j 
+11472 pricey j 
+8348 pricing n 
+13707 prick v 
+18473 prick n 
+12632 prickly j 
+2825 pride n 
+10740 pride v 
+2313 priest n 
+19891 priestess n 
+13153 priesthood n 
+19040 priestly j 
+19831 prima n 
+13185 primacy n 
+12061 primal j 
+2153 primarily r 
+2006 
+ 
+1513 primary j 
+3899 primary n 
+11660 primate n 
+1677 prime j 
+12663 prime v 
+11151 primer n 
+19306 primeval j 
+5883 primitive j 
+14101 primitive n 
+13627 primordial j 
+5533 prince n 
+7007 princess n 
+3149 principal n 
+3334 principal j 
+10745 principally r 
+1348 principle n 
+16891 principled j 
+2228 print n 
+3177 print v 
+7240 printed j 
+5954 printer n 
+7335 printing n 
+14644 printout n 
+2879 prior i 
+4239 prior j 
+14369 prior r 
+13871 prioritize v 
+2130 priority n 
+13423 prism n 
+1289 prison n 
+2442 prisoner n 
+8395 pristine j 
+3084 privacy n 
+672 private j 
+8740 private r 
+15149 private n 
+16364 private-sector j 
+4773 privately r 
+6749 privatization n 
+11163 privatize v 
+3647 privilege n 
+6635 privileged j 
+14428 privy j 
+3722 prize n 
+13259 prize v 
+12900 prize-winning j 
+12506 prized j 
+4097 pro n 
+4431 pro j 
+9858 pro i 
+11629 pro-life j 
+10309 proactive j 
+5170 probability n 
+6881 probable j 
+399 probably r 
+7315 probation n 
+5241 probe n 
+6623 probe v 
+12305 probing j 
+171 problem n 
+10067 problem-solving n 
+5632 problematic j 
+9160 procedural j 
+1376 procedure n 
+2720 proceed v 
+5436 proceedings n 
+8059 proceeds n 
+392 process n 
+2771 process v 
+12340 processed j 
+4074 processing n 
+7783 procession n 
+4663 processor n 
+4504 proclaim v 
+10964 proclamation n 
+19426 proclivity n 
+13725 procure v 
+11874 procurement n 
+9411 prod v 
+14671 prodigious j 
+14786 prodigy n 
+543 produce v 
+7110 produce n 
+1859 producer n 
+570 product n 
+962 production n 
+4006 productive j 
+4197 productivity n 
+18421 profane j 
+16220 profanity n 
+10588 profess v 
+2909 profession n 
+1098 professional j 
+2586 professional n 
+11220 professionalism n 
+7725 professionally r 
+828 professor n 
+16127 proffer v 
+10455 proficiency n 
+12467 proficient j 
+2699 profile n 
+10407 profile v 
+19408 profiling n 
+1716 profit n 
+7839 profit v 
+11506 profitability n 
+5420 profitable j 
+3771 profound j 
+6582 profoundly r 
+17791 profusely r 
+16593 profusion n 
+17643 progeny n 
+12001 prognosis n 
+194 program n 
+3938 program v 
+17663 programmatic j 
+8558 programmer n 
+4676 programming n 
+1517 progress n 
+5084 progress v 
+7717 progression n 
+4268 progressive j 
+16259 progressive n 
+10732 progressively r 
+4029 prohibit v 
+17765 prohibited j 
+6908 prohibition n 
+18632 prohibitive j 
+535 project n 
+3633 project v 
+7047 projected j 
+16467 projectile n 
+17356 projecting j 
+4809 projection n 
+10560 projector n 
+12557 proliferate v 
+6685 proliferation n 
+11273 prolific j 
+2007 
+ 
+20092 prologue n 
+9670 prolong v 
+7504 prolonged j 
+9957 prom n 
+16641 promenade n 
+8595 prominence n 
+2920 prominent j 
+9880 prominently r 
+19921 promiscuity n 
+17978 promiscuous j 
+1444 promise v 
+2016 promise n 
+10247 promised j 
+3881 promising j 
+1335 promote v 
+8582 promoter n 
+3823 promotion n 
+9782 promotional j 
+3142 prompt v 
+14858 prompt n 
+15029 prompt j 
+6770 promptly r 
+13268 promulgate v 
+6314 prone j 
+20172 prong n 
+17639 pronoun n 
+5402 pronounce v 
+7840 pronounced j 
+10899 pronouncement n 
+15986 pronunciation n 
+2887 proof n 
+5923 prop v 
+8129 prop n 
+5926 propaganda n 
+12217 propagate v 
+16285 propagation n 
+15433 propane n 
+6722 propel v 
+12859 propeller n 
+11188 propensity n 
+2075 proper j 
+2902 properly r 
+996 property n 
+9633 prophecy n 
+19554 prophesy v 
+7642 prophet n 
+12361 prophetic j 
+5827 proponent n 
+3088 proportion n 
+10749 proportional j 
+1634 proposal n 
+1706 propose v 
+3100 proposed j 
+5497 proposition n 
+10070 proprietary j 
+11139 proprietor n 
+14138 propriety n 
+11051 propulsion n 
+20183 prosaic j 
+20039 prosciutto n 
+7588 prose n 
+5152 prosecute v 
+3637 prosecution n 
+2142 prosecutor n 
+2343 prospect n 
+5487 prospective j 
+18798 prospector n 
+20134 prospectus n 
+8407 prosper v 
+5142 prosperity n 
+7469 prosperous j 
+7487 prostate n 
+11907 prosthesis n 
+13544 prosthetic j 
+6099 prostitute n 
+8155 prostitution n 
+7666 protagonist n 
+750 protect v 
+6468 protected j 
+1322 protection n 
+16702 protectionism n 
+18208 protectionist j 
+4153 protective j 
+9877 protector n 
+14624 protege n 
+2545 protein n 
+2858 protest n 
+3601 protest v 
+6220 Protestant j 
+7779 Protestant n 
+16395 Protestantism n 
+6282 protester n 
+4537 protocol n 
+12536 proton n 
+6363 prototype n 
+12095 protracted j 
+12126 protrude v 
+1996 proud j 
+6225 proudly r 
+869 prove v 
+7860 proven j 
+17468 provenance n 
+13371 proverb n 
+14126 proverbial j 
+263 provide v 
+3879 provided c 
+3129 provider n 
+18359 providing c 
+3256 province n 
+6405 provincial j 
+2634 provision n 
+11095 provisional j 
+12974 provocation n 
+7344 provocative j 
+4872 provoke v 
+20101 provost n 
+11339 prowess n 
+13545 prowl v 
+18834 proximal j 
+6690 proximity n 
+9400 proxy n 
+15519 prudence n 
+9013 prudent j 
+14717 prune v 
+19384 prune n 
+16417 pruning n 
+19489 Prussian j 
+8654 pry v 
+16626 pseudonym n 
+17998 PSI n 
+7934 psyche n 
+17773 psychedelic j 
+5552 psychiatric j 
+5244 psychiatrist n 
+10203 psychiatry n 
+7960 psychic j 
+16684 psycho n 
+14776 psychoanalysis n 
+2008 
+ 
+16394 psychoanalytic j 
+2383 psychological j 
+9294 psychologically r 
+3039 psychologist n 
+2997 psychology n 
+16085 psychometric j 
+20050 psychopath n 
+19762 psychopathology n 
+18835 psychosis n 
+10329 psychosocial j 
+14975 psychotherapist n 
+12828 psychotherapy n 
+13680 psychotic j 
+7558 pub n 
+12947 puberty n 
+17199 pubic j 
+334 public j 
+861 public n 
+4963 public r 
+19888 public-relations j 
+2481 publication n 
+11708 publicist n 
+4588 publicity n 
+10016 publicize v 
+13291 publicized j 
+3053 publicly r 
+1120 publish v 
+7440 published j 
+3097 publisher n 
+6816 publishing n 
+15719 puck n 
+19195 pucker v 
+8686 pudding n 
+9202 puddle n 
+18425 pudgy j 
+15723 pueblo n 
+8450 puff n 
+9625 puff v 
+18995 puffing j 
+11884 puffy j 
+18859 puke v 
+15301 Pulitzer n 
+472 pull v 
+7549 pull n 
+16476 pulley n 
+13457 pulmonary j 
+8812 pulp n 
+10141 pulpit n 
+15833 pulsar n 
+4376 pulse n 
+13415 pulse v 
+15289 pummel v 
+3476 pump n 
+4004 pump v 
+12346 pumping n 
+6231 pumpkin n 
+13281 pun n 
+4393 punch v 
+5154 punch n 
+9404 punctuate v 
+16520 punctuation n 
+15260 puncture v 
+19074 puncture n 
+9929 pundit n 
+13444 pungent j 
+3897 punish v 
+15043 punishing j 
+3135 punishment n 
+9107 punitive j 
+8191 punk n 
+12876 punt n 
+20088 punter n 
+16452 puny j 
+9485 pup n 
+5120 pupil n 
+7369 puppet n 
+6907 puppy n 
+2168 purchase v 
+3114 purchase n 
+14385 purchaser n 
+10384 purchasing n 
+2438 pure j 
+11531 puree n 
+5185 purely r 
+11818 purge v 
+16614 purge n 
+16062 purification n 
+13903 purify v 
+16341 purist n 
+8928 purity n 
+3931 purple j 
+17974 purple n 
+11634 purport v 
+16621 purported j 
+16858 purportedly r 
+1018 purpose n 
+13125 purposeful j 
+14587 purposefully r 
+12708 purposely r 
+16082 purr v 
+4401 purse n 
+14433 purse v 
+15921 pursuant i 
+1799 pursue v 
+17900 pursuer n 
+3909 pursuit n 
+16087 purveyor n 
+18275 purview n 
+696 push v 
+5559 push n 
+13504 push-up n 
+19790 pushy j 
+14933 pussy n 
+151 put v 
+17077 putative j 
+8923 putt n 
+15479 putter n 
+4297 puzzle n 
+9168 puzzle v 
+7452 puzzled j 
+19534 puzzlement n 
+13998 puzzling j 
+17106 PVC n 
+6216 pyramid n 
+19989 python n 
+pack (v) 
+• to pack a case (v) 
+packet (n) 
+page (n) 
+pain (n) 
+painful (adj) 
+paint (n & v) 
+painter (n) 
+painting (n) 
+pair (n) 
+palace (n) 
+pale (adj) 
+• pale blue pan (n) 
+pants (n) (Am Eng) (Br Eng: trousers) 
+paper (n) 
+• a sheet of paper 
+• a (news)paper 
+paragraph (n) 
+parcel (n) 
+pardon (exclam) 
+• Pardon? 
+parent (n) 
+park (n & v) 
+• a public park (n) 
+• to park a car (v) 
+parking (n) 
+parking lot (n) (Am Eng) (Br Eng: car park) 
+parrot (n) 
+part (n) 
+• a part of something (n) 
+partly (adv) 
+particular (adj) 
+• I love this CD - in particular the last 
+song. 
+particularly (adv) 
+partner (n) 
+part time (adv) 
+part-time (adj) 
+party (n) 
+• a birthday party 
+• a political party 
+pass (n & v) 
+• Several cars passed. 
+• to pass the sugar 
+• to pass an examination 
+pass on (phr v) 
+• Pass on the message. 
+passenger (n) 
+passport (n) 
+password (n) 
+past (adj, n & prep) 
+• the past few weeks (adj) 
+• in the past (n) 
+• It’s half past one. (prep) 
+pasta (n) 
+path (n) 
+patient (adj & n) 
+• to be patient (adj) 
+• a hospital patient (n) 
+pattern (n) 
+pause (v) 
+pavement (n) 
+pay (n & v) 
+PC (personal computer) (n) 
+pea (n) 
+peace (n) 
+peaceful (adj) 
+peach (n) 
+peak (n) 
+peanut (n) 
+pear (n) 
+pedestrian (n) 
+peel (v) 
+pen (n) 
+pence (n pl) 
+pencil (n) 
+pencil case (n) 
+penfriend (n) 
+penguin (n) 
+penny (n) 
+people (n pl) 
+pepper (n) 
+• to pass the pepper (spice) 
+• red peppers (vegetable) 
+per (prep) 
+percent (adv) 
+perfect (adj) 
+perfectly (adv) 
+perform (v) 
+performance (n) 
+performer (n) 
+perfume (n) 
+perhaps (adv) 
+period (n) 
+permanent (adj) 
+permission (n) 
+permit (v) 
+• Dogs are not permitted here. 
+permitted (adj) 
+person (n) 
+personal (adj) 
+personally (adv) 
+persuade (v) 
+pet (n) 
+petrol (n) (Br Eng) (Am Eng: gas) 
+petrol station (n) (Br Eng) (Am Eng: gas 
+station) 
+pharmacy (n) 
+phone (n & v) 
+photo (n) 
+photocopy (n) 
+photograph (n & v) 
+photographer (n) 
+photography (n) 
+phrase (n) 
+physics (n) 
+piano (n) 
+pick (v) 
+pick up (phr v) 
+• I picked up a pencil. 
+• I’ll pick up my sister from the station. 
+picnic (n) 
+picture (n) 
+pie (n) 
+piece (n) 
+• a piece of cheese 
+• to break into small pieces 
+• a piece of furniture/advice 
+pig (n) 
+pile (n) 
+pill (n) 
+pillow (n) 
+pilot (n) 
+pin (n & v) 
+pineapple (n) 
+pink (adj & n) 
+pipe (n) 
+pirate (n) 
+pitch (n) 
+• football pitch 
+pity (n) 
+• It’s a pity you couldn’t come to the party – it was great. 
+pizza (n) 
+place (n) 
+• a safe place (n) 
+• I’ve lost my place in the book. (n) 
+• third place in a race (n) 
+• London is a big place. (n) 
+plain (adj) 
+• It’s plain to me. (clear) 
+• a plain T-shirt (no design) 
+plan (n & v) 
+• a street plan (n) 
+• a plan to do something (n) 
+plane (n) 
+planet (n) 
+plant (n & v) 
+plastic (adj & n) 
+plate (n) 
+platform (n) 
+play (n & v) 
+• a play at the theatre (n) 
+• children playing (v) 
+• to play football (v) 
+• to play the guitar (v) 
+• to play a DVD (v) 
+• to play the part of someone (act) (v) 
+player (n) 
+playground (n) 
+pleasant (adj) 
+please (exclam & v) 
+• Come in, please. (exclam) 
+• to please someone (v) 
+pleased (adj) 
+pleasure (n) 
+plenty (pron) 
+plug (n) 
+• a plug for the bath 
+• an electrical plug 
+plus (prep & conj) 
+p.m. (adv) 
+pocket (n) 
+pocket money (n) 
+podcast (n) 
+poem (n) 
+poet (n) 
+poetry (n) 
+point (n & v) 
+• to point at something (v) 
+• The pencil has no point on it. (n) 
+police (n) 
+policeman (n) 
+police officer (n) 
+police station (n) 
+polite (adj) 
+political (adj) 
+politician (n) 
+politics (n) 
+pollution (n) 
+pool (n) 
+• a swimming-pool 
+poor (adj) 
+• She is very poor. (financial) 
+• the poor man (sympathy) 
+pop (n) 
+• pop song/music/star/group 
+popular (adj) 
+population (n) 
+port (n) 
+position (n) 
+positive (adj) 
+possibility (n) 
+possible (adj) 
+possibly (adv) 
+post (n & v) 
+• to post a letter (v) 
+• to send it by post (n) 
+postcard (n) 
+poster (n) 
+postman (n) 
+post office (n) 
+postpone (v) 
+pot (n) 
+potato (n) 
+pound (£) (n) 
+pour (v) 
+powder (n) 
+power (n) 
+powerful (adj) 
+practice (n) (Br Eng) (Am Eng: practise) 
+practise (v) 
+pray (v) 
+prayer (n) 
+predict (v) 
+prefer (v) 
+pregnant (adj) 
+preparation (n) 
+prepare (v) 
+prepared (adj) 
+prescription (n) 
+• medicine on a prescription 
+present (adj & n & v) 
+• to be present (adj) 
+• at the present time (adj) 
+• That will be all for the present. (n) 
+• I got some lovely birthday presents. (n) 
+• The winners were presented with 
+prizes. (v) 
+• She presents the late-night news. (v) 
+presentation (n) 
+presenter (n) 
+• a sports presenter 
+president (n) 
+press (v) 
+• to press a button 
+• to press a suit 
+pretty (adj & adv) 
+prevent (v) 
+previous (adj) 
+previously (adv) 
+price (n) 
+primary school (n) 
+prince (n) 
+princess (n) 
+principal (adj) 
+print (v) 
+• to print a document 
+printer (n) 
+prison (n) 
+prisoner (n) 
+private (adj) 
+prize (n) 
+probably (adv) 
+problem (n) 
+produce (v) 
+product (n) 
+production (n) 
+• film/music production 
+• She wants to work in television 
+production. 
+profession (n) 
+professional (n) 
+professor (n) 
+program(me) (n) 
+• TV programme 
+• computer program 
+progress (n) 
+prohibited (adj) 
+project (n) 
+• school/work project 
+promise (n & v) 
+• to promise to do something (v) 
+• to keep a promise (n) 
+promote (v) 
+pronounce (v) 
+• to pronounce a word correctly 
+pronunciation (n) 
+proper (adj) 
+properly (as in working properly) (adv) 
+• My computer isn’t working properly 
+property (n) 
+protect (v) 
+proud (adj) 
+prove (v) 
+provide (v) 
+public (adj & n) 
+• public opinion (adj) 
+• to make something public (adj) 
+• to be open to the public (n) 
+public transport (n) 
+publish (v) 
+pull (v) 
+pullover (n) 
+pump (n) 
+• petrol/bike pump 
+punish (v) 
+pupil (n) 
+puppy (n) 
+pure (adj) 
+purple (adj & n) 
+purpose (n) 
+• He did it on purpose. (deliberately) 
+• The purpose of this meeting is to… 
+purse (n) 
+push (n & v) 
+put (v) 
+put away (phr v) 
+• He put the book away. 
+put down (phr v) 
+• She put her name down for the trip. 
+put off (phr v) 
+• The meeting was put off until the 
+following week. 
+put on (phr v) 
+• He put on a suit. 
+• Can you put on the light? 
+• He didn’t want to put on weight. 
+put out (phr v) 
+• The fire was quickly put out. 
+put through (phr v) 
+• Can you put me through to the 
+manager, please? 
+put up (phr v) 
+• The company had to put up its prices. 
+puzzle (n) 
+pyjamas (n pl) 

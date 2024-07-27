@@ -1,0 +1,79 @@
+12253 y''all p 
+6540 ya p 
+13873 ya u 
+7624 yacht n 
+15124 yam n 
+6241 yank v 
+1039 yard n 
+19830 yardage n 
+17670 yardstick n 
+11753 yarn n 
+10940 yawn v 
+19018 yawn n 
+8489 ye p 
+19616 yea u 
+430 yeah u 
+54 year n 
+19839 year-end j 
+13562 year-long j 
+10619 year-old j 
+7632 year-round j 
+14217 yearbook n 
+9111 yearly j 
+17764 yearly r 
+8148 yearn v 
+12662 yearning n 
+10224 yeast n 
+2651 yell v 
+13768 yell n 
+1675 yellow j 
+9278 yellow n 
+18649 yellowed j 
+19343 yellowish j 
+17024 yelp v 
+18346 yelp n 
+10754 yen n 
+8659 yep u 
+19414 yer a 
+259 yes u 
+1514 yesterday r 
+276 yet r 
+18604 Yiddish j 
+19351 Yiddish n 
+2675 yield v 
+4808 yield n 
+18994 yo-yo n 
+8010 yoga n 
+7599 yogurt n 
+16744 yoke n 
+11664 yolk n 
+15985 Yoruba j 
+14 you p 
+19141 you-all p 
+235 young j 
+4852 youngster n 
+69 your a 
+3183 yours p 
+919 yourself p 
+1404 youth n 
+7555 youthful j 
+10901 Yugoslav j 
+19339 yummy j 
+14968 yup u 
+18739 yuppie n
+yard (n) 
+yeah (exclam) 
+year (n) 
+yellow (adj) 
+yes (adv) 
+yesterday (adv) 
+yet (adv) 
+yoga (n) 
+yog(h)urt (n) 
+you (pron) 
+you know (exclam) 
+young (adj) 
+your (det) 
+yours (pron) 
+yourself (pron) 
+youth (n) 

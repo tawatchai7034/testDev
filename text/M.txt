@@ -1,0 +1,1182 @@
+19466 macabre j 
+13264 macaroni n 
+16481 machete n 
+1025 machine n 
+9099 machine v 
+5856 machinery n 
+19380 machinist n 
+11039 macho j 
+17160 mackerel n 
+17076 macro j 
+18592 macro n 
+15429 macroeconomic j 
+2595 mad j 
+17599 madam n 
+7563 Madame n 
+11587 madden v 
+14132 madly r 
+14399 madman n 
+6666 madness n 
+17861 maestro n 
+18576 mafia n 
+1004 magazine n 
+18666 magenta n 
+18280 maggot n 
+3440 magic j 
+3877 magic n 
+5655 magical j 
+13636 magically r 
+9621 magician n 
+11356 magistrate n 
+16892 magnate n 
+12481 magnesium n 
+6371 magnet n 
+4882 magnetic j 
+18596 magnetism n 
+13243 magnification n 
+5564 magnificent j 
+9793 magnify v 
+19150 magnifying j 
+4010 magnitude n 
+18076 magnolia n 
+10015 mahogany n 
+6129 maid n 
+14879 maiden j 
+15783 maiden n 
+2531 mail n 
+6005 mail v 
+13177 mail-order n 
+9214 mailbox n 
+9800 mailing n 
+19632 mailman n 
+17531 maim v 
+1984 
+ 
+891 main j 
+15365 mainframe n 
+6300 mainland n 
+14441 mainline j 
+2829 mainly r 
+13681 mainstay n 
+3562 mainstream j 
+14321 mainstream n 
+925 maintain v 
+3091 maintenance n 
+14281 maize n 
+10803 majestic j 
+14748 majesty n 
+445 major j 
+4589 major n 
+13299 major v 
+13889 major-league j 
+1089 majority n 
+45 make v 
+9102 make n 
+10772 makeover v 
+2364 maker n 
+8943 makeshift j 
+3395 makeup n 
+5100 making n 
+16182 malady n 
+16002 malaise n 
+9326 malaria n 
+17497 Malaysian j 
+1539 male j 
+1721 male n 
+19563 male-dominated j 
+17454 malevolent j 
+15337 malfunction n 
+14036 malice n 
+13519 malicious j 
+19690 malignancy n 
+12622 malignant j 
+3076 mall n 
+19342 malleable j 
+18268 mallet n 
+14324 malnutrition n 
+9790 malpractice n 
+17777 malt n 
+7472 mama n 
+6229 mammal n 
+19227 mammalian j 
+12420 mammogram n 
+19681 mammography n 
+11288 mammoth j 
+17185 mammoth n 
+94 man n 
+11354 man v 
+9636 man-made j 
+948 manage v 
+10863 manageable j 
+9867 managed j 
+909 management n 
+880 manager n 
+10100 managerial j 
+4962 managing j 
+18016 managing n 
+3759 mandate n 
+7434 mandate v 
+17269 mandated j 
+5182 mandatory j 
+13432 mane n 
+7320 maneuver v 
+7693 maneuver n 
+17006 maneuvering n 
+20132 mangle v 
+9717 mango n 
+16089 mangrove n 
+12147 manhood n 
+18958 manhunt n 
+12777 mania n 
+15605 maniac n 
+13550 manic j 
+16914 manicure n 
+15668 manicured j 
+6017 manifest v 
+11784 manifest j 
+6686 manifestation n 
+12944 manifesto n 
+4291 manipulate v 
+5835 manipulation n 
+14447 manipulative j 
+7406 mankind n 
+14533 manly j 
+14678 manned j 
+15468 mannequin n 
+1831 manner n 
+18813 mannerism n 
+16643 manor n 
+11803 manpower n 
+4816 mansion n 
+13632 manslaughter n 
+13900 mantel n 
+10054 mantle n 
+10280 mantra n 
+4993 manual n 
+7174 manual j 
+13313 manually r 
+5197 manufacture v 
+10494 manufacture n 
+11798 manufactured j 
+2271 manufacturer n 
+3188 manufacturing n 
+10033 manure n 
+5176 manuscript n 
+99 many d 
+1551 map n 
+6439 map v 
+5641 maple n 
+10426 mapping n 
+8750 mar v 
+6548 marathon n 
+4873 marble n 
+3511 march v 
+5045 march n 
+18262 marcher n 
+13329 marching j 
+11044 mare n 
+10755 margarine n 
+16541 margarita n 
+3333 margin n 
+6180 marginal j 
+17564 marginalization n 
+11277 marginalize v 
+17607 marginalized j 
+12755 marginally r 
+18868 marigold n 
+5056 marijuana n 
+13180 marina n 
+12794 marinade n 
+13672 marinate v 
+4964 marine j 
+11900 marine n 
+1985 
+ 
+6333 marital j 
+9841 maritime j 
+1692 mark v 
+2143 mark n 
+6583 marked j 
+10222 markedly r 
+4865 marker n 
+403 market n 
+2795 market v 
+15382 marketable j 
+9905 marketer n 
+2312 marketing n 
+4540 marketplace n 
+10173 marking n 
+15195 maroon j 
+13480 marquee n 
+1014 marriage n 
+1619 married j 
+9958 marrow n 
+1340 marry v 
+6890 marsh n 
+11224 marshal n 
+12479 marshal v 
+15702 marshmallow n 
+8120 martial j 
+9439 Martian j 
+10462 martini n 
+8545 martyr n 
+15237 martyrdom n 
+7948 marvel v 
+9767 marvel n 
+7049 marvelous j 
+14588 Marxism n 
+10303 Marxist j 
+19849 Marxist n 
+14203 mascara n 
+14561 mascot n 
+7329 masculine j 
+11518 masculinity n 
+12270 mash v 
+10277 mashed j 
+2917 mask n 
+8449 mask v 
+12441 masked j 
+14397 masking n 
+18493 mason n 
+15426 masonry n 
+16533 masquerade n 
+16584 masquerade v 
+2002 mass n 
+2203 mass j 
+17723 mass v 
+18849 mass-produced j 
+6549 massacre n 
+15243 massacre v 
+7172 massage n 
+9543 massage v 
+2010 massive j 
+17316 massively r 
+12085 mast n 
+17592 mastectomy n 
+1897 master n 
+5280 master v 
+15626 masterful j 
+16635 mastermind n 
+7824 masterpiece n 
+7733 mastery n 
+18277 masturbate v 
+15859 masturbation n 
+5719 mat n 
+18272 mat v 
+1986 match v 
+2704 match n 
+18261 matched j 
+6697 matching j 
+15791 matching n 
+11995 matchup n 
+4102 mate n 
+11169 mate v 
+13799 mater n 
+642 material n 
+14181 material j 
+13211 materialism n 
+17782 materialistic j 
+8571 materialize v 
+18115 materially r 
+7156 maternal j 
+11672 maternity n 
+3008 math n 
+6613 mathematical j 
+17852 mathematically r 
+10784 mathematician n 
+4302 mathematics n 
+17811 matinee n 
+13138 mating j 
+18127 mating n 
+5953 matrix n 
+17143 matron n 
+17144 matte n 
+529 matter n 
+1763 matter v 
+3769 matter d 
+18303 matter-of-fact j 
+16689 matter-of-factly r 
+6083 mattress n 
+16192 maturation n 
+5201 mature j 
+6514 mature v 
+6505 maturity n 
+18893 mausoleum n 
+14422 maverick n 
+16343 maxim n 
+17858 maximal j 
+6014 maximize v 
+3638 maximum j 
+6011 maximum n 
+119 may v 
+16595 Mayan j 
+384 maybe r 
+12666 mayhem n 
+12040 mayonnaise n 
+2508 mayor n 
+14932 mayoral j 
+7831 maze n 
+13026 MBA n 
+61 me p 
+5652 meadow n 
+9828 meager j 
+1722 meal n 
+154 mean v 
+1460 mean n 
+1909 mean j 
+18026 mean-spirited j 
+13226 meander v 
+1617 meaning n 
+3805 meaningful j 
+18822 meaningfully r 
+8156 meaningless j 
+1986 
+ 
+4892 meantime n 
+1861 meanwhile r 
+18714 measles n 
+11717 measurable j 
+943 measure n 
+1384 measure v 
+10828 measured j 
+3255 measurement n 
+15465 measuring j 
+1802 meat n 
+15693 meatball n 
+15314 meaty j 
+15634 mecca n 
+4303 mechanic n 
+3766 mechanical j 
+14378 mechanically r 
+2700 mechanism n 
+3482 medal n 
+12194 medalist n 
+15330 medallion n 
+17380 meddle v 
+758 media n 
+19033 medial j 
+6910 median j 
+12200 median n 
+7510 mediate v 
+8476 mediation n 
+9303 mediator n 
+11972 medic n 
+12980 Medicaid n 
+647 medical j 
+11637 medically r 
+3176 medication n 
+12029 medicinal j 
+1481 medicine n 
+5130 medieval j 
+10683 mediocre j 
+17212 mediocrity n 
+12746 meditate v 
+6294 meditation n 
+18571 meditative j 
+7766 Mediterranean j 
+3269 medium n 
+3649 medium j 
+9681 medium-high j 
+17934 medium-low j 
+13484 medium-size j 
+13583 medium-sized j 
+14452 medley n 
+14539 meek j 
+289 meet v 
+15863 meet n 
+773 meeting n 
+18568 mega j 
+16102 megawatt n 
+14026 melancholy n 
+14135 melancholy j 
+15990 melanoma n 
+15025 meld v 
+20109 melee n 
+14005 mellow j 
+16604 mellow v 
+13987 melodic j 
+14238 melodrama n 
+18053 melodramatic j 
+5636 melody n 
+10110 melon n 
+3490 melt v 
+12544 meltdown n 
+12970 melted j 
+10734 melting n 
+286 member n 
+3111 membership n 
+7192 membrane n 
+13611 memento n 
+5192 memo n 
+5644 memoir n 
+10959 memorabilia n 
+6093 memorable j 
+11239 memorandum n 
+5265 memorial n 
+17997 memorialize v 
+8436 memorize v 
+894 memory n 
+9522 menace n 
+11694 menacing j 
+11117 mend v 
+19613 menial j 
+17591 meningitis n 
+10875 menopause n 
+14416 menstrual j 
+1593 mental j 
+19949 mental-health j 
+6641 mentality n 
+4411 mentally r 
+975 mention v 
+4812 mention n 
+4611 mentor n 
+11488 mentor v 
+3113 menu n 
+15366 mercenary n 
+7165 merchandise n 
+4166 merchant n 
+18404 merciful j 
+17511 mercifully r 
+17633 merciless j 
+8080 mercury n 
+5313 mercy n 
+2948 mere j 
+2001 merely r 
+5435 merge v 
+5072 merger n 
+20127 merging n 
+16863 meringue n 
+4549 merit n 
+10036 merit v 
+18514 mermaid n 
+19461 merrily r 
+7564 merry j 
+14839 mesa n 
+7849 mesh n 
+12087 mesmerize v 
+18965 mesquite n 
+3410 mess n 
+5765 mess v 
+810 message n 
+16741 messaging n 
+6639 messenger n 
+19231 messianic j 
+6753 messy j 
+19478 meta-analysis n 
+11260 metabolic j 
+9804 metabolism n 
+1583 metal n 
+8682 metallic j 
+14881 metamorphosis n 
+3964 metaphor n 
+12901 metaphorical j 
+1987 
+ 
+17120 metaphorically r 
+11126 metaphysical j 
+15591 metaphysics n 
+19212 metastasis n 
+19646 mete v 
+8790 meteor n 
+12310 meteorite n 
+18154 meteorological j 
+15767 meteorologist n 
+3050 meter n 
+17459 meth n 
+19902 methadone n 
+17167 methamphetamine n 
+11437 methane n 
+1001 method n 
+15275 methodical j 
+14058 methodically r 
+7798 Methodist j 
+13784 Methodist n 
+11203 methodological j 
+5757 methodology n 
+11392 meticulous j 
+12236 meticulously r 
+10417 metric j 
+7213 metro n 
+12469 metropolis n 
+4341 metropolitan j 
+2268 Mexican j 
+7601 Mexican n 
+16907 Mexican-American j 
+15099 micro n 
+10376 microbe n 
+13199 microbial j 
+19459 microbiologist n 
+18249 microchip n 
+14950 microcosm n 
+17412 micron n 
+11806 microorganism n 
+5648 microphone n 
+13165 microprocessor n 
+8463 microscope n 
+9818 microscopic j 
+5935 microwave n 
+7471 mid j 
+15942 mid-afternoon n 
+13220 mid-air j 
+17684 mid-century n 
+16234 mid-morning n 
+15621 mid-size j 
+9342 midday n 
+991 middle j 
+1268 middle n 
+6459 middle-aged j 
+4998 middle-class j 
+15732 middle-income j 
+18661 midget n 
+3491 midnight n 
+16807 midpoint n 
+4385 midst n 
+14965 midterm n 
+10217 midtown j 
+12275 midway r 
+9231 midwestern j 
+12120 midwife n 
+175 might v 
+9835 might n 
+16189 mightily r 
+6030 mighty j 
+17784 mighty r 
+13571 migraine n 
+5250 migrant n 
+6607 migrate v 
+4558 migration n 
+12510 migratory j 
+10223 mike n 
+3856 mild j 
+18559 mildew n 
+8611 mildly r 
+9919 mileage n 
+9239 milestone n 
+11894 milieu n 
+19200 militancy n 
+7302 militant n 
+7832 militant j 
+11409 militarily r 
+475 military j 
+3324 military n 
+5060 militia n 
+17676 militiaman n 
+2050 milk n 
+16333 milk v 
+7297 milky j 
+4487 mill n 
+13382 mill v 
+5733 millennium n 
+13013 millimeter n 
+17049 milling n 
+223 million m 
+13804 million-dollar j 
+6868 millionaire n 
+17805 millisecond n 
+19537 mimetic j 
+6932 mimic v 
+8326 mince v 
+10390 minced j 
+470 mind n 
+2083 mind v 
+19026 mind-boggling j 
+11085 mindful j 
+13453 mindless j 
+2257 mine p 
+2573 mine n 
+7088 mine v 
+18231 minefield n 
+5773 miner n 
+4634 mineral n 
+8521 mingle v 
+11566 mini j 
+6148 miniature j 
+18251 miniature n 
+4358 minimal j 
+16246 minimalist n 
+13805 minimally r 
+3999 minimize v 
+3668 minimum j 
+4430 minimum n 
+5660 mining n 
+13849 miniseries n 
+1924 minister n 
+13840 minister v 
+16885 ministerial j 
+4284 ministry n 
+10498 minivan n 
+17093 mink n 
+15230 minnow n 
+2633 minor j 
+8675 minor n 
+20032 minor-league j 
+1988 
+ 
+1642 minority n 
+8844 mint n 
+11159 mint j 
+8802 minus i 
+15111 minus n 
+13668 minuscule j 
+309 minute n 
+10232 minute j 
+19596 minutia n 
+3307 miracle n 
+9553 miraculous j 
+12002 miraculously r 
+16532 mirage n 
+13458 mire v 
+1867 mirror n 
+7763 mirror v 
+17525 mirrored j 
+18195 misbehave v 
+18072 misbehavior n 
+18082 miscalculation n 
+13449 miscarriage n 
+16238 miscellaneous j 
+12141 mischief n 
+14372 mischievous j 
+9660 misconception n 
+9112 misconduct n 
+18320 misdeed n 
+11021 misdemeanor n 
+5853 miserable j 
+14497 miserably r 
+6175 misery n 
+19229 misfit n 
+10574 misfortune n 
+13773 misgiving n 
+9797 misguided j 
+19814 mishandle v 
+14537 mishap n 
+15351 misinformation n 
+14922 misinterpret v 
+19125 misjudge v 
+8847 mislead v 
+6679 misleading j 
+13640 mismanagement n 
+16611 mismatch n 
+18967 misperception n 
+15143 misplace v 
+16605 misplaced j 
+16432 misread v 
+16897 misrepresent v 
+17196 misrepresentation n 
+836 miss v 
+10900 miss n 
+12765 missed j 
+2389 missile n 
+3530 missing j 
+1099 mission n 
+4972 missionary n 
+15588 misstep n 
+6050 mist n 
+1436 mistake n 
+5555 mistake v 
+13103 mistaken j 
+11364 mistakenly r 
+17731 mister n 
+15070 mistreat v 
+18101 mistreatment n 
+7317 mistress n 
+14309 mistrust n 
+20147 mistrust v 
+11379 misty j 
+8453 misunderstand v 
+8265 misunderstanding n 
+12387 misuse n 
+14210 misuse v 
+12462 mite n 
+9179 mitigate v 
+12245 mitigation n 
+16711 mitt n 
+17215 mitten n 
+1773 mix v 
+2881 mix n 
+4215 mixed j 
+9188 mixer n 
+8621 mixing n 
+2433 mixture n 
+16390 mm u 
+2966 mm-hmm u 
+13463 mmm u 
+7782 moan v 
+12280 moan n 
+17616 moat n 
+5789 mob n 
+4739 mobile j 
+13638 mobile n 
+5783 mobility n 
+10301 mobilization n 
+6329 mobilize v 
+17089 mobster n 
+19971 moccasin n 
+7683 mock v 
+8855 mock j 
+14330 mockery n 
+14734 mocking j 
+13146 modality n 
+2817 mode n 
+505 model n 
+4527 model v 
+6803 modeling n 
+5583 modem n 
+3294 moderate j 
+8365 moderate v 
+11056 moderate n 
+8289 moderately r 
+11242 moderation n 
+12824 moderator n 
+1050 modern j 
+10800 modern-day j 
+10404 modernism n 
+9846 modernist j 
+8474 modernity n 
+8534 modernization n 
+10622 modernize v 
+3128 modest j 
+11765 modestly r 
+12180 modesty n 
+5601 modification n 
+7033 modified j 
+3718 modify v 
+15125 modular j 
+17073 modulate v 
+6375 module n 
+9066 mogul n 
+6643 moist j 
+15687 moisten v 
+5517 moisture n 
+15801 moisturizer n 
+20143 Mojave n 
+15312 molasses n 
+1989 
+ 
+6176 mold n 
+7161 mold v 
+18667 molded j 
+16748 molding n 
+8978 mole n 
+6422 molecular j 
+4845 molecule n 
+10086 molest v 
+15877 molestation n 
+18128 molester n 
+13692 molten j 
+1618 mom n 
+369 moment n 
+8634 momentarily r 
+12360 momentary j 
+13032 momentous j 
+4400 momentum n 
+18729 momma n 
+11335 mommy n 
+8818 monarch n 
+9774 monarchy n 
+8231 monastery n 
+16856 monastic j 
+5141 monetary j 
+233 money n 
+18066 moniker n 
+2370 monitor v 
+3660 monitor n 
+5214 monitoring n 
+5943 monk n 
+4610 monkey n 
+19758 monochrome j 
+19134 monogamous j 
+14860 monograph n 
+19482 monolith n 
+14816 monolithic j 
+10598 monologue n 
+18156 monopolize v 
+5763 monopoly n 
+17561 monotonous j 
+13774 monoxide n 
+17178 monsoon n 
+3599 monster n 
+10587 monstrous j 
+16195 montage n 
+237 month n 
+3552 monthly j 
+4106 monument n 
+8434 monumental j 
+2365 mood n 
+12133 moody j 
+2471 moon n 
+8097 moonlight n 
+20012 moonlight v 
+19044 moonlit j 
+18644 moor v 
+8147 moose n 
+16759 moot j 
+12705 mop v 
+14756 mop n 
+1467 moral j 
+9069 moral n 
+7637 morale n 
+5183 morality n 
+6491 morally r 
+10604 moratorium n 
+16213 morbid j 
+15917 morbidity n 
+81 more r 
+91 more d 
+15582 more n 
+2302 moreover r 
+12449 morgue n 
+10908 Mormon j 
+12880 Mormon n 
+358 morning n 
+14311 Moroccan j 
+15802 moron n 
+14525 morph v 
+14109 morphine n 
+19052 morphology n 
+16227 morsel n 
+9747 mortal j 
+13684 mortal n 
+4715 mortality n 
+8457 mortar n 
+3244 mortgage n 
+19101 mortify v 
+19009 mortuary n 
+10344 mosaic n 
+16319 mosaic j 
+19624 Moslem j 
+5882 mosque n 
+5748 mosquito n 
+10167 moss n 
+19474 mossy j 
+144 most r 
+187 most d 
+1331 mostly r 
+5321 motel n 
+8760 moth n 
+230 mother n 
+10912 mother-in-law n 
+16840 motherfucker n 
+9418 motherhood n 
+6640 motif n 
+1836 motion n 
+9969 motion v 
+9709 motionless j 
+3570 motivate v 
+9924 motivated j 
+3151 motivation n 
+9417 motivational j 
+15821 motivator n 
+3615 motive n 
+16789 motley j 
+3162 motor n 
+16463 motor v 
+17263 motorcade n 
+6146 motorcycle n 
+9639 motorist n 
+16303 motorized j 
+15843 mottled j 
+9254 motto n 
+5129 mound n 
+3012 mount v 
+7921 mount n 
+1246 mountain n 
+12702 mountainous j 
+14768 mountainside n 
+14584 mountaintop n 
+12725 mounted j 
+13488 mounting j 
+6877 mourn v 
+13090 mourner n 
+16410 mournful j 
+9429 mourning n 
+3336 mouse n 
+1990 
+ 
+15849 mousse n 
+17023 moustache n 
+1065 mouth n 
+13906 mouth v 
+13629 mouthful n 
+14376 mouthpiece n 
+17450 movable j 
+207 move v 
+1406 move n 
+708 movement n 
+11247 mover n 
+577 movie n 
+17236 moviegoer n 
+6218 moving j 
+9889 mow v 
+9820 mower n 
+15037 mozzarella n 
+14502 MP n 
+211 Mr n 
+17061 MRI n 
+1038 Mrs n 
+1275 Ms n 
+146 much d 
+298 much r 
+13959 much-needed j 
+13647 muck n 
+18674 mucus n 
+3644 mud n 
+19860 muddle v 
+20140 muddled j 
+6585 muddy j 
+8722 muffin n 
+13778 muffle v 
+12339 muffled j 
+19611 muffler n 
+6184 mug n 
+16014 mug v 
+11245 mulch n 
+6707 mule n 
+13650 mull v 
+14690 multi-ethnic j 
+15398 multi-party j 
+6903 multicultural j 
+11351 multiculturalism n 
+9540 multilateral j 
+7499 multimedia n 
+13079 multimillion-dollar j 
+18358 multimillionaire n 
+7844 multinational j 
+1962 multiple j 
+9492 multiple n 
+17173 multiplication n 
+14888 multiplicity n 
+6239 multiply v 
+19397 multipurpose j 
+16776 multiracial j 
+8598 multitude n 
+12784 multivariate j 
+14564 mum n 
+7627 mumble v 
+13886 mummy n 
+12283 munch v 
+9009 mundane j 
+4719 municipal j 
+8864 municipality n 
+14873 munitions n 
+7395 mural n 
+1388 murder n 
+3508 murder v 
+13929 murdered j 
+5491 murderer n 
+11476 murderous j 
+9287 murky j 
+6130 murmur v 
+11134 murmur n 
+1725 muscle n 
+19190 muscle v 
+6973 muscular j 
+9057 muse v 
+12747 muse n 
+1736 museum n 
+4298 mushroom n 
+18944 mushroom v 
+18362 mushy j 
+393 music n 
+2115 musical j 
+8799 musical n 
+13795 musically r 
+2959 musician n 
+18050 musing n 
+15715 musket n 
+2615 Muslim j 
+3546 Muslim n 
+11079 mussels n 
+224 must v 
+13882 must n 
+8260 mustache n 
+6185 mustard n 
+8592 muster v 
+15978 musty j 
+13141 mutant n 
+16936 mutate v 
+8798 mutation n 
+11207 mute j 
+9571 muted j 
+19072 mutilated j 
+17867 mutilation n 
+17056 mutiny n 
+16890 mutt n 
+4884 mutter v 
+2821 mutual j 
+8151 mutually r 
+12863 muzzle n 
+44 my a 
+7222 myriad n 
+663 myself p 
+4132 mysterious j 
+12191 mysteriously r 
+2352 mystery n 
+14760 mystic n 
+17994 mystic j 
+8681 mystical j 
+17341 mysticism n 
+18567 mystify v 
+13340 mystique n 
+3101 myth n 
+12389 mythic j 
+11246 mythical j 
+16767 mythological j 
+8860 mythology n 
+machine (n) 
+mad (adj) 
+made of/from/out of (v) 
+• Her shirt is made of cotton. 
+magazine (n) 
+magic (adj & n) 
+magnificent (adj) 
+mail (n & v) 
+main (adj) 
+main course (n) 
+make (v) 
+make sure (v) 
+make-up (n) 
+male (adj & n) 
+mall (n) 
+• shopping mall 
+man (n) 
+manage (v) 
+• to manage a business 
+• to manage to do something (succeed 
+in) 
+manager (n) 
+mango (n) 
+many (det & pron) 
+map (n) 
+mark (n) 
+market (n) 
+• to buy something from a market 
+marriage (n) 
+married (adj) 
+marry (v) 
+marvellous (adj) 
+match (n & v) 
+• a box of matches (n) 
+• a tennis match (n) 
+• This tie matches your shirt. (v) 
+mate (n) 
+material (n) 
+maths / mathematics (n) (Br Eng) (Am Eng: 
+math) 
+matter (n & v) 
+• Is anything the matter? (n) 
+• It doesn't matter. (v) 
+maximum (adj & n) 
+may (mv) 
+maybe (adv) 
+me (pron) 
+meal (n) 
+mean (v) 
+• What do you mean? 
+• What does it mean? 
+meaning (n) 
+meanwhile (adv) 
+measure (v) 
+meat (n) 
+mechanic (n) 
+medicine (n) 
+medium (adj) 
+meet (v) 
+meeting (n) 
+melon (n) 
+member (n) 
+membership (n) 
+memory (n) 
+• to have a good/poor memory 
+• happy memories 
+• computer memory 
+mend (v) 
+mention (v) 
+menu (n) 
+mess (n) 
+message (n) 
+messy (adj) 
+metal (n) 
+method (n) 
+• modern methods of teaching 
+metre (n) (Br Eng) (Am Eng: meter) 
+microwave (n) 
+• a microwave oven 
+midday (n) 
+middle (n) 
+middle-aged (adj) 
+midnight (n) 
+might (mv) 
+mild (adj) 
+mile (n) 
+milk (n) 
+millimetre (mm) (n) (Br Eng) (Am Eng: 
+millimeter) 
+million (n) 
+mind (n & v) 
+• His mind was on other things. (n) 
+• Would you mind if I called tomorrow? 
+(v) 
+• Mind your head! (v) 
+• Who's minding the baby for you? (v) 
+• Make your mind up, quickly! (v) 
+mine (pron) 
+mineral water (n) 
+minimum (adj & n) 
+minus (prep) 
+minute (n) 
+mirror (n) 
+miserable (adj) 
+miss (v) 
+Miss (n) 
+missing (adj) 
+mistake (n) 
+mix (v & n) 
+mobile (phone) (n) 
+model (n) 
+• It's cheap because it's last year's 
+model. (n) 
+• She’s a fashion model. (n) 
+modern (adj) 
+moment (n) 
+money (n) 
+monkey (n) 
+monster (n) 
+month (n) 
+monument (n) 
+mood (n) 
+moon (n) 
+more (adv, det & pron) 
+morning (n) 
+mosquito (n) 
+most (adv, det & pron) 
+mostly (adv) 
+mother (n) 
+motorbike (n) 
+motorcycle (n) 
+motor-racing (n) 
+motorway (n) 
+mountain (n) 
+mouse (n) 
+moustache (n) 
+mouth (n) 
+move (v) 
+movie (n) (Am Eng) (Br Eng: film) 
+movie star (n) (Am Eng) (Br Eng: film star) 
+movie theater (n) (Am Eng) (Br Eng: cinema) 
+MP3 player (n) 
+Mr (n) 
+Mrs (n) 
+Ms (n) 
+much (adv, det & pron) 
+mug (n) 
+mum (n) 
+museum (n) 
+mushroom (n) 
+music (n) 
+musical (adj) 
+musician (n) 
+must (mv) 
+multiply (v) 
+my (det) 
+myself (pron) 
+mystery (n) 

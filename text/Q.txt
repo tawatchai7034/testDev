@@ -1,0 +1,106 @@
+11353 quad n 
+16270 quadrant n 
+14986 quadruple v 
+17084 quagmire n 
+13580 quail n 
+10552 quaint j 
+8716 quake n 
+15910 Quaker j 
+17806 Quaker n 
+6940 qualification n 
+6064 qualified j 
+2009 
+ 
+16156 qualifier n 
+3075 qualify v 
+14704 qualifying j 
+7214 qualitative j 
+18815 qualitatively r 
+765 quality n 
+15341 qualm n 
+16185 quandary n 
+9951 quantify v 
+7803 quantitative j 
+4100 quantity n 
+5768 quantum n 
+14777 quarantine n 
+18342 quark n 
+11470 quarrel n 
+14953 quarrel v 
+10007 quarry n 
+1408 quarter n 
+15649 quarter v 
+18207 quarter-century n 
+3335 quarterback n 
+19079 quarterfinal n 
+11718 quarterly j 
+11573 quartet n 
+17235 quartz n 
+14836 quasar n 
+19205 quash v 
+15858 queasy j 
+4158 queen n 
+12003 queer j 
+13345 quell v 
+20062 quench v 
+10092 query n 
+15793 query v 
+4108 quest n 
+197 question n 
+1964 question v 
+6337 questionable j 
+18594 questioner n 
+7918 questioning n 
+14110 questioning j 
+3643 questionnaire n 
+16219 queue n 
+1309 quick j 
+7676 quick r 
+11729 quicken v 
+11655 quicker j 
+15332 quickest j 
+680 quickly r 
+16356 quickness n 
+17743 quid n 
+1442 quiet j 
+12204 quiet v 
+13569 quiet n 
+2574 quietly r 
+19835 quill n 
+6211 quilt n 
+12565 quintessential j 
+14066 quip v 
+12475 quirk n 
+11217 quirky j 
+2546 quit v 
+562 quite r 
+11790 quiver v 
+18159 quiver n 
+19244 quivering j 
+8974 quiz n 
+19473 quiz v 
+6138 quota n 
+9047 quotation n 
+2276 quote v 
+4456 quote n 
+18597 quotient n
+qualification (n) 
+qualified (adj) 
+quality (n) 
+quantity (n) 
+quarter (n) 
+queen (n) 
+question (n) 
+• to ask a question 
+• the question being discussed (subject) 
+questionnaire (n) 
+queue (n) 
+quick (adj) 
+quickly (adv) 
+quiet (adj) 
+quietly (adv) 
+quit (v) 
+quite (adv) 
+• Are you quite sure? 
+• quite old 
+quiz (n) 

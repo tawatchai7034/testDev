@@ -1,0 +1,724 @@
+13630 wacky j 
+11721 wad n 
+18581 waddle v 
+7751 wade v 
+14002 wafer n 
+13747 waffle n 
+19841 waffle v 
+12160 waft v 
+12238 wag v 
+2610 wage n 
+6416 wage v 
+16930 wager v 
+19213 wager n 
+4234 wagon n 
+9103 wail v 
+13758 wail n 
+4348 waist n 
+18042 waistband n 
+401 wait v 
+6355 wait n 
+5534 waiter n 
+6162 waiting n 
+9176 waiting j 
+6487 waitress n 
+10658 waive v 
+9663 waiver n 
+1778 wake v 
+4037 wake n 
+11368 wake-up n 
+11751 waking n 
+359 walk v 
+2223 walk n 
+14793 walk-in n 
+9268 walker n 
+19786 walkie-talkie n 
+3666 walking n 
+9996 walkway n 
+572 wall n 
+17519 walled j 
+5661 wallet n 
+15363 walleye n 
+15516 wallow v 
+10018 wallpaper n 
+7984 walnut n 
+5933 wan v 
+16388 wan j 
+12639 wand n 
+3211 wander v 
+19594 wanderer n 
+16953 wandering j 
+10269 wane v 
+16251 waning j 
+17203 wannabe n 
+83 want v 
+11301 want n 
+12143 wanted j 
+14322 wanting j 
+19959 wanton j 
+350 war n 
+19912 war-torn j 
+5127 ward n 
+9548 warden n 
+8071 wardrobe n 
+4976 warehouse n 
+10551 wares n 
+5128 warfare n 
+10076 warhead n 
+14947 warily r 
+12546 warlord n 
+1363 warm j 
+3630 warm v 
+10096 warm-up n 
+5207 warming n 
+18186 warming j 
+11267 warmly r 
+4803 warmth n 
+1786 warn v 
+2120 warning n 
+14568 warp n 
+16328 warp v 
+15657 warped j 
+15945 warplane n 
+6085 warrant v 
+6154 warrant n 
+9807 warranty n 
+13408 warring j 
+3640 warrior n 
+12293 warship n 
+15788 wart n 
+7838 wartime n 
+6090 wary j 
+2162 wash v 
+5908 wash n 
+19178 washcloth n 
+17778 washed j 
+11688 washer n 
+9158 washing n 
+16177 Washington-based j 
+12178 wasp n 
+2000 waste n 
+3074 waste v 
+12573 wasted j 
+13305 wasteful j 
+15232 wasteland n 
+13839 wastewater n 
+14626 wastewater j 
+324 watch v 
+2468 watch n 
+10284 watchdog n 
+9087 watcher n 
+12727 watchful j 
+227 water n 
+6546 water v 
+6196 watercolor n 
+8246 waterfall n 
+16594 waterfowl n 
+10163 waterfront n 
+12926 watering n 
+11230 watermelon n 
+12307 waterproof j 
+7837 watershed n 
+9739 waterway n 
+10836 watery j 
+1405 wave n 
+2641 wave v 
+8180 wavelength n 
+9622 waver v 
+15562 waving j 
+14259 wavy j 
+7357 wax n 
+2050 
+ 
+11377 wax v 
+13152 waxed j 
+84 way n 
+4090 way r 
+18169 wayside n 
+14754 wayward j 
+24 we p 
+2086 weak j 
+4536 weaken v 
+16349 weakened j 
+18095 weakening j 
+13515 weakest j 
+12023 weakly r 
+3516 weakness n 
+2580 wealth n 
+3040 wealthy j 
+14048 wean v 
+932 weapon n 
+12190 weaponry n 
+519 wear v 
+8937 wear n 
+17134 wearer n 
+14346 wearily r 
+16959 weariness n 
+19720 wearing n 
+6857 weary j 
+17952 weasel n 
+1623 weather n 
+9587 weather v 
+13272 weathered j 
+4947 weave v 
+13338 weave n 
+14025 weaver n 
+12577 weaving n 
+4269 web n 
+14368 web-based j 
+5003 website n 
+9779 wed v 
+2195 wedding n 
+6346 wedge n 
+9434 wedge v 
+17813 wedlock n 
+12354 wee j 
+4598 weed n 
+10318 weed v 
+188 week n 
+12587 week-long j 
+8492 weekday n 
+1197 weekend n 
+3248 weekly j 
+18034 weekly n 
+5793 weep v 
+16581 weeping n 
+17817 weeping j 
+20151 weevil n 
+2527 weigh v 
+957 weight n 
+11318 weight v 
+14683 weighted j 
+18663 weightless j 
+14375 weighty j 
+3731 weird j 
+1555 welcome v 
+3680 welcome j 
+6863 welcome n 
+11014 welcoming j 
+15632 weld v 
+18226 welder n 
+15896 welding n 
+1947 welfare n 
+100 well r 
+644 well i 
+14406 well v 
+4592 well-being n 
+15574 well-defined j 
+19226 well-designed j 
+19729 well-developed j 
+17154 well-documented j 
+16501 well-dressed j 
+15386 well-educated j 
+13715 well-established j 
+19734 well-heeled j 
+17322 well-intentioned j 
+4446 well-known j 
+14998 well-meaning j 
+19112 well-off j 
+19281 well-rounded j 
+16091 well-to-do j 
+16359 well-trained j 
+18049 well-worn j 
+13257 wellness n 
+12358 Welsh j 
+19722 welt n 
+665 west n 
+1083 western j 
+12923 westward r 
+2491 wet j 
+7527 wet v 
+5875 wetland n 
+11687 whack v 
+15674 whack n 
+4276 whale n 
+16241 whaling n 
+19768 wham u 
+18111 wharf n 
+34 what d 
+777 whatever d 
+6190 whatsoever d 
+4530 wheat n 
+2012 wheel n 
+6381 wheel v 
+17474 wheelbarrow n 
+4660 wheelchair n 
+14906 wheeze v 
+57 when c 
+136 when r 
+18539 whence r 
+2334 whenever r 
+169 where c 
+190 where r 
+11439 whereabouts n 
+2755 whereas c 
+8665 whereby r 
+12352 wherein r 
+17760 whereupon c 
+3746 wherever r 
+322 whether c 
+58 which d 
+10936 whichever d 
+12364 whiff n 
+153 while c 
+1327 while n 
+19697 whilst c 
+10297 whim n 
+14432 whimper v 
+13483 whimsical j 
+8068 whine v 
+14057 whine n 
+2051 
+ 
+4296 whip v 
+7718 whip n 
+13094 whipped j 
+18901 whir v 
+8179 whirl v 
+18232 whirl n 
+16674 whirlpool n 
+12822 whirlwind n 
+6402 whisk v 
+19812 whisk n 
+14201 whisker n 
+7136 whiskey n 
+18102 whisky n 
+2467 whisper v 
+5843 whisper n 
+20004 whispered j 
+6563 whistle n 
+7187 whistle v 
+18587 whistle-blower n 
+18817 whistling n 
+302 white j 
+2740 white n 
+12693 white-collar j 
+17721 white-haired j 
+13154 whiteness n 
+15067 whitetail n 
+15596 whittle v 
+17174 whiz n 
+18589 whizz v 
+38 who p 
+7463 whoa u 
+4283 whoever p 
+468 whole j 
+2243 whole n 
+19313 whole-wheat j 
+16345 wholeheartedly r 
+16770 wholeness n 
+7370 wholesale j 
+14479 wholesaler n 
+13293 wholesome j 
+6943 wholly r 
+1021 whom p 
+15899 whomever p 
+18451 whoop v 
+13117 whopping j 
+8912 whore n 
+528 whose d 
+158 why r 
+18269 wick n 
+7874 wicked j 
+12033 wicker n 
+944 wide j 
+6230 wide r 
+12986 wide-eyed j 
+14440 wide-open j 
+13473 wide-ranging j 
+2194 widely r 
+5528 widen v 
+14901 widening j 
+3310 widespread j 
+4743 widow n 
+14656 widowed j 
+16311 widower n 
+6850 width n 
+7597 wield v 
+467 wife n 
+8784 wig n 
+10917 wiggle v 
+19123 wiggle n 
+1299 wild j 
+16749 wild r 
+20178 wild n 
+3756 wilderness n 
+12927 wildfire n 
+11550 wildflower n 
+3896 wildlife n 
+5667 wildly r 
+48 will v 
+1506 will n 
+14495 willful j 
+18443 willfully r 
+1281 willing j 
+9552 willingly r 
+4224 willingness n 
+10274 willow n 
+10239 wilt v 
+18914 wily j 
+17025 wimp n 
+362 win v 
+3361 win n 
+19034 win-win j 
+8999 wince v 
+1096 wind n 
+2686 wind v 
+19990 windbreaker n 
+12404 windfall n 
+10338 winding j 
+13168 windmill n 
+608 window n 
+16691 windowless j 
+14714 windowsill n 
+7130 windshield n 
+18989 windswept j 
+9067 windy j 
+1456 wine n 
+19686 winemaker n 
+10611 winery n 
+1904 wing n 
+16919 wing v 
+13606 winged j 
+8043 wink v 
+11571 wink n 
+1930 winner n 
+5417 winning j 
+15868 winnings n 
+1250 winter n 
+16810 winter v 
+20105 wintry j 
+2737 wipe v 
+15699 wiper n 
+2392 wire n 
+7422 wire v 
+18230 wired j 
+5434 wireless n 
+19085 wiretap n 
+10131 wiring n 
+13683 wiry j 
+2978 wisdom n 
+3262 wise j 
+9315 wisely r 
+1059 wish v 
+3612 wish n 
+14605 wishful j 
+13659 wisp n 
+17069 wispy j 
+15822 wistful j 
+16289 wistfully r 
+5836 wit n 
+2052 
+ 
+5363 witch n 
+14467 witchcraft n 
+16 with i 
+2810 withdraw v 
+4172 withdrawal n 
+12216 wither v 
+17490 withering j 
+6756 withhold v 
+17695 withholding j 
+353 within i 
+4900 within r 
+219 without i 
+8252 without r 
+7086 withstand v 
+1985 witness n 
+3000 witness v 
+10158 witty j 
+9742 wizard n 
+13004 wobble v 
+15313 wobbly j 
+8285 woe n 
+16380 woefully r 
+19761 wok n 
+4192 wolf n 
+111 woman n 
+16797 womanhood n 
+9283 womb n 
+791 wonder v 
+2657 wonder n 
+1412 wonderful j 
+9085 wonderfully r 
+13216 wondrous j 
+8815 woo v 
+1242 wood n 
+10079 wooded j 
+2535 wooden j 
+11503 woodland n 
+17309 woodpecker n 
+15721 woodwork n 
+15046 woody j 
+5642 wool n 
+17285 woolen j 
+16931 woolly j 
+245 word n 
+17289 word v 
+12698 wording n 
+117 work v 
+199 work n 
+20047 work-related j 
+12854 workable j 
+20061 workbench n 
+13893 workday n 
+574 worker n 
+6718 workforce n 
+19576 workhorse n 
+2843 working j 
+8094 working n 
+8030 working-class j 
+12155 workload n 
+13105 workman n 
+4452 workout n 
+4325 workplace n 
+1646 works n 
+17141 worksheet n 
+3157 workshop n 
+12359 workstation n 
+123 world n 
+9535 world-class j 
+18052 world-famous j 
+10982 worldly j 
+10144 worldview n 
+4505 worldwide r 
+4899 worldwide j 
+5051 worm n 
+10113 worn j 
+18724 worn-out j 
+3289 worried j 
+11942 worrisome j 
+973 worry v 
+3967 worry n 
+7515 worrying j 
+8641 worsen v 
+15002 worsening j 
+5893 worship n 
+7325 worship v 
+16887 worshiper n 
+15353 worst-case j 
+1360 worth i 
+2841 worth n 
+9042 worthless j 
+7072 worthwhile j 
+5165 worthy j 
+10963 worthy n 
+41 would v 
+7331 would-be j 
+3230 wound n 
+4564 wound v 
+5448 wounded j 
+12286 woven j 
+3811 wow u 
+17876 wow v 
+19314 wrack v 
+18347 wrangling n 
+2107 wrap v 
+6537 wrap n 
+10981 wrapper n 
+14458 wrapping n 
+10128 wrath n 
+11674 wreak v 
+10068 wreath n 
+7324 wreck n 
+9134 wreck v 
+9010 wreckage n 
+19170 wrecked j 
+10649 wrench v 
+12442 wrench n 
+20168 wrenching j 
+15584 wrest v 
+6508 wrestle v 
+11605 wrestler n 
+7003 wrestling n 
+12139 wretched j 
+14148 wriggle v 
+10753 wring v 
+7969 wrinkle n 
+13526 wrinkle v 
+11080 wrinkled j 
+3658 wrist n 
+17940 wristwatch n 
+19450 writ n 
+229 write v 
+983 writer n 
+13547 writhe v 
+1537 writing n 
+3614 written j 
+656 wrong j 
+3901 wrong r 
+11142 wrong n 
+2053 
+ 
+16823 wrong v 
+8953 wrongdoing n 
+16495 wrongful j 
+11603 wrongly r 
+18369 wrought j 
+18872 wrought-iron j 
+12656 wry j 
+15792 wryly r
+wage(s) (n) 
+wait (n & v) 
+waiter (n) 
+waiting room (n) 
+waitress (n) 
+wake (v) 
+wake up (phr v) 
+walk (n & v) 
+walking (n) 
+wall (n) 
+wallet (n) 
+want (v) 
+war (n) 
+wardrobe (n) 
+warm (adj) 
+warn (v) 
+warning (n) 
+wash (n & v) 
+wash up (phr v) 
+washing machine (n) 
+washing-up (n) 
+• to do the washing-up 
+waste (adj & v) 
+watch (n & v) 
+• My watch keeps good time. (n) 
+• I watched TV last night. (v) 
+water (n & v) 
+waterfall (n) 
+wave (n & v) 
+• waves at sea (n) 
+• to wave goodbye (v) 
+way (n) 
+• Is this the way? 
+• the wrong way 
+• a long way 
+• to stand in the way 
+• That’s the way to do it. 
+• way of life 
+• way in, way out 
+we (pron) 
+weak (adj) 
+• to feel weak 
+• a weak excuse 
+• to wear a dress 
+wear out (phr v & adj) 
+• You’ll wear out those shoes. (v) 
+• My shoes are worn out. (adj) 
+weather (n) 
+weather forecast (n) 
+web (n) 
+W 
+webcam (n) 
+web page (n) 
+website (n) 
+wedding (n) 
+week (n) 
+weekday (n) 
+weekend (n) 
+weekly (adj & adv) 
+• a weekly magazine (adj) 
+• to phone home twice weekly (adv) 
+weigh (v) 
+weight (n) 
+welcome (n & v) 
+• a warm welcome (n) 
+• Welcome to London! (v) 
+well (adj, adv & exclam) 
+• I’m very well, thanks. (adj) 
+• to behave very well (adv) 
+• Shake the bottle well. (adv) 
+• Well, here we are. (exclam) 
+well done! (adv) 
+well-dressed (adj) 
+well-known (adj) 
+well made / well-made (adv & adj) 
+west (adj, adv & n) 
+western (adj) 
+wet (adj) 
+• wet clothes 
+• wet weather 
+whale (n) 
+what (det & pron) 
+whatever (pron & det) 
+wheel (n) 
+wheelchair (n) 
+when (adv) 
+whenever (conj) 
+where (adv & conj) 
+wherever (conj) 
+whether (conj) 
+which (pron & det) 
+while, whilst (conj) 
+while (n) 
+• He stayed for a short while 
+white (adj) 
+who (pron) 
+whole (adj & n) 
+whose (det & pron)
+why (adv) 
+wide (adj) 
+• a wide road 
+wife (n) 
+wild (adj) 
+wildlife (n) 
+will (mv) 
+willing (adj) 
+win (v) 
+wind (n) 
+• A strong wind was blowing. 
+window (n) 
+windscreen (n) 
+windsurfing (n) 
+windy (n) 
+wing (n) 
+• a bird’s wing 
+• the wing of an aeroplane 
+winner (n) 
+wise (adj) 
+wish (n & v) 
+• Best wishes. (n) 
+• Wish me luck. (v) 
+• I wish you were here. (v) 
+with (prep) 
+within (prep) 
+without (prep) 
+woman (n) 
+wonder (v) 
+• I wonder what he said. 
+wonderful (adj) 
+wood (n) 
+• to be made of wood 
+• in a large wood wooden (adj) 
+wool (n) 
+word (n) 
+• words in a sentence 
+• He didn’t say a word. 
+work (n & v) 
+• school work (n) 
+• to work for a living (v) 
+• hard work (n) 
+• to be out of work (n) 
+worker (n) 
+working (adj) 
+workout (n) 
+• I like a good workout at the gym. 
+work out (phr v) 
+• I work out at the gym every day. 
+world (n) 
+worried (adj) 
+worry (n & v) 
+worse (adj & adv) 
+worst (adj & adv) 
+worth (adj) 
+would (mv) 
+wow (exclam) 
+wrap (up) (v & phr v) 
+• to wrap (up) a parcel 
+write (v) 
+write down (phr v) 
+• write down an address 
+writer (n) 
+writing (n) 
+written (adj) 
+wrong (adj) 

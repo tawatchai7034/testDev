@@ -1,0 +1,1304 @@
+3521 T-shirt n 
+16508 t-test n 
+12973 ta u 
+6729 tab n 
+540 table n 
+13441 tableau n 
+11743 tablecloth n 
+2413 tablespoon n 
+8011 tablet n 
+2036 
+ 
+13164 tabletop n 
+8884 tabloid n 
+11681 tabloid j 
+11621 taboo n 
+15104 taboo j 
+19330 tabulate v 
+14117 tacit j 
+10260 tack v 
+12096 tack n 
+4136 tackle v 
+6644 tackle n 
+14926 tacky j 
+12769 taco n 
+18260 tact n 
+3316 tactic n 
+7313 tactical j 
+14295 tactile j 
+15006 tad n 
+4490 tag n 
+6477 tag v 
+3010 tail n 
+19036 tail v 
+17685 tailback n 
+7947 tailor v 
+13403 tailor n 
+14540 tailored j 
+11576 taint v 
+16756 tainted j 
+11324 Taiwanese j 
+63 take v 
+8511 take n 
+14143 take-out n 
+7295 takeover n 
+12156 taker n 
+10401 taking n 
+2260 tale n 
+2047 talent n 
+4119 talented j 
+7068 Taliban n 
+9015 Taliban j 
+168 talk v 
+920 talk n 
+18463 talkative j 
+16223 talker n 
+6778 talking n 
+19680 talking j 
+1533 tall j 
+11883 tally n 
+12044 tally v 
+17064 talon n 
+19363 tamale n 
+11082 tame v 
+12943 tame j 
+16387 Tamil j 
+12258 tamper v 
+9876 tan j 
+10939 tan n 
+14553 tan v 
+11594 tandem n 
+7300 tangible j 
+9657 tangle n 
+11466 tangle v 
+9688 tangled j 
+12450 tango n 
+17250 tangy j 
+1888 tank n 
+18396 tank v 
+9486 tanker n 
+16753 tanned j 
+16529 tantalize v 
+18126 tantalizing j 
+15660 tantamount j 
+12895 tantrum n 
+2866 tap v 
+6324 tap n 
+1499 tape n 
+5429 tape v 
+12263 taped j 
+17771 taper v 
+18398 taper n 
+10578 tapestry n 
+12242 tar n 
+17422 tar v 
+1288 target n 
+2916 target v 
+11705 targeted j 
+7479 tariff n 
+15055 tarmac n 
+14092 tarnish v 
+12855 tarp n 
+18765 tarragon n 
+10147 tart n 
+14778 tart j 
+1051 task n 
+2048 taste n 
+2696 taste v 
+18181 tasteful j 
+18513 tasteless j 
+12685 tasting n 
+16801 tasting j 
+8646 tasty j 
+10716 tattered j 
+6119 tattoo n 
+14356 tattoo v 
+10918 taunt v 
+19059 taunt n 
+10701 taut j 
+9020 tavern n 
+20038 tawny j 
+510 tax n 
+5554 tax v 
+16775 tax-exempt j 
+14023 tax-free j 
+12881 taxable j 
+9870 taxation n 
+5226 taxi n 
+16785 taxing j 
+14741 taxonomy n 
+3147 taxpayer n 
+2183 tea n 
+546 teach v 
+372 teacher n 
+15905 teacher-librarian n 
+1647 teaching n 
+18334 teacup n 
+18197 teak n 
+308 team n 
+6427 team v 
+4281 teammate n 
+12135 teamwork n 
+13234 teapot n 
+1919 tear n 
+2248 tear v 
+17312 tearful j 
+5529 tease v 
+16805 teasing n 
+19626 teasing j 
+2454 teaspoon n 
+2037 
+ 
+5756 tech n 
+2081 technical j 
+17996 technicality n 
+5931 technically r 
+4883 technician n 
+1342 technique n 
+3808 technological j 
+12834 technologically r 
+20190 technologist n 
+586 technology n 
+12419 teddy n 
+10764 tedious j 
+6392 tee n 
+14247 teeming j 
+2643 teen n 
+3905 teenage j 
+19371 teenaged j 
+2462 teenager n 
+11759 teeter v 
+19783 telecast n 
+16230 telecom n 
+6122 telecommunications n 
+12583 telegram n 
+16148 telegraph n 
+1879 telephone n 
+7556 telephone v 
+2779 telescope n 
+20189 telescopic j 
+17271 televise v 
+9730 televised j 
+795 television n 
+103 tell v 
+11119 teller n 
+10579 telling n 
+11279 telling j 
+13452 telltale n 
+12274 temp n 
+6527 temper n 
+10119 temper v 
+8602 temperament n 
+19223 temperamental j 
+12838 temperate j 
+1631 temperature n 
+10257 template n 
+3648 temple n 
+10233 tempo n 
+6978 temporal j 
+5279 temporarily r 
+3175 temporary j 
+5665 tempt v 
+5991 temptation n 
+8736 tempting j 
+841 ten m 
+18690 ten-year j 
+17699 ten-year-old j 
+15146 tenacious j 
+15147 tenacity n 
+5622 tenant n 
+1043 tend v 
+3068 tendency n 
+4036 tender j 
+16519 tenderloin n 
+15677 tenderly r 
+11281 tenderness n 
+10650 tendon n 
+16160 tendril n 
+14823 tenement n 
+10035 tenet n 
+3107 tennis n 
+9614 tenor n 
+6353 tense j 
+9128 tense v 
+2206 tension n 
+3095 tent n 
+12799 tentacle n 
+7868 tentative j 
+10865 tentatively r 
+7708 tenth m 
+11376 tenuous j 
+5062 tenure n 
+19467 tenured j 
+16534 tepid j 
+14299 tequila n 
+627 term n 
+6683 term v 
+5864 terminal n 
+8882 terminal j 
+14745 terminally r 
+7311 terminate v 
+10241 termination n 
+9521 terminology n 
+12181 termite n 
+1292 terms i 
+19127 tern n 
+15904 terra-cotta n 
+6523 terrace n 
+4543 terrain n 
+9834 terrestrial j 
+1958 terrible j 
+4928 terribly r 
+16165 terrier n 
+4275 terrific j 
+9766 terrified j 
+5912 terrify v 
+8754 terrifying j 
+6885 territorial j 
+2198 territory n 
+2756 terror n 
+2621 terrorism n 
+2862 terrorist n 
+3203 terrorist j 
+11669 terrorize v 
+18875 terse j 
+19124 tertiary j 
+576 test n 
+1033 test v 
+17738 test-retest j 
+10977 testament n 
+19252 tested j 
+7143 tester n 
+16427 testicle n 
+2816 testify v 
+16296 testimonial n 
+2683 testimony n 
+2524 testing n 
+10647 testosterone n 
+12193 tether v 
+7981 Texan n 
+1296 text n 
+4523 textbook n 
+5696 textile n 
+9435 textual j 
+4462 texture n 
+14890 textured j 
+8617 Thai j 
+73 than c 
+712 than i 
+498 thank v 
+2038 
+ 
+17457 thank-you n 
+8591 thankful j 
+12209 thankfully r 
+1671 thanks n 
+4513 Thanksgiving n 
+12 that c 
+27 that d 
+903 that r 
+10667 thaw v 
+18038 thaw n 
+1 the a 
+1549 theater n 
+7408 theatrical j 
+10845 thee p 
+5440 theft n 
+36 their a 
+5490 theirs p 
+59 them p 
+11852 thematic j 
+1665 theme n 
+450 themselves p 
+77 then r 
+9796 then j 
+6922 theologian n 
+4784 theological j 
+19049 theologically r 
+3872 theology n 
+17831 theorem n 
+3820 theoretical j 
+8170 theoretically r 
+6382 theorist n 
+10902 theorize v 
+921 theory n 
+6852 therapeutic j 
+3953 therapist n 
+2161 therapy n 
+53 there e 
+116 there r 
+18870 there n 
+6596 thereafter r 
+3925 thereby r 
+1165 therefore r 
+13326 therein r 
+12886 thereof r 
+7267 thermal j 
+9884 thermometer n 
+17732 thermos n 
+16143 thermostat n 
+82 these d 
+6061 thesis n 
+21 they p 
+1734 thick j 
+13837 thick r 
+8662 thicken v 
+11303 thicket n 
+15436 thickly r 
+8744 thickness n 
+5064 thief n 
+4249 thigh n 
+1630 thin j 
+7675 thin v 
+97 thing n 
+56 think v 
+7330 think n 
+6503 thinker n 
+1707 thinking n 
+7866 thinly r 
+585 third m 
+19422 third-generation j 
+18631 third-largest j 
+11419 third-party j 
+19562 third-quarter j 
+12025 thirds m 
+11084 thirst n 
+10573 thirsty j 
+5723 thirteen m 
+14473 thirteenth m 
+2856 thirty m 
+16193 thirty-eight m 
+8925 thirty-five m 
+15499 thirty-four m 
+18386 thirty-nine m 
+16031 thirty-one m 
+15998 thirty-seven m 
+14078 thirty-six m 
+15319 thirty-three m 
+13600 thirty-two m 
+20 this d 
+4665 this r 
+18221 thistle n 
+17129 thong n 
+11465 thorn n 
+13610 thorny j 
+5936 thorough j 
+15642 thoroughfare n 
+4176 thoroughly r 
+102 those d 
+8836 thou p 
+246 though c 
+2757 though r 
+761 thought n 
+5754 thoughtful j 
+10584 thoughtfully r 
+651 thousand m 
+11766 thrash v 
+4767 thread n 
+8706 thread v 
+20045 threadbare j 
+1070 threat n 
+1401 threaten v 
+11953 threatened j 
+11358 threatening j 
+135 three m 
+18922 three-bedroom j 
+10430 three-day j 
+8971 three-dimensional j 
+16804 three-fourths m 
+14456 three-hour j 
+14903 three-month j 
+19225 three-part j 
+14973 three-point j 
+19436 three-pointer n 
+8810 three-quarters m 
+16060 three-story j 
+15931 three-time j 
+15485 three-way j 
+18557 three-week j 
+7635 three-year j 
+13539 three-year-old j 
+4777 threshold n 
+10509 thrift n 
+5941 thrill v 
+6060 thrill n 
+17602 thrilled j 
+8811 thriller n 
+10888 thrilling j 
+4681 thrive v 
+10264 thriving j 
+2039 
+ 
+2475 throat n 
+15253 throb v 
+15297 throbbing j 
+15220 throes n 
+7388 throne n 
+11316 throng n 
+11445 throttle n 
+19017 throttle v 
+112 through i 
+1216 through r 
+17785 through j 
+986 throughout i 
+9732 throughout r 
+678 throw v 
+6384 throw n 
+16603 throwback n 
+5982 thrust v 
+7953 thrust n 
+13159 thud n 
+20026 thud v 
+8262 thug n 
+3785 thumb n 
+12899 thumb v 
+15654 thumbnail n 
+10228 thump v 
+13844 thump n 
+8237 thunder n 
+12898 thunder v 
+17254 thunderous j 
+10893 thunderstorm n 
+745 thus r 
+8495 thwart v 
+10226 thy a 
+8456 thyme n 
+12714 thyroid j 
+20052 thyroid n 
+12221 Tibetan j 
+15770 tic n 
+7491 tick v 
+9052 tick n 
+19513 ticker n 
+1585 ticket n 
+15629 ticking n 
+9714 tickle v 
+9183 tidal j 
+17103 tidbit n 
+4049 tide n 
+10103 tidy j 
+17621 tidy v 
+1510 tie v 
+1975 tie n 
+8903 tier n 
+6865 tiger n 
+2765 tight j 
+3431 tight r 
+4583 tighten v 
+18002 tightening n 
+4152 tightly r 
+19104 tightness n 
+18971 tightrope n 
+14781 tights n 
+4936 tile n 
+19006 tiled j 
+4949 till c 
+5000 till i 
+5140 tilt v 
+11280 tilt n 
+4948 timber n 
+19081 timbre n 
+52 time n 
+5145 time v 
+10554 time-consuming j 
+16578 time-honored j 
+14244 time-out n 
+9965 timeless j 
+12645 timeline n 
+7596 timely j 
+11361 timer n 
+8997 timetable n 
+11588 timid j 
+3848 timing n 
+5494 tin n 
+15161 tinge v 
+18270 tinge n 
+15032 tingle v 
+11570 tinker v 
+15598 tint n 
+17622 tint v 
+17163 tinted j 
+1320 tiny j 
+1942 tip n 
+3549 tip v 
+13979 tiptoe v 
+18239 tiptoe n 
+17517 tirade n 
+2872 tire v 
+1973 tired j 
+15443 tireless j 
+18432 tirelessly r 
+18755 tiresome j 
+16667 tiring j 
+2711 tissue n 
+14589 tit n 
+18572 titan n 
+19058 titanic j 
+11515 titanium n 
+1330 title n 
+5400 title v 
+13970 TNT n 
+7 to t 
+9 to i 
+18468 to-do n 
+12816 toad n 
+6251 toast n 
+8428 toast v 
+11777 toasted j 
+15511 toaster n 
+3035 tobacco n 
+215 today r 
+6007 toddler n 
+3389 toe n 
+15992 toenail n 
+10558 tofu n 
+325 together r 
+13410 toil v 
+4026 toilet n 
+9118 token n 
+14105 token j 
+16326 tolerable j 
+4724 tolerance n 
+9375 tolerant j 
+4364 tolerate v 
+4652 toll n 
+16587 toll v 
+15437 toll-free j 
+2422 tomato n 
+6269 tomb n 
+14072 tombstone n 
+2040 
+ 
+15733 tome n 
+18778 tomography n 
+1341 tomorrow r 
+15846 tonal j 
+2008 tone n 
+10480 tone v 
+15847 tongs n 
+2893 tongue n 
+12433 tonic n 
+913 tonight r 
+133 too r 
+1298 tool n 
+18079 toolbox n 
+1868 tooth n 
+14373 toothbrush n 
+19667 toothless j 
+14653 toothpaste n 
+14197 toothpick n 
+679 top n 
+961 top j 
+2823 top i 
+3613 top v 
+16551 top-down j 
+16396 top-notch j 
+19002 top-ranked j 
+19852 top-rated j 
+1873 topic n 
+11925 topical j 
+17040 topless j 
+13476 topography n 
+11471 topping n 
+7646 topple v 
+17691 topsoil n 
+7305 torch n 
+18905 torch v 
+12343 torment v 
+14179 torment n 
+10093 torn j 
+7056 tornado n 
+13346 torpedo n 
+10481 torque n 
+12055 torrent n 
+7442 torso n 
+12053 tort n 
+8225 tortilla n 
+13809 tortoise n 
+5343 torture n 
+5894 torture v 
+15867 tortured j 
+2418 toss v 
+13790 toss n 
+19471 tot n 
+1042 total j 
+2380 total n 
+5623 total v 
+11845 totalitarian j 
+17430 totalitarianism n 
+11920 totality n 
+1925 totally r 
+13742 tote v 
+16946 tote n 
+17186 totem n 
+1170 touch v 
+2296 touch n 
+4327 touchdown n 
+9320 touching j 
+18401 touchstone n 
+16808 touchy j 
+1015 tough j 
+18338 tough n 
+16106 toughen v 
+12588 toughness n 
+1482 tour n 
+6677 tour v 
+11913 touring n 
+4776 tourism n 
+2416 tourist n 
+2785 tournament n 
+6989 tout v 
+17758 tout n 
+9198 tow n 
+10013 tow v 
+385 toward i 
+2018 towards i 
+3717 towel n 
+2435 tower n 
+11912 tower v 
+9511 towering j 
+489 town n 
+14285 townhouse n 
+10534 township n 
+14344 townspeople n 
+4128 toxic j 
+12661 toxicity n 
+8751 toxin n 
+2441 toy n 
+16386 toy v 
+3047 trace v 
+4233 trace n 
+19378 tracer n 
+1146 track n 
+2721 track v 
+16780 tracker n 
+7997 tracking j 
+10029 tracking n 
+6217 tract n 
+10231 traction n 
+6645 tractor n 
+800 trade n 
+2363 trade v 
+8732 trade-off n 
+6897 trademark n 
+5077 trader n 
+3438 trading n 
+1249 tradition n 
+928 traditional j 
+14252 traditionalist n 
+3741 traditionally r 
+1724 traffic n 
+14616 traffic v 
+11212 trafficker n 
+9895 trafficking n 
+2905 tragedy n 
+4301 tragic j 
+12864 tragically r 
+1655 trail n 
+3985 trail v 
+4101 trailer n 
+15340 trailhead n 
+15027 trailing j 
+1525 train v 
+1701 train n 
+7880 trained j 
+11178 trainee n 
+4512 trainer n 
+798 training n 
+3773 trait n 
+10194 traitor n 
+2041 
+ 
+7885 trajectory n 
+15431 tram n 
+16778 tramp n 
+19755 tramp v 
+11580 trample v 
+12830 trance n 
+13443 tranquil j 
+15547 tranquility n 
+18430 tranquilizer n 
+3851 transaction n 
+12945 transatlantic j 
+6761 transcend v 
+14176 transcendence n 
+13478 transcendent j 
+17237 transcendental j 
+9707 transcribe v 
+6293 transcript n 
+14633 transcription n 
+17554 transducer n 
+2335 transfer v 
+2855 transfer n 
+14317 transfix v 
+2205 transform v 
+3318 transformation n 
+15819 transformative j 
+18328 transformer n 
+13520 transfusion n 
+12869 transgression n 
+11028 transient j 
+13425 transistor n 
+4917 transit n 
+2232 transition n 
+8586 transitional j 
+19929 transitory j 
+2753 translate v 
+4335 translation n 
+6888 translator n 
+10326 translucent j 
+3701 transmission n 
+4893 transmit v 
+12839 transmitted j 
+10523 transmitter n 
+9976 transnational j 
+18330 transom n 
+8710 transparency n 
+5969 transparent j 
+12721 transpire v 
+5455 transplant n 
+10681 transplant v 
+16033 transplantation n 
+4693 transport v 
+4879 transport n 
+2395 transportation n 
+3573 trap v 
+4069 trap n 
+16877 trapped j 
+16399 trapper n 
+11299 trappings n 
+4457 trash n 
+9256 trash v 
+4888 trauma n 
+7423 traumatic j 
+15536 traumatize v 
+18391 travail n 
+1085 travel v 
+1932 travel n 
+3831 traveler n 
+9723 traveling j 
+9875 traverse v 
+18968 travesty n 
+18586 trawl n 
+18952 trawler n 
+4520 tray n 
+11237 treacherous j 
+18068 treachery n 
+8415 tread v 
+18325 tread n 
+9921 treadmill n 
+13325 treason n 
+4115 treasure n 
+13017 treasure v 
+17478 treasured j 
+11290 treasurer n 
+11298 treasury n 
+963 treat v 
+5946 treat n 
+20054 treatable j 
+16466 treated j 
+11828 treatise n 
+746 treatment n 
+2861 treaty n 
+596 tree n 
+18574 tree-lined j 
+15873 treetop n 
+9304 trek n 
+12647 trek v 
+5297 tremble v 
+16796 trembling j 
+2790 tremendous j 
+9054 tremendously r 
+11973 tremor n 
+6555 trench n 
+1709 trend n 
+9635 trendy j 
+16206 trepidation n 
+16591 trespass v 
+14394 triad n 
+901 trial n 
+5680 triangle n 
+12631 triangular j 
+18957 triathlon n 
+4082 tribal j 
+2971 tribe n 
+18807 tribesman n 
+17834 tribulation n 
+7275 tribunal n 
+11725 tributary n 
+5009 tribute n 
+3093 trick n 
+8198 trick v 
+9061 trickle v 
+11714 trickle n 
+18685 trickster n 
+6485 tricky j 
+17563 tried j 
+17099 trifle n 
+3704 trigger v 
+5300 trigger n 
+5231 trillion m 
+13467 trilogy n 
+4975 trim v 
+8624 trim n 
+10629 trim j 
+18781 trimester n 
+12240 trimming n 
+18527 trinket n 
+6591 trio n 
+964 trip n 
+2042 
+ 
+5368 trip v 
+7179 triple v 
+7346 triple j 
+13710 triple n 
+16347 triplet n 
+11980 tripod n 
+4690 triumph n 
+11797 triumph v 
+10339 triumphant j 
+16338 triumphantly r 
+13966 trivia n 
+8340 trivial j 
+17953 trivialize v 
+15345 Trojan j 
+11523 troll n 
+16747 troll v 
+12457 trolley n 
+1140 troop n 
+8392 trooper n 
+15666 trope n 
+5520 trophy n 
+4221 tropical j 
+13669 tropics n 
+8526 trot v 
+18509 trot n 
+984 trouble n 
+4757 trouble v 
+4939 troubled j 
+16355 troublemaker n 
+10071 troublesome j 
+7703 troubling j 
+11269 trough n 
+11834 troupe n 
+7361 trousers n 
+5106 trout n 
+17159 trove n 
+11357 truce n 
+1244 truck n 
+14665 truck v 
+13274 trucker n 
+19566 trucking j 
+17386 truckload n 
+10954 trudge v 
+493 true j 
+15631 truffle n 
+1729 truly r 
+12987 trump v 
+9132 trumpet n 
+13455 trumpet v 
+3566 trunk n 
+1855 trust v 
+2253 trust n 
+10632 trusted j 
+6205 trustee n 
+15199 trusting j 
+13466 trustworthy j 
+20066 trusty j 
+853 truth n 
+11577 truthful j 
+14943 truthfully r 
+127 try v 
+5597 try n 
+16982 trying j 
+16872 tryout n 
+12336 tsunami n 
+5485 tub n 
+2543 tube n 
+18691 tuber n 
+9276 tuberculosis n 
+12511 tubing n 
+17789 tubular j 
+4154 tuck v 
+17896 tuft n 
+6303 tug v 
+9516 tug n 
+5903 tuition n 
+12608 tulip n 
+5548 tumble v 
+16500 tumble n 
+17939 tumbler n 
+18831 tumbling j 
+14435 tummy n 
+4372 tumor n 
+18652 tumult n 
+12979 tumultuous j 
+6079 tuna n 
+12871 tundra n 
+3681 tune v 
+3940 tune n 
+12295 tunic n 
+18801 tuning n 
+3385 tunnel n 
+18063 tunnel v 
+15187 turban n 
+7412 turbine n 
+10775 turbulence n 
+10039 turbulent j 
+6715 turf n 
+8383 Turk n 
+3775 turkey n 
+5631 Turkish j 
+6600 turmoil n 
+170 turn v 
+1177 turn n 
+17218 turn-of-the-century j 
+8444 turnaround n 
+6307 turning n 
+12138 turning j 
+15823 turnip n 
+8174 turnout n 
+6213 turnover n 
+18928 turntable n 
+19249 turpentine n 
+14501 turquoise j 
+18462 turquoise n 
+14830 turret n 
+6588 turtle n 
+17244 turtleneck n 
+17665 tusk n 
+19201 tutelage n 
+9296 tutor n 
+15639 tutor v 
+16602 tutorial n 
+10988 tutoring j 
+12400 tuxedo n 
+797 TV n 
+11132 tweak v 
+14237 tweed n 
+12960 twelfth m 
+3247 twelve m 
+4941 twentieth m 
+11100 twentieth-century j 
+2104 twenty m 
+12497 twenty-eight m 
+9937 twenty-first m 
+5293 twenty-five m 
+7992 twenty-four m 
+14266 twenty-nine m 
+2043 
+ 
+9572 twenty-one m 
+12615 twenty-seven m 
+11966 twenty-six m 
+10245 twenty-three m 
+9462 twenty-two m 
+1417 twice r 
+9731 twig n 
+7000 twilight n 
+2398 twin n 
+15451 twin j 
+15760 twine n 
+16690 twinge n 
+13142 twinkle v 
+17200 twinkle n 
+11048 twirl v 
+3795 twist v 
+4875 twist n 
+8173 twisted j 
+13224 twisting j 
+9484 twitch v 
+16128 twitch n 
+80 two m 
+15554 two-bedroom j 
+11611 two-day j 
+13679 two-dimensional j 
+20086 two-fold j 
+10312 two-hour j 
+18455 two-lane j 
+16898 two-part j 
+10557 two-story j 
+4612 two-thirds m 
+12837 two-time j 
+9770 two-way j 
+11816 two-week j 
+6586 two-year j 
+16615 two-year-old j 
+18337 twofold r 
+15302 tycoon n 
+591 type n 
+6628 type v 
+10081 typewriter n 
+1849 typical j 
+2029 typically r 
+14339 typify v 
+14209 typing n 
+17434 typology n 
+9556 tyranny n 
+11944 tyrant n
+table (n) 
+table-cloth (n) 
+tablet (n) 
+table tennis (n) 
+take (v) 
+• to take someone’s hand 
+• to take someone’s things (steal/ 
+borrow) 
+• to take a photo 
+• to take a long time 
+• to take a holiday 
+takeaway (n) 
+take away (v) 
+• Take 15 away from 78. 
+take care of (v) 
+• take care of someone. 
+take off (phr v) 
+• Do you want to take off your coat? 
+• The plane takes off at 6. 
+take part (in) (v) 
+• Everybody took part in the meeting. 
+take place (v) 
+• The meeting took place at six. 
+take up (phr v) 
+• He decided to take up a new hobby. 
+talent (n) 
+talented (adj) 
+talk (n & v) 
+talk show (n) (Am Eng) (Br Eng: chat show) 
+tall (adj) 
+tap (n) 
+• a cold-water tap (n) 
+taste (n & v) 
+• to have good taste (n) 
+• to taste food (v) 
+• It tastes good. (v) 
+tasty (adj) 
+tax (n) 
+taxi (n) 
+tea (n) 
+teach (v) 
+teacher (n) 
+teaching (n) 
+team (n) 
+tear (n & v) 
+• Tears ran down her cheeks. (n) 
+• to tear a piece of paper (v) 
+technique (n) 
+technology (n) 
+teenager (n) 
+telephone (n & v) 
+television (TV) (n) 
+tell (v) 
+• to tell a story 
+• to tell someone something 
+• to tell someone to do something 
+• You can’t always tell. 
+temperature (n) 
+• to have a temperature 
+• air temperature 
+temporary (adj) 
+tennis (n) 
+tense (n) 
+tent (n) 
+term (n) 
+terrible (adj) 
+terribly (adv) 
+terrific (adj) 
+terrified (adj) 
+test (n & v) 
+text (n & v) 
+textbook (n) 
+text message (n) 
+than (conj & prep) 
+thank (v) 
+thanks (exclam) 
+thank you (exclam) 
+that (conj, det & pron) 
+the (det) 
+theatre (n) (Br Eng) (Am Eng: theater) 
+their (det) 
+theirs (pron) 
+them (pron) 
+themselves (pron) 
+then (adv) 
+there (adv) 
+therefore (adv) 
+these (det & pron) 
+they (pron) 
+thick (adj) 
+thief (n) 
+thin (adj) 
+thing (n) 
+think (v) 
+• to think about something 
+• I think he’s left. 
+• What did you think of the film? 
+• I think I’ll go. 
+• I’m thinking of going. 
+thirsty (adj) 
+this (det & pron) 
+those (det & pron) 
+though (conj) 
+thought (n) 
+• to have thoughts about something 
+• to be deep in thought 
+thriller (n) 
+throat (n) 
+through 
+(prep) 
+throw (v) 
+throw away (phr v) 
+• He threw away the old TV. 
+thumb (n) 
+thunder (n) 
+thunderstorm (n) 
+tick (n & v) 
+ticket (n) 
+tidy (adj & v) 
+tidy up (phr v) 
+• Please tidy up when you’ve finished. 
+tie (n & v) 
+• a shirt and tie (n) 
+• to tie with string (v) 
+tiger (n) 
+tight (adj) 
+• tight shoes 
+tights (n pl) 
+• a pair of tights 
+till (conj & prep) 
+• to wait till the end (prep) 
+• till he comes (conj) 
+time (n & v) 
+• What time is it? (n) 
+• It took a long time. (n) 
+• the last time (n) 
+• Is it time yet? (n) 
+• Four times five is twenty. (v) 
+timetable (n) 
+tin (n) 
+• a tin of peas 
+• made of tin 
+tiny (adj) 
+tip (n) 
+• the tip of the pencil 
+• a tip for the waitress 
+tip (advice) (n) 
+tired (adj) 
+tiring (adj) 
+tissue (n) 
+title (n) 
+to (prep) 
+toast (n) 
+• toast for breakfast 
+today (adv & n) 
+toe (n) 
+together (adv) 
+toilet (n) 
+tomato (n) 
+tomorrow (adv & n)
+tongue (n) 
+tonight (adv & n) 
+too (adv) 
+• I’ve been there, too. 
+• It’s too heavy to lift. 
+tooth/teeth (n) 
+toothache (n) 
+toothbrush (n) 
+toothpaste (n) 
+top (adj & n) 
+• top of the class (adj) 
+• at the top of his voice (n) 
+topic (n) 
+torch (n) 
+total (adj & n) 
+totally (adv) 
+touch (v) 
+tour (n & v) 
+tour guide (n) 
+tourism (n) 
+tourist (n) 
+tourist information centre (n) 
+tournament (n) 
+toward(s) (prep) 
+towel (n) 
+tower (n) 
+town (n) 
+toy (n) 
+track (n) 
+• a race track 
+tracksuit (n) 
+trade (n) 
+traditional (adj) 
+traffic (n) 
+traffic jam (n) 
+traffic light(s) (n) 
+train (n & v) 
+• to travel by train (n) 
+• to train in a skill (v) 
+trainer (n) 
+• a pair of trainers 
+• a personal trainer 
+training (n) 
+tram (n) 
+transfer (v) 
+translate (v) 
+translation (n) 
+transport (n) 
+trash can (n) (Am Eng) (Br Eng: rubbish bin) 
+travel (v) 
+travel agent (n) 
+tree (n) 
+trend (n) 
+trick (n) 
+trip (n) 
+• a weekend trip 
+trouble (n) 
+trousers (n pl) 
+truck (Am Eng) (Br Eng: lorry) 
+trunk (n) (Am Eng) (Br Eng: boot) 
+• the trunk of a car 
+true (adj) 
+• Is it true? 
+• a true friend 
+trumpet (n) 
+trust (v) 
+• to trust someone 
+truth (n) 
+try (v) 
+• to try to do something 
+• to try (out) something 
+try on (phr v) 
+• to try on shoes 
+T-shirt (n) 
+tube (n) 
+• a tube of toothpaste 
+tuna (n) 
+tune (n) 
+tunnel (n) 
+turkey (n) 
+turn (n & v) 
+• to turn your head (v) 
+• to turn the page (v) 
+• It’s my turn. (n) 
+• The wheels began to turn. (v) 
+turn down (phr v) 
+• Could you turn down the music? 
+turning (n) 
+• the first turning on the left 
+turn into (phr v) 
+• The water had turned into ice. 
+turn off (phr v) 
+• She turned off the engine. 
+turn on (phr v) 
+• Can you turn on the TV? 
+turn up (phr v) 
+• Turn up the radio – I can hardly hear it. 
+twice (adv) 
+twin (n) 
+type (n & v) 
+• a type of person (n) 
+• to type a letter (v) 
+typical (adj) 
+typically (adv) 
+tyre (n) 
